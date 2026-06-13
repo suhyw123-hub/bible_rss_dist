@@ -1,6 +1,7 @@
 [
  {
   "ann_id": 1,
+  "audience": "ALL",
   "body": "This app brings together Scripture, meditation plans, character networks, and the latest content.\nAnnouncements appear here in your language.",
   "lang": "EN",
   "pin": 1,
@@ -10,6 +11,7 @@
  },
  {
   "ann_id": 1,
+  "audience": "ALL",
   "body": "이 앱은 성경 본문·묵상플랜·인물 관계·최신 콘텐츠를 한 곳에서 제공합니다.\n공지사항은 이 화면에서 다국어로 안내됩니다.",
   "lang": "KO",
   "pin": 1,
@@ -19,6 +21,7 @@
  },
  {
   "ann_id": 2,
+  "audience": "ALL",
   "body": "A 'Latest' tab was added at the top — browse the newest devotionals, news, and YouTube in one place.",
   "lang": "EN",
   "pin": 0,
@@ -28,11 +31,32 @@
  },
  {
   "ann_id": 2,
+  "audience": "ALL",
   "body": "상단에 '최신 콘텐츠' 탭이 추가되었습니다 — 최신묵상·최신뉴스·최신유튜브를 모아 봅니다.",
   "lang": "KO",
   "pin": 0,
   "published": "2026-06-13 16:30:00",
   "record_status": "LIVE",
   "title": "'최신 콘텐츠' 탭 신설"
+ },
+ {
+  "ann_id": 2,
+  "audience": "ALL",
+  "body": "new contents new contents new contents",
+  "lang": "ZH",
+  "pin": 0,
+  "published": "",
+  "record_status": "LIVE",
+  "title": "new contents"
+ },
+ {
+  "ann_id": 3,
+  "audience": "ALL",
+  "body": "new contents new contents",
+  "lang": "EN",
+  "pin": 0,
+  "published": "2026-06-13",
+  "record_status": "DELETED",
+  "title": "new contents"
  }
 ]
