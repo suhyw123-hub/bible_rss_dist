@@ -1,0 +1,38 @@
+[
+ {
+  "ann_id": 1,
+  "body": "This app brings together Scripture, meditation plans, character networks, and the latest content.\nAnnouncements appear here in your language.",
+  "lang": "EN",
+  "pin": 1,
+  "published": "2026-06-13 09:00:00",
+  "record_status": "LIVE",
+  "title": "Welcome — Bible Meditation App"
+ },
+ {
+  "ann_id": 1,
+  "body": "이 앱은 성경 본문·묵상플랜·인물 관계·최신 콘텐츠를 한 곳에서 제공합니다.\n공지사항은 이 화면에서 다국어로 안내됩니다.",
+  "lang": "KO",
+  "pin": 1,
+  "published": "2026-06-13 09:00:00",
+  "record_status": "LIVE",
+  "title": "환영합니다 — 성경 묵상 앱"
+ },
+ {
+  "ann_id": 2,
+  "body": "A 'Latest' tab was added at the top — browse the newest devotionals, news, and YouTube in one place.",
+  "lang": "EN",
+  "pin": 0,
+  "published": "2026-06-13 16:30:00",
+  "record_status": "LIVE",
+  "title": "New: 'Latest' tab"
+ },
+ {
+  "ann_id": 2,
+  "body": "상단에 '최신 콘텐츠' 탭이 추가되었습니다 — 최신묵상·최신뉴스·최신유튜브를 모아 봅니다.",
+  "lang": "KO",
+  "pin": 0,
+  "published": "2026-06-13 16:30:00",
+  "record_status": "LIVE",
+  "title": "'최신 콘텐츠' 탭 신설"
+ }
+]
