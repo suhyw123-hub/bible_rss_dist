@@ -1,0 +1,39 @@
+{
+ "latest": 3,
+ "full": true,
+ "releases": [
+  {
+   "seq": 3,
+   "kind": "DELTA",
+   "made_at": "2026-09-04 15:52",
+   "n_items": 4289,
+   "bytes": 1924042,
+   "note": "영상 2,213편이 새로 들어오고 2,076편이 바뀌었습니다. 잘못 걸려 있던 연결 656건을 정리했습니다.",
+   "title": "2026년 9월 자료 갱신",
+   "detail": "설교 영상 2,213편이 새로 들어왔습니다.",
+   "caution": "받는 데 1~2분 걸릴 수 있습니다."
+  },
+  {
+   "seq": 2,
+   "kind": "DELTA",
+   "made_at": "2026-09-03 22:14",
+   "n_items": null,
+   "bytes": 361000,
+   "note": "구절 연결을 단락에서 구절 구간으로 정밀하게 바꿨습니다.",
+   "title": "",
+   "detail": "",
+   "caution": ""
+  },
+  {
+   "seq": 1,
+   "kind": "DELTA",
+   "made_at": "2026-09-03 00:00",
+   "n_items": null,
+   "bytes": null,
+   "note": "첫 배포 — 영상·링크 자료를 처음 보냅니다.",
+   "title": "",
+   "detail": "",
+   "caution": ""
+  }
+ ]
+}
