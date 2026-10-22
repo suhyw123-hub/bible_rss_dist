@@ -1,14 +1,14 @@
 file	published_at	row_count	content_sha1	format_version	path
 announcements.json	2026-09-19 23:23:57	14	55538875670799e3c71225c7e1031fe5f1a2f797	1	announcements.55538875.json
 app_info.json	2026-10-21T09:51:31	7	a2a463dedaa9d41a6e4a4d1606420eed5c994d03	1	app_info.a2a463de.json
-items_KO.tsv	2026-10-22 12:38:37	472	fd613adededa8344f5fb55ab26ab8af5f5e56f67	1	items_KO.fd613ade.tsv
-items_EN.tsv	2026-10-22 12:38:37	472	fd613adededa8344f5fb55ab26ab8af5f5e56f67	1	items_EN.fd613ade.tsv
-items_ZH.tsv	2026-10-22 12:38:37	472	fd613adededa8344f5fb55ab26ab8af5f5e56f67	1	items_ZH.fd613ade.tsv
-items_ZHT.tsv	2026-10-22 12:38:37	472	fd613adededa8344f5fb55ab26ab8af5f5e56f67	1	items_ZHT.fd613ade.tsv
-items_JA.tsv	2026-10-22 12:38:37	472	fd613adededa8344f5fb55ab26ab8af5f5e56f67	1	items_JA.fd613ade.tsv
-items_DE.tsv	2026-10-22 12:38:37	472	fd613adededa8344f5fb55ab26ab8af5f5e56f67	1	items_DE.fd613ade.tsv
-items_FR.tsv	2026-10-22 12:38:37	472	fd613adededa8344f5fb55ab26ab8af5f5e56f67	1	items_FR.fd613ade.tsv
-items_ES.tsv	2026-10-22 12:38:37	472	fd613adededa8344f5fb55ab26ab8af5f5e56f67	1	items_ES.fd613ade.tsv
-items_AR.tsv	2026-10-22 12:38:37	472	fd613adededa8344f5fb55ab26ab8af5f5e56f67	1	items_AR.fd613ade.tsv
-items_RU.tsv	2026-10-22 12:38:37	472	fd613adededa8344f5fb55ab26ab8af5f5e56f67	1	items_RU.fd613ade.tsv
-items_PT.tsv	2026-10-22 12:38:37	472	fd613adededa8344f5fb55ab26ab8af5f5e56f67	1	items_PT.fd613ade.tsv
+items_KO.tsv	2026-10-22 13:09:33	482	676905c744f458ebeec39c9b3b99a0a70091b313	1	items_KO.676905c7.tsv
+items_EN.tsv	2026-10-22 13:09:33	482	676905c744f458ebeec39c9b3b99a0a70091b313	1	items_EN.676905c7.tsv
+items_ZH.tsv	2026-10-22 13:09:33	482	676905c744f458ebeec39c9b3b99a0a70091b313	1	items_ZH.676905c7.tsv
+items_ZHT.tsv	2026-10-22 13:09:33	482	676905c744f458ebeec39c9b3b99a0a70091b313	1	items_ZHT.676905c7.tsv
+items_JA.tsv	2026-10-22 13:09:33	482	676905c744f458ebeec39c9b3b99a0a70091b313	1	items_JA.676905c7.tsv
+items_DE.tsv	2026-10-22 13:09:33	482	676905c744f458ebeec39c9b3b99a0a70091b313	1	items_DE.676905c7.tsv
+items_FR.tsv	2026-10-22 13:09:33	482	676905c744f458ebeec39c9b3b99a0a70091b313	1	items_FR.676905c7.tsv
+items_ES.tsv	2026-10-22 13:09:33	482	676905c744f458ebeec39c9b3b99a0a70091b313	1	items_ES.676905c7.tsv
+items_AR.tsv	2026-10-22 13:09:33	482	676905c744f458ebeec39c9b3b99a0a70091b313	1	items_AR.676905c7.tsv
+items_RU.tsv	2026-10-22 13:09:33	482	676905c744f458ebeec39c9b3b99a0a70091b313	1	items_RU.676905c7.tsv
+items_PT.tsv	2026-10-22 13:09:33	482	676905c744f458ebeec39c9b3b99a0a70091b313	1	items_PT.676905c7.tsv
