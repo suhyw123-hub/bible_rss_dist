@@ -203,11 +203,12 @@
   {
    "band": "",
    "cat": "DIGITAL",
+   "deliver": "LINK",
    "descs": {
     "KO": "MagSafe 호환 · 반투명 · 충격 방지 슬림 커버. 시험용 상품입니다(docs/3.txt)."
    },
    "from": "2026-10-23",
-   "id": 41,
+   "id": 58,
    "img": "shopimg_89c2fcc658b7ea27.jpg",
    "mall": "DEMO_AMAZON",
    "names": {
@@ -221,11 +222,12 @@
   {
    "band": "70,000원",
    "cat": "GIFT_CARD",
+   "deliver": "KAKAO",
    "descs": {
     "KO": "카카오톡 선물하기. 시험용 상품입니다(docs/3.txt)."
    },
    "from": "2026-10-23",
-   "id": 45,
+   "id": 62,
    "img": "shopimg_c75b401a7b9d0451.jpg",
    "mall": "DEMO_KAKAO_GIFT",
    "names": {
@@ -239,11 +241,12 @@
   {
    "band": "",
    "cat": "LIVING",
+   "deliver": "LINK",
    "descs": {
     "KO": "페이지가 막혀 이름·그림은 가상입니다. 시험용 상품입니다(docs/3.txt)."
    },
    "from": "2026-10-23",
-   "id": 42,
+   "id": 59,
    "img": "shopimg_af9b38bf7f3b34ea.jpg",
    "mall": "DEMO_EBAY_UK",
    "names": {
@@ -257,11 +260,12 @@
   {
    "band": "",
    "cat": "GIFT_CARD",
+   "deliver": "LINK",
    "descs": {
     "KO": "스마트스토어 판매 · 페이지가 막혀 그림은 가상입니다. 시험용 상품입니다(docs/3.txt)."
    },
    "from": "2026-10-23",
-   "id": 46,
+   "id": 63,
    "img": "shopimg_de758dd564afc125.jpg",
    "mall": "DEMO_NAVER",
    "names": {
@@ -275,11 +279,12 @@
   {
    "band": "",
    "cat": "LIVING",
+   "deliver": "LINK",
    "descs": {
     "KO": "페이지가 막혀 이름·그림은 가상입니다. 시험용 상품입니다(docs/3.txt)."
    },
    "from": "2026-10-23",
-   "id": 43,
+   "id": 60,
    "img": "shopimg_42c87266c12561d0.jpg",
    "mall": "DEMO_COUPANG",
    "names": {
@@ -293,11 +298,12 @@
   {
    "band": "",
    "cat": "LIVING",
+   "deliver": "LINK",
    "descs": {
     "KO": "놓칠 수 없는 혜택과 다양한 상품. 시험용 상품입니다(docs/3.txt)."
    },
    "from": "2026-10-23",
-   "id": 44,
+   "id": 61,
    "img": "shopimg_67dc193412211b37.jpg",
    "mall": "DEMO_NAVER",
    "names": {
@@ -311,11 +317,12 @@
   {
    "band": "",
    "cat": "GIFT_CARD",
+   "deliver": "EMAIL",
    "descs": {
     "KO": "전자우편으로 바로 보내는 선물. 시험용 상품입니다(docs/3.txt)."
    },
    "from": "2026-10-23",
-   "id": 47,
+   "id": 64,
    "img": "shopimg_91c491feba43816e.jpg",
    "mall": "DEMO_AMAZON",
    "names": {
@@ -329,11 +336,12 @@
   {
    "band": "",
    "cat": "CHURCH_WORSHIP",
+   "deliver": "LINK",
    "descs": {
     "KO": "미리 채워진 성찬 잔과 떡. 시험용 상품입니다(docs/3.txt)."
    },
    "from": "2026-10-23",
-   "id": 48,
+   "id": 65,
    "img": "shopimg_9f3fcde4e8b4cf45.jpg",
    "mall": "DEMO_AMAZON",
    "names": {
@@ -347,11 +355,12 @@
   {
    "band": "",
    "cat": "CHURCH_EVENT",
+   "deliver": "LINK",
    "descs": {
     "KO": "어린이 행사 꾸미기. 시험용 상품입니다(docs/3.txt)."
    },
    "from": "2026-10-23",
-   "id": 49,
+   "id": 66,
    "img": "shopimg_123f5b97e1f1ddec.jpg",
    "mall": "DEMO_AMAZON",
    "names": {
@@ -365,11 +374,12 @@
   {
    "band": "",
    "cat": "FOOD",
+   "deliver": "LINK",
    "descs": {
     "KO": "알프스 샘물 500ml. 시험용 상품입니다(docs/3.txt)."
    },
    "from": "2026-10-23",
-   "id": 50,
+   "id": 67,
    "img": "shopimg_25b504bb13bd9d3e.jpg",
    "mall": "DEMO_AMAZON",
    "names": {
@@ -383,11 +393,12 @@
   {
    "band": "",
    "cat": "LIVING",
+   "deliver": "LINK",
    "descs": {
     "KO": "찢어 쓰는 크기. 시험용 상품입니다(docs/3.txt)."
    },
    "from": "2026-10-23",
-   "id": 51,
+   "id": 68,
    "img": "shopimg_74fd75bf58a8ae67.jpg",
    "mall": "DEMO_AMAZON",
    "names": {
@@ -401,11 +412,12 @@
   {
    "band": "",
    "cat": "KITCHEN",
+   "deliver": "LINK",
    "descs": {
     "KO": "화강석 코팅. 시험용 상품입니다(docs/3.txt)."
    },
    "from": "2026-10-23",
-   "id": 52,
+   "id": 69,
    "img": "shopimg_bd28f0d7cf51a5ba.jpg",
    "mall": "DEMO_AMAZON",
    "names": {
@@ -419,11 +431,12 @@
   {
    "band": "",
    "cat": "HEALTH",
+   "deliver": "LINK",
    "descs": {
     "KO": "방수 하드 케이스. 시험용 상품입니다(docs/3.txt)."
    },
    "from": "2026-10-23",
-   "id": 53,
+   "id": 70,
    "img": "shopimg_62f4fca18bbc358c.jpg",
    "mall": "DEMO_AMAZON",
    "names": {
@@ -437,11 +450,12 @@
   {
    "band": "",
    "cat": "BEAUTY",
+   "deliver": "LINK",
    "descs": {
     "KO": "30ml × 6. 시험용 상품입니다(docs/3.txt)."
    },
    "from": "2026-10-23",
-   "id": 54,
+   "id": 71,
    "img": "shopimg_d012654669c7f370.jpg",
    "mall": "DEMO_AMAZON",
    "names": {
@@ -455,11 +469,12 @@
   {
    "band": "",
    "cat": "KIDS",
+   "deliver": "LINK",
    "descs": {
     "KO": "창세기부터 요한계시록까지 287편. 시험용 상품입니다(docs/3.txt)."
    },
    "from": "2026-10-23",
-   "id": 55,
+   "id": 72,
    "img": "shopimg_cb56b847f8d1c29d.jpg",
    "mall": "DEMO_AMAZON",
    "names": {
@@ -473,11 +488,12 @@
   {
    "band": "",
    "cat": "BOOKS",
+   "deliver": "LINK",
    "descs": {
     "KO": "여백에 묵상을 적는 성경. 시험용 상품입니다(docs/3.txt)."
    },
    "from": "2026-10-23",
-   "id": 56,
+   "id": 73,
    "img": "shopimg_6c9c0cabc2a20ec7.jpg",
    "mall": "DEMO_AMAZON",
    "names": {
@@ -491,11 +507,12 @@
   {
    "band": "",
    "cat": "DIGITAL",
+   "deliver": "LINK",
    "descs": {
     "KO": "50시간 재생. 시험용 상품입니다(docs/3.txt)."
    },
    "from": "2026-10-23",
-   "id": 57,
+   "id": 74,
    "img": "shopimg_0d8242edbae4fd6d.jpg",
    "mall": "DEMO_AMAZON",
    "names": {
@@ -611,5 +628,5 @@
    "text": 1
   }
  ],
- "version": 5
+ "version": 6
 }
