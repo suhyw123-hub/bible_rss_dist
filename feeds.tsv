@@ -1,15 +1,98 @@
 feed_id	feed_url	site_name	lang	feed_kind	record_status	note	updated_at
-1	https://www.thegospelcoalition.org/feed/	The Gospel Coalition	EN	DEVOTIONAL	LIVE		2026-06-13 00:00:00
-2	https://www.desiringgod.org/blog.rss	Desiring God	EN	DEVOTIONAL	LIVE		2026-06-13 00:00:00
+1	https://www.thegospelcoalition.org/feed/	The Gospel Coalition	EN	DEVOTIONAL	LIVE		2026-10-24T01:57:02
+2	https://www.desiringgod.org/blog.rss	Desiring God	EN	DEVOTIONAL	LIVE		2026-10-24T01:57:02
 3	https://odb.org/feed/	Our Daily Bread	EN	DEVOTIONAL	LIVE		2026-06-13 00:00:00
 4	https://www.challies.com/feed/	Challies	EN	DEVOTIONAL	LIVE		2026-06-13 00:00:00
-8	https://tgcchinese.org/feed	TGC 中文 (福音联盟)	ZH	DEVOTIONAL	LIVE		2026-06-13 00:00:00
-10	https://www.coalicionporelevangelio.org/feed/	Coalición por el Evangelio	ES	DEVOTIONAL	LIVE		2026-06-13 00:00:00
-11	https://www.coalizaopeloevangelho.org/feed/	Coalizão pelo Evangelho	PT	DEVOTIONAL	LIVE		2026-06-13 00:00:00
-12	https://www.toutpoursagloire.com/feed/	Tout Pour Sa Gloire	FR	DEVOTIONAL	LIVE		2026-06-13 00:00:00
-15	https://www.newsnjoy.or.kr/rss/allArticle.xml	뉴스앤조이	KO	NEWS	LIVE		2026-06-13 12:00:00
-16	https://www.kidok.com/rss/allArticle.xml	기독신문	KO	NEWS	LIVE		2026-06-13 00:00:00
-17	https://www.christiantoday.co.kr/rss	크리스천투데이	KO	NEWS	LIVE		2026-06-13 00:00:00
-18	https://www.christiantoday.co.jp/rss	クリスチャントゥデイ	JA	NEWS	LIVE		2026-06-13 00:00:00
-19	https://www.jesus.de/feed/	Jesus.de	DE	NEWS	LIVE		2026-06-13 00:00:00
-20	https://www.pro-medienmagazin.de/feed/	pro Medienmagazin	DE	NEWS	LIVE		2026-06-13 00:00:00
+8	https://tgcchinese.org/feed	TGC 中文 (福音联盟)	ZH	DEVOTIONAL	LIVE		2026-10-24T01:57:02
+10	https://www.coalicionporelevangelio.org/feed/	Coalición por el Evangelio	ES	DEVOTIONAL	LIVE		2026-10-24T01:57:02
+11	https://www.coalizaopeloevangelho.org/feed/	Coalizão pelo Evangelho	PT	DEVOTIONAL	LIVE		2026-10-24T01:57:02
+12	https://www.toutpoursagloire.com/feed/	Tout Pour Sa Gloire	FR	DEVOTIONAL	LIVE		2026-10-24T01:57:02
+21	https://www.ligonier.org/feed/	Ligonier Ministries	EN	DEVOTIONAL	LIVE		2026-10-24T01:57:02
+22	https://www.ligonier.org/feed	Ligonier Ministries	EN	DEVOTIONAL	HIDE		2026-06-13 00:00:00
+23	https://www.ligonier.org/rss.xml	Ligonier Ministries	EN	DEVOTIONAL	HIDE		2026-06-13 00:00:00
+24	https://www.crossway.org/articles/rss/	Crossway Articles	EN	DEVOTIONAL	LIVE		2026-10-24T01:57:02
+25	https://www.9marks.org/feed/	9Marks	EN	DEVOTIONAL	LIVE		2026-10-24T01:57:02
+26	https://www.9marks.org/feed	9Marks	EN	DEVOTIONAL	HIDE		2026-06-13 00:00:00
+27	https://www.9marks.org/rss	9Marks	EN	DEVOTIONAL	HIDE		2026-06-13 00:00:00
+28	http://feeds.feedburner.com/BibleGatewayBlog	Blog feed	EN	DEVOTIONAL	LIVE		2026-10-24T01:57:02
+29	https://tabletalkmagazine.com/feed/	Tabletalk	EN	DEVOTIONAL	LIVE		2026-10-24T01:57:02
+30	https://tabletalkmagazine.com/feed	Tabletalk	EN	DEVOTIONAL	HIDE		2026-06-13 00:00:00
+31	https://tabletalkmagazine.com/rss	Tabletalk	EN	DEVOTIONAL	HIDE		2026-06-13 00:00:00
+32	https://annvoskamp.com/feed/	Ann Voskamp	EN	DEVOTIONAL	LIVE		2026-10-24T01:57:02
+33	https://annvoskamp.com/feed	Ann Voskamp	EN	DEVOTIONAL	HIDE		2026-06-13 00:00:00
+34	https://annvoskamp.com/rss	Ann Voskamp	EN	DEVOTIONAL	HIDE		2026-06-13 00:00:00
+54	https://behold.oc.org/feed/	OC举目网站 » Feed	ZH	DEVOTIONAL	LIVE		2026-10-24T01:57:02
+55	https://behold.oc.org/comments/feed/	OC举目网站 » Comments Feed	ZH	DEVOTIONAL	HIDE		2026-06-13 00:00:00
+56	https://behold.oc.org/sample-page/feed/	OC举目网站 » 举目首页 Comments Feed	ZH	DEVOTIONAL	HIDE		2026-06-13 00:00:00
+57	https://ministeriofiel.com.br/feed/	Feed para Ministério Fiel »	PT	DEVOTIONAL	LIVE		2026-10-24T01:57:02
+58	https://ministeriofiel.com.br/comments/feed/	Feed de comentários para Ministério Fiel »	PT	DEVOTIONAL	HIDE		2026-06-13 00:00:00
+59	https://voltemosaoevangelho.com/blog/feed/	Feed para Voltemos Ao Evangelho »	PT	DEVOTIONAL	LIVE		2026-10-24T01:57:02
+60	https://voltemosaoevangelho.com/blog/comments/feed/	Feed de comentários para Voltemos Ao Evangelho »	PT	DEVOTIONAL	HIDE		2026-06-13 00:00:00
+64	https://www.leboncombat.fr/feed/	Le Bon Combat » Flux	FR	DEVOTIONAL	LIVE		2026-10-24T01:57:02
+65	https://www.leboncombat.fr/comments/feed/	Le Bon Combat » Flux des commentaires	FR	DEVOTIONAL	HIDE		2026-06-13 00:00:00
+71	https://www.evangelium21.net/feed.rss	Evangelium21 – Neuigkeiten	DE	DEVOTIONAL	LIVE		2026-10-24T01:57:02
+76	https://www.erf.de/rss/erf-topthema	ERF.de - Topthema	DE	DEVOTIONAL	LIVE		2026-10-24T01:57:02
+77	https://www.wlpm.or.jp/feed/	いのちのことば社 » フィード	JA	DEVOTIONAL	LIVE		2026-10-24T19:26:21
+78	https://www.wlpm.or.jp/comments/feed/	いのちのことば社 » コメントフィード	JA	DEVOTIONAL	HIDE		2026-06-13 00:00:00
+86	https://www.goscon.co.kr/rss/allArticle.xml	복음과상황	KO	DEVOTIONAL	LIVE		2026-10-24T01:57:02
+87	https://odbkorea.org/feed/	오늘의 양식	KO	DEVOTIONAL	LIVE		2026-10-24T01:57:02
+88	https://japanese-odb.org/feed/	日々の糧（デイリーブレッド）	JA	DEVOTIONAL	LIVE		2026-10-24T01:57:02
+89	https://simplified-odb.org/feed/	灵命日粮	ZH	DEVOTIONAL	LIVE		2026-10-24T01:57:02
+90	https://traditional-odb.org/feed/	靈命日糧	ZHT	DEVOTIONAL	LIVE		2026-10-24T01:57:02
+92	https://nuestropandiario.org/feed/	Nuestro Pan Diario	ES	DEVOTIONAL	LIVE		2026-10-24T01:57:02
+93	https://russian-odb.org/feed/	Хлеб наш насущный	RU	DEVOTIONAL	LIVE		2026-10-24T01:57:02
+95	https://arabic-odb.org/feed/	خبزنا اليومي	AR	DEVOTIONAL	LIVE		2026-10-24T01:57:02
+96	https://utmost.org/feed/?post_type=modern-classic	My Utmost for His Highest	EN	DEVOTIONAL	LIVE		2026-10-24T01:57:02
+97	https://www.crosswalk.com/devotionals/rss	Crosswalk Devotionals	EN	DEVOTIONAL	LIVE		2026-10-24T01:57:02
+15	https://www.newsnjoy.or.kr/rss/allArticle.xml	뉴스앤조이	KO	NEWS	LIVE		2026-10-24T01:57:02
+16	https://www.kidok.com/rss/allArticle.xml	기독신문	KO	NEWS	LIVE		2026-10-24T01:57:02
+17	https://www.christiantoday.co.kr/rss	크리스천투데이	KO	NEWS	LIVE		2026-10-24T01:57:02
+18	https://www.christiantoday.co.jp/rss	クリスチャントゥデイ	JA	NEWS	LIVE		2026-10-24T01:57:02
+19	https://www.jesus.de/feed/	Jesus.de	DE	NEWS	HIDE		2026-06-13 00:00:00
+20	https://www.pro-medienmagazin.de/feed/	pro Medienmagazin	DE	NEWS	LIVE		2026-10-24T01:57:02
+35	https://www.christianitytoday.com/feed/	Christianity Today » Feed	EN	NEWS	LIVE		2026-10-24T01:57:02
+36	https://www.christianitytoday.com/comments/feed/	Christianity Today » Comments Feed	EN	NEWS	HIDE		2026-06-13 00:00:00
+37	https://www.firstthings.com/feed/	First Things	EN	NEWS	LIVE		2026-10-24T01:57:02
+38	https://www.firstthings.com/feed	First Things	EN	NEWS	HIDE		2026-06-13 00:00:00
+39	https://www.firstthings.com/rss	First Things	EN	NEWS	HIDE		2026-06-13 00:00:00
+40	https://mereorthodoxy.com/rss/	Mere Orthodoxy | Faith, Formation, Church, and Culture	EN	NEWS	LIVE		2026-10-24T01:57:02
+41	https://wng.org/rss.xml	wng.org	EN	NEWS	HIDE		2026-06-13 00:00:00
+42	https://religionnews.com/feed/	RNS » Feed	EN	NEWS	LIVE		2026-10-24T01:57:02
+43	https://religionnews.com/comments/feed/	RNS » Comments Feed	EN	NEWS	HIDE		2026-06-13 00:00:00
+44	https://www.baptistpress.com/feed/	Baptist Press » Feed	EN	NEWS	LIVE		2026-10-24T19:26:21
+45	https://www.baptistpress.com/comments/feed/	Baptist Press » Comments Feed	EN	NEWS	HIDE		2026-06-13 00:00:00
+46	https://www.christianpost.com/rss	The Christian Post	EN	NEWS	LIVE		2026-10-24T01:57:02
+47	https://www.christianpost.com/feed.xml	The Christian Post | RSS	EN	NEWS	HIDE		2026-06-13 00:00:00
+48	https://www.premierchristianity.com/2055.rss	home-/-all-rss	EN	NEWS	LIVE		2026-10-24T01:57:02
+49	https://lausanne.org/web-stories/feed/	Lausanne Movement » Stories Feed	EN	NEWS	LIVE		2026-10-24T19:26:21
+50	https://cdn.kidok.com/rss/gn_rss_allArticle.xml	주간기독신문 - 전체기사	KO	NEWS	LIVE		2026-10-24T01:57:02
+51	https://www.christiandaily.co.kr/rss	기독일보 : Top News	KO	NEWS	LIVE		2026-10-24T01:57:02
+52	https://cdn.newsnjoy.or.kr/rss/gn_rss_allArticle.xml	뉴스앤조이 - 전체기사	KO	NEWS	LIVE		2026-10-24T01:57:02
+53	https://cdn.dangdangnews.com/rss/gn_rss_allArticle.xml	당당뉴스 - 전체기사	KO	NEWS	LIVE		2026-10-24T01:57:02
+61	https://www.gospelprime.com.br/feed/	Good Prime	PT	NEWS	LIVE		2026-10-24T01:57:02
+62	https://www.gospelprime.com.br/rss	Good Prime	PT	NEWS	HIDE		2026-06-13 00:00:00
+63	https://guiame.com.br/rss	guiame.com.br's news	PT	NEWS	LIVE		2026-10-24T01:57:02
+66	https://www.evangeliques.info/feed/	Evangeliques.info	FR	NEWS	LIVE		2026-10-24T01:57:02
+67	https://www.evangeliques.info/feed	Evangeliques.info	FR	NEWS	HIDE		2026-06-13 00:00:00
+68	https://www.evangeliques.info/rss	Evangeliques.info	FR	NEWS	HIDE		2026-06-13 00:00:00
+69	https://www.evangeliques.info/rss.xml	Evangeliques.info	FR	NEWS	HIDE		2026-06-13 00:00:00
+70	https://infochretienne.com/flux-rss.rss	Info Chrétienne Flux	FR	NEWS	LIVE		2026-10-24T01:57:02
+72	https://www.idea.de/feed/	IDEA - KLAR. KONKRET. CHRISTLICH. : idea.de	DE	NEWS	HIDE		2026-06-13 00:00:00
+73	https://www.idea.de/feed	IDEA - KLAR. KONKRET. CHRISTLICH. : idea.de	DE	NEWS	HIDE		2026-06-13 00:00:00
+74	https://www.idea.de/rss	IDEA - KLAR. KONKRET. CHRISTLICH. : idea.de	DE	NEWS	HIDE		2026-06-13 00:00:00
+75	https://www.pro-medienmagazin.de/comments/feed/	PRO | Das christliche Medienmagazin » Kommentar-Feed	DE	NEWS	HIDE		2026-06-13 00:00:00
+79	https://www.goodnews1.com/rss/allArticle.xml	데일리굿뉴스	KO	NEWS	LIVE		2026-10-24T01:57:02
+80	https://www.pckworld.com/rss/allArticle.xml	한국기독공보	KO	NEWS	LIVE		2026-10-24T01:57:02
+81	https://www.kmctimes.com/rss/allArticle.xml	기독교타임즈	KO	NEWS	LIVE		2026-10-24T01:57:02
+82	https://www.igoodnews.net/rss/allArticle.xml	아이굿뉴스	KO	NEWS	LIVE		2026-10-24T01:57:02
+83	https://www.kscoramdeo.com/rss/allArticle.xml	코람데오닷컴	KO	NEWS	LIVE		2026-10-24T01:57:02
+84	https://www.amennews.com/rss/allArticle.xml	교회와신앙	KO	NEWS	LIVE		2026-10-24T01:57:02
+85	https://www.cknews.co.kr/rss/allArticle.xml	기독교한국신문	KO	NEWS	LIVE		2026-10-24T01:57:02
+91	https://www.gospelherald.com.hk/rss.xml	福音中國 Gospel Herald	ZHT	NEWS	LIVE		2026-10-24T01:57:02
+94	https://protestant.ru/rss/	Protestant.ru	RU	NEWS	LIVE		2026-10-24T01:57:02
+98	https://www.christianheadlines.com/rss	Christian Headlines	EN	NEWS	LIVE		2026-10-24T01:57:02
+99	https://www.christiantoday.com/rss.xml	Christian Today	EN	NEWS	LIVE		2026-10-24T01:57:02
+100	https://www.christiandaily.com/rss.xml	Christian Daily International	EN	NEWS	LIVE		2026-10-24T01:57:02
+101	https://www.mnnonline.org/feed	Mission Network News	EN	NEWS	LIVE		2026-10-24T01:57:02
+102	https://www.christianismeaujourdhui.info/feed/	Christianisme Aujourd'hui	FR	NEWS	LIVE		2026-10-24T01:57:02
+103	https://www.reforme.net/feed/	Réforme	FR	NEWS	LIVE		2026-10-24T01:57:02
