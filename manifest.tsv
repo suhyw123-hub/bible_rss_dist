@@ -1,5 +1,5 @@
 file	published_at	row_count	content_sha1	format_version	path
-announcements.json	2026-09-19 23:23:57	14	55538875670799e3c71225c7e1031fe5f1a2f797	1	announcements.55538875.json
+announcements.json	2026-10-24 19:32:38	14	55538875670799e3c71225c7e1031fe5f1a2f797	1	announcements.55538875.json
 app_info.json	2026-10-21T09:51:31	7	a2a463dedaa9d41a6e4a4d1606420eed5c994d03	1	app_info.a2a463de.json
 items_KO.tsv	2026-10-24 19:32:38	787	a8d2433af811c0c72e0adbe0a344da5a68889308	1	items_KO.a8d2433a.tsv
 items_EN.tsv	2026-10-24 19:32:38	787	da0a349c8adfa6ef97284729dea646fc3d916330	1	items_EN.da0a349c.tsv

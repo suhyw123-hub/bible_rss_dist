@@ -6,7 +6,7 @@
   "lang": "EN",
   "pin": 1,
   "published": "2026-06-13 09:00:00",
-  "record_status": "LIVE",
+  "record_status": "DELETED",
   "title": "Welcome — Bible Meditation App"
  },
  {
@@ -16,7 +16,7 @@
   "lang": "KO",
   "pin": 1,
   "published": "2026-06-13 09:00:00",
-  "record_status": "LIVE",
+  "record_status": "DELETED",
   "title": "환영합니다 — 성경 묵상 앱"
  },
  {
@@ -26,7 +26,7 @@
   "lang": "EN",
   "pin": 0,
   "published": "2026-06-13 16:30:00",
-  "record_status": "LIVE",
+  "record_status": "DELETED",
   "title": "New: 'Latest' tab"
  },
  {
@@ -36,7 +36,7 @@
   "lang": "KO",
   "pin": 0,
   "published": "2026-06-13 16:30:00",
-  "record_status": "LIVE",
+  "record_status": "DELETED",
   "title": "'최신 콘텐츠' 탭 신설"
  },
  {
@@ -46,7 +46,7 @@
   "lang": "ZH",
   "pin": 0,
   "published": "",
-  "record_status": "LIVE",
+  "record_status": "DELETED",
   "title": "new contents"
  },
  {
@@ -60,13 +60,53 @@
   "title": "new contents"
  },
  {
+  "ann_id": 3,
+  "audience": "ALL",
+  "body": "new contents",
+  "lang": "KO",
+  "pin": 0,
+  "published": "2026-06-13",
+  "record_status": "DELETED",
+  "title": "new contents 한글"
+ },
+ {
+  "ann_id": 3,
+  "audience": "ALL",
+  "body": "new contents",
+  "lang": "ZH",
+  "pin": 0,
+  "published": "2026-06-13",
+  "record_status": "DELETED",
+  "title": "new contents중문"
+ },
+ {
+  "ann_id": 3,
+  "audience": "ALL",
+  "body": "new contents",
+  "lang": "ZHT",
+  "pin": 0,
+  "published": "2026-06-13",
+  "record_status": "DELETED",
+  "title": "new contents즁"
+ },
+ {
+  "ann_id": 4,
+  "audience": "KO",
+  "body": "3434",
+  "lang": "EN",
+  "pin": 0,
+  "published": "2026-06-13 19:12:04",
+  "record_status": "DELETED",
+  "title": "3434"
+ },
+ {
   "ann_id": 4,
   "audience": "KO",
   "body": "ddgdg",
   "lang": "KO",
   "pin": 0,
   "published": "2026-06-13 19:12:04",
-  "record_status": "LIVE",
+  "record_status": "DELETED",
   "title": "gdgdg"
  },
  {
@@ -76,7 +116,27 @@
   "lang": "ES",
   "pin": 0,
   "published": "",
-  "record_status": "LIVE",
+  "record_status": "DELETED",
   "title": "ddd"
+ },
+ {
+  "ann_id": 6,
+  "audience": "ALL",
+  "body": "ㅅㄷㄴㅅ",
+  "lang": "EN",
+  "pin": 0,
+  "published": "2026-09-19 23:19:33",
+  "record_status": "LIVE",
+  "title": "(Announcement) Hayung, Hello"
+ },
+ {
+  "ann_id": 6,
+  "audience": "ALL",
+  "body": "테스트",
+  "lang": "KO",
+  "pin": 0,
+  "published": "2026-09-19 23:19:33",
+  "record_status": "LIVE",
+  "title": "(공지) 하영아 잘 보이냐"
  }
 ]
