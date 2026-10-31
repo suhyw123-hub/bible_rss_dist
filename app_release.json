@@ -1,19 +1,19 @@
 {
- "version": "2026.10.31.2",
- "date": "2026-10-31 12:43",
- "notes": "배포 꾸러미에서 작업 문서를 뺐습니다.",
+ "version": "2026.10.31.3",
+ "date": "2026-10-31 21:45",
+ "notes": "이용 통계를 고르게 정리했습니다. 번역이 없는 책은 그 언어 목록에서 감춥니다.",
  "pc": {
-  "version": "2026.10.31.2",
-  "file": "app_pc_2026.10.31.2_069ebb37.zip",
-  "sha256": "069ebb37c96b7c338cef3bc672e06e42b384611b54772fc722b321399a13b24f",
-  "size": 11754544
+  "version": "2026.10.31.3",
+  "file": "app_pc_2026.10.31.3_290a0da3.zip",
+  "sha256": "290a0da341aad339405b29341f32df2fdfe152f4a2ad9e259889524ee62c94e1",
+  "size": 11763975
  },
  "android": {
-  "version": "2026.10.31.1",
-  "code": 2026103101,
-  "file": "app_android_2026.10.31.1_da2e61f2.apk",
-  "sha256": "da2e61f2e769a81ab729e63f586cd041b32d18699d44c015941cb61873e114b8",
+  "version": "2026.10.31.3",
+  "code": 2026103103,
+  "file": "app_android_2026.10.31.3_54e9c5c7.apk",
+  "sha256": "54e9c5c7e244ac7877994638d091cf3d3aae16b4edca50648cad96ecf5f77cd5",
   "size": 29194156,
-  "url": "https://dist.hagahtorah.com/app_android_2026.10.31.1_da2e61f2.apk"
+  "url": "https://dist.hagahtorah.com/app_android_2026.10.31.3_54e9c5c7.apk"
  }
 }
