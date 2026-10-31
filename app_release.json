@@ -1,0 +1,19 @@
+{
+ "version": "2026.10.31.2",
+ "date": "2026-10-31 12:43",
+ "notes": "배포 꾸러미에서 작업 문서를 뺐습니다.",
+ "pc": {
+  "version": "2026.10.31.2",
+  "file": "app_pc_2026.10.31.2_069ebb37.zip",
+  "sha256": "069ebb37c96b7c338cef3bc672e06e42b384611b54772fc722b321399a13b24f",
+  "size": 11754544
+ },
+ "android": {
+  "version": "2026.10.31.1",
+  "code": 2026103101,
+  "file": "app_android_2026.10.31.1_da2e61f2.apk",
+  "sha256": "da2e61f2e769a81ab729e63f586cd041b32d18699d44c015941cb61873e114b8",
+  "size": 29194156,
+  "url": "https://dist.hagahtorah.com/app_android_2026.10.31.1_da2e61f2.apk"
+ }
+}

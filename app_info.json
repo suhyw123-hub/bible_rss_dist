@@ -1,0 +1,117 @@
+{
+ "sections": [
+  {
+   "key": "INTRO",
+   "sort": 10,
+   "text": {
+    "EN": {
+     "body": "Hagah Dabar means \"to murmur and meditate (hagah) on the Word (dabar)\" (Psalm 1:2).\nThe app gathers the Bible text, plain explanations, reflection questions and prayers, linked verses and reading plans in one place to help you read and meditate on Scripture every day. Used with the PC app, what you organize on the PC continues on your phone.",
+     "link": "",
+     "title": "About Hagah Dabar"
+    },
+    "KO": {
+     "body": "Hagah Dabar 는 「말씀(다바르)을 읊조리며 묵상한다(하가)」는 뜻입니다(시편 1:2).\n성경 본문과 쉬운 설명, 묵상질문과 기도, 연결된 구절, 묵상플랜을 한자리에 모아 날마다 말씀을 읽고 묵상하도록 돕는 앱입니다. PC 앱과 함께 쓰면 PC 에서 정리한 것을 모바일 폰에서도 볼 수 있습니다.",
+     "link": "",
+     "title": "Hagah Dabar 소개"
+    }
+   }
+  },
+  {
+   "key": "MAKER",
+   "sort": 20,
+   "text": {
+    "EN": {
+     "body": "Development: Gildong Hong (Hagah Dabar team)\nContact: contact@example.com",
+     "link": "",
+     "title": "Made by"
+    },
+    "KO": {
+     "body": "개발·운영: 서영완 (Hagah Dabar 팀)\n연락: contact@example.com",
+     "link": "",
+     "title": "만든 사람"
+    }
+   }
+  },
+  {
+   "key": "HOME",
+   "sort": 30,
+   "text": {
+    "EN": {
+     "body": "Guides and news are on our website.",
+     "link": "https://www.example.com",
+     "title": "Website"
+    },
+    "KO": {
+     "body": "앱 안내와 새 소식은 홈페이지에서 볼 수 있습니다.",
+     "link": "https://www.example.com",
+     "title": "홈페이지"
+    }
+   }
+  },
+  {
+   "key": "PRIVACY",
+   "sort": 40,
+   "text": {
+    "EN": {
+     "body": "· Your notes, prayers and AI chats stay on your phone and PC; we do not send them to our server.\n· The prayer notebook stays on the phone and is left out of backups.\n· When you use AI, your question goes straight to the AI company you chose; Hagah does not receive it.\n· AI keys are stored only on that device.\n· Usage statistics are sent only with your consent, as anonymous totals.",
+     "link": "https://www.example.com/privacy",
+     "title": "Privacy policy (summary)"
+    },
+    "KO": {
+     "body": "· 묵상노트 · 기도 · AI 대화 같은 내 글은 내 폰과 내 PC 에만 있고, 우리 서버로 보내지 않습니다.\n· 기도 노트는 폰에만 있고 백업에서도 빠집니다.\n· AI 를 쓰면 질문이 내가 고른 AI 회사로 바로 갑니다. 하가는 그 내용을 받지 않습니다.\n· AI 키는 그 기기에만 저장합니다.\n· 이용통계는 동의했을 때만 익명 집계로 보냅니다.",
+     "link": "https://www.example.com/privacy",
+     "title": "개인정보 처리방침(요약)"
+    }
+   }
+  },
+  {
+   "key": "TERMS",
+   "sort": 50,
+   "text": {
+    "EN": {
+     "body": "· The app is free and aims to help Bible meditation and study.\n· Copyright of included materials follows each source (see Sources & licenses).\n· AI answers are for reference and may be wrong; check important matters against Scripture and your church.\n· Content and features may change without notice to improve the app.",
+     "link": "https://www.example.com/terms",
+     "title": "Terms of use (summary)"
+    },
+    "KO": {
+     "body": "· 이 앱은 무료로 제공되며, 성경 묵상과 공부를 돕는 것을 목적으로 합니다.\n· 앱에 담긴 자료의 저작권은 각 출처를 따릅니다(출처·라이선스 참고).\n· AI 의 답은 참고 자료이며 틀릴 수 있습니다. 중요한 판단은 성경 본문과 교회의 가르침으로 확인하세요.\n· 앱을 더 낫게 하려고 내용과 기능이 예고 없이 바뀔 수 있습니다.",
+     "link": "https://www.example.com/terms",
+     "title": "이용약관(요약)"
+    }
+   }
+  },
+  {
+   "key": "REPORT",
+   "sort": 60,
+   "text": {
+    "EN": {
+     "body": "Found a bug or want a feature? Tell us which screen, what you did and what happened.",
+     "link": "mailto:contact@example.com",
+     "title": "Report a problem · Suggest"
+    },
+    "KO": {
+     "body": "오류를 발견했거나 바라는 기능이 있으면 알려 주세요. 어떤 화면에서 무엇을 했을 때 어떻게 되었는지 적어 주시면 빨리 고칠 수 있습니다.",
+     "link": "mailto:contact@example.com",
+     "title": "문제 신고 · 제안"
+    }
+   }
+  },
+  {
+   "key": "DONATE",
+   "sort": 70,
+   "text": {
+    "EN": {
+     "body": "Hagah Dabar runs without ads. Your prayers and support help us add materials and improve the app.",
+     "link": "https://www.example.com/donate",
+     "title": "Support us"
+    },
+    "KO": {
+     "body": "Hagah Dabar 는 광고 없이 운영됩니다. 기도와 후원으로 함께해 주시면 자료를 늘리고 앱을 더 좋게 만드는 데 쓰겠습니다.\n후원 계좌: ○○은행 000-0000-0000 (예금주: 홍길동)",
+     "link": "https://www.example.com/donate",
+     "title": "후원 안내"
+    }
+   }
+  }
+ ],
+ "ver": 3
+}
