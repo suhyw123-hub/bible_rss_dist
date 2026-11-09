@@ -1,29 +1,16 @@
 {
- "version": "2026.11.09.6",
- "date": "2026-11-09 15:32",
- "notes": "고쳐진 곳: 둘러보기 · 홈 · 기타 개선",
+ "version": "2026.11.09.7",
+ "date": "2026-11-09 17:44",
+ "notes": "고쳐진 곳: 기도 노트 · 둘러보기 · 공지 · 홈 · 설정 · 기타 개선 · 연구 화면",
  "pc": {
-  "version": "2026.11.09.6",
-  "file": "app_pc_2026.11.09.6_aeed8738.zip",
-  "sha256": "aeed873802157e8be83ed304adc002f47c55b91449e96437bd00bd1faf96ca58",
-  "size": 9156776,
-  "areas": []
- },
- "android": {
-  "version": "2026.11.09.6",
-  "code": 2026110906,
-  "file": "app_android_2026.11.09.6_c5255d1d.apk",
-  "sha256": "c5255d1d6be8bc7fedc6c60d5275083536638ffad4ceff83293becf127bf4dc4",
-  "size": 31756642,
-  "url": "https://dist.hagahtorah.com/app_android_2026.11.09.6_c5255d1d.apk",
+  "version": "2026.11.09.7",
+  "file": "app_pc_2026.11.09.7_ef1861b6.zip",
+  "sha256": "ef1861b6968d26723218ba93b274e1011405d821fdfe83b3b6cdfd3978f97ab2",
+  "size": 9159820,
   "areas": [
    [
-    "M_EXPLORE",
-    "둘러보기"
-   ],
-   [
-    "M_TAB_HOME",
-    "홈"
+    "UPD_A_STUDY",
+    "연구 화면"
    ],
    [
     "UPD_A_ETC",
@@ -31,5 +18,39 @@
    ]
   ]
  },
- "sig": "6bc90d0b9b4ca55f22353b54374c9b7e4401602570d35be30f930f28b32200be5cb7d7b2042064e8b2e84ddf87bbaafcfd17a1719a9872e0f1134d223020ff0f"
+ "android": {
+  "version": "2026.11.09.7",
+  "code": 2026110907,
+  "file": "app_android_2026.11.09.7_8285e952.apk",
+  "sha256": "8285e952fee2407055fca71a7fa6a9d7911b98a318d3a749b83fc6245afbd36c",
+  "size": 31756590,
+  "url": "https://dist.asahdabar.com/app_android_2026.11.09.7_8285e952.apk",
+  "areas": [
+   [
+    "M_PR_TITLE",
+    "기도 노트"
+   ],
+   [
+    "M_EXPLORE",
+    "둘러보기"
+   ],
+   [
+    "M_HOME_NOTICE",
+    "공지"
+   ],
+   [
+    "M_TAB_HOME",
+    "홈"
+   ],
+   [
+    "M_SETTINGS",
+    "설정"
+   ],
+   [
+    "UPD_A_ETC",
+    "기타 개선"
+   ]
+  ]
+ },
+ "sig": "9784d873ef2273db4025b411d2cd52ae47cbff597b73c58f37305f6a137368dcb65818f9b89b2f22faac569f8f6fb59abf6c89fe7bcbdb14b4cffb1323aa6408"
 }
