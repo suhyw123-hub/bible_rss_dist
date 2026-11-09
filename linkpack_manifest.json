@@ -1,5 +1,5 @@
 {
- "latest": 17,
+ "latest": 18,
  "full": true,
  "releases": [
   {
@@ -1375,9 +1375,9 @@
    "variant": "-",
    "note": "환경설정 양식(sys_pref_preset) 코어 표 추가",
    "title": "앱 기본 자료(연결·목록·껍데기)",
-   "version": 41,
+   "version": 42,
    "bytes": 10623966,
-   "made_at": "2026-11-09 14:40"
+   "made_at": "2026-11-09 15:33"
   },
   {
    "kind": "DESC",
@@ -2110,8 +2110,8 @@
   {
    "cycle": "BIANNUAL",
    "file": "corepack_BIANNUAL.json.gz",
-   "release": 41,
-   "bytes": 11399335
+   "release": 42,
+   "bytes": 11399327
   }
  ]
 }
