@@ -1,0 +1,632 @@
+{
+ "cats": [
+  {
+   "code": "GIFT_CARD",
+   "kind": "GIFT",
+   "names": {
+    "AR": "بطاقات الهدايا",
+    "DE": "Geschenkkarten",
+    "EN": "Gift cards",
+    "ES": "Tarjetas regalo",
+    "FR": "Cartes cadeaux",
+    "JA": "ギフトカード",
+    "KO": "기프트카드",
+    "PT": "Cartões-presente",
+    "RU": "Подарочные карты",
+    "ZH": "礼品卡",
+    "ZHT": "禮品卡"
+   },
+   "sort": 10
+  },
+  {
+   "code": "CHURCH_WORSHIP",
+   "kind": "CHURCH",
+   "names": {
+    "AR": "مستلزمات الكنيسة والعبادة",
+    "DE": "Kirche & Gottesdienst",
+    "EN": "Church & worship",
+    "ES": "Iglesia y culto",
+    "FR": "Église et culte",
+    "JA": "教会・礼拝用品",
+    "KO": "교회·예배 용품",
+    "PT": "Igreja e culto",
+    "RU": "Церковь и богослужение",
+    "ZH": "教会·礼拜用品",
+    "ZHT": "教會·禮拜用品"
+   },
+   "sort": 10
+  },
+  {
+   "code": "FOOD",
+   "kind": "GENERAL",
+   "names": {
+    "AR": "الأغذية والمياه",
+    "DE": "Lebensmittel & Wasser",
+    "EN": "Food & water",
+    "ES": "Alimentos y agua",
+    "FR": "Alimentation et eau",
+    "JA": "食品・飲料水",
+    "KO": "식품·생수",
+    "PT": "Alimentos e água",
+    "RU": "Продукты и вода",
+    "ZH": "食品·饮用水",
+    "ZHT": "食品·飲用水"
+   },
+   "sort": 10
+  },
+  {
+   "code": "CHURCH_EVENT",
+   "kind": "CHURCH",
+   "names": {
+    "AR": "الفعاليات والإرساليات",
+    "DE": "Veranstaltungen & Mission",
+    "EN": "Events & missions",
+    "ES": "Eventos y misiones",
+    "FR": "Événements et mission",
+    "JA": "行事・宣教用品",
+    "KO": "행사·선교 용품",
+    "PT": "Eventos e missões",
+    "RU": "Мероприятия и миссия",
+    "ZH": "活动·宣教用品",
+    "ZHT": "活動·宣教用品"
+   },
+   "sort": 20
+  },
+  {
+   "code": "LIVING",
+   "kind": "GENERAL",
+   "names": {
+    "AR": "مستلزمات المنزل",
+    "DE": "Haushalt",
+    "EN": "Household",
+    "ES": "Hogar",
+    "FR": "Maison",
+    "JA": "日用品",
+    "KO": "생활용품",
+    "PT": "Casa",
+    "RU": "Товары для дома",
+    "ZH": "生活用品",
+    "ZHT": "生活用品"
+   },
+   "sort": 20
+  },
+  {
+   "code": "KITCHEN",
+   "kind": "GENERAL",
+   "names": {
+    "AR": "المطبخ",
+    "DE": "Küche",
+    "EN": "Kitchen",
+    "ES": "Cocina",
+    "FR": "Cuisine",
+    "JA": "キッチン",
+    "KO": "주방",
+    "PT": "Cozinha",
+    "RU": "Кухня",
+    "ZH": "厨房",
+    "ZHT": "廚房"
+   },
+   "sort": 30
+  },
+  {
+   "code": "HEALTH",
+   "kind": "GENERAL",
+   "names": {
+    "AR": "الصحة والنظافة",
+    "DE": "Gesundheit & Hygiene",
+    "EN": "Health & hygiene",
+    "ES": "Salud e higiene",
+    "FR": "Santé et hygiène",
+    "JA": "健康・衛生",
+    "KO": "건강·위생",
+    "PT": "Saúde e higiene",
+    "RU": "Здоровье и гигиена",
+    "ZH": "健康·卫生",
+    "ZHT": "健康·衛生"
+   },
+   "sort": 40
+  },
+  {
+   "code": "BEAUTY",
+   "kind": "GENERAL",
+   "names": {
+    "AR": "الجمال والعناية",
+    "DE": "Schönheit & Pflege",
+    "EN": "Beauty & body",
+    "ES": "Belleza y cuidado",
+    "FR": "Beauté et soins",
+    "JA": "ビューティー・ボディ",
+    "KO": "뷰티·바디",
+    "PT": "Beleza e cuidados",
+    "RU": "Красота и уход",
+    "ZH": "美妆·身体护理",
+    "ZHT": "美妝·身體護理"
+   },
+   "sort": 50
+  },
+  {
+   "code": "KIDS",
+   "kind": "GENERAL",
+   "names": {
+    "AR": "الرضع والأطفال",
+    "DE": "Baby & Kinder",
+    "EN": "Baby & kids",
+    "ES": "Bebés y niños",
+    "FR": "Bébé et enfants",
+    "JA": "ベビー・キッズ",
+    "KO": "유아·어린이",
+    "PT": "Bebês e crianças",
+    "RU": "Малыши и дети",
+    "ZH": "婴幼儿·儿童",
+    "ZHT": "嬰幼兒·兒童"
+   },
+   "sort": 60
+  },
+  {
+   "code": "BOOKS",
+   "kind": "GENERAL",
+   "names": {
+    "AR": "القرطاسية والكتب",
+    "DE": "Schreibwaren & Bücher",
+    "EN": "Stationery & books",
+    "ES": "Papelería y libros",
+    "FR": "Papeterie et livres",
+    "JA": "文具・書籍",
+    "KO": "문구·도서",
+    "PT": "Papelaria e livros",
+    "RU": "Канцтовары и книги",
+    "ZH": "文具·图书",
+    "ZHT": "文具·圖書"
+   },
+   "sort": 70
+  },
+  {
+   "code": "DIGITAL",
+   "kind": "GENERAL",
+   "names": {
+    "AR": "الإلكترونيات",
+    "DE": "Elektronik",
+    "EN": "Electronics",
+    "ES": "Electrónica",
+    "FR": "Électronique",
+    "JA": "家電・デジタル",
+    "KO": "가전·디지털",
+    "PT": "Eletrônicos",
+    "RU": "Электроника",
+    "ZH": "家电·数码",
+    "ZHT": "家電·數位"
+   },
+   "sort": 80
+  }
+ ],
+ "items": [
+  {
+   "band": "",
+   "cat": "DIGITAL",
+   "deliver": "LINK",
+   "descs": {
+    "KO": "MagSafe 호환 · 반투명 · 충격 방지 슬림 커버. 시험용 상품입니다(docs/3.txt)."
+   },
+   "from": "2026-10-23",
+   "id": 58,
+   "img": "shopimg_89c2fcc658b7ea27.jpg",
+   "mall": "DEMO_AMAZON",
+   "names": {
+    "EN": "Miracase iPhone 16 Pro Max Matte Case · Magnetic · Black",
+    "KO": "Miracase 아이폰 16 프로 맥스 매트 케이스 · 마그네틱 · 블랙"
+   },
+   "sort": 10,
+   "to": "2026-12-31",
+   "url": "https://www.amazon.com/dp/B0F8V7F6KX?ref=dlx_deals_dg_dcl_B0F8V7F6KX_dt_sl14_0c_pi&pf_rd_r=CWPKQ46JE25MSRF6CQQT&pf_rd_p=1bc57a75-72bb-4964-82be-095fd4a7bf0c&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D"
+  },
+  {
+   "band": "70,000원",
+   "cat": "GIFT_CARD",
+   "deliver": "KAKAO",
+   "descs": {
+    "KO": "카카오톡 선물하기. 시험용 상품입니다(docs/3.txt)."
+   },
+   "from": "2026-10-23",
+   "id": 62,
+   "img": "shopimg_c75b401a7b9d0451.jpg",
+   "mall": "DEMO_KAKAO_GIFT",
+   "names": {
+    "EN": "Festive Cologne Duo",
+    "KO": "페스티브 코롱 듀오"
+   },
+   "sort": 10,
+   "to": "2026-12-31",
+   "url": "https://gift.kakao.com/product/12407907"
+  },
+  {
+   "band": "",
+   "cat": "LIVING",
+   "deliver": "LINK",
+   "descs": {
+    "KO": "페이지가 막혀 이름·그림은 가상입니다. 시험용 상품입니다(docs/3.txt)."
+   },
+   "from": "2026-10-23",
+   "id": 59,
+   "img": "shopimg_af9b38bf7f3b34ea.jpg",
+   "mall": "DEMO_EBAY_UK",
+   "names": {
+    "EN": "eBay UK item (test)",
+    "KO": "이베이 영국 상품(시험)"
+   },
+   "sort": 20,
+   "to": "2026-12-31",
+   "url": "https://www.ebay.co.uk/itm/256020839990?_skw=Shopping&itmmeta=01M5KT6Z1BXCZW23G1KP6T4JEQ&hash=item3b9c07fe36:g:VHkAAOSwIjJmSH8B&itmprp=enc%3AAQALAAAA0CHNgUiiE%2FjQhlDTaMiAde%2FE3OmN54Zujfd%2B7kl9wwscgFq2vdHZtapq0qJ9qj1mb6kxbQ8lOsvaGDg0WYEOBql3N2BvvKkHzGM8HkYSyhE7ts53SHJNy4rLjtCdRSyJziwM75533%2Byyiej5sEcJYT7G4uIM7guLCWAwGMG8TB90Fu534Vj3ThPGZ6CQnNW6S3m27znFBmMZYU1Z%2FD9CF4ufvepg03sSPlf%2B6Tjb5LMuAfdawJv6xB%2F2AMT8j9HT%2BdFwYDzUm0aNm29Lz%2FKYXME%3D%7Ctkp%3ABlBMUIzxm_qsaA"
+  },
+  {
+   "band": "",
+   "cat": "GIFT_CARD",
+   "deliver": "LINK",
+   "descs": {
+    "KO": "스마트스토어 판매 · 페이지가 막혀 그림은 가상입니다. 시험용 상품입니다(docs/3.txt)."
+   },
+   "from": "2026-10-23",
+   "id": 63,
+   "img": "shopimg_de758dd564afc125.jpg",
+   "mall": "DEMO_NAVER",
+   "names": {
+    "EN": "Starbucks gift voucher",
+    "KO": "스타벅스 기프티콘"
+   },
+   "sort": 20,
+   "to": "2026-12-31",
+   "url": "https://smartstore.naver.com/kpin/products/11127498814?nl-ts-pid=jWVKswqos5wssfeuvGK-463144&n_media=684925&n_query=%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4%EA%B8%B0%ED%94%84%ED%8B%B0%EC%BD%98&n_rank=1&n_ad_group=grp-a001-02-000000046923040&n_ad=nad-a001-02-000000340601505&n_campaign_type=2&n_mall_id=ncp_1ojuzh_01&n_mall_pid=11127498814&n_ad_group_type=2&n_match=3&NaPm=ct%3Dmvknc5ac%7Cci%3DER0d18e86d%2Dceb3%2D11f1%2D83c9%2D26fec18b87ba%7Ctr%3Dplan%7Chk%3Db4b9f7f08cc81e61df51892cef80d5431f68da8e%7Cnacn%3D9h5nBIh780CfB"
+  },
+  {
+   "band": "",
+   "cat": "LIVING",
+   "deliver": "LINK",
+   "descs": {
+    "KO": "페이지가 막혀 이름·그림은 가상입니다. 시험용 상품입니다(docs/3.txt)."
+   },
+   "from": "2026-10-23",
+   "id": 60,
+   "img": "shopimg_42c87266c12561d0.jpg",
+   "mall": "DEMO_COUPANG",
+   "names": {
+    "EN": "Coupang item (test)",
+    "KO": "쿠팡 상품(시험)"
+   },
+   "sort": 30,
+   "to": "2026-12-31",
+   "url": "https://www.coupang.com/vp/products/9320256369?itemId=27623848954&vendorItemId=94586776590&sourceType=CAMPAIGN&campaignId=82&categoryId=221834&traceId=mvkn87q9"
+  },
+  {
+   "band": "",
+   "cat": "LIVING",
+   "deliver": "LINK",
+   "descs": {
+    "KO": "놓칠 수 없는 혜택과 다양한 상품. 시험용 상품입니다(docs/3.txt)."
+   },
+   "from": "2026-10-23",
+   "id": 61,
+   "img": "shopimg_67dc193412211b37.jpg",
+   "mall": "DEMO_NAVER",
+   "names": {
+    "EN": "Naver+ Store promotion",
+    "KO": "네이버+ 스토어 프로모션"
+   },
+   "sort": 40,
+   "to": "2026-12-31",
+   "url": "https://shopping.naver.com/event/6abf135814c78778b150c9eb"
+  },
+  {
+   "band": "",
+   "cat": "GIFT_CARD",
+   "deliver": "EMAIL",
+   "descs": {
+    "KO": "전자우편으로 바로 보내는 선물. 시험용 상품입니다(docs/3.txt)."
+   },
+   "from": "2026-10-23",
+   "id": 64,
+   "img": "shopimg_91c491feba43816e.jpg",
+   "mall": "DEMO_AMAZON",
+   "names": {
+    "EN": "Amazon eGift Card",
+    "KO": "아마존 e기프트카드"
+   },
+   "sort": 50,
+   "to": "2026-12-31",
+   "url": "https://www.amazon.com/dp/B07PCMWTSG"
+  },
+  {
+   "band": "",
+   "cat": "CHURCH_WORSHIP",
+   "deliver": "LINK",
+   "descs": {
+    "KO": "미리 채워진 성찬 잔과 떡. 시험용 상품입니다(docs/3.txt)."
+   },
+   "from": "2026-10-23",
+   "id": 65,
+   "img": "shopimg_9f3fcde4e8b4cf45.jpg",
+   "mall": "DEMO_AMAZON",
+   "names": {
+    "EN": "Pre-filled Communion Cup & Wafer Set, 100",
+    "KO": "성찬 컵·떡 세트 100개"
+   },
+   "sort": 51,
+   "to": "2026-12-31",
+   "url": "https://www.amazon.com/dp/B015X6ETYS"
+  },
+  {
+   "band": "",
+   "cat": "CHURCH_EVENT",
+   "deliver": "LINK",
+   "descs": {
+    "KO": "어린이 행사 꾸미기. 시험용 상품입니다(docs/3.txt)."
+   },
+   "from": "2026-10-23",
+   "id": 66,
+   "img": "shopimg_123f5b97e1f1ddec.jpg",
+   "mall": "DEMO_AMAZON",
+   "names": {
+    "EN": "VBS Beach Wall Cutout Set (6 pcs)",
+    "KO": "여름성경학교 벽 장식 6종"
+   },
+   "sort": 52,
+   "to": "2026-12-31",
+   "url": "https://www.amazon.com/dp/B0DSW166NS"
+  },
+  {
+   "band": "",
+   "cat": "FOOD",
+   "deliver": "LINK",
+   "descs": {
+    "KO": "알프스 샘물 500ml. 시험용 상품입니다(docs/3.txt)."
+   },
+   "from": "2026-10-23",
+   "id": 67,
+   "img": "shopimg_25b504bb13bd9d3e.jpg",
+   "mall": "DEMO_AMAZON",
+   "names": {
+    "EN": "Crystal Geyser Spring Water, 24-Pack",
+    "KO": "크리스탈 가이저 생수 24병"
+   },
+   "sort": 53,
+   "to": "2026-12-31",
+   "url": "https://www.amazon.com/dp/B001B48RCC"
+  },
+  {
+   "band": "",
+   "cat": "LIVING",
+   "deliver": "LINK",
+   "descs": {
+    "KO": "찢어 쓰는 크기. 시험용 상품입니다(docs/3.txt)."
+   },
+   "from": "2026-10-23",
+   "id": 68,
+   "img": "shopimg_74fd75bf58a8ae67.jpg",
+   "mall": "DEMO_AMAZON",
+   "names": {
+    "EN": "Bounty Quick-Size Paper Towels",
+    "KO": "바운티 키친타월 8롤"
+   },
+   "sort": 54,
+   "to": "2026-12-31",
+   "url": "https://www.amazon.com/dp/B0DQYP1L95"
+  },
+  {
+   "band": "",
+   "cat": "KITCHEN",
+   "deliver": "LINK",
+   "descs": {
+    "KO": "화강석 코팅. 시험용 상품입니다(docs/3.txt)."
+   },
+   "from": "2026-10-23",
+   "id": 69,
+   "img": "shopimg_bd28f0d7cf51a5ba.jpg",
+   "mall": "DEMO_AMAZON",
+   "names": {
+    "EN": "CAROTE Nonstick Frying Pan 8\"",
+    "KO": "카로테 논스틱 프라이팬 20cm"
+   },
+   "sort": 55,
+   "to": "2026-12-31",
+   "url": "https://www.amazon.com/dp/B0732NXYNS"
+  },
+  {
+   "band": "",
+   "cat": "HEALTH",
+   "deliver": "LINK",
+   "descs": {
+    "KO": "방수 하드 케이스. 시험용 상품입니다(docs/3.txt)."
+   },
+   "from": "2026-10-23",
+   "id": 70,
+   "img": "shopimg_62f4fca18bbc358c.jpg",
+   "mall": "DEMO_AMAZON",
+   "names": {
+    "EN": "Mini First Aid Kit, 150 pcs",
+    "KO": "휴대용 구급상자 150종"
+   },
+   "sort": 56,
+   "to": "2026-12-31",
+   "url": "https://www.amazon.com/dp/B0DB794BKQ"
+  },
+  {
+   "band": "",
+   "cat": "BEAUTY",
+   "deliver": "LINK",
+   "descs": {
+    "KO": "30ml × 6. 시험용 상품입니다(docs/3.txt)."
+   },
+   "from": "2026-10-23",
+   "id": 71,
+   "img": "shopimg_d012654669c7f370.jpg",
+   "mall": "DEMO_AMAZON",
+   "names": {
+    "EN": "Shea Butter Hand Cream Gift Set",
+    "KO": "시어버터 핸드크림 선물 세트"
+   },
+   "sort": 57,
+   "to": "2026-12-31",
+   "url": "https://www.amazon.com/dp/B0CC8Z27D1"
+  },
+  {
+   "band": "",
+   "cat": "KIDS",
+   "deliver": "LINK",
+   "descs": {
+    "KO": "창세기부터 요한계시록까지 287편. 시험용 상품입니다(docs/3.txt)."
+   },
+   "from": "2026-10-23",
+   "id": 72,
+   "img": "shopimg_cb56b847f8d1c29d.jpg",
+   "mall": "DEMO_AMAZON",
+   "names": {
+    "EN": "The Complete Illustrated Children's Bible",
+    "KO": "그림으로 보는 어린이 성경"
+   },
+   "sort": 58,
+   "to": "2026-12-31",
+   "url": "https://www.amazon.com/dp/B0HLDX9J9J"
+  },
+  {
+   "band": "",
+   "cat": "BOOKS",
+   "deliver": "LINK",
+   "descs": {
+    "KO": "여백에 묵상을 적는 성경. 시험용 상품입니다(docs/3.txt)."
+   },
+   "from": "2026-10-23",
+   "id": 73,
+   "img": "shopimg_6c9c0cabc2a20ec7.jpg",
+   "mall": "DEMO_AMAZON",
+   "names": {
+    "EN": "ESV Single Column Journaling Bible",
+    "KO": "ESV 노트 성경(저널링 바이블)"
+   },
+   "sort": 59,
+   "to": "2026-12-31",
+   "url": "https://www.amazon.com/dp/B0DHW69RG6"
+  },
+  {
+   "band": "",
+   "cat": "DIGITAL",
+   "deliver": "LINK",
+   "descs": {
+    "KO": "50시간 재생. 시험용 상품입니다(docs/3.txt)."
+   },
+   "from": "2026-10-23",
+   "id": 74,
+   "img": "shopimg_0d8242edbae4fd6d.jpg",
+   "mall": "DEMO_AMAZON",
+   "names": {
+    "EN": "Wireless Earbuds, Bluetooth 6.0",
+    "KO": "블루투스 무선 이어폰"
+   },
+   "sort": 60,
+   "to": "2026-12-31",
+   "url": "https://www.amazon.com/dp/B0HDB173YV"
+  }
+ ],
+ "malls": [
+  {
+   "adv": "",
+   "code": "DEMO_AMAZON",
+   "countries": [
+    "US",
+    "CA",
+    "MX",
+    "BR",
+    "AU",
+    "JP",
+    "KR",
+    "SA",
+    "AE",
+    "HK",
+    "TW"
+   ],
+   "home": "https://www.amazon.com/",
+   "logo": "shopimg_43f41376d76cf06b.jpg",
+   "names": {
+    "EN": "Amazon",
+    "KO": "아마존"
+   },
+   "network": "AMAZON",
+   "search": "https://www.amazon.com/s?k={q}",
+   "sort": 10,
+   "text": 1
+  },
+  {
+   "adv": "",
+   "code": "DEMO_EBAY_UK",
+   "countries": [
+    "GB",
+    "DE",
+    "FR",
+    "ES",
+    "PT",
+    "AT",
+    "CH",
+    "KR"
+   ],
+   "home": "https://www.ebay.co.uk/",
+   "logo": "shopimg_6e376d715eafb511.jpg",
+   "names": {
+    "EN": "eBay UK",
+    "KO": "이베이 영국"
+   },
+   "network": "DIRECT",
+   "search": "https://www.ebay.co.uk/sch/i.html?_nkw={q}",
+   "sort": 20,
+   "text": 1
+  },
+  {
+   "adv": "",
+   "code": "DEMO_COUPANG",
+   "countries": [
+    "KR"
+   ],
+   "home": "https://www.coupang.com/",
+   "logo": "shopimg_32600047c85467a7.jpg",
+   "names": {
+    "EN": "Coupang",
+    "KO": "쿠팡"
+   },
+   "network": "COUPANG",
+   "search": "https://www.coupang.com/np/search?q={q}",
+   "sort": 30,
+   "text": 0
+  },
+  {
+   "adv": "",
+   "code": "DEMO_NAVER",
+   "countries": [
+    "KR"
+   ],
+   "home": "https://shopping.naver.com/ns/home",
+   "logo": "shopimg_f490b4ec822084a0.jpg",
+   "names": {
+    "EN": "Naver Store",
+    "KO": "네이버 스토어"
+   },
+   "network": "DIRECT",
+   "search": "https://search.shopping.naver.com/ns/search?query={q}",
+   "sort": 40,
+   "text": 0
+  },
+  {
+   "adv": "",
+   "code": "DEMO_KAKAO_GIFT",
+   "countries": [
+    "KR"
+   ],
+   "home": "https://gift.kakao.com/home",
+   "logo": "shopimg_4c259c334ae48e6b.jpg",
+   "names": {
+    "EN": "Kakao Gift",
+    "KO": "카카오 선물하기"
+   },
+   "network": "DIRECT",
+   "search": "https://gift.kakao.com/search/result?query={q}",
+   "sort": 50,
+   "text": 1
+  }
+ ],
+ "version": 6
+}

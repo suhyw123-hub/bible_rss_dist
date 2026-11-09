@@ -1,0 +1,186 @@
+{
+ "sections": [
+  {
+   "key": "INTRO",
+   "sort": 10,
+   "text": {
+    "EN": {
+     "body": "Asah Dabar joins two Hebrew words. Asah means to do, to make, to carry out; dabar means word, both what God says and what that word brings about.\n\"Be doers of the word, and not hearers only, deceiving yourselves.\" (James 1:22)\nIn the Hebrew New Testament, \"doers of the word\" is written with these two words, asah and dabar. Someone who meditates on the Word they have read, and then does the Word they have meditated on: that is the walk this app wants to help. It gathers the Bible text, plain explanations, reflection questions and prayers, linked verses and reading plans in one place to help you read and meditate on Scripture every day. Used with the PC app, what you organize on the PC continues on your phone.",
+     "link": "https://suhyw123-hub.github.io/",
+     "title": "About Asah Dabar"
+    },
+    "KO": {
+     "body": "Asah(עָשָׂה, H6213)는 히브리어로 \"행하다, 만들다\"는 뜻입니다. 구약 성경에 2,600번 넘게 등장하는데, \"말하다\"와 \"있다\" 다음으로 자주 사용된 동사입니다. Dabar(דָּבָר, H1697)는 \"말씀\"입니다. 하나님께서 하신 말씀을 뜻하면서, 동시에 그 말씀이 이루는 일까지 함께 뜻하는 낱말입니다.",
+     "link": "https://suhyw123-hub.github.io/",
+     "title": "Asah Dabar 소개"
+    }
+   }
+  },
+  {
+   "key": "MAKER",
+   "sort": 20,
+   "text": {
+    "EN": {
+     "body": "Development: Gildong Hong (Asah Dabar team)\nContact: contact@example.com",
+     "link": "",
+     "title": "Made by"
+    },
+    "KO": {
+     "body": "개발·운영: 서영완 (Asah Dabar 팀)\n연락: asahdabar@gmail.com",
+     "link": "",
+     "title": "만든 사람"
+    }
+   }
+  },
+  {
+   "key": "HOME",
+   "sort": 30,
+   "text": {
+    "EN": {
+     "body": "Guides and news are on our website.",
+     "link": "https://suhyw123-hub.github.io/",
+     "title": "Website"
+    },
+    "KO": {
+     "body": "자세한 앱 안내와 새 소식은 홈페이지에서 볼 수 있습니다. \n앱과 PC를 사용하는 자세한 방법은 홈페이지의 영상에서 볼 수 있습니다.\n홈페이지 : <a href=\"http://www.asahdabar.com\">www.asahdabar.com</a>",
+     "link": "",
+     "title": "홈페이지"
+    }
+   }
+  },
+  {
+   "key": "GUIDE",
+   "sort": 35,
+   "text": {
+    "EN": {
+     "body": "Guides for getting started and for each feature are on our website and in our YouTube videos. Also see the help button on each screen.",
+     "link": "https://suhyw123-hub.github.io/use/",
+     "title": "How to use"
+    },
+    "KO": {
+     "body": "앱에는 많은 기능이 포함되어 있습니다. 한꺼번에 여러가지 기능을 사용하기 보다는, 한 두개의 기능을 꾸준히 사용하며 매일 묵상하는 습관을 길들이는 것이 효과적입니다. 위 홈페이지에서 대표적인 사용방법 설명과 영상을 참고하세요.",
+     "link": "https://suhyw123-hub.github.io/use/",
+     "title": "사용방법"
+    }
+   }
+  },
+  {
+   "key": "PRIVACY",
+   "sort": 40,
+   "text": {
+    "EN": {
+     "body": "· What we do not collect: the app does not collect your name, contact details, location, or IP address. Your notes, prayers, psalms, and AI chats stay on your phone and PC; we do not send them to our server.\n· Sent only with your consent: anonymous usage statistics (totals such as how often a screen was opened; groups of fewer than five people are hidden) and a crash report the app asks about after it closed unexpectedly.\n· Only when you write to us: the contact details and message you send with an inquiry are used only to answer you and are kept in the operator's Google Sheet. We delete them on request. Children under 14 should write together with a parent or guardian.\n· What goes elsewhere: when you use AI, your question goes straight to the AI company you chose; when you tap a shopping link, you go to that store. From then on that company's privacy policy applies. The app has no ad tracking or cookies.\n· Your rights: you can turn off usage statistics in Settings at any time.\n· Privacy inquiries: please use the contact in the \"Made by\" section.",
+     "link": "https://suhyw123-hub.github.io/policy/#privacy",
+     "title": "Privacy policy (summary)"
+    },
+    "KO": {
+     "body": "- 수집하지 않는 것: 앱은 이름, 연락처, 위치, IP를 수집하지 않습니다. 노트, AI 대화 등 사용자가 작성한 글은 폰/PC 에만 저장하고 서버로 보내지 않습니다.\n- 동의한 경우에만 보내는 것: 익명 이용통계(일정기간 화면을 오픈한 횟수 합계) 자료를 전송하기로 동의한 경우, 앱이 갑자기 닫혔을 때 관리자에게 신고한 경우 오류보고하는 경우 수집합니다. 이용통계 동의는 설정에서 언제든지 해제 할 수 있습니다.\n- 사용자가 직접 입력한 정보 : 연락처와 문의사항은 답장을 작성하기 위해서만 사용하고 보관합니다. 만 14세 미만 어린이는 보호자 허락 하에 보내 주세요.\n- 다른 곳으로 나가는 것: AI 대화를 사용하면 질문이 선택한 AI 회사로 바로 전송되고, 쇼핑 링크를 누르면 그 쇼핑몰로 갑니다. 그 이후에는 그 회사의 개인정보 처리방침을 따릅니다. 앱에는 광고 추적이나 쿠키가 없습니다.\n- 사용자의 앱 사용정보는 제휴업체와 뒤섞거나 공유하지 않습니다. 사용자가 읽은 구절, 검색기록, AI대화기록 등을 제휴광고 또는 상품 추천 등에 전혀 활용하지 않고 제휴업체에 전달하지도 않습니다.\n- 추천몰에 등록된 상품링크는 사용자의 앱 이용활동과 전혀 관계없이 사용자가 거주하는 국가와 제휴쇼핑몰에 따라서 앱 운영자가 결정합니다.\n- \"오늘의 암송\" 화면에서 단어를 말하면 음성인식을 위해 폰의 음성인식회사에 보냅니다. 추가적인 비용은 발생하지 않습니다.",
+     "link": "https://suhyw123-hub.github.io/policy/#privacy",
+     "summary": "이름·연락처·위치·IP 를 모으지 않고, 노트와 AI 대화는 폰·PC 에만 저장합니다. 익명 이용통계와 오류 보고는 동의한 경우에만 보내며, 설정에서 언제든 끌 수 있습니다.",
+     "title": "개인정보 처리방침(요약)"
+    }
+   }
+  },
+  {
+   "key": "TERMS",
+   "sort": 50,
+   "text": {
+    "EN": {
+     "body": "· The app is free and was made to help you read, meditate on, and study the Bible.\n· It is a general app for ages 13 and up; it is not made for children.\n· Copying the app and its materials wholesale for redistribution, or reverse engineering the app to extract its materials, is not permitted. For copyright, see the \"Copyright\" section.\n· AI answers are for reference and may be wrong; check important matters against Scripture and the teaching of your church.\n· Affiliate information for shopping links is in the \"Affiliate links\" section.\n· Content and features may change to improve the app; important changes are announced.",
+     "link": "https://suhyw123-hub.github.io/policy/#terms",
+     "title": "Terms of use (summary)"
+    },
+    "KO": {
+     "body": "- 이 앱은 무료이며, 성경을 읽고 묵상하고 공부하는 것을 돕기 위해 만들었습니다.\n- 만 13세 이상이 사용하는 일반 앱이며, 어린이를 대상으로 만든 앱이 아닙니다.\n- 앱, 자료를 통째로 복제해 다시 배포하거나, 앱을 뜯어 고쳐(역공학) 자료를 꺼내서 사용하는 것은 허락하지 않습니다. 저작권은 「저작권」 칸을 보세요.\n- AI 의 답은 참고 자료이며 틀릴 수 있습니다. 중요한 판단은 성경 본문과 교회의 가르침으로 확인하세요.\n- 쇼핑 링크의 제휴 안내는 「제휴 광고 안내」 칸에 있습니다.\n- 앱을 더 개선하기 위해 내용과 기능이 바뀔 수 있으며, 중요한 변경은 공지로 알립니다.",
+     "link": "https://suhyw123-hub.github.io/policy/#terms",
+     "summary": "무료 성경 묵상 앱이며, 만 13세 이상이 쓰는 일반 앱입니다. 앱과 자료를 통째로 복제해 배포하거나, 앱을 뜯어 고쳐(역공학) 자료를 꺼내 쓰는 것은 허락하지 않습니다.",
+     "title": "이용약관(요약)"
+    }
+   }
+  },
+  {
+   "key": "COPYRIGHT",
+   "sort": 52,
+   "text": {
+    "EN": {
+     "body": "· Bible versions, books, commentaries and other included materials are public domain or used with permission. Sources and licenses for each are listed under \"Sources & licenses\".\n· The explanations, reflection questions, and translations we wrote are works of Asah Dabar. Feel free to use them for personal devotion and sharing within your church with attribution; please ask permission before publishing, selling, or including them in another app.\n· Text written by AI is marked \"AI-written\", and text reviewed by a person is marked as such.\n· You own the copyright of what you write yourself (notes, prayers, your psalms).",
+     "link": "https://suhyw123-hub.github.io/policy/#copyright",
+     "title": "Copyright"
+    },
+    "KO": {
+     "body": "- 성경 역본, 도서, 주석 등의 자료는 퍼블릭 도메인이거나 사용 허락을 받은 것만 담습니다. 자료마다 출처와 라이선스는 「출처·라이선스」에서 볼 수 있습니다.\n- 앱에 포함된 설명문, 묵상질문, 번역(주석, 도서, 설교집) 등은 고유의 저작물이므로 독자적으로 보호받습니다. \n  SNS 공유기능을 통해서 서로 나눌 때에는 출처를 밝혀 자유롭게 사용할 수 있습니다.\n  그러나, 다른 앱에서 사용하는 경우에는 먼저 허락을 받아야 합니다.\n- AI 가 쓴 글에는 「AI 작성」, 사람이 검토한 글에는 「AI 작성, 사람 검토」표시가 붙습니다.\n- 사용자가 작성한 글(노트, 기도, 나의 시편 등)의 저작권은 각 사용자에게 있습니다.",
+     "link": "https://suhyw123-hub.github.io/policy/#copyright",
+     "summary": "성경 역본·도서·주석은 퍼블릭 도메인이거나 사용 허락을 받은 것만 담습니다. 앱의 설명문과 번역은 출처를 밝히면 SNS 로 나눌 수 있고, 사용자가 쓴 글의 저작권은 사용자에게 있습니다.",
+     "title": "저작권"
+    }
+   }
+  },
+  {
+   "key": "AFFILIATE",
+   "sort": 54,
+   "text": {
+    "EN": {
+     "body": "Some product links in the recommended shop are affiliate links. If you buy through them, the operator may receive a commission from the store; the price you pay is the same. Each store's required disclosure is shown on its product cards. The app does not know what you bought.",
+     "link": "https://suhyw123-hub.github.io/policy/#affiliate",
+     "title": "Affiliate links"
+    },
+    "KO": {
+     "body": "- 추천몰의 상품 링크는 외부 쇼핑몰 제휴 링크입니다. 사용자가 링크를 거쳐서 구매하면 앱 운영자가 쇼핑몰에서 수수료를 받을 수 있습니다.\n- 사용자(구매자)는 쇼핑몰을 통해 구매하더라도 앱 운영자에게 따로 지불하는 것은 없습니다.\n- 공동체몰은 이 앱과 아무런 제휴관계가 없습니다.",
+     "link": "https://suhyw123-hub.github.io/policy/#affiliate",
+     "summary": "추천몰 상품 링크는 제휴 링크라, 링크를 거쳐 구매하면 운영자가 쇼핑몰에서 수수료를 받을 수 있습니다. 구매자가 따로 내는 돈은 없습니다.",
+     "title": "제휴 광고 안내"
+    }
+   }
+  },
+  {
+   "key": "AI",
+   "sort": 56,
+   "text": {
+    "EN": {
+     "body": "AI features send your question directly to the AI company whose key you entered. Each AI company has its own age requirement (for example, the Google Gemini API requires users to be 18 or older); please follow that company's terms. AI answers may be wrong, and AI-written text in the app is marked \"AI-written\".",
+     "link": "https://suhyw123-hub.github.io/policy/#ai",
+     "title": "Using AI"
+    },
+    "KO": {
+     "body": "- AI 대화는 각 사용자가 설정 화면에서 휴대폰에 저장한 AI 회사의 키를 이용하여 AI 회사에 바로 전달합니다. \n- AI 회사마다 이용 나이 제한이 있으므로(예: 구글 Gemini API 는 만 18세 이상) 그 회사의 약관을 따라 주세요. \n- AI 의 답변은 틀리거나 부정확하거나 오탈자가 발생할 수 있습니다. 같은 AI회사에서도 모델에 따라 답변이 크게 다를 수 있습니다. \n- 앱에 담겨진 AI가 작성한 글에는 「AI 작성」 표시가 붙습니다. 사람이 검토하여 수정한 경우에는 사람이 검토했다는 표시가 추가됩니다. \n- 이 앱의 운영자는 키를 받거나 보관하지 않으며, 키는 사용자의 휴대폰이나 PC 의 보안 저장소에만 저장되므로 사용자가 철저하게 관리해야 합니다. \n- 유료 API를 이용하는 경우 AI 회사의 계정관리 화면에서 지출 한도, 예산, 충전, 알림 등을 확인하세요.",
+     "link": "",
+     "summary": "AI 대화는 사용자가 저장한 자기 키로 AI 회사에 바로 전달되며, 운영자는 키를 받거나 보관하지 않습니다. AI 의 답은 틀릴 수 있으니 성경 본문으로 확인하세요.",
+     "title": "AI 이용 안내"
+    }
+   }
+  },
+  {
+   "key": "REPORT",
+   "sort": 60,
+   "text": {
+    "EN": {
+     "body": "Found a bug or want a feature? Tell us which screen, what you did and what happened.",
+     "link": "app:ask",
+     "title": "Report a problem · Suggest"
+    },
+    "KO": {
+     "body": "오류를 발견했거나 필요한 기능이나 컨텐츠가 있으면 알려 주세요. 어떤 화면에서 무엇을 했을 때 어떤 오류가 있었는지 적어 주시면 빨리 고칠 수 있습니다.",
+     "link": "app:ask",
+     "title": "신고 · 제안"
+    }
+   }
+  },
+  {
+   "key": "DONATE",
+   "sort": 70,
+   "text": {
+    "EN": {
+     "body": "Asah Dabar runs without ads. Your prayers and support help us add materials and improve the app.",
+     "link": "",
+     "title": "Support us"
+    },
+    "KO": {
+     "body": "Asah Dabar 앱의 개선을 위하여 후원해 주시면 앱을 개선하는 데 쓰겠습니다.\n후원계좌\n페이팔 \n○○은행 000-0000-0000 (예금주: 홍길동)",
+     "link": "",
+     "title": "후원 안내"
+    }
+   }
+  }
+ ],
+ "ver": 84
+}

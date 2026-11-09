@@ -1,0 +1,35 @@
+{
+ "version": "2026.11.09.6",
+ "date": "2026-11-09 15:32",
+ "notes": "고쳐진 곳: 둘러보기 · 홈 · 기타 개선",
+ "pc": {
+  "version": "2026.11.09.6",
+  "file": "app_pc_2026.11.09.6_aeed8738.zip",
+  "sha256": "aeed873802157e8be83ed304adc002f47c55b91449e96437bd00bd1faf96ca58",
+  "size": 9156776,
+  "areas": []
+ },
+ "android": {
+  "version": "2026.11.09.6",
+  "code": 2026110906,
+  "file": "app_android_2026.11.09.6_c5255d1d.apk",
+  "sha256": "c5255d1d6be8bc7fedc6c60d5275083536638ffad4ceff83293becf127bf4dc4",
+  "size": 31756642,
+  "url": "https://dist.hagahtorah.com/app_android_2026.11.09.6_c5255d1d.apk",
+  "areas": [
+   [
+    "M_EXPLORE",
+    "둘러보기"
+   ],
+   [
+    "M_TAB_HOME",
+    "홈"
+   ],
+   [
+    "UPD_A_ETC",
+    "기타 개선"
+   ]
+  ]
+ },
+ "sig": "6bc90d0b9b4ca55f22353b54374c9b7e4401602570d35be30f930f28b32200be5cb7d7b2042064e8b2e84ddf87bbaafcfd17a1719a9872e0f1134d223020ff0f"
+}

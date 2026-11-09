@@ -1,0 +1,31 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Asah Dabar</title>
+<meta property="og:type" content="website"><meta property="og:site_name" content="Asah Dabar">
+<meta property="og:title" content="Asah Dabar"><meta property="og:description" content="성경을 읽고, 묵상하고, 이어 보다 · Read, meditate, connect.">
+<meta property="og:image" content="https://suhyw123-hub.github.io/a/og.png"><meta name="twitter:card" content="summary">
+<style>
+body{font-family:system-ui,sans-serif;margin:0;padding:32px 20px;text-align:center;color:#223;background:#fff}
+a.b{display:block;max-width:360px;margin:24px auto;padding:16px;border-radius:12px;background:#2E5A88;color:#fff;font-size:18px;text-decoration:none}
+p{color:#556;line-height:1.5}
+@media (prefers-color-scheme:dark){body{background:#111;color:#eee}p{color:#aaa}}
+</style></head><body>
+<h2>Asah Dabar</h2>
+<a class="b" id="go" href="#"></a>
+<p id="how"></p>
+<script>
+// 자료는 주소 # 뒤에만 있다 — 서버로 가지 않는다.
+var d = location.hash.slice(1);
+var ko = (navigator.language || '').toLowerCase().indexOf('ko') === 0;
+var go = document.getElementById('go');
+go.textContent = ko ? '+Asah Dabar 에 저장하기' : 'Save to +Asah Dabar';
+document.getElementById('how').textContent = ko
+  ? '버튼을 누르면 아사 다바르 앱이 열립니다. 앱이 없으면 앱을 먼저 설치하세요. 받은 메시지의 글은 앱 없이도 읽을 수 있습니다.'
+  : 'Tap the button to open the Asah Dabar app. If you do not have the app, install it first. You can read the message itself without the app.';
+if (/^[A-Za-z0-9_=-]+$/.test(d)) {
+  go.href = 'intent://open?d=' + d + '#Intent;scheme=hagah;package=com.hagah.hagah_mobile;end';
+  if (/Android/i.test(navigator.userAgent)) location.href = go.href;
+} else {
+  go.style.display = 'none';
+}
+</script></body></html>
