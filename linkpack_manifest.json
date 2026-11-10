@@ -1,5 +1,5 @@
 {
- "latest": 19,
+ "latest": 20,
  "full": true,
  "releases": [
   {
@@ -1155,9 +1155,9 @@
    "variant": "-",
    "note": "",
    "title": "Notes on the New Testament",
-   "version": 4,
+   "version": 5,
    "bytes": null,
-   "made_at": "2026-11-09 01:24"
+   "made_at": "2026-11-10 15:42"
   },
   {
    "kind": "COMM",
@@ -1166,9 +1166,9 @@
    "variant": "-",
    "note": "",
    "title": "Notes on the New Testament",
-   "version": 4,
+   "version": 5,
    "bytes": null,
-   "made_at": "2026-11-09 01:24"
+   "made_at": "2026-11-10 15:42"
   },
   {
    "kind": "COMM",
@@ -1177,9 +1177,9 @@
    "variant": "-",
    "note": "",
    "title": "Commentary on the Book of Psalms",
-   "version": 2,
+   "version": 3,
    "bytes": null,
-   "made_at": "2026-11-08 22:41"
+   "made_at": "2026-11-10 16:30"
   },
   {
    "kind": "COMM",
@@ -1199,9 +1199,9 @@
    "variant": "-",
    "note": "",
    "title": "Adam Clarke's Commentary on the Bible",
-   "version": 2,
+   "version": 4,
    "bytes": null,
-   "made_at": "2026-11-08 22:41"
+   "made_at": "2026-11-10 16:30"
   },
   {
    "kind": "COMM",
@@ -1210,9 +1210,9 @@
    "variant": "-",
    "note": "",
    "title": "Adam Clarke's Commentary on the Bible",
-   "version": 2,
+   "version": 3,
    "bytes": null,
-   "made_at": "2026-11-09 17:45"
+   "made_at": "2026-11-10 15:42"
   },
   {
    "kind": "COMM",
@@ -1221,9 +1221,9 @@
    "variant": "-",
    "note": "",
    "title": "Exposition of the Old and New Testament",
-   "version": 2,
+   "version": 4,
    "bytes": null,
-   "made_at": "2026-11-08 21:09"
+   "made_at": "2026-11-10 16:30"
   },
   {
    "kind": "COMM",
@@ -1375,9 +1375,9 @@
    "variant": "-",
    "note": "환경설정 양식(sys_pref_preset) 코어 표 추가",
    "title": "앱 기본 자료(연결·목록·껍데기)",
-   "version": 43,
+   "version": 44,
    "bytes": 10623966,
-   "made_at": "2026-11-09 17:45"
+   "made_at": "2026-11-10 15:42"
   },
   {
    "kind": "DESC",
@@ -2110,8 +2110,8 @@
   {
    "cycle": "BIANNUAL",
    "file": "corepack_BIANNUAL.json.gz",
-   "release": 43,
-   "bytes": 11446258
+   "release": 44,
+   "bytes": 11614626
   }
  ]
 }
