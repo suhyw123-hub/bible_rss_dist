@@ -1,31 +1,39 @@
 {
- "version": "2026.11.10.2",
- "date": "2026-11-10 15:47",
- "notes": "고쳐진 곳: 유튜브 · 홈",
+ "version": "2026.11.10.3",
+ "date": "2026-11-10 16:29",
+ "notes": "고쳐진 곳: 공지 · 홈 · 설정 · 기타 개선",
  "pc": {
-  "version": "2026.11.10.2",
-  "file": "app_pc_2026.11.10.2_ef2336af.zip",
-  "sha256": "ef2336af7075b9e17e77dba926c45eb0491b321751c00f41795e65b9a3a36780",
-  "size": 9162447,
+  "version": "2026.11.10.3",
+  "file": "app_pc_2026.11.10.3_3323d6f0.zip",
+  "sha256": "3323d6f012a9230d887d66f8330bb55295a8334bc22a0928c5424535e4ff1ae2",
+  "size": 9162448,
   "areas": []
  },
  "android": {
-  "version": "2026.11.10.2",
-  "code": 2026111002,
-  "file": "app_android_2026.11.10.2_3afa4a48.apk",
-  "sha256": "3afa4a48eef92c3050493ac9a487160dea478b48ae9e3176b1b535d5c7304040",
+  "version": "2026.11.10.3",
+  "code": 2026111003,
+  "file": "app_android_2026.11.10.3_0745fe00.apk",
+  "sha256": "0745fe00668c97b0f9e97bd09ec49f0374d001247fe20ea39a0034fb89f06eac",
   "size": 31822318,
-  "url": "https://dist.asahdabar.com/app_android_2026.11.10.2_3afa4a48.apk",
+  "url": "https://dist.asahdabar.com/app_android_2026.11.10.3_0745fe00.apk",
   "areas": [
    [
-    "M_TAB_WORSHIP",
-    "유튜브"
+    "M_HOME_NOTICE",
+    "공지"
    ],
    [
     "M_TAB_HOME",
     "홈"
+   ],
+   [
+    "M_SETTINGS",
+    "설정"
+   ],
+   [
+    "UPD_A_ETC",
+    "기타 개선"
    ]
   ]
  },
- "sig": "4cd666058530b15eb1585ccc65c4c302966101324b17a2d8bb28a6904423ed20be17b20335aff12fd9cba5cf625672b40befe76e613f2dc98413cb9daf8d9f07"
+ "sig": "35fd8394afeda60dff0ac2c0d1da1903dd372bbaf9b870d21c8c5ab727186bcb817c6bb99f6f3c3472f60cdcd685cd20b3d125c8e941d29dccec2a89acb17b0f"
 }
