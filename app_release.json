@@ -1,27 +1,63 @@
 {
- "version": "2026.11.10.5",
- "date": "2026-11-10 22:49",
- "notes": "고쳐진 곳: 검색 · 홈 · 기타 개선 · 설정·화면",
+ "version": "2026.11.11.1",
+ "date": "2026-11-11 02:01",
+ "notes": "고쳐진 곳: 쇼핑 · AI 대화 · 나의 시편 · 말씀카드 · 때에 맞는 말씀 · 성경 · 내 서재 · 둘러보기 · 검색 · 홈 · 설정 · 기타 개선 · 설정·화면",
  "pc": {
-  "version": "2026.11.10.5",
-  "file": "app_pc_2026.11.10.5_5f5ca0b0.zip",
-  "sha256": "5f5ca0b0652f380046b230c5c9ef2840e5aae4b684ca8e45d492b4fb8e5d3f63",
-  "size": 9165156,
+  "version": "2026.11.11.1",
+  "file": "app_pc_2026.11.11.1_bc71e8e7.zip",
+  "sha256": "bc71e8e7f4965ff33779ac5f66cca283bca75169b19b39b1b383e0192233a231",
+  "size": 9165530,
   "areas": [
    [
     "UPD_A_SETTINGS",
     "설정·화면"
+   ],
+   [
+    "UPD_A_ETC",
+    "기타 개선"
    ]
   ]
  },
  "android": {
-  "version": "2026.11.10.5",
-  "code": 2026111005,
-  "file": "app_android_2026.11.10.5_a3ea71be.apk",
-  "sha256": "a3ea71be2fb784555afa0910e7382aae26a595091923cb3543e9236a2e604078",
-  "size": 31887854,
-  "url": "https://dist.asahdabar.com/app_android_2026.11.10.5_a3ea71be.apk",
+  "version": "2026.11.11.1",
+  "code": 2026111101,
+  "file": "app_android_2026.11.11.1_18bb77d4.apk",
+  "sha256": "18bb77d40121f673668a6b9c0881f7b29bc3438a78a3e08f116cb215a82583f2",
+  "size": 31953106,
+  "url": "https://dist.asahdabar.com/app_android_2026.11.11.1_18bb77d4.apk",
   "areas": [
+   [
+    "M_TAB_SHOP2",
+    "쇼핑"
+   ],
+   [
+    "M_TAB_AI",
+    "AI 대화"
+   ],
+   [
+    "UPD_A_PSALM",
+    "나의 시편"
+   ],
+   [
+    "UPD_A_CARD",
+    "말씀카드"
+   ],
+   [
+    "UPD_A_TOPIC",
+    "때에 맞는 말씀"
+   ],
+   [
+    "M_TAB_BIBLE",
+    "성경"
+   ],
+   [
+    "M_LIBRARY",
+    "내 서재"
+   ],
+   [
+    "M_EXPLORE",
+    "둘러보기"
+   ],
    [
     "UPD_A_SEARCH",
     "검색"
@@ -31,10 +67,14 @@
     "홈"
    ],
    [
+    "M_SETTINGS",
+    "설정"
+   ],
+   [
     "UPD_A_ETC",
     "기타 개선"
    ]
   ]
  },
- "sig": "90bc000eaa6d0ef56fb4a03c5629b4f4bcb8e390cf9d2663ed3f9cb063a621f37e1062b80d129cd3b47f9ecf98b621b71bf3a2857c917b6bbb88fd3a8b3d5e0a"
+ "sig": "5ea3a5f9bbee3d1b4457041b735f0fe84269fd6849144023fdb147375f65c355ecbf0ae43d0b350dda944670f2bdf39c0cfae6afc998ae53dc5e3e854bfe860a"
 }
