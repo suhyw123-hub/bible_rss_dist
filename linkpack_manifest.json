@@ -1,5 +1,5 @@
 {
- "latest": 18,
+ "latest": 19,
  "full": true,
  "releases": [
   {
@@ -506,9 +506,9 @@
    "variant": "TRANSLATED",
    "note": "",
    "title": "Sketches of Jewish Social Life",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": "2026-11-06 23:50"
+   "made_at": "2026-11-09 17:45"
   },
   {
    "kind": "BOOK",
@@ -1144,53 +1144,53 @@
    "variant": "-",
    "note": "",
    "title": "Expositions on the Book of Psalms",
+   "version": 4,
+   "bytes": null,
+   "made_at": "2026-11-09 17:45"
+  },
+  {
+   "kind": "COMM",
+   "key": "BARNES_NT",
+   "lang": "EN",
+   "variant": "-",
+   "note": "",
+   "title": "Notes on the New Testament",
+   "version": 4,
+   "bytes": null,
+   "made_at": "2026-11-09 01:24"
+  },
+  {
+   "kind": "COMM",
+   "key": "BARNES_NT",
+   "lang": "KO",
+   "variant": "-",
+   "note": "",
+   "title": "Notes on the New Testament",
+   "version": 4,
+   "bytes": null,
+   "made_at": "2026-11-09 01:24"
+  },
+  {
+   "kind": "COMM",
+   "key": "CALVIN_PSA",
+   "lang": "EN",
+   "variant": "-",
+   "note": "",
+   "title": "Commentary on the Book of Psalms",
+   "version": 2,
+   "bytes": null,
+   "made_at": "2026-11-08 22:41"
+  },
+  {
+   "kind": "COMM",
+   "key": "CALVIN_PSA",
+   "lang": "KO",
+   "variant": "-",
+   "note": "",
+   "title": "Commentary on the Book of Psalms",
    "version": 3,
    "bytes": null,
-   "made_at": "2026-11-09 01:24"
-  },
-  {
-   "kind": "COMM",
-   "key": "BARNES_NT",
-   "lang": "EN",
-   "variant": "-",
-   "note": "",
-   "title": "Notes on the New Testament",
-   "version": 4,
-   "bytes": null,
-   "made_at": "2026-11-09 01:24"
-  },
-  {
-   "kind": "COMM",
-   "key": "BARNES_NT",
-   "lang": "KO",
-   "variant": "-",
-   "note": "",
-   "title": "Notes on the New Testament",
-   "version": 4,
-   "bytes": null,
-   "made_at": "2026-11-09 01:24"
-  },
-  {
-   "kind": "COMM",
-   "key": "CALVIN_PSA",
-   "lang": "EN",
-   "variant": "-",
-   "note": "",
-   "title": "Commentary on the Book of Psalms",
-   "version": 2,
-   "bytes": null,
-   "made_at": "2026-11-08 22:41"
-  },
-  {
-   "kind": "COMM",
-   "key": "CALVIN_PSA",
-   "lang": "KO",
-   "variant": "-",
-   "note": "",
-   "title": "Commentary on the Book of Psalms",
-   "version": 2,
-   "bytes": null,
-   "made_at": "2026-11-08 22:41"
+   "made_at": "2026-11-09 17:45"
   },
   {
    "kind": "COMM",
@@ -1210,9 +1210,9 @@
    "variant": "-",
    "note": "",
    "title": "Adam Clarke's Commentary on the Bible",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": "2026-11-06 23:50"
+   "made_at": "2026-11-09 17:45"
   },
   {
    "kind": "COMM",
@@ -1375,9 +1375,9 @@
    "variant": "-",
    "note": "환경설정 양식(sys_pref_preset) 코어 표 추가",
    "title": "앱 기본 자료(연결·목록·껍데기)",
-   "version": 42,
+   "version": 43,
    "bytes": 10623966,
-   "made_at": "2026-11-09 15:33"
+   "made_at": "2026-11-09 17:45"
   },
   {
    "kind": "DESC",
@@ -1672,9 +1672,9 @@
    "variant": "-",
    "note": "",
    "title": "Bible Study Notes",
-   "version": 2,
+   "version": 3,
    "bytes": null,
-   "made_at": "2026-11-03 16:26"
+   "made_at": "2026-11-09 17:45"
   },
   {
    "kind": "DICT",
@@ -1792,7 +1792,7 @@
    "lang": "-",
    "variant": "-",
    "note": "",
-   "title": "영상 연결 — 승인된 영상 주소 118,846편과 그 연결",
+   "title": "영상 연결 — 승인된 영상 주소 118,873편과 그 연결",
    "version": 1,
    "bytes": 13512056,
    "made_at": "2026-11-03 08:08"
@@ -2110,8 +2110,8 @@
   {
    "cycle": "BIANNUAL",
    "file": "corepack_BIANNUAL.json.gz",
-   "release": 42,
-   "bytes": 11399327
+   "release": 43,
+   "bytes": 11446258
   }
  ]
 }
