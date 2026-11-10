@@ -1,49 +1,34 @@
 {
- "version": "2026.11.10.4",
- "date": "2026-11-10 22:06",
- "notes": "고쳐진 곳: 성경 · 플랜 · 내 서재 · 유튜브 · 공지 · 홈 · 설정 · 기타 개선",
+ "version": "2026.11.10.5",
+ "date": "2026-11-10 22:49",
+ "notes": "고쳐진 곳: 검색 · 홈 · 기타 개선 · 설정·화면",
  "pc": {
-  "version": "2026.11.10.4",
-  "file": "app_pc_2026.11.10.4_c858c3e3.zip",
-  "sha256": "c858c3e318f4044dbec14121191865810a4d85eaf41f65c91c0dbce923f3706c",
-  "size": 9162448,
-  "areas": []
- },
- "android": {
-  "version": "2026.11.10.4",
-  "code": 2026111004,
-  "file": "app_android_2026.11.10.4_30de0c12.apk",
-  "sha256": "30de0c127b8ab1849955560ca5d5a7a3b469171ae17faec5a86ed45d9f122d23",
-  "size": 31887854,
-  "url": "https://dist.asahdabar.com/app_android_2026.11.10.4_30de0c12.apk",
+  "version": "2026.11.10.5",
+  "file": "app_pc_2026.11.10.5_5f5ca0b0.zip",
+  "sha256": "5f5ca0b0652f380046b230c5c9ef2840e5aae4b684ca8e45d492b4fb8e5d3f63",
+  "size": 9165156,
   "areas": [
    [
-    "M_TAB_BIBLE",
-    "성경"
-   ],
+    "UPD_A_SETTINGS",
+    "설정·화면"
+   ]
+  ]
+ },
+ "android": {
+  "version": "2026.11.10.5",
+  "code": 2026111005,
+  "file": "app_android_2026.11.10.5_a3ea71be.apk",
+  "sha256": "a3ea71be2fb784555afa0910e7382aae26a595091923cb3543e9236a2e604078",
+  "size": 31887854,
+  "url": "https://dist.asahdabar.com/app_android_2026.11.10.5_a3ea71be.apk",
+  "areas": [
    [
-    "M_TAB_PLAN",
-    "플랜"
-   ],
-   [
-    "M_LIBRARY",
-    "내 서재"
-   ],
-   [
-    "M_TAB_WORSHIP",
-    "유튜브"
-   ],
-   [
-    "M_HOME_NOTICE",
-    "공지"
+    "UPD_A_SEARCH",
+    "검색"
    ],
    [
     "M_TAB_HOME",
     "홈"
-   ],
-   [
-    "M_SETTINGS",
-    "설정"
    ],
    [
     "UPD_A_ETC",
@@ -51,5 +36,5 @@
    ]
   ]
  },
- "sig": "57362fe02dfa26d136826032bc020bf2f08e4e9f9ff4835c47c7fd241cbe7816cd09f7817d2b77917e6a7f52b5f97d785e92dd347b405d53c1edc37520e32902"
+ "sig": "90bc000eaa6d0ef56fb4a03c5629b4f4bcb8e390cf9d2663ed3f9cb063a621f37e1062b80d129cd3b47f9ecf98b621b71bf3a2857c917b6bbb88fd3a8b3d5e0a"
 }
