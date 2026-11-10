@@ -164,23 +164,7 @@
      "title": "신고 · 제안"
     }
    }
-  },
-  {
-   "key": "DONATE",
-   "sort": 70,
-   "text": {
-    "EN": {
-     "body": "Asah Dabar runs without ads. Your prayers and support help us add materials and improve the app.",
-     "link": "",
-     "title": "Support us"
-    },
-    "KO": {
-     "body": "Asah Dabar 앱의 개선을 위하여 후원해 주시면 앱을 개선하는 데 쓰겠습니다.\n후원계좌\n페이팔 \n○○은행 000-0000-0000 (예금주: 홍길동)",
-     "link": "",
-     "title": "후원 안내"
-    }
-   }
   }
  ],
- "ver": 129
+ "ver": 130
 }
