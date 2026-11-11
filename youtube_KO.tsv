@@ -1,7 +1,7 @@
 feed_url	site_name	lang	feed_kind	title	item_url	published	collected	title_orig	translated	xl_ok	xl_by	country
 	빨간고양이	KO	YOUTUBE	주님의 마음있는 곳 | 아이자야씩스티원 @i6tyone | Guitar cover	https://www.youtube.com/watch?v=W0yqWZjzhXo	2026-11-10T03:00:30Z	2026-11-10	주님의 마음있는 곳 | 아이자야씩스티원 @i6tyone | Guitar cover	0			KR
-	Piano and Peace	EN	YOUTUBE	TALK WITH GOD - Soaking worship instrumental | Prayer and Devotional	https://www.youtube.com/watch?v=2gY5z6Uj2QM	2026-11-09T14:58:02Z	2026-11-10	TALK WITH GOD - Soaking worship instrumental | Prayer and Devotional	0			US
-	Calm Divine Flow	EN	YOUTUBE	TAKE A MOMENT WITH GOD - Soaking Instrumental Worship for Prayer And Devotional #calmdivineflow	https://www.youtube.com/watch?v=heUUa0Kcdn8	2026-11-09T13:00:29Z	2026-11-10	TAKE A MOMENT WITH GOD - Soaking Instrumental Worship for Prayer And Devotional #calmdivineflow	0			US
+	Piano and Peace	EN	YOUTUBE	하나님과의 대화 - 소킹 워십 연주곡 | 기도와 묵상	https://www.youtube.com/watch?v=2gY5z6Uj2QM	2026-11-09T14:58:02Z	2026-11-10	TALK WITH GOD - Soaking worship instrumental | Prayer and Devotional	1		GEMINI	US
+	Calm Divine Flow	EN	YOUTUBE	하나님과 함께하는 순간 - 기도와 묵상을 위한 소킹 연주 워십 #calmdivineflow	https://www.youtube.com/watch?v=heUUa0Kcdn8	2026-11-09T13:00:29Z	2026-11-10	TAKE A MOMENT WITH GOD - Soaking Instrumental Worship for Prayer And Devotional #calmdivineflow	1		GEMINI	US
 	Praise the Lord 프레이즈더로드	KO	YOUTUBE	[은혜찬송 연속듣기] 매일 주야로 묵상하며 하나님을 찬양하는 은혜 찬송 모음집 1시간 ∣ 중간광고 없음 ∣ 지금까지 지내온 것🙏🏻  ∣ 은혜찬송, 십자가찬송, 묵상찬송	https://www.youtube.com/watch?v=tMiR9F_mvbo	2026-11-09T21:30:22Z	2026-11-10	[은혜찬송 연속듣기] 매일 주야로 묵상하며 하나님을 찬양하는 은혜 찬송 모음집 1시간 ∣ 중간광고 없음 ∣ 지금까지 지내온 것🙏🏻  ∣ 은혜찬송, 십자가찬송, 묵상찬송	0			KR
 	abbapraise Christian Music 아바프레이즈 크리스천 뮤직	KO	YOUTUBE	[찬송가 매일 1시간 연속듣기] 오늘 꼭 들어야 할 찬송가 연속듣기_보혈, 보혈찬송, 찬송가베스트, 찬송, 찬송가 연속 듣기, 은혜찬송, 찬송가, 찬송가 연속 듣기 광고없음	https://www.youtube.com/watch?v=8tIMCZwg5vQ	2026-11-09T21:00:14Z	2026-11-10	[찬송가 매일 1시간 연속듣기] 오늘 꼭 들어야 할 찬송가 연속듣기_보혈, 보혈찬송, 찬송가베스트, 찬송, 찬송가 연속 듣기, 은혜찬송, 찬송가, 찬송가 연속 듣기 광고없음	0			KR
 	abbapraise 아바프레이즈	KO	YOUTUBE	[1시간 찬송집] 매일마다 1시간 듣는 오늘의 찬송가 연속 듣기 | 중간광고 없음 | 내 진정 사모하는 | 찬송가 연속 듣기, 아침찬송, 새벽찬송, 매일찬송	https://www.youtube.com/watch?v=EnaWwJOkAJA	2026-11-09T20:50:20Z	2026-11-10	[1시간 찬송집] 매일마다 1시간 듣는 오늘의 찬송가 연속 듣기 | 중간광고 없음 | 내 진정 사모하는 | 찬송가 연속 듣기, 아침찬송, 새벽찬송, 매일찬송	0			KR
@@ -35,6 +35,7 @@ feed_url	site_name	lang	feed_kind	title	item_url	published	collected	title_orig	
 	Murphytown Baptist Church	EN	YOUTUBE	머피타운 침례교회 생중계	https://www.youtube.com/watch?v=7Psdw42kb5k	2026-11-09	2026-11-09	Murphytown Baptist Livestream	1		GEMINI	US
 	KPCR::부활의교회	EN	YOUTUBE	하나님이 세상을 이처럼 사랑하사 - 요한복음 3:16-21 (11월 8일)	https://www.youtube.com/watch?v=M8GY9OGJKlc	2026-11-09	2026-11-09	How Much God Loves the World - John 3:16-21(Nov 8)	1		GEMINI	US
 	Living Word Bible Church	EN	YOUTUBE	하나님, 오늘 어떤 위대한 일을 행하시겠습니까? | 톰 앤더슨 박사 & 모린 앤더슨 박사 | 주일 오전 8시	https://www.youtube.com/watch?v=phTFwDw9z-A	2026-11-09	2026-11-09	What Great Things, God, Are You Going to Do Today? | Drs. Tom and Maureen Anderson | Sunday 8 Am	1		GEMINI	US
+	산타모니카 한인교회	EN	YOUTUBE	SMKC English Worship “Have Your Tears Run Dry?” Mathew 9:35-38 By Intern Pastor David Chun	https://www.youtube.com/watch?v=YNDNNAUhauk	2026-11-09	2026-11-09	SMKC English Worship “Have Your Tears Run Dry?” Mathew 9:35-38 By Intern Pastor David Chun	0			US
 	Jubilee Evangelical Church	EN	YOUTUBE	영광스럽게 하도록 지음받음	https://www.youtube.com/watch?v=aSbQC6Qwqk0	2026-11-09	2026-11-09	Designed to Glorify	1		GEMINI	US
 	Central Church of Christ	EN	YOUTUBE	너희 길을 돌아보라, 스콧 맥카운 | 11/8/26 주일 오전, 센트럴 그리스도의 교회	https://www.youtube.com/watch?v=LYCtnCmOvPs	2026-11-09	2026-11-09	Consider Your Ways, Scott McCown | 11/8/26 Sunday AM at Central Church of Christ	1		GEMINI	US
 	The Revival Church	EN	YOUTUBE	창세기 42-45장	https://www.youtube.com/watch?v=0ePZD3Gi_XU	2026-11-09	2026-11-09	Genesis 42-45	1		GEMINI	US
@@ -44,7 +45,6 @@ feed_url	site_name	lang	feed_kind	title	item_url	published	collected	title_orig	
 	For Jesus in New England	EN	YOUTUBE	그리고 여전히 여성 안수에 반대한다. 교정적 개신교 팟캐스트 2026.26	https://www.youtube.com/watch?v=a71lBi8Vb9g	2026-11-09	2026-11-09	And Still NO to Women's Ordination. Remedial Protestantism podcast 2026.26	1		GEMINI	US
 	The Brooklyn Tabernacle	EN	YOUTUBE	우리에게 필요한 모든 것 | 짐 심발라 목사 | 주일 예배 | 브루클린 태번내클	https://www.youtube.com/watch?v=2yfgx0ZgfVA	2026-11-09	2026-11-09	All That We Need | Pastor Jim Cymbala | Sunday Service | The Brooklyn Tabernacle	1		GEMINI	US
 	The Brooklyn Tabernacle	EN	YOUTUBE	영적 전쟁의 원리 | 로렌 라슨 목사 | 주일 예배 | 브루클린 태번내클	https://www.youtube.com/watch?v=oEXUVYSraTw	2026-11-09	2026-11-09	Principles of War | Pastor Loren Larson | Sunday Service | The Brooklyn Tabernacle	1		GEMINI	US
-	Refúgio de Oração	EN	YOUTUBE	기도의 피난처가 생방송 중입니다!	https://www.youtube.com/watch?v=nm72EF2Uqh4	2026-11-09	2026-11-09	Refúgio de Oração está ao vivo!	1		GEMINI	US
 	Cheyenne Mountain Presbyterian Church	EN	YOUTUBE	CMPC 설교: 2026년 11월 8일 주일: 로마서 9:14-18 ESV	https://www.youtube.com/watch?v=Vnen1A_OmC8	2026-11-09	2026-11-09	CMPC Sermon: Sunday, November 08 2026:  Romans 9:14-18 ESV	1		GEMINI	US
 	훌러톤장로교회	KO	YOUTUBE	[11/8/2026] | 훌러톤장로교회 성가대 | 풋대를 향하여 (곡: John W. Peterson arr by 김기영)	https://www.youtube.com/watch?v=y4xQ4NnEBYg	2026-11-09	2026-11-09	[11/8/2026] | 훌러톤장로교회 성가대 | 풋대를 향하여 (곡: John W. Peterson arr by 김기영)	0			KR
 	훌러톤장로교회	KO	YOUTUBE	[11/8/2026] 훌러톤장로교회 주일설교 l 내가 광주리를 타고 | 유영진 목사	https://www.youtube.com/watch?v=esyP8N6bTVA	2026-11-09	2026-11-09	[11/8/2026] 훌러톤장로교회 주일설교 l 내가 광주리를 타고 | 유영진 목사	0			KR
@@ -68,7 +68,6 @@ feed_url	site_name	lang	feed_kind	title	item_url	published	collected	title_orig	
 	인천성산교회: 인천이단상담소	KO	YOUTUBE	l 인천성산교회 인천이단상담소 l 20261108 주일1부예배 l 성산찬양단	https://www.youtube.com/watch?v=it1Jvbg_KTA	2026-11-09	2026-11-09	l 인천성산교회 인천이단상담소 l 20261108 주일1부예배 l 성산찬양단	0			KR
 	극동방송대전	KO	YOUTUBE	[보이는라디오] 261109 월 사랑의뜰안	https://www.youtube.com/watch?v=jBdfxFbzihc	2026-11-09	2026-11-09	[보이는라디오] 261109 월 사랑의뜰안	0			KR
 	Hanmee Presbyterian Church	KO	YOUTUBE	[한미 1부] 다니엘 말씀 시리즈 9 "예언과 환상" | 다니엘 7:9-14 | 2026.11.8 | 고훈 담임목사	https://www.youtube.com/watch?v=wfW0b5r3yqw	2026-11-09	2026-11-09	[한미 1부] 다니엘 말씀 시리즈 9 "예언과 환상" | 다니엘 7:9-14 | 2026.11.8 | 고훈 담임목사	0			KR
-	산타모니카 한인교회	KO	YOUTUBE	SMKC English Worship “Have Your Tears Run Dry?” Mathew 9:35-38 By Intern Pastor David Chun	https://www.youtube.com/watch?v=YNDNNAUhauk	2026-11-09	2026-11-09	SMKC English Worship “Have Your Tears Run Dry?” Mathew 9:35-38 By Intern Pastor David Chun	0			KR
 	New Frontier Church	KO	YOUTUBE	[뉴저지 캠퍼스] 나는 누구, 여긴 어디 (눅 5:1-11) - 황진오 목사	https://www.youtube.com/watch?v=GJMJDfu53bA	2026-11-09	2026-11-09	[뉴저지 캠퍼스] 나는 누구, 여긴 어디 (눅 5:1-11) - 황진오 목사	0			KR
 	광주 신안교회	KO	YOUTUBE	[주일저녁설교] 멈춤, 비움, 빚음 | 이우규 목사 | 2026-11-08	https://www.youtube.com/watch?v=dwEGioHaNls	2026-11-09	2026-11-09	[주일저녁설교] 멈춤, 비움, 빚음 | 이우규 목사 | 2026-11-08	0			KR
 	광주 신안교회	KO	YOUTUBE	[주일설교] 부끄러움을 아는 성도의 부끄럽지 않은 이유 | 정준 위임목사 | #신안교회	https://www.youtube.com/watch?v=R645WVMJ20Y	2026-11-09	2026-11-09	[주일설교] 부끄러움을 아는 성도의 부끄럽지 않은 이유 | 정준 위임목사 | #신안교회	0			KR
@@ -82,13 +81,13 @@ feed_url	site_name	lang	feed_kind	title	item_url	published	collected	title_orig	
 	C채널방송 : 설교	KO	YOUTUBE	[2026.11.06. 명성교회 새벽기도회]  김하나 담임목사 [C채널] 사람들은 무엇에 열광하는가	https://www.youtube.com/watch?v=yEMdnsXKz4g	2026-11-09	2026-11-09	[2026.11.06. 명성교회 새벽기도회]  김하나 담임목사 [C채널] 사람들은 무엇에 열광하는가	0			KR
 	C채널방송 : 설교	KO	YOUTUBE	하늘비전교회 장충만 목사 | 날, 날 무슨 날? [C채널] 비전메시지	https://www.youtube.com/watch?v=V4hwnscY9BA	2026-11-09	2026-11-09	하늘비전교회 장충만 목사 | 날, 날 무슨 날? [C채널] 비전메시지	0			KR
 	C채널방송 : 설교	KO	YOUTUBE	두란노교회 이상문 목사 ㅣ잊을 수가 없어요(1) [C채널] 비전메시지	https://www.youtube.com/watch?v=4m4i_5kzoc4	2026-11-09	2026-11-09	두란노교회 이상문 목사 ㅣ잊을 수가 없어요(1) [C채널] 비전메시지	0			KR
+	Refúgio de Oração	PT	YOUTUBE	기도의 피난처가 생방송 중입니다!	https://www.youtube.com/watch?v=nm72EF2Uqh4	2026-11-09	2026-11-09	Refúgio de Oração está ao vivo!	1		GEMINI	BR
 	Praise the Lord 프레이즈더로드	KO	YOUTUBE	[승리찬송 연속듣기] 매일 즐거이 부르며 능력의 주님과 동행하는 승리 찬송 모음집 1시간 ∣ 중간광고 없음 ∣ 믿는 사람들은 주의 군사니🙏🏻  ∣ 보혈찬송, 십자가찬송, 묵상찬송	https://www.youtube.com/watch?v=mJDsVYHqvUA	2026-11-08T21:30:17Z	2026-11-10	[승리찬송 연속듣기] 매일 즐거이 부르며 능력의 주님과 동행하는 승리 찬송 모음집 1시간 ∣ 중간광고 없음 ∣ 믿는 사람들은 주의 군사니🙏🏻  ∣ 보혈찬송, 십자가찬송, 묵상찬송	0			KR
 	abbapraise Christian Music 아바프레이즈 크리스천 뮤직	KO	YOUTUBE	[찬송가 매일 1시간 연속듣기] 오늘 꼭 들어야 할 찬송가 연속듣기_광고없는찬송가, 찬송가베스트, 찬송, 찬송가 연속 듣기, 은혜찬송, 찬송가, 찬송가 연속 듣기 광고없음	https://www.youtube.com/watch?v=XfTxz6sO9cE	2026-11-08T21:00:25Z	2026-11-10	[찬송가 매일 1시간 연속듣기] 오늘 꼭 들어야 할 찬송가 연속듣기_광고없는찬송가, 찬송가베스트, 찬송, 찬송가 연속 듣기, 은혜찬송, 찬송가, 찬송가 연속 듣기 광고없음	0			KR
 	abbapraise 아바프레이즈	KO	YOUTUBE	[3시간] 한 해 동안 베풀어주신 은혜에 감사하는 추수감사 찬송가 7곡🍁 | '모든 것이 하나님의 은혜였습니다' | 풍성한 감사와 기쁨이 넘치는 은혜로운 찬송가 연속듣기	https://www.youtube.com/watch?v=rlUhnu71Gt8	2026-11-08T20:50:30Z	2026-11-10	[3시간] 한 해 동안 베풀어주신 은혜에 감사하는 추수감사 찬송가 7곡🍁 | '모든 것이 하나님의 은혜였습니다' | 풍성한 감사와 기쁨이 넘치는 은혜로운 찬송가 연속듣기	0			KR
 	Commemorative HYMN	KO	YOUTUBE	[찬송가 연속듣기] 보혈로 다시 일어서는 찬송|마음의 근심과 불안이 싹 사라지는 찬송모음 들을수록 기쁨 샘솟는 찬양 | HYMN Collection | 예수 십자가에 흘린 피로써	https://www.youtube.com/watch?v=Q-z9vlkRId4	2026-11-08T20:00:02Z	2026-11-10	[찬송가 연속듣기] 보혈로 다시 일어서는 찬송|마음의 근심과 불안이 싹 사라지는 찬송모음 들을수록 기쁨 샘솟는 찬양 | HYMN Collection | 예수 십자가에 흘린 피로써	0			KR
 	EDEM 에뎀	KO	YOUTUBE	11월 9일 쉬운말 맥체인 오디오 성경	https://www.youtube.com/watch?v=eGzo0rLRyAI	2026-11-08T12:00:17Z	2026-11-10	11월 9일 쉬운말 맥체인 오디오 성경	0			KR
 	아이자야씩스티원 Isaiah6tyOne	KO	YOUTUBE	나의 영원하신 기업 | Close To Thee | THE GOSPEL IV | Hymn	https://www.youtube.com/watch?v=rkoanLFDfBc	2026-11-08T09:00:23Z	2026-11-10	나의 영원하신 기업 | Close To Thee | THE GOSPEL IV | Hymn	0			KR
-	Ken Zenk	EN	YOUTUBE	63 요한이서 - 켄 젠크 목사 - 성경 공부--	https://www.youtube.com/watch?v=Aj3I8caIx2I	2026-11-08	2026-11-09	63 2 Juan - Pastor Ken Zenk - Estudios Biblicos--	1		GEMINI	US
 	Ken Zenk	EN	YOUTUBE	63 요한이서 - 켄 젠크 목사 - 성경 공부--	https://www.youtube.com/watch?v=h-6Q-XFZQdc	2026-11-08	2026-11-09	63 2 John - Pastor Ken Zenk - Bible Studies--	1		GEMINI	US
 	Pastor Jerry N. Thrower	EN	YOUTUBE	"이제 우리는 어떻게 해야 합니까?" 2026년 11월 8일, 주일 오전, 시편 75:6-7; 37:1-20, 제리 N. 트로워 목사	https://www.youtube.com/watch?v=50RIP_FIJ2E	2026-11-08	2026-11-09	"What Do We Do Now?" 11/8/2026, Sunday AM, Psalm 75:6-7; 37:1-20, by Pastor Jerry N. Thrower	1		GEMINI	US
 	MrsSheila's World Of Fun & Inspiration	EN	YOUTUBE	가을 🍂🍁 주일 묵상은 오직 당신을 위해!! ✝️😘✝️🙏🏾🫂🙌🏾😊	https://www.youtube.com/watch?v=v_AKQik8E6Q	2026-11-08	2026-11-09	It's A Fall 🍂🍁 Sunday Devotion Just For You!! ✝️😘✝️🙏🏾🫂🙌🏾😊	1		GEMINI	US
@@ -128,7 +127,6 @@ feed_url	site_name	lang	feed_kind	title	item_url	published	collected	title_orig	
 	Bible Babble	EN	YOUTUBE	시편 111-115편	https://www.youtube.com/watch?v=6FVzRjVNvI0	2026-11-08	2026-11-09	Psalms 111-115	1		GEMINI	US
 	Mighty Warrior	EN	YOUTUBE	구약 연대기	https://www.youtube.com/watch?v=UyVwguG_Vjw	2026-11-08	2026-11-09	Old Testament Timeline	1		GEMINI	US
 	Mighty Warrior	EN	YOUTUBE	시편 104편 (창조와 섭리 가운데 나타난 하나님의 위대하심을 찬양)	https://www.youtube.com/watch?v=nAWVmEOTgCk	2026-11-08	2026-11-09	Psalm 104 (Praise for God’s Majesty in Creation and Providence)	1		GEMINI	US
-	Mighty Warrior	EN	YOUTUBE	시편 104편 (창조와 섭리 가운데 나타난 하나님의 위대하심을 찬양)	https://www.youtube.com/watch?v=YROJ4RWg3Qs	2026-11-08	2026-11-09	诗篇第104篇（赞美上帝在创造与护理中的威严）	1		GEMINI	US
 	Scripture Reading & All Things Jesus	EN	YOUTUBE	다니엘서 11:37 "여인의 사모하는 것" 예언 해설	https://www.youtube.com/watch?v=RhZj-7Ekd4M	2026-11-08	2026-11-09	The Daniel 11:37 "Desire of Women" Prophecy Explained	1		GEMINI	US
 	Everyday Church	EN	YOUTUBE	진정성 - 사회적 행동 - 나탈리 윌리엄스	https://www.youtube.com/watch?v=Ph-n-OBb6AE	2026-11-08	2026-11-09	Authentic - Social Action – Natalie Williams	1		GEMINI	US
 	Christ Reformed Church	EN	YOUTUBE	고린도전서 14:20-25	https://www.youtube.com/watch?v=wRm6suABjHg	2026-11-08	2026-11-09	1 Cor 14:20-25	1		GEMINI	US
@@ -140,7 +138,6 @@ feed_url	site_name	lang	feed_kind	title	item_url	published	collected	title_orig	
 	GCF East	EN	YOUTUBE	GCF 이스트 주일 예배 생중계 2026년 11월 8일 | 마가복음 10:32–34	https://www.youtube.com/watch?v=N3L2vD8-z74	2026-11-08	2026-11-09	GCF East Live Sunday Worship Service November 08, 2026 | Mark 10:32–34	1		GEMINI	US
 	Cornerstone Orlando	EN	YOUTUBE	주일 오후 예배	https://www.youtube.com/watch?v=XTZRIx5xJ_s	2026-11-08	2026-11-09	Sunday Afternoon Service	1		GEMINI	US
 	God365Nonstop	EN	YOUTUBE	죄를 사랑하는 자, 하나님을 미워하는 자	https://www.youtube.com/watch?v=2j3Ny0bX6Iw	2026-11-08	2026-11-09	Sin lovers Haters of God	1		GEMINI	US
-	리파이너리 교회 (Refinery Church)	EN	YOUTUBE	기도의 실제: 흔들리지 않는 기도의 습관 (골로새서 4장 2절)	https://www.youtube.com/watch?v=WaTWJTN7O1E	2026-11-08	2026-11-09	The Practice of Prayer: 흔들리지 않는 기도의 습관 (골로새서 4장 2절)	1		GEMINI	US
 	Copper Canyon Baptist Church	EN	YOUTUBE	시편 103:1-5	https://www.youtube.com/watch?v=ZZQVDzQ9BGw	2026-11-08	2026-11-09	psalm 103:1-5	1		GEMINI	US
 	☀️softypapa	EN	YOUTUBE	좋은 삶 - 2026년 11월 9일 월요일	https://www.youtube.com/watch?v=2FOqcoo8smI	2026-11-08	2026-11-09	The Good Life - 11/09/2026 Monday	1		GEMINI	US
 	First Baptist Church Chillicothe MO (fbchilli)	EN	YOUTUBE	주일 예배, 2026년 11월 8일, “가인의 길” 창세기 4:1-16	https://www.youtube.com/watch?v=20rA49vFEl8	2026-11-08	2026-11-09	Sunday Worship, Nov. 8, 2026, “The Way of Cain” Genesis 4:1-16	1		GEMINI	US
@@ -150,6 +147,7 @@ feed_url	site_name	lang	feed_kind	title	item_url	published	collected	title_orig	
 	Living Word Bible Church	EN	YOUTUBE	서서바이브 | 스콧 앤더슨 목사 | 주일 오전 9시 30분	https://www.youtube.com/watch?v=-4haTKAZZJo	2026-11-08	2026-11-09	Surthrive | Pastor Scot Anderson | Sunday 9:30 Am	1		GEMINI	US
 	Living Word Bible Church	EN	YOUTUBE	서서바이브 | 스콧 앤더슨 목사 | 주일 오전 10시 45분	https://www.youtube.com/watch?v=QMkMUvFTE_E	2026-11-08	2026-11-09	Surthrive | Pastor Scot Anderson | Sunday 10:45 Am	1		GEMINI	US
 	Living Word Bible Church	EN	YOUTUBE	서서바이브 | 스콧 앤더슨 목사 | 주일 정오	https://www.youtube.com/watch?v=FD4DFoY_BOI	2026-11-08	2026-11-09	Surthrive | Pastor Scot Anderson | Sunday 12 Pm	1		GEMINI	US
+	산타모니카 한인교회	EN	YOUTUBE	SMKC 영어 예배 "두려움의 시대" 마태복음 5:43–48 데이비드 춘 인턴 목사 2026년 11월 8일	https://www.youtube.com/watch?v=Iz-CWbnRAU8	2026-11-08	2026-11-09	SMKC English Worship “ An Age of Fear” Matthew 5:43–48 Intern Pastor David Chun 11/08/26	1		GEMINI	US
 	ZionUCCTonawanda	EN	YOUTUBE	11월 8일 오전 9시 예배	https://www.youtube.com/watch?v=pC5qLZdYvlg	2026-11-08	2026-11-09	9am November 8th Worship Service	1		GEMINI	US
 	ZionUCCTonawanda	EN	YOUTUBE	11월 8일 오전 10시 45분 예배	https://www.youtube.com/watch?v=b2mcejgTRiE	2026-11-08	2026-11-09	10:45am November 8 Worship Service	1		GEMINI	US
 	ZionUCCTonawanda	EN	YOUTUBE	설교: 격려의 말씀	https://www.youtube.com/watch?v=y7PWtC-tNyw	2026-11-08	2026-11-09	Sermon: Words of Encouragement	1		GEMINI	US
@@ -169,7 +167,6 @@ feed_url	site_name	lang	feed_kind	title	item_url	published	collected	title_orig	
 	ChristianWorshipHour	EN	YOUTUBE	여리고로 가는 길	https://www.youtube.com/watch?v=HMVv5Hl4S5A	2026-11-08	2026-11-09	The Jericho Road	1		GEMINI	US
 	Central Church of Christ	EN	YOUTUBE	하나님, 저에게 무엇을 원하시나요 11월 8일 오후	https://www.youtube.com/watch?v=R7l8hp_4nAw	2026-11-08	2026-11-09	What do You Want from Me, God Nov 08 Afternoon	1		GEMINI	US
 	The Revival Church	EN	YOUTUBE	로마서 8:31-34 멈출 수 없는	https://www.youtube.com/watch?v=Pw_WmKa9djQ	2026-11-08	2026-11-09	Romans 8:31-34 Unstoppable	1		GEMINI	US
-	Blessed Hope Bible-Presbyterian Church	EN	YOUTUBE	하나님의 나라가 너희에게 임하였느니라 - 누가복음 11:14-20	https://www.youtube.com/watch?v=RURwo_-Lh7o	2026-11-08	2026-11-09	神 的 国 临 到 你 们 了 - Luke 11:14-20	1		GEMINI	US
 	Redeemer Lincoln Square	EN	YOUTUBE	LSQ 예배 2026년 11월 8일	https://www.youtube.com/watch?v=HfOv58_Ewbg	2026-11-08	2026-11-09	LSQ Worship Service 11/8/2026	1		GEMINI	US
 	The Lyrical Word	EN	YOUTUBE	무거운 영광 - 일곱 번째 재앙 - 우박 (출애굽기 9:13–35) 성경 가사 비디오	https://www.youtube.com/watch?v=Ru5bsuxjIyY	2026-11-08	2026-11-09	Heavy Glory - The 7th Plague - Hail (Exodus 9:13–35)  Scripture Lyric Video	1		GEMINI	US
 	Calvary Lutheran Eaton Rapids	EN	YOUTUBE	최후의 심판 - 옛적부터 항상 계신 이가 보좌에 앉으시다! - 다니엘서 7:9-10	https://www.youtube.com/watch?v=9Uo0dWcP2eY	2026-11-08	2026-11-09	Last Judgment - The Ancient Of Days Takes His Throne! - Daniel 7:9-10	1		GEMINI	US
@@ -199,3 +196,6 @@ feed_url	site_name	lang	feed_kind	title	item_url	published	collected	title_orig	
 	The Brooklyn Tabernacle	EN	YOUTUBE	오후 6시 30분 | 브루클린 태번내클 실시간 교회 예배 생중계 중 | 화요일 기도 모임	https://www.youtube.com/watch?v=He5BSGy1lHc	2026-11-08	2026-11-09	6:30pm | LIVE Church Service Streaming Now | The Brooklyn Tabernacle | Tuesday Prayer Meeting	1		GEMINI	US
 	Old Church Gospel Hymn	EN	YOUTUBE	하나님의 약속이 가장 필요할 때 | 믿음과 위로를 주는 옛날 복음 송	https://www.youtube.com/watch?v=5yFSfXwM9EE	2026-11-08	2026-11-09	When You Need God’s Promises Most  Old Time Gospel Songs of Faith & Comfort	1		GEMINI	US
 	Minden Baptist Church in Minden, TX	EN	YOUTUBE	종말론 강해 요한계시록 2:12-17	https://www.youtube.com/watch?v=2EvgrlvsZHg	2026-11-08	2026-11-09	Eschatology Lectures Revelation 2:12-17	1		GEMINI	US
+	Minden Baptist Church in Minden, TX	EN	YOUTUBE	하나님의 성전, 고린도전서 3:16-17	https://www.youtube.com/watch?v=B6VwmSTM0-0	2026-11-08	2026-11-09	God's Temple, 1 Corinthians 3:16-17	1		GEMINI	US
+	Florence Christian Church (Disciples of Christ)	EN	YOUTUBE	FCC 11월 8일	https://www.youtube.com/watch?v=gk8GSp4b1LA	2026-11-08	2026-11-09	FCC Nov 8	1		GEMINI	US
+	Elder Darnell Tabor, Jr.	EN	YOUTUBE	제10과 ■ 2026년 11월 8일 모든 것이 새롭도다 성경 공과 요한계시록 21:1-8	https://www.youtube.com/watch?v=JKDmOV3j6eE	2026-11-08	2026-11-09	LESSON 10 ■ NOVEMBER 8, 2026 EVERYTHING'S BRAND NEW SCRIPTURE LESSON REVELATION 21:1-8	1		GEMINI	US
