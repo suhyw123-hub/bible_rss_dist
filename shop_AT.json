@@ -340,6 +340,19 @@
     "ZHT": "電器"
    },
    "sort": 80
+  },
+  {
+   "code": "TEST_TRAVEL",
+   "kind": "TRAVEL",
+   "names": {
+    "EN": "Pilgrimage & travel",
+    "KO": "순례·여행 프로그램"
+   },
+   "shorts": {
+    "EN": "Travel",
+    "KO": "여행"
+   },
+   "sort": 900
   }
  ],
  "collect_q": true,
@@ -446,6 +459,18 @@
     [
      "마이크",
      "DIGITAL"
+    ],
+    [
+     "성지순례",
+     "TRAVEL"
+    ],
+    [
+     "제주",
+     "TRAVEL"
+    ],
+    [
+     "예루살렘",
+     "TRAVEL"
     ]
    ],
    "LATIN": [
@@ -488,6 +513,14 @@
     [
      "gift card",
      "GIFT_CARD"
+    ],
+    [
+     "holy land tour",
+     "TRAVEL"
+    ],
+    [
+     "Jerusalem",
+     "TRAVEL"
     ]
    ]
   },
@@ -592,6 +625,18 @@
     [
      "마이크",
      "DIGITAL"
+    ],
+    [
+     "성지순례",
+     "TRAVEL"
+    ],
+    [
+     "제주",
+     "TRAVEL"
+    ],
+    [
+     "예루살렘",
+     "TRAVEL"
     ]
    ],
    "LATIN": [
@@ -634,6 +679,14 @@
     [
      "gift card",
      "GIFT_CARD"
+    ],
+    [
+     "holy land tour",
+     "TRAVEL"
+    ],
+    [
+     "Jerusalem",
+     "TRAVEL"
     ]
    ]
   }
@@ -688,5 +741,5 @@
    "text": 1
   }
  ],
- "version": 15
+ "version": 18
 }
