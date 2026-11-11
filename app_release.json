@@ -1,12 +1,12 @@
 {
- "version": "2026.11.11.2",
- "date": "2026-11-11 15:55",
- "notes": "고쳐진 곳: 쇼핑 · 성경 · 유튜브 · 둘러보기 · 기타 개선",
+ "version": "2026.11.11.3",
+ "date": "2026-11-11 19:56",
+ "notes": "고쳐진 곳: 쇼핑 · 기타 개선",
  "pc": {
-  "version": "2026.11.11.2",
-  "file": "app_pc_2026.11.11.2_eadac28e.zip",
-  "sha256": "eadac28e0bfa649037e2fde5a59a9ed28be6154a70777fa98e1a0482d05acc2e",
-  "size": 9168851,
+  "version": "2026.11.11.3",
+  "file": "app_pc_2026.11.11.3_2261568a.zip",
+  "sha256": "2261568acc3060bf3f0e33a2936fdeaad6dc99bd5d1bdaf140f0c1190511c3b4",
+  "size": 9171971,
   "areas": [
    [
     "UPD_A_ETC",
@@ -15,28 +15,16 @@
   ]
  },
  "android": {
-  "version": "2026.11.11.2",
-  "code": 2026111102,
-  "file": "app_android_2026.11.11.2_1c01f6de.apk",
-  "sha256": "1c01f6dedc7bac003c272e0be5f64ca7fdac42a39647317d0cdd11a3b9376ff5",
-  "size": 32019046,
-  "url": "https://dist.asahdabar.com/app_android_2026.11.11.2_1c01f6de.apk",
+  "version": "2026.11.11.3",
+  "code": 2026111103,
+  "file": "app_android_2026.11.11.3_a907592f.apk",
+  "sha256": "a907592f9bff75e73d1ab6a45f0df373c589c94d59bd5434df4e7b69c2f6c66c",
+  "size": 32085266,
+  "url": "https://dist.asahdabar.com/app_android_2026.11.11.3_a907592f.apk",
   "areas": [
    [
     "M_TAB_SHOP2",
     "쇼핑"
-   ],
-   [
-    "M_TAB_BIBLE",
-    "성경"
-   ],
-   [
-    "M_TAB_WORSHIP",
-    "유튜브"
-   ],
-   [
-    "M_EXPLORE",
-    "둘러보기"
    ],
    [
     "UPD_A_ETC",
@@ -44,5 +32,5 @@
    ]
   ]
  },
- "sig": "f355d8168ce3e6f25b36deae8fe226a537287f29b16c0cce24c3846539ac26aad9b5a0bb9302d2fd22f42705ee92b60f1976df4add9478ae08b50bc3d48d2b0a"
+ "sig": "e881d3af048b5a36ac3f4afaf0a3e761f5ea32ccd17b504d6856ebe5667084a1f173f0a1c9f3c9ede2963dcbd5d27d4984d233ac61d5b58eccbf22515508b30b"
 }
