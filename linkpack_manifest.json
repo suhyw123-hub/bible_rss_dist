@@ -198,9 +198,9 @@
    "variant": "-",
    "note": "",
    "title": "Korean Revised Version",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-11 15:57"
   },
   {
    "kind": "BIBLE",
@@ -1155,9 +1155,9 @@
    "variant": "-",
    "note": "",
    "title": "Notes on the New Testament",
-   "version": 5,
+   "version": 8,
    "bytes": null,
-   "made_at": "2026-11-10 15:42"
+   "made_at": "2026-11-11 15:57"
   },
   {
    "kind": "COMM",
@@ -1166,9 +1166,20 @@
    "variant": "-",
    "note": "",
    "title": "Notes on the New Testament",
-   "version": 5,
+   "version": 8,
    "bytes": null,
-   "made_at": "2026-11-10 15:42"
+   "made_at": "2026-11-11 15:57"
+  },
+  {
+   "kind": "COMM",
+   "key": "BARNES_OT",
+   "lang": "EN",
+   "variant": "-",
+   "note": "",
+   "title": "Notes on the Old Testament",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-11 17:58"
   },
   {
    "kind": "COMM",
@@ -1199,9 +1210,9 @@
    "variant": "-",
    "note": "",
    "title": "Adam Clarke's Commentary on the Bible",
-   "version": 4,
+   "version": 5,
    "bytes": null,
-   "made_at": "2026-11-10 16:30"
+   "made_at": "2026-11-10 22:07"
   },
   {
    "kind": "COMM",
@@ -1221,9 +1232,9 @@
    "variant": "-",
    "note": "",
    "title": "Exposition of the Old and New Testament",
-   "version": 4,
+   "version": 5,
    "bytes": null,
-   "made_at": "2026-11-10 16:30"
+   "made_at": "2026-11-10 22:07"
   },
   {
    "kind": "COMM",
@@ -1232,9 +1243,9 @@
    "variant": "-",
    "note": "",
    "title": "Exposition of the Old and New Testament",
-   "version": 2,
+   "version": 3,
    "bytes": null,
-   "made_at": "2026-11-08 21:09"
+   "made_at": "2026-11-10 22:07"
   },
   {
    "kind": "COMM",
@@ -1364,9 +1375,9 @@
    "variant": "-",
    "note": "",
    "title": "The Treasury of David — Explanatory Notes",
-   "version": 2,
+   "version": 3,
    "bytes": null,
-   "made_at": "2026-11-08 22:41"
+   "made_at": "2026-11-10 22:07"
   },
   {
    "kind": "CORE",
@@ -1375,9 +1386,9 @@
    "variant": "-",
    "note": "환경설정 양식(sys_pref_preset) 코어 표 추가",
    "title": "앱 기본 자료(연결·목록·껍데기)",
-   "version": 44,
+   "version": 49,
    "bytes": 10623966,
-   "made_at": "2026-11-10 15:42"
+   "made_at": "2026-11-11 17:59"
   },
   {
    "kind": "DESC",
@@ -2104,14 +2115,6 @@
    "version": 2,
    "bytes": null,
    "made_at": "2026-11-03 16:26"
-  }
- ],
- "core": [
-  {
-   "cycle": "BIANNUAL",
-   "file": "corepack_BIANNUAL.json.gz",
-   "release": 44,
-   "bytes": 11614626
   }
  ]
 }
