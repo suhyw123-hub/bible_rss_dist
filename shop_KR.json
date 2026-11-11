@@ -774,6 +774,194 @@
   },
   {
    "band": "",
+   "cat": "GIFT_CARD",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 75,
+   "img": "",
+   "mall": "DEMO_COUPANG",
+   "names": {
+    "KO": "스타벅스 아메리카노 T 2잔"
+   },
+   "price": 9000,
+   "sort": 50,
+   "to": "",
+   "url": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4%20%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4%EB%85%B8%20T%202%EC%9E%94"
+  },
+  {
+   "band": "",
+   "cat": "CHURCH_WORSHIP",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 80,
+   "img": "",
+   "mall": "DEMO_KAKAO_GIFT",
+   "names": {
+    "KO": "개역개정 강대상 성경 대형"
+   },
+   "price": 98000,
+   "sort": 50,
+   "to": "",
+   "url": "https://gift.kakao.com/search/result?query=%EA%B0%9C%EC%97%AD%EA%B0%9C%EC%A0%95%20%EA%B0%95%EB%8C%80%EC%83%81%20%EC%84%B1%EA%B2%BD%20%EB%8C%80%ED%98%95"
+  },
+  {
+   "band": "",
+   "cat": "FOOD",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 85,
+   "img": "",
+   "mall": "DEMO_NAVER",
+   "names": {
+    "KO": "삼다수 2L 12병"
+   },
+   "price": 12800,
+   "sort": 50,
+   "to": "",
+   "url": "https://search.shopping.naver.com/ns/search?query=%EC%82%BC%EB%8B%A4%EC%88%98%202L%2012%EB%B3%91"
+  },
+  {
+   "band": "",
+   "cat": "CHURCH_EVENT",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 90,
+   "img": "",
+   "mall": "DEMO_COUPANG",
+   "names": {
+    "KO": "여름성경학교 단체 티셔츠 20장"
+   },
+   "price": 160000,
+   "sort": 50,
+   "to": "",
+   "url": "https://www.coupang.com/np/search?q=%EC%97%AC%EB%A6%84%EC%84%B1%EA%B2%BD%ED%95%99%EA%B5%90%20%EB%8B%A8%EC%B2%B4%20%ED%8B%B0%EC%85%94%EC%B8%A0%2020%EC%9E%A5"
+  },
+  {
+   "band": "",
+   "cat": "LIVING",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 95,
+   "img": "",
+   "mall": "DEMO_KAKAO_GIFT",
+   "names": {
+    "KO": "교회 주방 행주 30매"
+   },
+   "price": 11900,
+   "sort": 50,
+   "to": "",
+   "url": "https://gift.kakao.com/search/result?query=%EA%B5%90%ED%9A%8C%20%EC%A3%BC%EB%B0%A9%20%ED%96%89%EC%A3%BC%2030%EB%A7%A4"
+  },
+  {
+   "band": "",
+   "cat": "KITCHEN",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 99,
+   "img": "",
+   "mall": "DEMO_COUPANG",
+   "names": {
+    "KO": "대형 들통 스테인리스 40cm"
+   },
+   "price": 69000,
+   "sort": 50,
+   "to": "",
+   "url": "https://www.coupang.com/np/search?q=%EB%8C%80%ED%98%95%20%EB%93%A4%ED%86%B5%20%EC%8A%A4%ED%85%8C%EC%9D%B8%EB%A6%AC%EC%8A%A4%2040cm"
+  },
+  {
+   "band": "",
+   "cat": "HEALTH",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 103,
+   "img": "",
+   "mall": "DEMO_NAVER",
+   "names": {
+    "KO": "KF94 마스크 대형 100매"
+   },
+   "price": 19900,
+   "sort": 50,
+   "to": "",
+   "url": "https://search.shopping.naver.com/ns/search?query=KF94%20%EB%A7%88%EC%8A%A4%ED%81%AC%20%EB%8C%80%ED%98%95%20100%EB%A7%A4"
+  },
+  {
+   "band": "",
+   "cat": "BEAUTY",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 107,
+   "img": "",
+   "mall": "DEMO_KAKAO_GIFT",
+   "names": {
+    "KO": "핸드크림 선물 세트 5종"
+   },
+   "price": 15900,
+   "sort": 50,
+   "to": "",
+   "url": "https://gift.kakao.com/search/result?query=%ED%95%B8%EB%93%9C%ED%81%AC%EB%A6%BC%20%EC%84%A0%EB%AC%BC%20%EC%84%B8%ED%8A%B8%205%EC%A2%85"
+  },
+  {
+   "band": "",
+   "cat": "KIDS",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 111,
+   "img": "",
+   "mall": "DEMO_COUPANG",
+   "names": {
+    "KO": "어린이 그림 성경"
+   },
+   "price": 18000,
+   "sort": 50,
+   "to": "",
+   "url": "https://www.coupang.com/np/search?q=%EC%96%B4%EB%A6%B0%EC%9D%B4%20%EA%B7%B8%EB%A6%BC%20%EC%84%B1%EA%B2%BD"
+  },
+  {
+   "band": "",
+   "cat": "BOOKS",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 115,
+   "img": "",
+   "mall": "DEMO_NAVER",
+   "names": {
+    "KO": "천로역정 존 번연"
+   },
+   "price": 13500,
+   "sort": 50,
+   "to": "",
+   "url": "https://search.shopping.naver.com/ns/search?query=%EC%B2%9C%EB%A1%9C%EC%97%AD%EC%A0%95%20%EC%A1%B4%20%EB%B2%88%EC%97%B0"
+  },
+  {
+   "band": "",
+   "cat": "DIGITAL",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 120,
+   "img": "",
+   "mall": "DEMO_COUPANG",
+   "names": {
+    "KO": "블루투스 휴대용 스피커"
+   },
+   "price": 39000,
+   "sort": 50,
+   "to": "2026-12-06",
+   "url": "https://www.coupang.com/np/search?q=%EB%B8%94%EB%A3%A8%ED%88%AC%EC%8A%A4%20%ED%9C%B4%EB%8C%80%EC%9A%A9%20%EC%8A%A4%ED%94%BC%EC%BB%A4",
+   "was": 49000
+  },
+  {
+   "band": "",
    "cat": "CHURCH_WORSHIP",
    "deliver": "LINK",
    "descs": {
@@ -790,6 +978,193 @@
    "sort": 51,
    "to": "2026-12-31",
    "url": "https://www.amazon.com/dp/B015X6ETYS"
+  },
+  {
+   "band": "",
+   "cat": "GIFT_CARD",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 76,
+   "img": "",
+   "mall": "DEMO_NAVER",
+   "names": {
+    "KO": "파리바게뜨 모바일 금액권 1만원"
+   },
+   "price": 10000,
+   "sort": 51,
+   "to": "",
+   "url": "https://search.shopping.naver.com/ns/search?query=%ED%8C%8C%EB%A6%AC%EB%B0%94%EA%B2%8C%EB%9C%A8%20%EB%AA%A8%EB%B0%94%EC%9D%BC%20%EA%B8%88%EC%95%A1%EA%B6%8C%201%EB%A7%8C%EC%9B%90"
+  },
+  {
+   "band": "",
+   "cat": "CHURCH_WORSHIP",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 81,
+   "img": "",
+   "mall": "DEMO_COUPANG",
+   "names": {
+    "KO": "성찬기 세트 스테인리스 6인용"
+   },
+   "price": 128000,
+   "sort": 51,
+   "to": "",
+   "url": "https://www.coupang.com/np/search?q=%EC%84%B1%EC%B0%AC%EA%B8%B0%20%EC%84%B8%ED%8A%B8%20%EC%8A%A4%ED%85%8C%EC%9D%B8%EB%A6%AC%EC%8A%A4%206%EC%9D%B8%EC%9A%A9"
+  },
+  {
+   "band": "",
+   "cat": "FOOD",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 86,
+   "img": "",
+   "mall": "DEMO_KAKAO_GIFT",
+   "names": {
+    "KO": "교회 행사용 떡 답례 세트 50개"
+   },
+   "price": 150000,
+   "sort": 51,
+   "to": "",
+   "url": "https://gift.kakao.com/search/result?query=%EA%B5%90%ED%9A%8C%20%ED%96%89%EC%82%AC%EC%9A%A9%20%EB%96%A1%20%EB%8B%B5%EB%A1%80%20%EC%84%B8%ED%8A%B8%2050%EA%B0%9C"
+  },
+  {
+   "band": "",
+   "cat": "CHURCH_EVENT",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 91,
+   "img": "",
+   "mall": "DEMO_NAVER",
+   "names": {
+    "KO": "선교 바자회 테이블보 5장"
+   },
+   "price": 32000,
+   "sort": 51,
+   "to": "",
+   "url": "https://search.shopping.naver.com/ns/search?query=%EC%84%A0%EA%B5%90%20%EB%B0%94%EC%9E%90%ED%9A%8C%20%ED%85%8C%EC%9D%B4%EB%B8%94%EB%B3%B4%205%EC%9E%A5"
+  },
+  {
+   "band": "",
+   "cat": "LIVING",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 96,
+   "img": "",
+   "mall": "DEMO_COUPANG",
+   "names": {
+    "KO": "대용량 물티슈 100매 10팩"
+   },
+   "price": 13900,
+   "sort": 51,
+   "to": "",
+   "url": "https://www.coupang.com/np/search?q=%EB%8C%80%EC%9A%A9%EB%9F%89%20%EB%AC%BC%ED%8B%B0%EC%8A%88%20100%EB%A7%A4%2010%ED%8C%A9"
+  },
+  {
+   "band": "",
+   "cat": "KITCHEN",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 100,
+   "img": "",
+   "mall": "DEMO_NAVER",
+   "names": {
+    "KO": "일회용 수저 세트 500개"
+   },
+   "price": 21000,
+   "sort": 51,
+   "to": "",
+   "url": "https://search.shopping.naver.com/ns/search?query=%EC%9D%BC%ED%9A%8C%EC%9A%A9%20%EC%88%98%EC%A0%80%20%EC%84%B8%ED%8A%B8%20500%EA%B0%9C"
+  },
+  {
+   "band": "",
+   "cat": "HEALTH",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 104,
+   "img": "",
+   "mall": "DEMO_KAKAO_GIFT",
+   "names": {
+    "KO": "손소독제 펌프 500ml 6개"
+   },
+   "price": 16800,
+   "sort": 51,
+   "to": "",
+   "url": "https://gift.kakao.com/search/result?query=%EC%86%90%EC%86%8C%EB%8F%85%EC%A0%9C%20%ED%8E%8C%ED%94%84%20500ml%206%EA%B0%9C"
+  },
+  {
+   "band": "",
+   "cat": "BEAUTY",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 108,
+   "img": "",
+   "mall": "DEMO_COUPANG",
+   "names": {
+    "KO": "립밤 3개 세트"
+   },
+   "price": 9900,
+   "sort": 51,
+   "to": "",
+   "url": "https://www.coupang.com/np/search?q=%EB%A6%BD%EB%B0%A4%203%EA%B0%9C%20%EC%84%B8%ED%8A%B8"
+  },
+  {
+   "band": "",
+   "cat": "KIDS",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 112,
+   "img": "",
+   "mall": "DEMO_NAVER",
+   "names": {
+    "KO": "성경 인물 퍼즐 100피스"
+   },
+   "price": 14000,
+   "sort": 51,
+   "to": "",
+   "url": "https://search.shopping.naver.com/ns/search?query=%EC%84%B1%EA%B2%BD%20%EC%9D%B8%EB%AC%BC%20%ED%8D%BC%EC%A6%90%20100%ED%94%BC%EC%8A%A4"
+  },
+  {
+   "band": "",
+   "cat": "BOOKS",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 116,
+   "img": "",
+   "mall": "DEMO_KAKAO_GIFT",
+   "names": {
+    "KO": "ESV 스터디 바이블 영문"
+   },
+   "price": 52000,
+   "sort": 51,
+   "to": "",
+   "url": "https://gift.kakao.com/search/result?query=ESV%20%EC%8A%A4%ED%84%B0%EB%94%94%20%EB%B0%94%EC%9D%B4%EB%B8%94%20%EC%98%81%EB%AC%B8"
+  },
+  {
+   "band": "",
+   "cat": "DIGITAL",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 121,
+   "img": "",
+   "mall": "DEMO_NAVER",
+   "names": {
+    "KO": "무선 핀 마이크 2개"
+   },
+   "price": 59000,
+   "sort": 51,
+   "to": "",
+   "url": "https://search.shopping.naver.com/ns/search?query=%EB%AC%B4%EC%84%A0%20%ED%95%80%20%EB%A7%88%EC%9D%B4%ED%81%AC%202%EA%B0%9C"
   },
   {
    "band": "",
@@ -812,6 +1187,195 @@
   },
   {
    "band": "",
+   "cat": "GIFT_CARD",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 77,
+   "img": "",
+   "mall": "DEMO_KAKAO_GIFT",
+   "names": {
+    "KO": "배스킨라빈스 파인트 아이스크림"
+   },
+   "price": 9800,
+   "sort": 52,
+   "to": "",
+   "url": "https://gift.kakao.com/search/result?query=%EB%B0%B0%EC%8A%A4%ED%82%A8%EB%9D%BC%EB%B9%88%EC%8A%A4%20%ED%8C%8C%EC%9D%B8%ED%8A%B8%20%EC%95%84%EC%9D%B4%EC%8A%A4%ED%81%AC%EB%A6%BC"
+  },
+  {
+   "band": "",
+   "cat": "CHURCH_WORSHIP",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 82,
+   "img": "",
+   "mall": "DEMO_NAVER",
+   "names": {
+    "KO": "예배당 헌금함 원목"
+   },
+   "price": 85000,
+   "sort": 52,
+   "to": "",
+   "url": "https://search.shopping.naver.com/ns/search?query=%EC%98%88%EB%B0%B0%EB%8B%B9%20%ED%97%8C%EA%B8%88%ED%95%A8%20%EC%9B%90%EB%AA%A9"
+  },
+  {
+   "band": "",
+   "cat": "FOOD",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 87,
+   "img": "",
+   "mall": "DEMO_COUPANG",
+   "names": {
+    "KO": "카누 미니 마일드 로스트 150T"
+   },
+   "price": 28900,
+   "sort": 52,
+   "to": "2026-11-25",
+   "url": "https://www.coupang.com/np/search?q=%EC%B9%B4%EB%88%84%20%EB%AF%B8%EB%8B%88%20%EB%A7%88%EC%9D%BC%EB%93%9C%20%EB%A1%9C%EC%8A%A4%ED%8A%B8%20150T",
+   "was": 33900
+  },
+  {
+   "band": "",
+   "cat": "CHURCH_EVENT",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 92,
+   "img": "",
+   "mall": "DEMO_KAKAO_GIFT",
+   "names": {
+    "KO": "성탄 장식 LED 별 전구"
+   },
+   "price": 24900,
+   "sort": 52,
+   "to": "",
+   "url": "https://gift.kakao.com/search/result?query=%EC%84%B1%ED%83%84%20%EC%9E%A5%EC%8B%9D%20LED%20%EB%B3%84%20%EC%A0%84%EA%B5%AC"
+  },
+  {
+   "band": "",
+   "cat": "LIVING",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 97,
+   "img": "",
+   "mall": "DEMO_NAVER",
+   "names": {
+    "KO": "접이식 의자 4개"
+   },
+   "price": 79000,
+   "sort": 52,
+   "to": "2026-12-09",
+   "url": "https://search.shopping.naver.com/ns/search?query=%EC%A0%91%EC%9D%B4%EC%8B%9D%20%EC%9D%98%EC%9E%90%204%EA%B0%9C",
+   "was": 99000
+  },
+  {
+   "band": "",
+   "cat": "KITCHEN",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 101,
+   "img": "",
+   "mall": "DEMO_KAKAO_GIFT",
+   "names": {
+    "KO": "보온 물통 대용량 12L"
+   },
+   "price": 45000,
+   "sort": 52,
+   "to": "",
+   "url": "https://gift.kakao.com/search/result?query=%EB%B3%B4%EC%98%A8%20%EB%AC%BC%ED%86%B5%20%EB%8C%80%EC%9A%A9%EB%9F%89%2012L"
+  },
+  {
+   "band": "",
+   "cat": "HEALTH",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 105,
+   "img": "",
+   "mall": "DEMO_COUPANG",
+   "names": {
+    "KO": "구급상자 가정용 세트"
+   },
+   "price": 27000,
+   "sort": 52,
+   "to": "",
+   "url": "https://www.coupang.com/np/search?q=%EA%B5%AC%EA%B8%89%EC%83%81%EC%9E%90%20%EA%B0%80%EC%A0%95%EC%9A%A9%20%EC%84%B8%ED%8A%B8"
+  },
+  {
+   "band": "",
+   "cat": "BEAUTY",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 109,
+   "img": "",
+   "mall": "DEMO_NAVER",
+   "names": {
+    "KO": "바디로션 대용량 1L"
+   },
+   "price": 18900,
+   "sort": 52,
+   "to": "",
+   "url": "https://search.shopping.naver.com/ns/search?query=%EB%B0%94%EB%94%94%EB%A1%9C%EC%85%98%20%EB%8C%80%EC%9A%A9%EB%9F%89%201L"
+  },
+  {
+   "band": "",
+   "cat": "KIDS",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 113,
+   "img": "",
+   "mall": "DEMO_KAKAO_GIFT",
+   "names": {
+    "KO": "주일학교 색칠 공부 책"
+   },
+   "price": 6500,
+   "sort": 52,
+   "to": "",
+   "url": "https://gift.kakao.com/search/result?query=%EC%A3%BC%EC%9D%BC%ED%95%99%EA%B5%90%20%EC%83%89%EC%B9%A0%20%EA%B3%B5%EB%B6%80%20%EC%B1%85"
+  },
+  {
+   "band": "",
+   "cat": "BOOKS",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 117,
+   "img": "",
+   "mall": "DEMO_COUPANG",
+   "names": {
+    "KO": "오늘의 양식 묵상집"
+   },
+   "price": 9000,
+   "sort": 52,
+   "to": "",
+   "url": "https://www.coupang.com/np/search?q=%EC%98%A4%EB%8A%98%EC%9D%98%20%EC%96%91%EC%8B%9D%20%EB%AC%B5%EC%83%81%EC%A7%91"
+  },
+  {
+   "band": "",
+   "cat": "DIGITAL",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 122,
+   "img": "",
+   "mall": "DEMO_KAKAO_GIFT",
+   "names": {
+    "KO": "빔 프로젝터 소형"
+   },
+   "price": 189000,
+   "sort": 52,
+   "to": "",
+   "url": "https://gift.kakao.com/search/result?query=%EB%B9%94%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%84%B0%20%EC%86%8C%ED%98%95"
+  },
+  {
+   "band": "",
    "cat": "FOOD",
    "deliver": "LINK",
    "descs": {
@@ -831,6 +1395,195 @@
   },
   {
    "band": "",
+   "cat": "GIFT_CARD",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 78,
+   "img": "",
+   "mall": "DEMO_COUPANG",
+   "names": {
+    "KO": "CU 모바일 상품권 5천원"
+   },
+   "price": 5000,
+   "sort": 53,
+   "to": "",
+   "url": "https://www.coupang.com/np/search?q=CU%20%EB%AA%A8%EB%B0%94%EC%9D%BC%20%EC%83%81%ED%92%88%EA%B6%8C%205%EC%B2%9C%EC%9B%90"
+  },
+  {
+   "band": "",
+   "cat": "CHURCH_WORSHIP",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 83,
+   "img": "",
+   "mall": "DEMO_KAKAO_GIFT",
+   "names": {
+    "KO": "새찬송가 큰글 단본"
+   },
+   "price": 23000,
+   "sort": 53,
+   "to": "",
+   "url": "https://gift.kakao.com/search/result?query=%EC%83%88%EC%B0%AC%EC%86%A1%EA%B0%80%20%ED%81%B0%EA%B8%80%20%EB%8B%A8%EB%B3%B8"
+  },
+  {
+   "band": "",
+   "cat": "FOOD",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 88,
+   "img": "",
+   "mall": "DEMO_NAVER",
+   "names": {
+    "KO": "맥심 모카골드 커피믹스 250T"
+   },
+   "price": 31500,
+   "sort": 53,
+   "to": "",
+   "url": "https://search.shopping.naver.com/ns/search?query=%EB%A7%A5%EC%8B%AC%20%EB%AA%A8%EC%B9%B4%EA%B3%A8%EB%93%9C%20%EC%BB%A4%ED%94%BC%EB%AF%B9%EC%8A%A4%20250T"
+  },
+  {
+   "band": "",
+   "cat": "CHURCH_EVENT",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 93,
+   "img": "",
+   "mall": "DEMO_COUPANG",
+   "names": {
+    "KO": "행사용 이름표 목걸이 100개"
+   },
+   "price": 15900,
+   "sort": 53,
+   "to": "",
+   "url": "https://www.coupang.com/np/search?q=%ED%96%89%EC%82%AC%EC%9A%A9%20%EC%9D%B4%EB%A6%84%ED%91%9C%20%EB%AA%A9%EA%B1%B8%EC%9D%B4%20100%EA%B0%9C"
+  },
+  {
+   "band": "",
+   "cat": "LIVING",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 98,
+   "img": "",
+   "mall": "DEMO_KAKAO_GIFT",
+   "names": {
+    "KO": "다용도 수납 정리함 3단"
+   },
+   "price": 29900,
+   "sort": 53,
+   "to": "",
+   "url": "https://gift.kakao.com/search/result?query=%EB%8B%A4%EC%9A%A9%EB%8F%84%20%EC%88%98%EB%82%A9%20%EC%A0%95%EB%A6%AC%ED%95%A8%203%EB%8B%A8"
+  },
+  {
+   "band": "",
+   "cat": "KITCHEN",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 102,
+   "img": "",
+   "mall": "DEMO_COUPANG",
+   "names": {
+    "KO": "전기 밥솥 30인용 업소용"
+   },
+   "price": 189000,
+   "sort": 53,
+   "to": "2026-12-02",
+   "url": "https://www.coupang.com/np/search?q=%EC%A0%84%EA%B8%B0%20%EB%B0%A5%EC%86%A5%2030%EC%9D%B8%EC%9A%A9%20%EC%97%85%EC%86%8C%EC%9A%A9",
+   "was": 219000
+  },
+  {
+   "band": "",
+   "cat": "HEALTH",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 106,
+   "img": "",
+   "mall": "DEMO_NAVER",
+   "names": {
+    "KO": "체온계 비접촉식"
+   },
+   "price": 32000,
+   "sort": 53,
+   "to": "",
+   "url": "https://search.shopping.naver.com/ns/search?query=%EC%B2%B4%EC%98%A8%EA%B3%84%20%EB%B9%84%EC%A0%91%EC%B4%89%EC%8B%9D"
+  },
+  {
+   "band": "",
+   "cat": "BEAUTY",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 110,
+   "img": "",
+   "mall": "DEMO_KAKAO_GIFT",
+   "names": {
+    "KO": "샴푸 린스 선물 세트"
+   },
+   "price": 24900,
+   "sort": 53,
+   "to": "",
+   "url": "https://gift.kakao.com/search/result?query=%EC%83%B4%ED%91%B8%20%EB%A6%B0%EC%8A%A4%20%EC%84%A0%EB%AC%BC%20%EC%84%B8%ED%8A%B8"
+  },
+  {
+   "band": "",
+   "cat": "KIDS",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 114,
+   "img": "",
+   "mall": "DEMO_COUPANG",
+   "names": {
+    "KO": "어린이 찬양 CD 모음"
+   },
+   "price": 12000,
+   "sort": 53,
+   "to": "",
+   "url": "https://www.coupang.com/np/search?q=%EC%96%B4%EB%A6%B0%EC%9D%B4%20%EC%B0%AC%EC%96%91%20CD%20%EB%AA%A8%EC%9D%8C"
+  },
+  {
+   "band": "",
+   "cat": "BOOKS",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 118,
+   "img": "",
+   "mall": "DEMO_NAVER",
+   "names": {
+    "KO": "성경 필사 노트 신약"
+   },
+   "price": 12000,
+   "sort": 53,
+   "to": "2026-11-29",
+   "url": "https://search.shopping.naver.com/ns/search?query=%EC%84%B1%EA%B2%BD%20%ED%95%84%EC%82%AC%20%EB%85%B8%ED%8A%B8%20%EC%8B%A0%EC%95%BD",
+   "was": 13800
+  },
+  {
+   "band": "",
+   "cat": "DIGITAL",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 123,
+   "img": "",
+   "mall": "DEMO_COUPANG",
+   "names": {
+    "KO": "성경 오디오 플레이어"
+   },
+   "price": 45000,
+   "sort": 53,
+   "to": "",
+   "url": "https://www.coupang.com/np/search?q=%EC%84%B1%EA%B2%BD%20%EC%98%A4%EB%94%94%EC%98%A4%20%ED%94%8C%EB%A0%88%EC%9D%B4%EC%96%B4"
+  },
+  {
+   "band": "",
    "cat": "LIVING",
    "deliver": "LINK",
    "descs": {
@@ -847,6 +1600,92 @@
    "sort": 54,
    "to": "2026-12-31",
    "url": "https://www.amazon.com/dp/B0DQYP1L95"
+  },
+  {
+   "band": "",
+   "cat": "GIFT_CARD",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 79,
+   "img": "",
+   "mall": "DEMO_NAVER",
+   "names": {
+    "KO": "투썸플레이스 케이크 교환권"
+   },
+   "price": 36000,
+   "sort": 54,
+   "to": "2026-12-02",
+   "url": "https://search.shopping.naver.com/ns/search?query=%ED%88%AC%EC%8D%B8%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%20%EC%BC%80%EC%9D%B4%ED%81%AC%20%EA%B5%90%ED%99%98%EA%B6%8C",
+   "was": 42000
+  },
+  {
+   "band": "",
+   "cat": "CHURCH_WORSHIP",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 84,
+   "img": "",
+   "mall": "DEMO_COUPANG",
+   "names": {
+    "KO": "강단 꽃꽂이 오아시스 20개"
+   },
+   "price": 18000,
+   "sort": 54,
+   "to": "",
+   "url": "https://www.coupang.com/np/search?q=%EA%B0%95%EB%8B%A8%20%EA%BD%83%EA%BD%82%EC%9D%B4%20%EC%98%A4%EC%95%84%EC%8B%9C%EC%8A%A4%2020%EA%B0%9C"
+  },
+  {
+   "band": "",
+   "cat": "FOOD",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 89,
+   "img": "",
+   "mall": "DEMO_KAKAO_GIFT",
+   "names": {
+    "KO": "컵라면 육개장 사발면 24개"
+   },
+   "price": 19900,
+   "sort": 54,
+   "to": "",
+   "url": "https://gift.kakao.com/search/result?query=%EC%BB%B5%EB%9D%BC%EB%A9%B4%20%EC%9C%A1%EA%B0%9C%EC%9E%A5%20%EC%82%AC%EB%B0%9C%EB%A9%B4%2024%EA%B0%9C"
+  },
+  {
+   "band": "",
+   "cat": "CHURCH_EVENT",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 94,
+   "img": "",
+   "mall": "DEMO_NAVER",
+   "names": {
+    "KO": "부활절 달걀 포장 상자 50개"
+   },
+   "price": 12500,
+   "sort": 54,
+   "to": "",
+   "url": "https://search.shopping.naver.com/ns/search?query=%EB%B6%80%ED%99%9C%EC%A0%88%20%EB%8B%AC%EA%B1%80%20%ED%8F%AC%EC%9E%A5%20%EC%83%81%EC%9E%90%2050%EA%B0%9C"
+  },
+  {
+   "band": "",
+   "cat": "BOOKS",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 119,
+   "img": "",
+   "mall": "DEMO_KAKAO_GIFT",
+   "names": {
+    "KO": "형광펜 성경용 6색"
+   },
+   "price": 7900,
+   "sort": 54,
+   "to": "",
+   "url": "https://gift.kakao.com/search/result?query=%ED%98%95%EA%B4%91%ED%8E%9C%20%EC%84%B1%EA%B2%BD%EC%9A%A9%206%EC%83%89"
   },
   {
    "band": "",
@@ -1085,5 +1924,5 @@
    "text": 1
   }
  ],
- "version": 13
+ "version": 15
 }
