@@ -1,17 +1,13 @@
 {
- "version": "2026.11.11.1",
- "date": "2026-11-11 02:01",
- "notes": "고쳐진 곳: 쇼핑 · AI 대화 · 나의 시편 · 말씀카드 · 때에 맞는 말씀 · 성경 · 내 서재 · 둘러보기 · 검색 · 홈 · 설정 · 기타 개선 · 설정·화면",
+ "version": "2026.11.11.2",
+ "date": "2026-11-11 15:55",
+ "notes": "고쳐진 곳: 쇼핑 · 성경 · 유튜브 · 둘러보기 · 기타 개선",
  "pc": {
-  "version": "2026.11.11.1",
-  "file": "app_pc_2026.11.11.1_bc71e8e7.zip",
-  "sha256": "bc71e8e7f4965ff33779ac5f66cca283bca75169b19b39b1b383e0192233a231",
-  "size": 9165530,
+  "version": "2026.11.11.2",
+  "file": "app_pc_2026.11.11.2_eadac28e.zip",
+  "sha256": "eadac28e0bfa649037e2fde5a59a9ed28be6154a70777fa98e1a0482d05acc2e",
+  "size": 9168851,
   "areas": [
-   [
-    "UPD_A_SETTINGS",
-    "설정·화면"
-   ],
    [
     "UPD_A_ETC",
     "기타 개선"
@@ -19,56 +15,28 @@
   ]
  },
  "android": {
-  "version": "2026.11.11.1",
-  "code": 2026111101,
-  "file": "app_android_2026.11.11.1_18bb77d4.apk",
-  "sha256": "18bb77d40121f673668a6b9c0881f7b29bc3438a78a3e08f116cb215a82583f2",
-  "size": 31953106,
-  "url": "https://dist.asahdabar.com/app_android_2026.11.11.1_18bb77d4.apk",
+  "version": "2026.11.11.2",
+  "code": 2026111102,
+  "file": "app_android_2026.11.11.2_1c01f6de.apk",
+  "sha256": "1c01f6dedc7bac003c272e0be5f64ca7fdac42a39647317d0cdd11a3b9376ff5",
+  "size": 32019046,
+  "url": "https://dist.asahdabar.com/app_android_2026.11.11.2_1c01f6de.apk",
   "areas": [
    [
     "M_TAB_SHOP2",
     "쇼핑"
    ],
    [
-    "M_TAB_AI",
-    "AI 대화"
-   ],
-   [
-    "UPD_A_PSALM",
-    "나의 시편"
-   ],
-   [
-    "UPD_A_CARD",
-    "말씀카드"
-   ],
-   [
-    "UPD_A_TOPIC",
-    "때에 맞는 말씀"
-   ],
-   [
     "M_TAB_BIBLE",
     "성경"
    ],
    [
-    "M_LIBRARY",
-    "내 서재"
+    "M_TAB_WORSHIP",
+    "유튜브"
    ],
    [
     "M_EXPLORE",
     "둘러보기"
-   ],
-   [
-    "UPD_A_SEARCH",
-    "검색"
-   ],
-   [
-    "M_TAB_HOME",
-    "홈"
-   ],
-   [
-    "M_SETTINGS",
-    "설정"
    ],
    [
     "UPD_A_ETC",
@@ -76,5 +44,5 @@
    ]
   ]
  },
- "sig": "5ea3a5f9bbee3d1b4457041b735f0fe84269fd6849144023fdb147375f65c355ecbf0ae43d0b350dda944670f2bdf39c0cfae6afc998ae53dc5e3e854bfe860a"
+ "sig": "f355d8168ce3e6f25b36deae8fe226a537287f29b16c0cce24c3846539ac26aad9b5a0bb9302d2fd22f42705ee92b60f1976df4add9478ae08b50bc3d48d2b0a"
 }
