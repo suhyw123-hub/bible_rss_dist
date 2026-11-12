@@ -1,17 +1,13 @@
 {
- "version": "2026.11.12.2",
- "date": "2026-11-12 10:48",
- "notes": "고쳐진 곳: 쇼핑 · 기타 개선 · 모바일 연결",
+ "version": "2026.11.12.3",
+ "date": "2026-11-12 14:11",
+ "notes": "고쳐진 곳: 쇼핑 · 유튜브 · 둘러보기 · 기타 개선",
  "pc": {
-  "version": "2026.11.12.2",
-  "file": "app_pc_2026.11.12.2_dbf69d6d.zip",
-  "sha256": "dbf69d6db4178564e90cfc8f4b0dd50190a568137be7dc09b5ad9d2e32407d65",
-  "size": 9201324,
+  "version": "2026.11.12.3",
+  "file": "app_pc_2026.11.12.3_794097d4.zip",
+  "sha256": "794097d44f781c6f189695851eca7ec98cc66313e9d4231a1dad87022430360a",
+  "size": 9214446,
   "areas": [
-   [
-    "UPD_A_MOBILE",
-    "모바일 연결"
-   ],
    [
     "UPD_A_ETC",
     "기타 개선"
@@ -19,16 +15,24 @@
   ]
  },
  "android": {
-  "version": "2026.11.12.2",
-  "code": 2026111202,
-  "file": "app_android_2026.11.12.2_4e30df65.apk",
-  "sha256": "4e30df65d1c9cc24897c9899694688545e0abe6031db978d4ef43756d8d12f01",
-  "size": 32413274,
-  "url": "https://dist.asahdabar.com/app_android_2026.11.12.2_4e30df65.apk",
+  "version": "2026.11.12.3",
+  "code": 2026111203,
+  "file": "app_android_2026.11.12.3_9d99348c.apk",
+  "sha256": "9d99348cd74cd534d468f9a9181c55dfa0a56c6e2968adf4b6e53ba0a481a0ed",
+  "size": 32478894,
+  "url": "https://dist.asahdabar.com/app_android_2026.11.12.3_9d99348c.apk",
   "areas": [
    [
     "M_TAB_SHOP2",
     "쇼핑"
+   ],
+   [
+    "M_TAB_WORSHIP",
+    "유튜브"
+   ],
+   [
+    "M_EXPLORE",
+    "둘러보기"
    ],
    [
     "UPD_A_ETC",
@@ -36,5 +40,5 @@
    ]
   ]
  },
- "sig": "0a9a3257a0ee3d7096dd42ca984dbb90f0cd2ece3df1f4606abbb90cd0267c7f5b8e7b1f79aa5d4fe0cfc80ac1800f8ece296830dde5d78869a1e2daeb8ff907"
+ "sig": "c7454f7a66e872897c3db2be3ef64a7b3426cb268867a57421451ee740a1605bf178b8d6e5e6ec29a56763dd387fde07823d47bc191df945628ead38a973ba09"
 }
