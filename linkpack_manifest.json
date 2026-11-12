@@ -1,5 +1,5 @@
 {
- "latest": 20,
+ "latest": 21,
  "full": true,
  "releases": [
   {
@@ -198,9 +198,9 @@
    "variant": "-",
    "note": "",
    "title": "Korean Revised Version",
-   "version": 2,
+   "version": 4,
    "bytes": null,
-   "made_at": "2026-11-11 15:57"
+   "made_at": "2026-11-11 21:35"
   },
   {
    "kind": "BIBLE",
@@ -1177,9 +1177,20 @@
    "variant": "-",
    "note": "",
    "title": "Notes on the Old Testament",
-   "version": 1,
+   "version": 8,
    "bytes": null,
-   "made_at": "2026-11-11 17:58"
+   "made_at": "2026-11-12 09:24"
+  },
+  {
+   "kind": "COMM",
+   "key": "BARNES_OT",
+   "lang": "KO",
+   "variant": "-",
+   "note": "",
+   "title": "Notes on the Old Testament",
+   "version": 8,
+   "bytes": null,
+   "made_at": "2026-11-12 10:50"
   },
   {
    "kind": "COMM",
@@ -1386,9 +1397,9 @@
    "variant": "-",
    "note": "환경설정 양식(sys_pref_preset) 코어 표 추가",
    "title": "앱 기본 자료(연결·목록·껍데기)",
-   "version": 49,
+   "version": 53,
    "bytes": 10623966,
-   "made_at": "2026-11-11 17:59"
+   "made_at": "2026-11-12 10:50"
   },
   {
    "kind": "DESC",
@@ -1782,9 +1793,9 @@
    "variant": "-",
    "note": "",
    "title": "스트롱 낱말 마스터",
-   "version": 2,
+   "version": 3,
    "bytes": null,
-   "made_at": "2026-11-05 10:44"
+   "made_at": "2026-11-11 22:30"
   },
   {
    "kind": "LEX",
@@ -1803,7 +1814,7 @@
    "lang": "-",
    "variant": "-",
    "note": "",
-   "title": "영상 연결 — 승인된 영상 주소 118,873편과 그 연결",
+   "title": "영상 연결 — 승인된 영상 주소 121,326편과 그 연결",
    "version": 1,
    "bytes": 13512056,
    "made_at": "2026-11-03 08:08"
@@ -2115,6 +2126,14 @@
    "version": 2,
    "bytes": null,
    "made_at": "2026-11-03 16:26"
+  }
+ ],
+ "core": [
+  {
+   "cycle": "BIANNUAL",
+   "file": "corepack_BIANNUAL.json.gz",
+   "release": 53,
+   "bytes": 11805856
   }
  ]
 }
