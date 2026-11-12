@@ -1,13 +1,21 @@
 {
- "version": "2026.11.12.3",
- "date": "2026-11-12 14:11",
- "notes": "고쳐진 곳: 쇼핑 · 유튜브 · 둘러보기 · 기타 개선",
+ "version": "2026.11.12.4",
+ "date": "2026-11-12 17:09",
+ "notes": "고쳐진 곳: 쇼핑 · AI 대화 · 나의 시편 · 말씀카드 · 성경 · 플랜 · 내 서재 · 유튜브 · 최신 · 둘러보기 · 검색 · 홈 · 설정 · 기타 개선 · AI 도우미 · 연구 화면",
  "pc": {
-  "version": "2026.11.12.3",
-  "file": "app_pc_2026.11.12.3_794097d4.zip",
-  "sha256": "794097d44f781c6f189695851eca7ec98cc66313e9d4231a1dad87022430360a",
-  "size": 9214446,
+  "version": "2026.11.12.4",
+  "file": "app_pc_2026.11.12.4_7b3dbbeb.zip",
+  "sha256": "7b3dbbebc4c72b76f3477ddc1f2b64f48a94e9b05fb3949293f49b4a0fae3d3b",
+  "size": 9214335,
   "areas": [
+   [
+    "UPD_A_AI",
+    "AI 도우미"
+   ],
+   [
+    "UPD_A_STUDY",
+    "연구 화면"
+   ],
    [
     "UPD_A_ETC",
     "기타 개선"
@@ -15,24 +23,64 @@
   ]
  },
  "android": {
-  "version": "2026.11.12.3",
-  "code": 2026111203,
-  "file": "app_android_2026.11.12.3_9d99348c.apk",
-  "sha256": "9d99348cd74cd534d468f9a9181c55dfa0a56c6e2968adf4b6e53ba0a481a0ed",
-  "size": 32478894,
-  "url": "https://dist.asahdabar.com/app_android_2026.11.12.3_9d99348c.apk",
+  "version": "2026.11.12.4",
+  "code": 2026111204,
+  "file": "app_android_2026.11.12.4_9e51e7fe.apk",
+  "sha256": "9e51e7fe8fdd5206a32646e7cf83df728bc6b7c35042794a55d240927a35c30f",
+  "size": 32610014,
+  "url": "https://dist.asahdabar.com/app_android_2026.11.12.4_9e51e7fe.apk",
   "areas": [
    [
     "M_TAB_SHOP2",
     "쇼핑"
    ],
    [
+    "M_TAB_AI",
+    "AI 대화"
+   ],
+   [
+    "UPD_A_PSALM",
+    "나의 시편"
+   ],
+   [
+    "UPD_A_CARD",
+    "말씀카드"
+   ],
+   [
+    "M_TAB_BIBLE",
+    "성경"
+   ],
+   [
+    "M_TAB_PLAN",
+    "플랜"
+   ],
+   [
+    "M_LIBRARY",
+    "내 서재"
+   ],
+   [
     "M_TAB_WORSHIP",
     "유튜브"
    ],
    [
+    "M_TAB_LATEST",
+    "최신"
+   ],
+   [
     "M_EXPLORE",
     "둘러보기"
+   ],
+   [
+    "UPD_A_SEARCH",
+    "검색"
+   ],
+   [
+    "M_TAB_HOME",
+    "홈"
+   ],
+   [
+    "M_SETTINGS",
+    "설정"
    ],
    [
     "UPD_A_ETC",
@@ -40,5 +88,5 @@
    ]
   ]
  },
- "sig": "c7454f7a66e872897c3db2be3ef64a7b3426cb268867a57421451ee740a1605bf178b8d6e5e6ec29a56763dd387fde07823d47bc191df945628ead38a973ba09"
+ "sig": "0bf06b24a28ebef37a021f2709fe35a8b14fcc8a1770786c3d54d3c69a87f0fde61fcf1a9c323e883c214b283524adc8f2196750fbdbb587496cb3e4be67330f"
 }
