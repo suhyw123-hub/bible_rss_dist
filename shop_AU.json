@@ -883,7 +883,10 @@
    "url": "https://www.amazon.com/dp/B0HLDX9J9J"
   },
   {
+   "author": "Crossway",
    "band": "",
+   "book": "FAITH",
+   "bsub": "BIBLE",
    "cat": "BOOKS",
    "deliver": "LINK",
    "descs": {
@@ -956,5 +959,33 @@
    "text": 1
   }
  ],
- "version": 21
+ "menu_counts": {
+  "books": 1,
+  "goods": 11,
+  "travel": 0
+ },
+ "menus": [
+  {
+   "key": "goods",
+   "shown": true,
+   "sort": 10
+  },
+  {
+   "key": "books",
+   "shown": true,
+   "sort": 20
+  },
+  {
+   "key": "travel",
+   "shown": true,
+   "sort": 30
+  },
+  {
+   "key": "cmall",
+   "shown": false,
+   "sort": 40
+  }
+ ],
+ "menus_of": "*",
+ "version": 23
 }

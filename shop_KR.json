@@ -979,7 +979,10 @@
    "url": "https://www.coupang.com/np/search?q=%EC%96%B4%EB%A6%B0%EC%9D%B4%20%EA%B7%B8%EB%A6%BC%20%EC%84%B1%EA%B2%BD"
   },
   {
+   "author": "대한성서공회",
    "band": "",
+   "book": "FAITH",
+   "bsub": "BIBLE",
    "cat": "BOOKS",
    "deliver": "LINK",
    "descs": {},
@@ -991,6 +994,9 @@
     "KO": "개역개정 성경 중 단본 색인"
    },
    "price": 25000,
+   "rank": 2,
+   "rank_at": "2026-11-11",
+   "rank_by": "시험 순위",
    "sort": 50,
    "to": "",
    "url": "https://www.coupang.com/np/search?q=%EA%B0%9C%EC%97%AD%EA%B0%9C%EC%A0%95%20%EC%84%B1%EA%B2%BD%20%EC%A4%91%20%EB%8B%A8%EB%B3%B8%20%EC%83%89%EC%9D%B8"
@@ -1009,7 +1015,7 @@
    },
    "price": 39000,
    "sort": 50,
-   "to": "2026-12-06",
+   "to": "2026-12-07",
    "url": "https://search.shopping.naver.com/ns/search?query=%EB%B8%94%EB%A3%A8%ED%88%AC%EC%8A%A4%20%ED%9C%B4%EB%8C%80%EC%9A%A9%20%EC%8A%A4%ED%94%BC%EC%BB%A4",
    "was": 49000
   },
@@ -1018,8 +1024,8 @@
    "cat": "TEST_TRAVEL",
    "deliver": "LINK",
    "departs": [
-    "2026-12-21",
-    "2027-01-20"
+    "2026-12-22",
+    "2027-01-21"
    ],
    "descs": {},
    "from": "",
@@ -1035,7 +1041,7 @@
    ],
    "price": 2890000,
    "sort": 50,
-   "to": "2026-12-06",
+   "to": "2026-12-07",
    "url": "https://www.klook.com/ko/search/result/?query=%EC%98%88%EB%A3%A8%EC%82%B4%EB%A0%98%20%EC%84%B1%EC%A7%80%EC%88%9C%EB%A1%80%208%EC%9D%BC%20%ED%8C%A8%ED%82%A4%EC%A7%80",
    "was": 3190000
   },
@@ -1212,7 +1218,10 @@
    "url": "https://search.shopping.naver.com/ns/search?query=%EC%84%B1%EA%B2%BD%20%EC%9D%B8%EB%AC%BC%20%ED%8D%BC%EC%A6%90%20100%ED%94%BC%EC%8A%A4"
   },
   {
+   "author": "대한성서공회",
    "band": "",
+   "book": "FAITH",
+   "bsub": "BIBLE",
    "cat": "BOOKS",
    "deliver": "LINK",
    "descs": {},
@@ -1332,7 +1341,7 @@
    },
    "price": 28900,
    "sort": 52,
-   "to": "2026-11-25",
+   "to": "2026-11-26",
    "url": "https://www.coupang.com/np/search?q=%EC%B9%B4%EB%88%84%20%EB%AF%B8%EB%8B%88%20%EB%A7%88%EC%9D%BC%EB%93%9C%20%EB%A1%9C%EC%8A%A4%ED%8A%B8%20150T",
    "was": 33900
   },
@@ -1367,7 +1376,7 @@
    },
    "price": 79000,
    "sort": 52,
-   "to": "2026-12-09",
+   "to": "2026-12-10",
    "url": "https://search.shopping.naver.com/ns/search?query=%EC%A0%91%EC%9D%B4%EC%8B%9D%20%EC%9D%98%EC%9E%90%204%EA%B0%9C",
    "was": 99000
   },
@@ -1440,7 +1449,10 @@
    "url": "https://gift.kakao.com/search/result?query=%EC%A3%BC%EC%9D%BC%ED%95%99%EA%B5%90%20%EC%83%89%EC%B9%A0%20%EA%B3%B5%EB%B6%80%20%EC%B1%85"
   },
   {
+   "author": "Crossway",
    "band": "",
+   "book": "FAITH",
+   "bsub": "BIBLE",
    "cat": "BOOKS",
    "deliver": "LINK",
    "descs": {},
@@ -1478,7 +1490,7 @@
    "cat": "TEST_TRAVEL",
    "deliver": "LINK",
    "departs": [
-    "2026-12-26"
+    "2026-12-27"
    ],
    "descs": {},
    "from": "",
@@ -1615,7 +1627,7 @@
    },
    "price": 189000,
    "sort": 53,
-   "to": "2026-12-02",
+   "to": "2026-12-03",
    "url": "https://www.coupang.com/np/search?q=%EC%A0%84%EA%B8%B0%20%EB%B0%A5%EC%86%A5%2030%EC%9D%B8%EC%9A%A9%20%EC%97%85%EC%86%8C%EC%9A%A9",
    "was": 219000
   },
@@ -1671,7 +1683,10 @@
    "url": "https://www.coupang.com/np/search?q=%EC%96%B4%EB%A6%B0%EC%9D%B4%20%EC%B0%AC%EC%96%91%20CD%20%EB%AA%A8%EC%9D%8C"
   },
   {
+   "author": "테리 홀",
    "band": "",
+   "book": "FAITH",
+   "bsub": "BIBLE",
    "cat": "BOOKS",
    "deliver": "LINK",
    "descs": {},
@@ -1683,6 +1698,9 @@
     "KO": "성경 파노라마"
    },
    "price": 18000,
+   "rank": 6,
+   "rank_at": "2026-11-11",
+   "rank_by": "시험 순위",
    "sort": 53,
    "to": "",
    "url": "https://search.shopping.naver.com/ns/search?query=%EC%84%B1%EA%B2%BD%20%ED%8C%8C%EB%85%B8%EB%9D%BC%EB%A7%88"
@@ -1757,7 +1775,7 @@
    },
    "price": 36000,
    "sort": 54,
-   "to": "2026-12-02",
+   "to": "2026-12-03",
    "url": "https://gift.kakao.com/search/result?query=%ED%88%AC%EC%8D%B8%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%20%EC%BC%80%EC%9D%B4%ED%81%AC%20%EA%B5%90%ED%99%98%EA%B6%8C",
    "was": 42000
   },
@@ -1813,7 +1831,10 @@
    "url": "https://search.shopping.naver.com/ns/search?query=%EB%B6%80%ED%99%9C%EC%A0%88%20%EB%8B%AC%EA%B1%80%20%ED%8F%AC%EC%9E%A5%20%EC%83%81%EC%9E%90%2050%EA%B0%9C"
   },
   {
+   "author": "팀 켈러",
    "band": "",
+   "book": "FAITH",
+   "bsub": "LIFE",
    "cat": "BOOKS",
    "deliver": "LINK",
    "descs": {},
@@ -1825,6 +1846,9 @@
     "KO": "기도"
    },
    "price": 19800,
+   "rank": 1,
+   "rank_at": "2026-11-11",
+   "rank_by": "시험 순위",
    "sort": 54,
    "to": "",
    "url": "https://www.coupang.com/np/search?q=%EA%B8%B0%EB%8F%84"
@@ -1834,7 +1858,7 @@
    "cat": "TEST_TRAVEL",
    "deliver": "LINK",
    "departs": [
-    "2026-12-31"
+    "2027-01-01"
    ],
    "descs": {},
    "from": "",
@@ -1878,7 +1902,7 @@
    "cat": "TEST_TRAVEL",
    "deliver": "LINK",
    "departs": [
-    "2027-01-10"
+    "2027-01-11"
    ],
    "descs": {},
    "from": "",
@@ -1899,7 +1923,10 @@
    "url": "https://www.klook.com/ko/search/result/?query=%EA%B7%B8%EB%A6%AC%EC%8A%A4%20%EB%B0%94%EC%9A%B8%20%EC%A0%84%EB%8F%84%20%EC%97%AC%ED%96%89%209%EC%9D%BC%20%28%EC%95%84%ED%85%8C%EB%84%A4%20%C2%B7%20%EA%B3%A0%EB%A6%B0%EB%8F%84%29"
   },
   {
+   "author": "로렌스 형제",
    "band": "",
+   "book": "FAITH",
+   "bsub": "LIFE",
    "cat": "BOOKS",
    "deliver": "LINK",
    "descs": {},
@@ -1939,7 +1966,7 @@
    "cat": "TEST_TRAVEL",
    "deliver": "LINK",
    "departs": [
-    "2027-01-30"
+    "2027-01-31"
    ],
    "descs": {},
    "from": "",
@@ -1959,7 +1986,10 @@
    "url": "https://www.klook.com/ko/search/result/?query=%EC%9D%B4%EC%A7%91%ED%8A%B8%20%C2%B7%20%EC%8B%9C%EB%82%B4%EC%82%B0%20%EC%B6%9C%EC%95%A0%EA%B5%BD%20%EC%88%9C%EB%A1%80%208%EC%9D%BC"
   },
   {
+   "author": "존 번연",
    "band": "",
+   "book": "FAITH",
+   "bsub": "LIFE",
    "cat": "BOOKS",
    "deliver": "LINK",
    "descs": {},
@@ -1971,6 +2001,9 @@
     "KO": "천로역정"
    },
    "price": 13500,
+   "rank": 4,
+   "rank_at": "2026-11-11",
+   "rank_by": "시험 순위",
    "sort": 56,
    "to": "",
    "url": "https://www.coupang.com/np/search?q=%EC%B2%9C%EB%A1%9C%EC%97%AD%EC%A0%95"
@@ -2016,7 +2049,10 @@
    "url": "https://www.klook.com/ko/search/result/?query=%EC%9A%94%EB%A5%B4%EB%8B%A8%20%EB%8A%90%EB%B3%B4%EC%82%B0%20%C2%B7%20%ED%8E%98%ED%8A%B8%EB%9D%BC%201%EC%9D%BC%20%ED%88%AC%EC%96%B4"
   },
   {
+   "author": "마틴 로이드 존스",
    "band": "",
+   "book": "FAITH",
+   "bsub": "SERMON",
    "cat": "BOOKS",
    "deliver": "LINK",
    "descs": {},
@@ -2072,7 +2108,10 @@
    "url": "https://www.klook.com/ko/search/result/?query=%EB%A1%9C%EB%A7%88%20%EC%B9%B4%ED%83%80%EC%BD%A4%20%EB%B0%98%EB%82%98%EC%A0%88%20%ED%88%AC%EC%96%B4"
   },
   {
+   "author": "마틴 로이드 존스",
    "band": "",
+   "book": "FAITH",
+   "bsub": "SERMON",
    "cat": "BOOKS",
    "deliver": "LINK",
    "descs": {},
@@ -2089,7 +2128,10 @@
    "url": "https://www.coupang.com/np/search?q=%EB%A1%9C%EB%A7%88%EC%84%9C%20%EA%B0%95%ED%95%B4%201"
   },
   {
+   "author": "Crossway",
    "band": "",
+   "book": "FAITH",
+   "bsub": "BIBLE",
    "cat": "BOOKS",
    "deliver": "LINK",
    "descs": {
@@ -2128,7 +2170,10 @@
    "url": "https://www.klook.com/ko/search/result/?query=%EC%A0%9C%EC%A3%BC%20%EA%B5%90%ED%9A%8C%20%EC%88%98%EB%A0%A8%ED%9A%8C%20%EC%88%99%EC%86%8C%202%EB%B0%95%20%2830%EB%AA%85%29"
   },
   {
+   "author": "C. S. 루이스",
    "band": "",
+   "book": "FAITH",
+   "bsub": "THEOLOGY",
    "cat": "BOOKS",
    "deliver": "LINK",
    "descs": {},
@@ -2140,8 +2185,11 @@
     "KO": "순전한 기독교"
    },
    "price": 14000,
+   "rank": 3,
+   "rank_at": "2026-11-11",
+   "rank_by": "시험 순위",
    "sort": 59,
-   "to": "2026-12-01",
+   "to": "2026-12-02",
    "url": "https://search.shopping.naver.com/ns/search?query=%EC%88%9C%EC%A0%84%ED%95%9C%20%EA%B8%B0%EB%8F%85%EA%B5%90",
    "was": 16000
   },
@@ -2185,7 +2233,10 @@
    "url": "https://www.klook.com/ko/search/result/?query=%EB%B6%80%EC%82%B0%20%ED%95%B4%EC%9A%B4%EB%8C%80%20%EA%B0%80%EC%A1%B1%20%ED%98%B8%ED%85%94%201%EB%B0%95"
   },
   {
+   "author": "웨인 그루뎀",
    "band": "",
+   "book": "FAITH",
+   "bsub": "THEOLOGY",
    "cat": "BOOKS",
    "deliver": "LINK",
    "descs": {},
@@ -2206,7 +2257,7 @@
    "cat": "TEST_TRAVEL",
    "deliver": "LINK",
    "departs": [
-    "2026-12-11"
+    "2026-12-12"
    ],
    "descs": {},
    "from": "",
@@ -2225,7 +2276,10 @@
    "url": "https://www.klook.com/ko/search/result/?query=%EB%8F%84%EC%BF%84%20%EA%B5%90%ED%9A%8C%20%ED%83%90%EB%B0%A9%204%EC%9D%BC"
   },
   {
+   "author": "팀 켈러",
    "band": "",
+   "book": "FAITH",
+   "bsub": "FAMILY",
    "cat": "BOOKS",
    "deliver": "LINK",
    "descs": {},
@@ -2237,6 +2291,9 @@
     "KO": "결혼의 의미"
    },
    "price": 17000,
+   "rank": 5,
+   "rank_at": "2026-11-11",
+   "rank_by": "시험 순위",
    "sort": 61,
    "to": "",
    "url": "https://search.shopping.naver.com/ns/search?query=%EA%B2%B0%ED%98%BC%EC%9D%98%20%EC%9D%98%EB%AF%B8"
@@ -2262,7 +2319,10 @@
    "url": "https://www.klook.com/ko/search/result/?query=%EB%8B%A4%EB%82%AD%20%EC%84%A0%EA%B5%90%20%EC%97%AC%ED%96%89%20%EC%88%99%EC%86%8C%204%EB%B0%95"
   },
   {
+   "author": "게리 채프먼",
    "band": "",
+   "book": "FAITH",
+   "bsub": "FAMILY",
    "cat": "BOOKS",
    "deliver": "LINK",
    "descs": {},
@@ -2279,7 +2339,10 @@
    "url": "https://www.coupang.com/np/search?q=5%EA%B0%80%EC%A7%80%20%EC%82%AC%EB%9E%91%EC%9D%98%20%EC%96%B8%EC%96%B4"
   },
   {
+   "author": "아우구스티누스",
    "band": "",
+   "book": "FAITH",
+   "bsub": "TESTIMONY",
    "cat": "BOOKS",
    "deliver": "LINK",
    "descs": {},
@@ -2296,7 +2359,10 @@
    "url": "https://search.shopping.naver.com/ns/search?query=%EA%B3%A0%EB%B0%B1%EB%A1%9D"
   },
   {
+   "author": "하워드 테일러",
    "band": "",
+   "book": "FAITH",
+   "bsub": "TESTIMONY",
    "cat": "BOOKS",
    "deliver": "LINK",
    "descs": {},
@@ -2308,12 +2374,18 @@
     "KO": "허드슨 테일러의 영적 비밀"
    },
    "price": 12000,
+   "rank": 7,
+   "rank_at": "2026-11-11",
+   "rank_by": "시험 순위",
    "sort": 64,
    "to": "",
    "url": "https://www.coupang.com/np/search?q=%ED%97%88%EB%93%9C%EC%8A%A8%20%ED%85%8C%EC%9D%BC%EB%9F%AC%EC%9D%98%20%EC%98%81%EC%A0%81%20%EB%B9%84%EB%B0%80"
   },
   {
+   "author": "편집부",
    "band": "",
+   "book": "FAITH",
+   "bsub": "YOUTH",
    "cat": "BOOKS",
    "deliver": "LINK",
    "descs": {},
@@ -2325,12 +2397,18 @@
     "KO": "어린이 그림 성경"
    },
    "price": 18000,
+   "rank": 8,
+   "rank_at": "2026-11-11",
+   "rank_by": "시험 순위",
    "sort": 65,
    "to": "",
    "url": "https://search.shopping.naver.com/ns/search?query=%EC%96%B4%EB%A6%B0%EC%9D%B4%20%EA%B7%B8%EB%A6%BC%20%EC%84%B1%EA%B2%BD"
   },
   {
+   "author": "편집부",
    "band": "",
+   "book": "FAITH",
+   "bsub": "YOUTH",
    "cat": "BOOKS",
    "deliver": "LINK",
    "descs": {},
@@ -2347,7 +2425,10 @@
    "url": "https://www.coupang.com/np/search?q=%EC%8B%AD%EB%8C%80%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%ED%81%90%ED%8B%B0%20%EC%B2%AB%EA%B1%B8%EC%9D%8C"
   },
   {
+   "author": "한강",
    "band": "",
+   "book": "GENERAL",
+   "bsub": "NOVEL",
    "cat": "BOOKS",
    "deliver": "LINK",
    "descs": {},
@@ -2359,12 +2440,18 @@
     "KO": "소년이 온다"
    },
    "price": 15000,
+   "rank": 1,
+   "rank_at": "2026-11-11",
+   "rank_by": "시험 순위",
    "sort": 67,
    "to": "",
    "url": "https://search.shopping.naver.com/ns/search?query=%EC%86%8C%EB%85%84%EC%9D%B4%20%EC%98%A8%EB%8B%A4"
   },
   {
+   "author": "한강",
    "band": "",
+   "book": "GENERAL",
+   "bsub": "NOVEL",
    "cat": "BOOKS",
    "deliver": "LINK",
    "descs": {},
@@ -2376,12 +2463,18 @@
     "KO": "채식주의자"
    },
    "price": 15000,
+   "rank": 2,
+   "rank_at": "2026-11-11",
+   "rank_by": "시험 순위",
    "sort": 68,
    "to": "",
    "url": "https://www.coupang.com/np/search?q=%EC%B1%84%EC%8B%9D%EC%A3%BC%EC%9D%98%EC%9E%90"
   },
   {
+   "author": "김호연",
    "band": "",
+   "book": "GENERAL",
+   "bsub": "NOVEL",
    "cat": "BOOKS",
    "deliver": "LINK",
    "descs": {},
@@ -2393,12 +2486,18 @@
     "KO": "불편한 편의점"
    },
    "price": 14000,
+   "rank": 3,
+   "rank_at": "2026-11-11",
+   "rank_by": "시험 순위",
    "sort": 69,
    "to": "",
    "url": "https://search.shopping.naver.com/ns/search?query=%EB%B6%88%ED%8E%B8%ED%95%9C%20%ED%8E%B8%EC%9D%98%EC%A0%90"
   },
   {
+   "author": "손원평",
    "band": "",
+   "book": "GENERAL",
+   "bsub": "NOVEL",
    "cat": "BOOKS",
    "deliver": "LINK",
    "descs": {},
@@ -2410,12 +2509,18 @@
     "KO": "아몬드"
    },
    "price": 14000,
+   "rank": 4,
+   "rank_at": "2026-11-11",
+   "rank_by": "시험 순위",
    "sort": 70,
    "to": "",
    "url": "https://www.coupang.com/np/search?q=%EC%95%84%EB%AA%AC%EB%93%9C"
   },
   {
+   "author": "유발 하라리",
    "band": "",
+   "book": "GENERAL",
+   "bsub": "HUMAN",
    "cat": "BOOKS",
    "deliver": "LINK",
    "descs": {},
@@ -2427,12 +2532,18 @@
     "KO": "사피엔스"
    },
    "price": 24000,
+   "rank": 1,
+   "rank_at": "2026-11-11",
+   "rank_by": "시험 순위",
    "sort": 71,
    "to": "",
    "url": "https://search.shopping.naver.com/ns/search?query=%EC%82%AC%ED%94%BC%EC%97%94%EC%8A%A4"
   },
   {
+   "author": "재레드 다이아몬드",
    "band": "",
+   "book": "GENERAL",
+   "bsub": "HUMAN",
    "cat": "BOOKS",
    "deliver": "LINK",
    "descs": {},
@@ -2444,12 +2555,18 @@
     "KO": "총 균 쇠"
    },
    "price": 29800,
+   "rank": 2,
+   "rank_at": "2026-11-11",
+   "rank_by": "시험 순위",
    "sort": 72,
    "to": "",
    "url": "https://www.coupang.com/np/search?q=%EC%B4%9D%20%EA%B7%A0%20%EC%87%A0"
   },
   {
+   "author": "마이클 샌델",
    "band": "",
+   "book": "GENERAL",
+   "bsub": "HUMAN",
    "cat": "BOOKS",
    "deliver": "LINK",
    "descs": {},
@@ -2461,12 +2578,18 @@
     "KO": "정의란 무엇인가"
    },
    "price": 18000,
+   "rank": 3,
+   "rank_at": "2026-11-11",
+   "rank_by": "시험 순위",
    "sort": 73,
    "to": "",
    "url": "https://search.shopping.naver.com/ns/search?query=%EC%A0%95%EC%9D%98%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80"
   },
   {
+   "author": "제임스 클리어",
    "band": "",
+   "book": "GENERAL",
+   "bsub": "SELF",
    "cat": "BOOKS",
    "deliver": "LINK",
    "descs": {},
@@ -2478,13 +2601,19 @@
     "KO": "아주 작은 습관의 힘"
    },
    "price": 16000,
+   "rank": 1,
+   "rank_at": "2026-11-11",
+   "rank_by": "시험 순위",
    "sort": 74,
-   "to": "2026-11-25",
+   "to": "2026-11-26",
    "url": "https://www.coupang.com/np/search?q=%EC%95%84%EC%A3%BC%20%EC%9E%91%EC%9D%80%20%EC%8A%B5%EA%B4%80%EC%9D%98%20%ED%9E%98",
    "was": 18000
   },
   {
+   "author": "게리 켈러",
    "band": "",
+   "book": "GENERAL",
+   "bsub": "SELF",
    "cat": "BOOKS",
    "deliver": "LINK",
    "descs": {},
@@ -2496,12 +2625,18 @@
     "KO": "원씽"
    },
    "price": 16000,
+   "rank": 2,
+   "rank_at": "2026-11-11",
+   "rank_by": "시험 순위",
    "sort": 75,
    "to": "",
    "url": "https://search.shopping.naver.com/ns/search?query=%EC%9B%90%EC%94%BD"
   },
   {
+   "author": "기시미 이치로",
    "band": "",
+   "book": "GENERAL",
+   "bsub": "SELF",
    "cat": "BOOKS",
    "deliver": "LINK",
    "descs": {},
@@ -2513,12 +2648,18 @@
     "KO": "미움받을 용기"
    },
    "price": 16800,
+   "rank": 3,
+   "rank_at": "2026-11-11",
+   "rank_by": "시험 순위",
    "sort": 76,
    "to": "",
    "url": "https://www.coupang.com/np/search?q=%EB%AF%B8%EC%9B%80%EB%B0%9B%EC%9D%84%20%EC%9A%A9%EA%B8%B0"
   },
   {
+   "author": "모건 하우절",
    "band": "",
+   "book": "GENERAL",
+   "bsub": "BIZ",
    "cat": "BOOKS",
    "deliver": "LINK",
    "descs": {},
@@ -2530,12 +2671,18 @@
     "KO": "돈의 심리학"
    },
    "price": 19800,
+   "rank": 1,
+   "rank_at": "2026-11-11",
+   "rank_by": "시험 순위",
    "sort": 77,
    "to": "",
    "url": "https://search.shopping.naver.com/ns/search?query=%EB%8F%88%EC%9D%98%20%EC%8B%AC%EB%A6%AC%ED%95%99"
   },
   {
+   "author": "엠제이 드마코",
    "band": "",
+   "book": "GENERAL",
+   "bsub": "BIZ",
    "cat": "BOOKS",
    "deliver": "LINK",
    "descs": {},
@@ -2547,12 +2694,18 @@
     "KO": "부의 추월차선"
    },
    "price": 17500,
+   "rank": 2,
+   "rank_at": "2026-11-11",
+   "rank_by": "시험 순위",
    "sort": 78,
    "to": "",
    "url": "https://www.coupang.com/np/search?q=%EB%B6%80%EC%9D%98%20%EC%B6%94%EC%9B%94%EC%B0%A8%EC%84%A0"
   },
   {
+   "author": "김난도",
    "band": "",
+   "book": "GENERAL",
+   "bsub": "BIZ",
    "cat": "BOOKS",
    "deliver": "LINK",
    "descs": {},
@@ -2564,12 +2717,18 @@
     "KO": "트렌드 코리아"
    },
    "price": 20000,
+   "rank": 3,
+   "rank_at": "2026-11-11",
+   "rank_by": "시험 순위",
    "sort": 79,
    "to": "",
    "url": "https://search.shopping.naver.com/ns/search?query=%ED%8A%B8%EB%A0%8C%EB%93%9C%20%EC%BD%94%EB%A6%AC%EC%95%84"
   },
   {
+   "author": "정희원",
    "band": "",
+   "book": "GENERAL",
+   "bsub": "HEALTH",
    "cat": "BOOKS",
    "deliver": "LINK",
    "descs": {},
@@ -2581,12 +2740,18 @@
     "KO": "저속노화 식사법"
    },
    "price": 18800,
+   "rank": 1,
+   "rank_at": "2026-11-11",
+   "rank_by": "시험 순위",
    "sort": 80,
    "to": "",
    "url": "https://www.coupang.com/np/search?q=%EC%A0%80%EC%86%8D%EB%85%B8%ED%99%94%20%EC%8B%9D%EC%82%AC%EB%B2%95"
   },
   {
+   "author": "정희원",
    "band": "",
+   "book": "GENERAL",
+   "bsub": "HEALTH",
    "cat": "BOOKS",
    "deliver": "LINK",
    "descs": {},
@@ -2598,12 +2763,18 @@
     "KO": "당신도 느리게 나이 들 수 있습니다"
    },
    "price": 17000,
+   "rank": 2,
+   "rank_at": "2026-11-11",
+   "rank_by": "시험 순위",
    "sort": 81,
    "to": "",
    "url": "https://search.shopping.naver.com/ns/search?query=%EB%8B%B9%EC%8B%A0%EB%8F%84%20%EB%8A%90%EB%A6%AC%EA%B2%8C%20%EB%82%98%EC%9D%B4%20%EB%93%A4%20%EC%88%98%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4"
   },
   {
+   "author": "편집부",
    "band": "",
+   "book": "GENERAL",
+   "bsub": "HEALTH",
    "cat": "BOOKS",
    "deliver": "LINK",
    "descs": {},
@@ -2615,12 +2786,18 @@
     "KO": "집밥 기본 반찬"
    },
    "price": 16000,
+   "rank": 3,
+   "rank_at": "2026-11-11",
+   "rank_by": "시험 순위",
    "sort": 82,
    "to": "",
    "url": "https://www.coupang.com/np/search?q=%EC%A7%91%EB%B0%A5%20%EA%B8%B0%EB%B3%B8%20%EB%B0%98%EC%B0%AC"
   },
   {
+   "author": "루리",
    "band": "",
+   "book": "GENERAL",
+   "bsub": "KIDS",
    "cat": "BOOKS",
    "deliver": "LINK",
    "descs": {},
@@ -2632,12 +2809,18 @@
     "KO": "긴긴밤"
    },
    "price": 11500,
+   "rank": 1,
+   "rank_at": "2026-11-11",
+   "rank_by": "시험 순위",
    "sort": 83,
    "to": "",
    "url": "https://search.shopping.naver.com/ns/search?query=%EA%B8%B4%EA%B8%B4%EB%B0%A4"
   },
   {
+   "author": "백희나",
    "band": "",
+   "book": "GENERAL",
+   "bsub": "KIDS",
    "cat": "BOOKS",
    "deliver": "LINK",
    "descs": {},
@@ -2649,12 +2832,18 @@
     "KO": "구름빵"
    },
    "price": 13000,
+   "rank": 2,
+   "rank_at": "2026-11-11",
+   "rank_by": "시험 순위",
    "sort": 84,
    "to": "",
    "url": "https://www.coupang.com/np/search?q=%EA%B5%AC%EB%A6%84%EB%B9%B5"
   },
   {
+   "author": "황선미",
    "band": "",
+   "book": "GENERAL",
+   "bsub": "KIDS",
    "cat": "BOOKS",
    "deliver": "LINK",
    "descs": {},
@@ -2666,6 +2855,9 @@
     "KO": "마당을 나온 암탉"
    },
    "price": 12000,
+   "rank": 3,
+   "rank_at": "2026-11-11",
+   "rank_by": "시험 순위",
    "sort": 85,
    "to": "",
    "url": "https://search.shopping.naver.com/ns/search?query=%EB%A7%88%EB%8B%B9%EC%9D%84%20%EB%82%98%EC%98%A8%20%EC%95%94%ED%83%89"
@@ -2822,6 +3014,34 @@
    }
   }
  ],
+ "menu_counts": {
+  "books": 37,
+  "goods": 60,
+  "travel": 14
+ },
+ "menus": [
+  {
+   "key": "goods",
+   "shown": true,
+   "sort": 10
+  },
+  {
+   "key": "travel",
+   "shown": true,
+   "sort": 20
+  },
+  {
+   "key": "cmall",
+   "shown": true,
+   "sort": 30
+  },
+  {
+   "key": "books",
+   "shown": false,
+   "sort": 40
+  }
+ ],
+ "menus_of": "KR",
  "places": [
   {
    "air": "TLV",
@@ -3396,6 +3616,7 @@
    "sort": 700
   },
   {
+   "air": "SEL",
    "cc": "KR",
    "code": "SEOUL",
    "cont": "ASIA",
@@ -3410,5 +3631,5 @@
    "sort": 900
   }
  ],
- "version": 21
+ "version": 23
 }

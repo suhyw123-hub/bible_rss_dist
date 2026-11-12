@@ -732,6 +732,24 @@
   },
   {
    "band": "",
+   "cat": "FOOD",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 189,
+   "img": "shopimg_25b504bb13bd9d3e.jpg",
+   "mall": "TEST_US_MART",
+   "names": {
+    "EN": "Spring Water 24-Pack",
+    "KO": "생수 24병"
+   },
+   "price": 5,
+   "sort": 50,
+   "to": "",
+   "url": "https://www.target.com/s?searchTerm=Spring%20Water%2024-Pack"
+  },
+  {
+   "band": "",
    "cat": "CHURCH_WORSHIP",
    "deliver": "LINK",
    "descs": {
@@ -748,6 +766,25 @@
    "sort": 51,
    "to": "2026-12-31",
    "url": "https://www.amazon.com/dp/B015X6ETYS"
+  },
+  {
+   "band": "",
+   "cat": "LIVING",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 190,
+   "img": "shopimg_af9b38bf7f3b34ea.jpg",
+   "mall": "TEST_US_MART",
+   "names": {
+    "EN": "Paper Towels 12 Rolls",
+    "KO": "키친타월 12롤"
+   },
+   "price": 20,
+   "sort": 51,
+   "to": "2026-11-26",
+   "url": "https://www.target.com/s?searchTerm=Paper%20Towels%2012%20Rolls",
+   "was": 25
   },
   {
    "band": "",
@@ -770,6 +807,24 @@
   },
   {
    "band": "",
+   "cat": "KITCHEN",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 191,
+   "img": "shopimg_bd28f0d7cf51a5ba.jpg",
+   "mall": "TEST_US_MART",
+   "names": {
+    "EN": "Slow Cooker 6 Qt",
+    "KO": "슬로 쿠커 6쿼트"
+   },
+   "price": 40,
+   "sort": 52,
+   "to": "",
+   "url": "https://www.target.com/s?searchTerm=Slow%20Cooker%206%20Qt"
+  },
+  {
+   "band": "",
    "cat": "FOOD",
    "deliver": "LINK",
    "descs": {
@@ -786,6 +841,24 @@
    "sort": 53,
    "to": "2026-12-31",
    "url": "https://www.amazon.com/dp/B001B48RCC"
+  },
+  {
+   "band": "",
+   "cat": "CHURCH_EVENT",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 192,
+   "img": "shopimg_123f5b97e1f1ddec.jpg",
+   "mall": "TEST_US_MART",
+   "names": {
+    "EN": "VBS Craft Kit (24 kids)",
+    "KO": "여름성경학교 만들기 세트(24명)"
+   },
+   "price": 30,
+   "sort": 53,
+   "to": "",
+   "url": "https://www.target.com/s?searchTerm=VBS%20Craft%20Kit%20%2824%20kids%29"
   },
   {
    "band": "",
@@ -808,6 +881,24 @@
   },
   {
    "band": "",
+   "cat": "GIFT_CARD",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 193,
+   "img": "shopimg_c75b401a7b9d0451.jpg",
+   "mall": "TEST_US_MART",
+   "names": {
+    "EN": "Coffee Shop eGift Card $25",
+    "KO": "커피 e기프트카드 25달러"
+   },
+   "price": 25,
+   "sort": 54,
+   "to": "",
+   "url": "https://www.target.com/s?searchTerm=Coffee%20Shop%20eGift%20Card%20%2425"
+  },
+  {
+   "band": "",
    "cat": "KITCHEN",
    "deliver": "LINK",
    "descs": {
@@ -824,6 +915,31 @@
    "sort": 55,
    "to": "2026-12-31",
    "url": "https://www.amazon.com/dp/B0732NXYNS"
+  },
+  {
+   "author": "Crossway",
+   "band": "",
+   "book": "FAITH",
+   "bsub": "BIBLE",
+   "cat": "BOOKS",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 194,
+   "img": "shopimg_6c9c0cabc2a20ec7.jpg",
+   "mall": "TEST_US_BOOKS",
+   "names": {
+    "EN": "ESV Study Bible",
+    "KO": "ESV 스터디 바이블"
+   },
+   "price": 40,
+   "rank": 1,
+   "rank_at": "2026-11-11",
+   "rank_by": "시험 순위",
+   "sort": 55,
+   "to": "2026-12-03",
+   "url": "https://www.christianbook.com/apps/search?Ntt=ESV%20Study%20Bible",
+   "was": 50
   },
   {
    "band": "",
@@ -845,6 +961,30 @@
    "url": "https://www.amazon.com/dp/B0DB794BKQ"
   },
   {
+   "author": "Timothy Keller",
+   "band": "",
+   "book": "FAITH",
+   "bsub": "LIFE",
+   "cat": "BOOKS",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 195,
+   "img": "shopimg_6c9c0cabc2a20ec7.jpg",
+   "mall": "TEST_US_BOOKS",
+   "names": {
+    "EN": "The Prodigal God",
+    "KO": "탕부 하나님"
+   },
+   "price": 15,
+   "rank": 2,
+   "rank_at": "2026-11-11",
+   "rank_by": "시험 순위",
+   "sort": 56,
+   "to": "",
+   "url": "https://www.christianbook.com/apps/search?Ntt=The%20Prodigal%20God"
+  },
+  {
    "band": "",
    "cat": "BEAUTY",
    "deliver": "LINK",
@@ -862,6 +1002,30 @@
    "sort": 57,
    "to": "2026-12-31",
    "url": "https://www.amazon.com/dp/B0CC8Z27D1"
+  },
+  {
+   "author": "C. S. Lewis",
+   "band": "",
+   "book": "FAITH",
+   "bsub": "THEOLOGY",
+   "cat": "BOOKS",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 196,
+   "img": "shopimg_6c9c0cabc2a20ec7.jpg",
+   "mall": "TEST_US_BOOKS",
+   "names": {
+    "EN": "Mere Christianity",
+    "KO": "순전한 기독교"
+   },
+   "price": 13,
+   "rank": 3,
+   "rank_at": "2026-11-11",
+   "rank_by": "시험 순위",
+   "sort": 57,
+   "to": "",
+   "url": "https://www.christianbook.com/apps/search?Ntt=Mere%20Christianity"
   },
   {
    "band": "",
@@ -883,7 +1047,34 @@
    "url": "https://www.amazon.com/dp/B0HLDX9J9J"
   },
   {
+   "author": "Sally Lloyd-Jones",
    "band": "",
+   "book": "FAITH",
+   "bsub": "YOUTH",
+   "cat": "BOOKS",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 197,
+   "img": "shopimg_6c9c0cabc2a20ec7.jpg",
+   "mall": "TEST_US_BOOKS",
+   "names": {
+    "EN": "The Jesus Storybook Bible",
+    "KO": "스토리 바이블"
+   },
+   "price": 18,
+   "rank": 4,
+   "rank_at": "2026-11-11",
+   "rank_by": "시험 순위",
+   "sort": 58,
+   "to": "",
+   "url": "https://www.christianbook.com/apps/search?Ntt=The%20Jesus%20Storybook%20Bible"
+  },
+  {
+   "author": "Crossway",
+   "band": "",
+   "book": "FAITH",
+   "bsub": "BIBLE",
    "cat": "BOOKS",
    "deliver": "LINK",
    "descs": {
@@ -900,6 +1091,30 @@
    "sort": 59,
    "to": "2026-12-31",
    "url": "https://www.amazon.com/dp/B0DHW69RG6"
+  },
+  {
+   "author": "James Clear",
+   "band": "",
+   "book": "GENERAL",
+   "bsub": "SELF",
+   "cat": "BOOKS",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 198,
+   "img": "shopimg_6c9c0cabc2a20ec7.jpg",
+   "mall": "TEST_US_BOOKS",
+   "names": {
+    "EN": "Atomic Habits",
+    "KO": "아주 작은 습관의 힘"
+   },
+   "price": 17,
+   "rank": 1,
+   "rank_at": "2026-11-11",
+   "rank_by": "시험 순위",
+   "sort": 59,
+   "to": "",
+   "url": "https://www.christianbook.com/apps/search?Ntt=Atomic%20Habits"
   },
   {
    "band": "",
@@ -919,6 +1134,95 @@
    "sort": 60,
    "to": "2026-12-31",
    "url": "https://www.amazon.com/dp/B0HDB173YV"
+  },
+  {
+   "author": "Andy Weir",
+   "band": "",
+   "book": "GENERAL",
+   "bsub": "NOVEL",
+   "cat": "BOOKS",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 199,
+   "img": "shopimg_6c9c0cabc2a20ec7.jpg",
+   "mall": "TEST_US_BOOKS",
+   "names": {
+    "EN": "Project Hail Mary",
+    "KO": "프로젝트 헤일메리"
+   },
+   "price": 16,
+   "rank": 1,
+   "rank_at": "2026-11-11",
+   "rank_by": "시험 순위",
+   "sort": 60,
+   "to": "",
+   "url": "https://www.christianbook.com/apps/search?Ntt=Project%20Hail%20Mary"
+  },
+  {
+   "band": "",
+   "cat": "TEST_TRAVEL",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 200,
+   "img": "shopimg_89c2fcc658b7ea27.jpg",
+   "mall": "TEST_US_TRIP",
+   "names": {
+    "EN": "Holy Land Pilgrimage 10 Days",
+    "KO": "성지순례 10일"
+   },
+   "places": [
+    "JERUSALEM",
+    "GALILEE"
+   ],
+   "price": 3290,
+   "sort": 61,
+   "to": "",
+   "url": "https://www.viator.com/searchResults/all?text=Holy%20Land%20Pilgrimage%2010%20Days"
+  },
+  {
+   "band": "",
+   "cat": "TEST_TRAVEL",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 201,
+   "img": "shopimg_89c2fcc658b7ea27.jpg",
+   "mall": "TEST_US_TRIP",
+   "names": {
+    "EN": "Rome Catacombs Half-Day Tour",
+    "KO": "로마 카타콤 반나절 투어"
+   },
+   "places": [
+    "ROME"
+   ],
+   "price": 59,
+   "sort": 62,
+   "to": "",
+   "url": "https://www.viator.com/searchResults/all?text=Rome%20Catacombs%20Half-Day%20Tour"
+  },
+  {
+   "band": "",
+   "cat": "TEST_TRAVEL",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 202,
+   "img": "shopimg_89c2fcc658b7ea27.jpg",
+   "mall": "TEST_US_TRIP",
+   "names": {
+    "EN": "Honolulu Church Retreat Stay (3 nights)",
+    "KO": "호놀룰루 수련회 숙소 3박"
+   },
+   "places": [
+    "HAWAII"
+   ],
+   "price": 690,
+   "sort": 63,
+   "to": "2026-11-30",
+   "url": "https://www.viator.com/searchResults/all?text=Honolulu%20Church%20Retreat%20Stay%20%283%20nights%29",
+   "was": 790
   }
  ],
  "malls": [
@@ -954,7 +1258,689 @@
    "search": "https://www.amazon.com/s?k={q}",
    "sort": 10,
    "text": 1
+  },
+  {
+   "abroad": [],
+   "adv": "",
+   "code": "TEST_US_MART",
+   "countries": [
+    "US"
+   ],
+   "home": "https://www.target.com/",
+   "logo": "",
+   "names": {
+    "EN": "Test Mart US",
+    "KO": "시험 마트 US"
+   },
+   "network": "TEST",
+   "notice": {},
+   "search": "https://www.target.com/s?searchTerm={q}",
+   "sort": 913,
+   "text": 1
+  },
+  {
+   "abroad": [],
+   "adv": "",
+   "code": "TEST_US_BOOKS",
+   "countries": [
+    "US"
+   ],
+   "home": "https://www.christianbook.com/",
+   "logo": "",
+   "names": {
+    "EN": "Test Books US",
+    "KO": "시험 서점 US"
+   },
+   "network": "TEST",
+   "notice": {},
+   "search": "https://www.christianbook.com/apps/search?Ntt={q}",
+   "sort": 913,
+   "text": 1
+  },
+  {
+   "abroad": [],
+   "adv": "",
+   "code": "TEST_US_TRIP",
+   "countries": [
+    "US"
+   ],
+   "home": "https://www.viator.com/",
+   "logo": "",
+   "names": {
+    "EN": "Test Trips US",
+    "KO": "시험 여행 US"
+   },
+   "network": "TEST",
+   "notice": {},
+   "search": "https://www.viator.com/searchResults/all?text={q}",
+   "sort": 913,
+   "text": 1,
+   "travel": {
+    "FLIGHT": "https://www.kayak.com/flights/{from}-{to}/{in}/{out}",
+    "FLIGHT_HOME": "https://www.kayak.com/flights",
+    "STAY": "https://www.booking.com/searchresults.html?ss={dest}&checkin={in}&checkout={out}&group_adults={adults}",
+    "STAY_HOME": "https://www.booking.com/",
+    "TOUR": "https://www.viator.com/searchResults/all?text={dest}",
+    "TOUR_HOME": "https://www.viator.com/"
+   }
   }
  ],
- "version": 21
+ "menu_counts": {
+  "books": 7,
+  "goods": 16,
+  "travel": 4
+ },
+ "menus": [
+  {
+   "key": "goods",
+   "shown": true,
+   "sort": 10
+  },
+  {
+   "key": "books",
+   "shown": true,
+   "sort": 20
+  },
+  {
+   "key": "travel",
+   "shown": true,
+   "sort": 30
+  },
+  {
+   "key": "cmall",
+   "shown": false,
+   "sort": 40
+  }
+ ],
+ "menus_of": "US",
+ "places": [
+  {
+   "air": "TLV",
+   "cc": "IL",
+   "code": "JERUSALEM",
+   "cont": "MIDEAST",
+   "country": {
+    "EN": "Israel",
+    "KO": "이스라엘"
+   },
+   "names": {
+    "EN": "Jerusalem",
+    "KO": "예루살렘"
+   },
+   "pilgrim": true,
+   "sort": 10
+  },
+  {
+   "air": "TLV",
+   "cc": "IL",
+   "code": "GALILEE",
+   "cont": "MIDEAST",
+   "country": {
+    "EN": "Israel",
+    "KO": "이스라엘"
+   },
+   "names": {
+    "EN": "Tiberias",
+    "KO": "갈릴리"
+   },
+   "pilgrim": true,
+   "sort": 20
+  },
+  {
+   "air": "AMM",
+   "cc": "JO",
+   "code": "JORDAN",
+   "cont": "MIDEAST",
+   "country": {
+    "EN": "Jordan",
+    "KO": "요르단"
+   },
+   "names": {
+    "EN": "Jordan",
+    "KO": "요르단"
+   },
+   "pilgrim": true,
+   "sort": 30
+  },
+  {
+   "air": "IST",
+   "cc": "TR",
+   "code": "TURKEY",
+   "cont": "EUROPE",
+   "country": {
+    "EN": "Türkiye",
+    "KO": "튀르키예"
+   },
+   "names": {
+    "EN": "Turkey",
+    "KO": "튀르키예"
+   },
+   "pilgrim": true,
+   "sort": 40
+  },
+  {
+   "air": "ATH",
+   "cc": "GR",
+   "code": "GREECE",
+   "cont": "EUROPE",
+   "country": {
+    "EN": "Greece",
+    "KO": "그리스"
+   },
+   "names": {
+    "EN": "Greece",
+    "KO": "그리스"
+   },
+   "pilgrim": true,
+   "sort": 50
+  },
+  {
+   "air": "FCO",
+   "cc": "IT",
+   "code": "ROME",
+   "cont": "EUROPE",
+   "country": {
+    "EN": "Italy",
+    "KO": "이탈리아"
+   },
+   "names": {
+    "EN": "Rome",
+    "KO": "로마"
+   },
+   "pilgrim": true,
+   "sort": 60
+  },
+  {
+   "air": "CAI",
+   "cc": "EG",
+   "code": "EGYPT",
+   "cont": "AFRICA",
+   "country": {
+    "EN": "Egypt",
+    "KO": "이집트"
+   },
+   "names": {
+    "EN": "Egypt",
+    "KO": "이집트"
+   },
+   "pilgrim": true,
+   "sort": 70
+  },
+  {
+   "air": "TLV",
+   "cc": "IL",
+   "code": "NAZARETH",
+   "cont": "MIDEAST",
+   "country": {
+    "EN": "Israel",
+    "KO": "이스라엘"
+   },
+   "names": {
+    "EN": "Nazareth",
+    "KO": "나사렛"
+   },
+   "pilgrim": true,
+   "sort": 110
+  },
+  {
+   "air": "TLV",
+   "cc": "PS",
+   "code": "BETHLEHEM",
+   "cont": "MIDEAST",
+   "country": {
+    "EN": "Palestine",
+    "KO": "팔레스타인"
+   },
+   "names": {
+    "EN": "Bethlehem",
+    "KO": "베들레헴"
+   },
+   "pilgrim": true,
+   "sort": 120
+  },
+  {
+   "air": "AMM",
+   "cc": "JO",
+   "code": "AMMAN",
+   "cont": "MIDEAST",
+   "country": {
+    "EN": "Jordan",
+    "KO": "요르단"
+   },
+   "names": {
+    "EN": "Amman",
+    "KO": "암만(요르단)"
+   },
+   "pilgrim": true,
+   "sort": 130
+  },
+  {
+   "air": "IST",
+   "cc": "TR",
+   "code": "ISTANBUL",
+   "cont": "EUROPE",
+   "country": {
+    "EN": "Türkiye",
+    "KO": "튀르키예"
+   },
+   "names": {
+    "EN": "Istanbul",
+    "KO": "이스탄불"
+   },
+   "pilgrim": true,
+   "sort": 140
+  },
+  {
+   "air": "ADB",
+   "cc": "TR",
+   "code": "EPHESUS",
+   "cont": "EUROPE",
+   "country": {
+    "EN": "Türkiye",
+    "KO": "튀르키예"
+   },
+   "names": {
+    "EN": "Selcuk",
+    "KO": "에베소(셀축)"
+   },
+   "pilgrim": true,
+   "sort": 150
+  },
+  {
+   "air": "NAV",
+   "cc": "TR",
+   "code": "CAPPADOCIA",
+   "cont": "EUROPE",
+   "country": {
+    "EN": "Türkiye",
+    "KO": "튀르키예"
+   },
+   "names": {
+    "EN": "Cappadocia",
+    "KO": "갑바도기아"
+   },
+   "pilgrim": true,
+   "sort": 160
+  },
+  {
+   "air": "ATH",
+   "cc": "GR",
+   "code": "ATHENS",
+   "cont": "EUROPE",
+   "country": {
+    "EN": "Greece",
+    "KO": "그리스"
+   },
+   "names": {
+    "EN": "Athens",
+    "KO": "아테네"
+   },
+   "pilgrim": true,
+   "sort": 170
+  },
+  {
+   "air": "ATH",
+   "cc": "GR",
+   "code": "CORINTH",
+   "cont": "EUROPE",
+   "country": {
+    "EN": "Greece",
+    "KO": "그리스"
+   },
+   "names": {
+    "EN": "Corinth",
+    "KO": "고린도"
+   },
+   "pilgrim": true,
+   "sort": 180
+  },
+  {
+   "air": "SKG",
+   "cc": "GR",
+   "code": "THESSALONIKI",
+   "cont": "EUROPE",
+   "country": {
+    "EN": "Greece",
+    "KO": "그리스"
+   },
+   "names": {
+    "EN": "Thessaloniki",
+    "KO": "데살로니가"
+   },
+   "pilgrim": true,
+   "sort": 190
+  },
+  {
+   "air": "CAI",
+   "cc": "EG",
+   "code": "CAIRO",
+   "cont": "AFRICA",
+   "country": {
+    "EN": "Egypt",
+    "KO": "이집트"
+   },
+   "names": {
+    "EN": "Cairo",
+    "KO": "카이로"
+   },
+   "pilgrim": true,
+   "sort": 200
+  },
+  {
+   "air": "TYO",
+   "cc": "JP",
+   "code": "TOKYO",
+   "cont": "ASIA",
+   "country": {
+    "EN": "Japan",
+    "KO": "일본"
+   },
+   "names": {
+    "EN": "Tokyo",
+    "KO": "도쿄"
+   },
+   "sort": 510
+  },
+  {
+   "air": "OSA",
+   "cc": "JP",
+   "code": "OSAKA",
+   "cont": "ASIA",
+   "country": {
+    "EN": "Japan",
+    "KO": "일본"
+   },
+   "names": {
+    "EN": "Osaka",
+    "KO": "오사카"
+   },
+   "sort": 520
+  },
+  {
+   "air": "FUK",
+   "cc": "JP",
+   "code": "FUKUOKA",
+   "cont": "ASIA",
+   "country": {
+    "EN": "Japan",
+    "KO": "일본"
+   },
+   "names": {
+    "EN": "Fukuoka",
+    "KO": "후쿠오카"
+   },
+   "sort": 530
+  },
+  {
+   "air": "CTS",
+   "cc": "JP",
+   "code": "SAPPORO",
+   "cont": "ASIA",
+   "country": {
+    "EN": "Japan",
+    "KO": "일본"
+   },
+   "names": {
+    "EN": "Sapporo",
+    "KO": "삿포로"
+   },
+   "sort": 540
+  },
+  {
+   "air": "OKA",
+   "cc": "JP",
+   "code": "OKINAWA",
+   "cont": "ASIA",
+   "country": {
+    "EN": "Japan",
+    "KO": "일본"
+   },
+   "names": {
+    "EN": "Okinawa",
+    "KO": "오키나와"
+   },
+   "sort": 550
+  },
+  {
+   "air": "DAD",
+   "cc": "VN",
+   "code": "DANANG",
+   "cont": "ASIA",
+   "country": {
+    "EN": "Vietnam",
+    "KO": "베트남"
+   },
+   "names": {
+    "EN": "Da Nang",
+    "KO": "다낭"
+   },
+   "sort": 560
+  },
+  {
+   "air": "CXR",
+   "cc": "VN",
+   "code": "NHATRANG",
+   "cont": "ASIA",
+   "country": {
+    "EN": "Vietnam",
+    "KO": "베트남"
+   },
+   "names": {
+    "EN": "Nha Trang",
+    "KO": "나트랑"
+   },
+   "sort": 570
+  },
+  {
+   "air": "HAN",
+   "cc": "VN",
+   "code": "HANOI",
+   "cont": "ASIA",
+   "country": {
+    "EN": "Vietnam",
+    "KO": "베트남"
+   },
+   "names": {
+    "EN": "Hanoi",
+    "KO": "하노이"
+   },
+   "sort": 580
+  },
+  {
+   "air": "SGN",
+   "cc": "VN",
+   "code": "HOCHIMINH",
+   "cont": "ASIA",
+   "country": {
+    "EN": "Vietnam",
+    "KO": "베트남"
+   },
+   "names": {
+    "EN": "Ho Chi Minh City",
+    "KO": "호찌민"
+   },
+   "sort": 590
+  },
+  {
+   "air": "BKK",
+   "cc": "TH",
+   "code": "BANGKOK",
+   "cont": "ASIA",
+   "country": {
+    "EN": "Thailand",
+    "KO": "태국"
+   },
+   "names": {
+    "EN": "Bangkok",
+    "KO": "방콕"
+   },
+   "sort": 600
+  },
+  {
+   "air": "HKT",
+   "cc": "TH",
+   "code": "PHUKET",
+   "cont": "ASIA",
+   "country": {
+    "EN": "Thailand",
+    "KO": "태국"
+   },
+   "names": {
+    "EN": "Phuket",
+    "KO": "푸껫"
+   },
+   "sort": 610
+  },
+  {
+   "air": "CEB",
+   "cc": "PH",
+   "code": "CEBU",
+   "cont": "ASIA",
+   "country": {
+    "EN": "Philippines",
+    "KO": "필리핀"
+   },
+   "names": {
+    "EN": "Cebu",
+    "KO": "세부"
+   },
+   "sort": 620
+  },
+  {
+   "air": "TPE",
+   "cc": "TW",
+   "code": "TAIPEI",
+   "cont": "ASIA",
+   "country": {
+    "EN": "Taiwan",
+    "KO": "대만"
+   },
+   "names": {
+    "EN": "Taipei",
+    "KO": "타이베이"
+   },
+   "sort": 630
+  },
+  {
+   "air": "HKG",
+   "cc": "HK",
+   "code": "HONGKONG",
+   "cont": "ASIA",
+   "country": {
+    "EN": "Hong Kong",
+    "KO": "홍콩"
+   },
+   "names": {
+    "EN": "Hong Kong",
+    "KO": "홍콩"
+   },
+   "sort": 640
+  },
+  {
+   "air": "SIN",
+   "cc": "SG",
+   "code": "SINGAPORE",
+   "cont": "ASIA",
+   "country": {
+    "EN": "Singapore",
+    "KO": "싱가포르"
+   },
+   "names": {
+    "EN": "Singapore",
+    "KO": "싱가포르"
+   },
+   "sort": 650
+  },
+  {
+   "air": "GUM",
+   "cc": "GU",
+   "code": "GUAM",
+   "cont": "OCEANIA",
+   "country": {
+    "EN": "Guam",
+    "KO": "괌"
+   },
+   "names": {
+    "EN": "Guam",
+    "KO": "괌"
+   },
+   "sort": 660
+  },
+  {
+   "air": "HNL",
+   "cc": "US",
+   "code": "HAWAII",
+   "cont": "NAMERICA",
+   "country": {
+    "EN": "United States",
+    "KO": "미국"
+   },
+   "names": {
+    "EN": "Honolulu",
+    "KO": "하와이(호놀룰루)"
+   },
+   "sort": 670
+  },
+  {
+   "air": "PAR",
+   "cc": "FR",
+   "code": "PARIS",
+   "cont": "EUROPE",
+   "country": {
+    "EN": "France",
+    "KO": "프랑스"
+   },
+   "names": {
+    "EN": "Paris",
+    "KO": "파리"
+   },
+   "sort": 680
+  },
+  {
+   "air": "CJU",
+   "cc": "KR",
+   "code": "JEJU",
+   "cont": "ASIA",
+   "country": {
+    "EN": "South Korea",
+    "KO": "대한민국"
+   },
+   "names": {
+    "EN": "Jeju",
+    "KO": "제주"
+   },
+   "sort": 690
+  },
+  {
+   "air": "PUS",
+   "cc": "KR",
+   "code": "BUSAN",
+   "cont": "ASIA",
+   "country": {
+    "EN": "South Korea",
+    "KO": "대한민국"
+   },
+   "names": {
+    "EN": "Busan",
+    "KO": "부산"
+   },
+   "sort": 700
+  },
+  {
+   "air": "SEL",
+   "cc": "KR",
+   "code": "SEOUL",
+   "cont": "ASIA",
+   "country": {
+    "EN": "South Korea",
+    "KO": "대한민국"
+   },
+   "names": {
+    "EN": "Seoul",
+    "KO": "서울"
+   },
+   "sort": 900
+  }
+ ],
+ "version": 23
 }

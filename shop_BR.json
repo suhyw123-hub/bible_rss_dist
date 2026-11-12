@@ -731,6 +731,32 @@
    "url": "https://www.amazon.com/dp/B07PCMWTSG"
   },
   {
+   "author": "Thomas Nelson",
+   "band": "",
+   "book": "FAITH",
+   "bsub": "BIBLE",
+   "cat": "BOOKS",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 168,
+   "img": "shopimg_6c9c0cabc2a20ec7.jpg",
+   "mall": "TEST_BR_LIVROS",
+   "names": {
+    "EN": "Holy Bible NVI Large Print",
+    "KO": "성경 NVI 큰글",
+    "PT": "Bíblia Sagrada NVI Letra Grande"
+   },
+   "price": 90,
+   "rank": 1,
+   "rank_at": "2026-11-11",
+   "rank_by": "시험 순위",
+   "sort": 50,
+   "to": "2026-12-02",
+   "url": "https://www.amazon.com.br/s?k=Holy%20Bible%20NVI%20Large%20Print&i=stripbooks",
+   "was": 110
+  },
+  {
    "band": "",
    "cat": "CHURCH_WORSHIP",
    "deliver": "LINK",
@@ -748,6 +774,31 @@
    "sort": 51,
    "to": "2026-12-31",
    "url": "https://www.amazon.com/dp/B015X6ETYS"
+  },
+  {
+   "author": "C. S. Lewis",
+   "band": "",
+   "book": "FAITH",
+   "bsub": "THEOLOGY",
+   "cat": "BOOKS",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 169,
+   "img": "shopimg_6c9c0cabc2a20ec7.jpg",
+   "mall": "TEST_BR_LIVROS",
+   "names": {
+    "EN": "Mere Christianity",
+    "KO": "순전한 기독교",
+    "PT": "Cristianismo Puro e Simples"
+   },
+   "price": 45,
+   "rank": 2,
+   "rank_at": "2026-11-11",
+   "rank_by": "시험 순위",
+   "sort": 51,
+   "to": "",
+   "url": "https://www.amazon.com.br/s?k=Mere%20Christianity&i=stripbooks"
   },
   {
    "band": "",
@@ -769,6 +820,31 @@
    "url": "https://www.amazon.com/dp/B0DSW166NS"
   },
   {
+   "author": "John Bunyan",
+   "band": "",
+   "book": "FAITH",
+   "bsub": "LIFE",
+   "cat": "BOOKS",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 170,
+   "img": "shopimg_6c9c0cabc2a20ec7.jpg",
+   "mall": "TEST_BR_LIVROS",
+   "names": {
+    "EN": "The Pilgrim's Progress",
+    "KO": "천로역정",
+    "PT": "O Peregrino"
+   },
+   "price": 30,
+   "rank": 3,
+   "rank_at": "2026-11-11",
+   "rank_by": "시험 순위",
+   "sort": 52,
+   "to": "",
+   "url": "https://www.amazon.com.br/s?k=The%20Pilgrim%27s%20Progress&i=stripbooks"
+  },
+  {
    "band": "",
    "cat": "FOOD",
    "deliver": "LINK",
@@ -786,6 +862,31 @@
    "sort": 53,
    "to": "2026-12-31",
    "url": "https://www.amazon.com/dp/B001B48RCC"
+  },
+  {
+   "author": "Renato e Cristiane Cardoso",
+   "band": "",
+   "book": "FAITH",
+   "bsub": "FAMILY",
+   "cat": "BOOKS",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 171,
+   "img": "shopimg_6c9c0cabc2a20ec7.jpg",
+   "mall": "TEST_BR_LIVROS",
+   "names": {
+    "EN": "Shielded Marriage",
+    "KO": "방탄 결혼",
+    "PT": "Casamento Blindado"
+   },
+   "price": 40,
+   "rank": 4,
+   "rank_at": "2026-11-11",
+   "rank_by": "시험 순위",
+   "sort": 53,
+   "to": "",
+   "url": "https://www.amazon.com.br/s?k=Shielded%20Marriage&i=stripbooks"
   },
   {
    "band": "",
@@ -807,6 +908,31 @@
    "url": "https://www.amazon.com/dp/B0DQYP1L95"
   },
   {
+   "author": "Machado de Assis",
+   "band": "",
+   "book": "GENERAL",
+   "bsub": "NOVEL",
+   "cat": "BOOKS",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 172,
+   "img": "shopimg_6c9c0cabc2a20ec7.jpg",
+   "mall": "TEST_BR_LIVROS",
+   "names": {
+    "EN": "Dom Casmurro",
+    "KO": "동 카즈무후",
+    "PT": "Dom Casmurro"
+   },
+   "price": 20,
+   "rank": 1,
+   "rank_at": "2026-11-11",
+   "rank_by": "시험 순위",
+   "sort": 54,
+   "to": "",
+   "url": "https://www.amazon.com.br/s?k=Dom%20Casmurro&i=stripbooks"
+  },
+  {
    "band": "",
    "cat": "KITCHEN",
    "deliver": "LINK",
@@ -824,6 +950,31 @@
    "sort": 55,
    "to": "2026-12-31",
    "url": "https://www.amazon.com/dp/B0732NXYNS"
+  },
+  {
+   "author": "Robert Kiyosaki",
+   "band": "",
+   "book": "GENERAL",
+   "bsub": "BIZ",
+   "cat": "BOOKS",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 173,
+   "img": "shopimg_6c9c0cabc2a20ec7.jpg",
+   "mall": "TEST_BR_LIVROS",
+   "names": {
+    "EN": "Rich Dad Poor Dad",
+    "KO": "부자 아빠 가난한 아빠",
+    "PT": "Pai Rico, Pai Pobre"
+   },
+   "price": 50,
+   "rank": 1,
+   "rank_at": "2026-11-11",
+   "rank_by": "시험 순위",
+   "sort": 55,
+   "to": "",
+   "url": "https://www.amazon.com.br/s?k=Rich%20Dad%20Poor%20Dad&i=stripbooks"
   },
   {
    "band": "",
@@ -883,7 +1034,10 @@
    "url": "https://www.amazon.com/dp/B0HLDX9J9J"
   },
   {
+   "author": "Crossway",
    "band": "",
+   "book": "FAITH",
+   "bsub": "BIBLE",
    "cat": "BOOKS",
    "deliver": "LINK",
    "descs": {
@@ -954,7 +1108,55 @@
    "search": "https://www.amazon.com/s?k={q}",
    "sort": 10,
    "text": 1
+  },
+  {
+   "abroad": [],
+   "adv": "",
+   "code": "TEST_BR_LIVROS",
+   "countries": [
+    "BR"
+   ],
+   "home": "https://www.amazon.com.br/livros",
+   "logo": "",
+   "names": {
+    "EN": "Test Books BR",
+    "KO": "시험 서점 BR",
+    "PT": "Livraria Teste BR"
+   },
+   "network": "TEST",
+   "notice": {},
+   "search": "https://www.amazon.com.br/s?k={q}&i=stripbooks",
+   "sort": 910,
+   "text": 1
   }
  ],
- "version": 21
+ "menu_counts": {
+  "books": 7,
+  "goods": 11,
+  "travel": 0
+ },
+ "menus": [
+  {
+   "key": "books",
+   "shown": true,
+   "sort": 10
+  },
+  {
+   "key": "goods",
+   "shown": false,
+   "sort": 20
+  },
+  {
+   "key": "travel",
+   "shown": false,
+   "sort": 30
+  },
+  {
+   "key": "cmall",
+   "shown": false,
+   "sort": 40
+  }
+ ],
+ "menus_of": "BR",
+ "version": 23
 }

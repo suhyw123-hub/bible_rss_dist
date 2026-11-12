@@ -710,6 +710,121 @@
    "sort": 20,
    "to": "2026-12-31",
    "url": "https://www.ebay.co.uk/itm/256020839990?_skw=Shopping&itmmeta=01M5KT6Z1BXCZW23G1KP6T4JEQ&hash=item3b9c07fe36:g:VHkAAOSwIjJmSH8B&itmprp=enc%3AAQALAAAA0CHNgUiiE%2FjQhlDTaMiAde%2FE3OmN54Zujfd%2B7kl9wwscgFq2vdHZtapq0qJ9qj1mb6kxbQ8lOsvaGDg0WYEOBql3N2BvvKkHzGM8HkYSyhE7ts53SHJNy4rLjtCdRSyJziwM75533%2Byyiej5sEcJYT7G4uIM7guLCWAwGMG8TB90Fu534Vj3ThPGZ6CQnNW6S3m27znFBmMZYU1Z%2FD9CF4ufvepg03sSPlf%2B6Tjb5LMuAfdawJv6xB%2F2AMT8j9HT%2BdFwYDzUm0aNm29Lz%2FKYXME%3D%7Ctkp%3ABlBMUIzxm_qsaA"
+  },
+  {
+   "band": "",
+   "cat": "FOOD",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 174,
+   "img": "shopimg_25b504bb13bd9d3e.jpg",
+   "mall": "TEST_DE_MARKT",
+   "names": {
+    "DE": "Mineralwasser 6 x 1,5 l",
+    "EN": "Mineral Water 6 x 1.5 l",
+    "KO": "탄산수 1.5L 6병"
+   },
+   "price": 3,
+   "sort": 50,
+   "to": "",
+   "url": "https://www.otto.de/suche/Mineral%20Water%206%20x%201.5%20l/"
+  },
+  {
+   "band": "",
+   "cat": "KITCHEN",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 175,
+   "img": "shopimg_bd28f0d7cf51a5ba.jpg",
+   "mall": "TEST_DE_MARKT",
+   "names": {
+    "DE": "Kaffeemaschine 1,2 l",
+    "EN": "Coffee Maker 1.2 l",
+    "KO": "커피 메이커 1.2L"
+   },
+   "price": 40,
+   "sort": 51,
+   "to": "2026-12-03",
+   "url": "https://www.otto.de/suche/Coffee%20Maker%201.2%20l/",
+   "was": 50
+  },
+  {
+   "band": "",
+   "cat": "LIVING",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 176,
+   "img": "shopimg_af9b38bf7f3b34ea.jpg",
+   "mall": "TEST_DE_MARKT",
+   "names": {
+    "DE": "Klappstühle 4er-Set",
+    "EN": "Folding Chairs Set of 4",
+    "KO": "접이식 의자 4개"
+   },
+   "price": 89,
+   "sort": 52,
+   "to": "",
+   "url": "https://www.otto.de/suche/Folding%20Chairs%20Set%20of%204/"
+  },
+  {
+   "band": "",
+   "cat": "CHURCH_WORSHIP",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 177,
+   "img": "shopimg_9f3fcde4e8b4cf45.jpg",
+   "mall": "TEST_DE_MARKT",
+   "names": {
+    "DE": "Altarkerzen 10 Stück",
+    "EN": "Altar Candles 10",
+    "KO": "제단 초 10개"
+   },
+   "price": 25,
+   "sort": 53,
+   "to": "",
+   "url": "https://www.otto.de/suche/Altar%20Candles%2010/"
+  },
+  {
+   "band": "",
+   "cat": "DIGITAL",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 178,
+   "img": "shopimg_89c2fcc658b7ea27.jpg",
+   "mall": "TEST_DE_MARKT",
+   "names": {
+    "DE": "Bluetooth-Lautsprecher",
+    "EN": "Bluetooth Speaker",
+    "KO": "블루투스 스피커"
+   },
+   "price": 30,
+   "sort": 54,
+   "to": "",
+   "url": "https://www.otto.de/suche/Bluetooth%20Speaker/"
+  },
+  {
+   "band": "",
+   "cat": "GIFT_CARD",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 179,
+   "img": "shopimg_c75b401a7b9d0451.jpg",
+   "mall": "TEST_DE_MARKT",
+   "names": {
+    "DE": "Geschenkgutschein 25 €",
+    "EN": "Gift Voucher €25",
+    "KO": "상품권 25유로"
+   },
+   "price": 25,
+   "sort": 55,
+   "to": "",
+   "url": "https://www.otto.de/suche/Gift%20Voucher%20%E2%82%AC25/"
   }
  ],
  "malls": [
@@ -739,7 +854,55 @@
    "search": "https://www.ebay.co.uk/sch/i.html?_nkw={q}",
    "sort": 20,
    "text": 1
+  },
+  {
+   "abroad": [],
+   "adv": "",
+   "code": "TEST_DE_MARKT",
+   "countries": [
+    "DE"
+   ],
+   "home": "https://www.otto.de/",
+   "logo": "",
+   "names": {
+    "DE": "Testmarkt DE",
+    "EN": "Test Markt DE",
+    "KO": "시험 마켓 DE"
+   },
+   "network": "TEST",
+   "notice": {},
+   "search": "https://www.otto.de/suche/{q}/",
+   "sort": 911,
+   "text": 1
   }
  ],
- "version": 21
+ "menu_counts": {
+  "books": 0,
+  "goods": 7,
+  "travel": 0
+ },
+ "menus": [
+  {
+   "key": "goods",
+   "shown": true,
+   "sort": 10
+  },
+  {
+   "key": "books",
+   "shown": false,
+   "sort": 20
+  },
+  {
+   "key": "travel",
+   "shown": false,
+   "sort": 30
+  },
+  {
+   "key": "cmall",
+   "shown": false,
+   "sort": 40
+  }
+ ],
+ "menus_of": "DE",
+ "version": 23
 }

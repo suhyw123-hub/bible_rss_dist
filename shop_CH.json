@@ -741,5 +741,33 @@
    "text": 1
   }
  ],
- "version": 21
+ "menu_counts": {
+  "books": 0,
+  "goods": 1,
+  "travel": 0
+ },
+ "menus": [
+  {
+   "key": "goods",
+   "shown": true,
+   "sort": 10
+  },
+  {
+   "key": "books",
+   "shown": true,
+   "sort": 20
+  },
+  {
+   "key": "travel",
+   "shown": true,
+   "sort": 30
+  },
+  {
+   "key": "cmall",
+   "shown": false,
+   "sort": 40
+  }
+ ],
+ "menus_of": "*",
+ "version": 23
 }

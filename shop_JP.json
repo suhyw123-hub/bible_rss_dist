@@ -732,6 +732,25 @@
   },
   {
    "band": "",
+   "cat": "FOOD",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 180,
+   "img": "shopimg_25b504bb13bd9d3e.jpg",
+   "mall": "TEST_JP_SHOP",
+   "names": {
+    "EN": "Natural Water 2L x6",
+    "JA": "天然水 2L×6本",
+    "KO": "천연수 2L 6병"
+   },
+   "price": 698,
+   "sort": 50,
+   "to": "",
+   "url": "https://search.rakuten.co.jp/search/mall/Natural%20Water%202L%20x6/"
+  },
+  {
+   "band": "",
    "cat": "CHURCH_WORSHIP",
    "deliver": "LINK",
    "descs": {
@@ -748,6 +767,26 @@
    "sort": 51,
    "to": "2026-12-31",
    "url": "https://www.amazon.com/dp/B015X6ETYS"
+  },
+  {
+   "band": "",
+   "cat": "KITCHEN",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 181,
+   "img": "shopimg_bd28f0d7cf51a5ba.jpg",
+   "mall": "TEST_JP_SHOP",
+   "names": {
+    "EN": "Electric Kettle 1.0L",
+    "JA": "電気ケトル 1.0L",
+    "KO": "전기 주전자 1.0L"
+   },
+   "price": 2980,
+   "sort": 51,
+   "to": "2026-11-26",
+   "url": "https://search.rakuten.co.jp/search/mall/Electric%20Kettle%201.0L/",
+   "was": 3480
   },
   {
    "band": "",
@@ -770,6 +809,25 @@
   },
   {
    "band": "",
+   "cat": "LIVING",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 182,
+   "img": "shopimg_af9b38bf7f3b34ea.jpg",
+   "mall": "TEST_JP_SHOP",
+   "names": {
+    "EN": "Storage Box Set of 3",
+    "JA": "収納ボックス 3個セット",
+    "KO": "수납 상자 3개"
+   },
+   "price": 1980,
+   "sort": 52,
+   "to": "",
+   "url": "https://search.rakuten.co.jp/search/mall/Storage%20Box%20Set%20of%203/"
+  },
+  {
+   "band": "",
    "cat": "FOOD",
    "deliver": "LINK",
    "descs": {
@@ -786,6 +844,25 @@
    "sort": 53,
    "to": "2026-12-31",
    "url": "https://www.amazon.com/dp/B001B48RCC"
+  },
+  {
+   "band": "",
+   "cat": "HEALTH",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 183,
+   "img": "shopimg_62f4fca18bbc358c.jpg",
+   "mall": "TEST_JP_SHOP",
+   "names": {
+    "EN": "Face Masks 50",
+    "JA": "不織布マスク 50枚",
+    "KO": "부직포 마스크 50매"
+   },
+   "price": 548,
+   "sort": 53,
+   "to": "",
+   "url": "https://search.rakuten.co.jp/search/mall/Face%20Masks%2050/"
   },
   {
    "band": "",
@@ -807,6 +884,31 @@
    "url": "https://www.amazon.com/dp/B0DQYP1L95"
   },
   {
+   "author": "日本聖書協会",
+   "band": "",
+   "book": "FAITH",
+   "bsub": "BIBLE",
+   "cat": "BOOKS",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 184,
+   "img": "shopimg_6c9c0cabc2a20ec7.jpg",
+   "mall": "TEST_JP_BOOKS",
+   "names": {
+    "EN": "Bible (New Interconfessional)",
+    "JA": "聖書 新共同訳 中型",
+    "KO": "성경 신공동역 중형"
+   },
+   "price": 3300,
+   "rank": 1,
+   "rank_at": "2026-11-11",
+   "rank_by": "시험 순위",
+   "sort": 54,
+   "to": "",
+   "url": "https://books.rakuten.co.jp/search?sitem=Bible%20%28New%20Interconfessional%29"
+  },
+  {
    "band": "",
    "cat": "KITCHEN",
    "deliver": "LINK",
@@ -824,6 +926,31 @@
    "sort": 55,
    "to": "2026-12-31",
    "url": "https://www.amazon.com/dp/B0732NXYNS"
+  },
+  {
+   "author": "三浦綾子",
+   "band": "",
+   "book": "FAITH",
+   "bsub": "TESTIMONY",
+   "cat": "BOOKS",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 185,
+   "img": "shopimg_6c9c0cabc2a20ec7.jpg",
+   "mall": "TEST_JP_BOOKS",
+   "names": {
+    "EN": "Shiokari Pass",
+    "JA": "塩狩峠",
+    "KO": "시오카리 고개"
+   },
+   "price": 935,
+   "rank": 2,
+   "rank_at": "2026-11-11",
+   "rank_by": "시험 순위",
+   "sort": 55,
+   "to": "",
+   "url": "https://books.rakuten.co.jp/search?sitem=Shiokari%20Pass"
   },
   {
    "band": "",
@@ -845,6 +972,31 @@
    "url": "https://www.amazon.com/dp/B0DB794BKQ"
   },
   {
+   "author": "ティモシー・ケラー",
+   "band": "",
+   "book": "FAITH",
+   "bsub": "LIFE",
+   "cat": "BOOKS",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 186,
+   "img": "shopimg_6c9c0cabc2a20ec7.jpg",
+   "mall": "TEST_JP_BOOKS",
+   "names": {
+    "EN": "Prayer",
+    "JA": "祈り",
+    "KO": "기도"
+   },
+   "price": 2640,
+   "rank": 3,
+   "rank_at": "2026-11-11",
+   "rank_by": "시험 순위",
+   "sort": 56,
+   "to": "",
+   "url": "https://books.rakuten.co.jp/search?sitem=Prayer"
+  },
+  {
    "band": "",
    "cat": "BEAUTY",
    "deliver": "LINK",
@@ -862,6 +1014,31 @@
    "sort": 57,
    "to": "2026-12-31",
    "url": "https://www.amazon.com/dp/B0CC8Z27D1"
+  },
+  {
+   "author": "三浦綾子",
+   "band": "",
+   "book": "GENERAL",
+   "bsub": "NOVEL",
+   "cat": "BOOKS",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 187,
+   "img": "shopimg_6c9c0cabc2a20ec7.jpg",
+   "mall": "TEST_JP_BOOKS",
+   "names": {
+    "EN": "Freezing Point",
+    "JA": "氷点",
+    "KO": "빙점"
+   },
+   "price": 880,
+   "rank": 1,
+   "rank_at": "2026-11-11",
+   "rank_by": "시험 순위",
+   "sort": 57,
+   "to": "",
+   "url": "https://books.rakuten.co.jp/search?sitem=Freezing%20Point"
   },
   {
    "band": "",
@@ -883,7 +1060,35 @@
    "url": "https://www.amazon.com/dp/B0HLDX9J9J"
   },
   {
+   "author": "岸見一郎",
    "band": "",
+   "book": "GENERAL",
+   "bsub": "SELF",
+   "cat": "BOOKS",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 188,
+   "img": "shopimg_6c9c0cabc2a20ec7.jpg",
+   "mall": "TEST_JP_BOOKS",
+   "names": {
+    "EN": "The Courage to Be Disliked",
+    "JA": "嫌われる勇気",
+    "KO": "미움받을 용기"
+   },
+   "price": 1760,
+   "rank": 1,
+   "rank_at": "2026-11-11",
+   "rank_by": "시험 순위",
+   "sort": 58,
+   "to": "",
+   "url": "https://books.rakuten.co.jp/search?sitem=The%20Courage%20to%20Be%20Disliked"
+  },
+  {
+   "author": "Crossway",
+   "band": "",
+   "book": "FAITH",
+   "bsub": "BIBLE",
    "cat": "BOOKS",
    "deliver": "LINK",
    "descs": {
@@ -954,7 +1159,75 @@
    "search": "https://www.amazon.com/s?k={q}",
    "sort": 10,
    "text": 1
+  },
+  {
+   "abroad": [],
+   "adv": "",
+   "code": "TEST_JP_SHOP",
+   "countries": [
+    "JP"
+   ],
+   "home": "https://www.rakuten.co.jp/",
+   "logo": "",
+   "names": {
+    "EN": "Test Shop JP",
+    "JA": "テストショップ JP",
+    "KO": "시험 상점 JP"
+   },
+   "network": "TEST",
+   "notice": {},
+   "search": "https://search.rakuten.co.jp/search/mall/{q}/",
+   "sort": 912,
+   "text": 1
+  },
+  {
+   "abroad": [],
+   "adv": "",
+   "code": "TEST_JP_BOOKS",
+   "countries": [
+    "JP"
+   ],
+   "home": "https://books.rakuten.co.jp/",
+   "logo": "",
+   "names": {
+    "EN": "Test Books JP",
+    "JA": "テスト書店 JP",
+    "KO": "시험 서점 JP"
+   },
+   "network": "TEST",
+   "notice": {},
+   "search": "https://books.rakuten.co.jp/search?sitem={q}",
+   "sort": 912,
+   "text": 1
   }
  ],
- "version": 21
+ "menu_counts": {
+  "books": 6,
+  "goods": 15,
+  "travel": 0
+ },
+ "menus": [
+  {
+   "key": "books",
+   "shown": true,
+   "sort": 10
+  },
+  {
+   "key": "goods",
+   "shown": true,
+   "sort": 20
+  },
+  {
+   "key": "travel",
+   "shown": false,
+   "sort": 30
+  },
+  {
+   "key": "cmall",
+   "shown": false,
+   "sort": 40
+  }
+ ],
+ "menus_of": "JP",
+ "version": 23
 }
