@@ -1155,9 +1155,9 @@
    "variant": "-",
    "note": "",
    "title": "Notes on the New Testament",
-   "version": 8,
+   "version": 9,
    "bytes": null,
-   "made_at": "2026-11-11 15:57"
+   "made_at": "2026-11-12 17:09"
   },
   {
    "kind": "COMM",
@@ -1166,9 +1166,9 @@
    "variant": "-",
    "note": "",
    "title": "Notes on the New Testament",
-   "version": 8,
+   "version": 9,
    "bytes": null,
-   "made_at": "2026-11-11 15:57"
+   "made_at": "2026-11-12 17:09"
   },
   {
    "kind": "COMM",
@@ -1188,9 +1188,9 @@
    "variant": "-",
    "note": "",
    "title": "Notes on the Old Testament",
-   "version": 8,
+   "version": 9,
    "bytes": null,
-   "made_at": "2026-11-12 10:50"
+   "made_at": "2026-11-12 17:09"
   },
   {
    "kind": "COMM",
@@ -1287,9 +1287,9 @@
    "variant": "-",
    "note": "",
    "title": "Commentary Critical and Explanatory on the Whole Bible",
-   "version": 2,
+   "version": 3,
    "bytes": null,
-   "made_at": "2026-11-08 21:09"
+   "made_at": "2026-11-12 17:09"
   },
   {
    "kind": "COMM",
@@ -1298,9 +1298,9 @@
    "variant": "-",
    "note": "",
    "title": "Commentary Critical and Explanatory on the Whole Bible",
-   "version": 2,
+   "version": 3,
    "bytes": null,
-   "made_at": "2026-11-08 21:09"
+   "made_at": "2026-11-12 17:09"
   },
   {
    "kind": "COMM",
@@ -1397,9 +1397,9 @@
    "variant": "-",
    "note": "환경설정 양식(sys_pref_preset) 코어 표 추가",
    "title": "앱 기본 자료(연결·목록·껍데기)",
-   "version": 54,
+   "version": 55,
    "bytes": 10623966,
-   "made_at": "2026-11-12 14:13"
+   "made_at": "2026-11-12 17:10"
   },
   {
    "kind": "DESC",
@@ -2126,14 +2126,6 @@
    "version": 2,
    "bytes": null,
    "made_at": "2026-11-03 16:26"
-  }
- ],
- "core": [
-  {
-   "cycle": "BIANNUAL",
-   "file": "corepack_BIANNUAL.json.gz",
-   "release": 54,
-   "bytes": 11836176
   }
  ]
 }
