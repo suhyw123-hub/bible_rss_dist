@@ -1,5 +1,5 @@
 {
- "latest": 21,
+ "latest": 22,
  "full": true,
  "releases": [
   {
@@ -1397,9 +1397,9 @@
    "variant": "-",
    "note": "환경설정 양식(sys_pref_preset) 코어 표 추가",
    "title": "앱 기본 자료(연결·목록·껍데기)",
-   "version": 53,
+   "version": 54,
    "bytes": 10623966,
-   "made_at": "2026-11-12 10:50"
+   "made_at": "2026-11-12 14:13"
   },
   {
    "kind": "DESC",
@@ -1814,7 +1814,7 @@
    "lang": "-",
    "variant": "-",
    "note": "",
-   "title": "영상 연결 — 승인된 영상 주소 121,326편과 그 연결",
+   "title": "영상 연결 — 승인된 영상 주소 122,995편과 그 연결",
    "version": 1,
    "bytes": 13512056,
    "made_at": "2026-11-03 08:08"
@@ -2132,8 +2132,8 @@
   {
    "cycle": "BIANNUAL",
    "file": "corepack_BIANNUAL.json.gz",
-   "release": 53,
-   "bytes": 11805856
+   "release": 54,
+   "bytes": 11836176
   }
  ]
 }
