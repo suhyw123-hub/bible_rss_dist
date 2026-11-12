@@ -1,0 +1,984 @@
+{
+ "best_more": [
+  {
+   "best": {
+    "FAITH": {
+     "line": {
+      "KO": "Books ▸ Christian Books & Bibles 베스트셀러"
+     },
+     "url": "https://www.amazon.com/gp/bestsellers/books/12290"
+    },
+    "GENERAL": {
+     "line": {
+      "KO": "Books 베스트셀러"
+     },
+     "url": "https://www.amazon.com/gp/bestsellers/books"
+    }
+   },
+   "code": "DEMO_AMAZON",
+   "countries": [
+    "US"
+   ],
+   "logo": "shopimg_43f41376d76cf06b.jpg",
+   "menus": [
+    "goods",
+    "books"
+   ],
+   "names": {
+    "EN": "Amazon",
+    "KO": "아마존"
+   },
+   "sort": 10
+  },
+  {
+   "best": {
+    "GENERAL": {
+     "line": {
+      "KO": "Livros ▸ Mais vendidos"
+     },
+     "url": "https://www.amazon.com.br/gp/bestsellers/books"
+    }
+   },
+   "code": "TEST_BR_LIVROS",
+   "countries": [
+    "BR"
+   ],
+   "logo": "",
+   "menus": [
+    "books"
+   ],
+   "names": {
+    "EN": "Test Books BR",
+    "KO": "시험 서점 BR",
+    "PT": "Livraria Teste BR"
+   },
+   "sort": 910
+  },
+  {
+   "best": {
+    "FAITH": {
+     "line": {
+      "KO": "Bestselling Christian Resources"
+     },
+     "url": "https://www.christianbook.com/page/bestselling-christian-resources"
+    }
+   },
+   "code": "TEST_US_BOOKS",
+   "countries": [
+    "US"
+   ],
+   "logo": "",
+   "menus": [
+    "books"
+   ],
+   "names": {
+    "EN": "Test Books US",
+    "KO": "시험 서점 US"
+   },
+   "sort": 913
+  },
+  {
+   "best": {
+    "FAITH": {
+     "line": {
+      "KO": "국내도서 ▸ 기독교(개신교) 베스트"
+     },
+     "url": "https://www.yes24.com/Product/Category/BestSeller?categoryNumber=001001021003"
+    },
+    "GENERAL": {
+     "line": {
+      "KO": "국내도서 종합 베스트"
+     },
+     "url": "https://www.yes24.com/Product/Category/BestSeller?categoryNumber=001"
+    }
+   },
+   "code": "TEST_KR_YES24",
+   "countries": [
+    "KR"
+   ],
+   "logo": "",
+   "menus": [
+    "books"
+   ],
+   "names": {
+    "EN": "YES24",
+    "KO": "예스24"
+   },
+   "sort": 950
+  },
+  {
+   "best": {
+    "FAITH": {
+     "line": {
+      "KO": "국내도서 ▸ 종교 주간 베스트"
+     },
+     "url": "https://store.kyobobook.co.kr/bestseller/online/weekly/domestic/21"
+    },
+    "GENERAL": {
+     "line": {
+      "KO": "국내도서 주간 베스트"
+     },
+     "url": "https://store.kyobobook.co.kr/bestseller/online/weekly/domestic"
+    }
+   },
+   "code": "TEST_KR_KYOBO",
+   "countries": [
+    "KR"
+   ],
+   "logo": "",
+   "menus": [
+    "books"
+   ],
+   "names": {
+    "EN": "Kyobo Book",
+    "KO": "교보문고"
+   },
+   "sort": 951
+  },
+  {
+   "best": {
+    "FAITH": {
+     "line": {
+      "KO": "기독교 도서 ▸ 분야별 베스트"
+     },
+     "url": "https://mall.godpeople.com/?GO=best_genre"
+    }
+   },
+   "code": "TEST_KR_GODPEOPLE",
+   "countries": [
+    "KR"
+   ],
+   "logo": "",
+   "menus": [
+    "books"
+   ],
+   "names": {
+    "EN": "GodpeopleMall",
+    "KO": "갓피플몰"
+   },
+   "sort": 952
+  },
+  {
+   "best": {
+    "GENERAL": {
+     "line": {
+      "KO": "本 ▸ 売れ筋ランキング"
+     },
+     "url": "https://www.amazon.co.jp/gp/bestsellers/books"
+    }
+   },
+   "code": "TEST_JP_AMAZON",
+   "countries": [
+    "JP"
+   ],
+   "logo": "",
+   "menus": [
+    "books"
+   ],
+   "names": {
+    "EN": "Amazon.co.jp",
+    "JA": "Amazon.co.jp",
+    "KO": "아마존 재팬"
+   },
+   "sort": 955
+  },
+  {
+   "best": {
+    "GENERAL": {
+     "line": {
+      "KO": "Bücher ▸ Bestseller"
+     },
+     "url": "https://www.amazon.de/gp/bestsellers/books"
+    }
+   },
+   "code": "TEST_DE_AMAZON",
+   "countries": [
+    "DE"
+   ],
+   "logo": "",
+   "menus": [
+    "books"
+   ],
+   "names": {
+    "DE": "Amazon.de",
+    "EN": "Amazon.de",
+    "KO": "아마존 독일"
+   },
+   "sort": 956
+  }
+ ],
+ "cats": [
+  {
+   "code": "GIFT_CARD",
+   "kind": "GIFT",
+   "names": {
+    "AR": "بطاقات الهدايا",
+    "DE": "Geschenkkarten",
+    "EN": "Gift",
+    "ES": "Tarjetas regalo",
+    "FR": "Cartes cadeaux",
+    "JA": "ギフトカード",
+    "KO": "기프트",
+    "PT": "Cartões-presente",
+    "RU": "Подарочные карты",
+    "ZH": "礼品卡",
+    "ZHT": "禮品卡"
+   },
+   "shorts": {
+    "AR": "هدايا",
+    "DE": "Geschenke",
+    "EN": "Gifts",
+    "ES": "Regalos",
+    "FR": "Cadeaux",
+    "JA": "ギフト",
+    "KO": "기프트",
+    "PT": "Presentes",
+    "RU": "Подарки",
+    "ZH": "礼品",
+    "ZHT": "禮品"
+   },
+   "sort": 10
+  },
+  {
+   "code": "CHURCH_WORSHIP",
+   "kind": "CHURCH",
+   "names": {
+    "AR": "مستلزمات الكنيسة والعبادة",
+    "DE": "Kirche & Gottesdienst",
+    "EN": "Church & worship",
+    "ES": "Iglesia y culto",
+    "FR": "Église et culte",
+    "JA": "教会・礼拝用品",
+    "KO": "교회·예배 용품",
+    "PT": "Igreja e culto",
+    "RU": "Церковь и богослужение",
+    "ZH": "教会·礼拜用品",
+    "ZHT": "教會·禮拜用品"
+   },
+   "shorts": {
+    "AR": "الكنيسة",
+    "DE": "Kirche",
+    "EN": "Church",
+    "ES": "Iglesia",
+    "FR": "Église",
+    "JA": "教会用品",
+    "KO": "교회용품",
+    "PT": "Igreja",
+    "RU": "Церковь",
+    "ZH": "教会用品",
+    "ZHT": "教會用品"
+   },
+   "sort": 10
+  },
+  {
+   "code": "FOOD",
+   "kind": "GENERAL",
+   "names": {
+    "AR": "الأغذية والمياه",
+    "DE": "Lebensmittel & Wasser",
+    "EN": "Food & water",
+    "ES": "Alimentos y agua",
+    "FR": "Alimentation et eau",
+    "JA": "食品・飲料水",
+    "KO": "식품·생수",
+    "PT": "Alimentos e água",
+    "RU": "Продукты и вода",
+    "ZH": "食品·饮用水",
+    "ZHT": "食品·飲用水"
+   },
+   "shorts": {
+    "AR": "طعام",
+    "DE": "Essen",
+    "EN": "Food",
+    "ES": "Comida",
+    "FR": "Aliments",
+    "JA": "食品",
+    "KO": "식품",
+    "PT": "Comida",
+    "RU": "Еда",
+    "ZH": "食品",
+    "ZHT": "食品"
+   },
+   "sort": 10
+  },
+  {
+   "code": "CHURCH_EVENT",
+   "kind": "CHURCH",
+   "names": {
+    "AR": "الفعاليات والإرساليات",
+    "DE": "Veranstaltungen & Mission",
+    "EN": "Events & missions",
+    "ES": "Eventos y misiones",
+    "FR": "Événements et mission",
+    "JA": "行事・宣教用品",
+    "KO": "행사·선교 용품",
+    "PT": "Eventos e missões",
+    "RU": "Мероприятия и миссия",
+    "ZH": "活动·宣教用品",
+    "ZHT": "活動·宣教用品"
+   },
+   "shorts": {
+    "AR": "إرساليات",
+    "DE": "Mission",
+    "EN": "Missions",
+    "ES": "Misiones",
+    "FR": "Missions",
+    "JA": "行事・宣教",
+    "KO": "행사·선교",
+    "PT": "Missões",
+    "RU": "Миссия",
+    "ZH": "活动宣教",
+    "ZHT": "活動宣教"
+   },
+   "sort": 20
+  },
+  {
+   "code": "LIVING",
+   "kind": "GENERAL",
+   "names": {
+    "AR": "مستلزمات المنزل",
+    "DE": "Haushalt",
+    "EN": "Household",
+    "ES": "Hogar",
+    "FR": "Maison",
+    "JA": "日用品",
+    "KO": "생활용품",
+    "PT": "Casa",
+    "RU": "Товары для дома",
+    "ZH": "生活用品",
+    "ZHT": "生活用品"
+   },
+   "shorts": {
+    "AR": "المنزل",
+    "DE": "Haushalt",
+    "EN": "Home",
+    "ES": "Hogar",
+    "FR": "Maison",
+    "JA": "生活",
+    "KO": "생활",
+    "PT": "Casa",
+    "RU": "Быт",
+    "ZH": "生活",
+    "ZHT": "生活"
+   },
+   "sort": 20
+  },
+  {
+   "code": "KITCHEN",
+   "kind": "GENERAL",
+   "names": {
+    "AR": "المطبخ",
+    "DE": "Küche",
+    "EN": "Kitchen",
+    "ES": "Cocina",
+    "FR": "Cuisine",
+    "JA": "キッチン",
+    "KO": "주방",
+    "PT": "Cozinha",
+    "RU": "Кухня",
+    "ZH": "厨房",
+    "ZHT": "廚房"
+   },
+   "shorts": {
+    "AR": "المطبخ",
+    "DE": "Küche",
+    "EN": "Kitchen",
+    "ES": "Cocina",
+    "FR": "Cuisine",
+    "JA": "キッチン",
+    "KO": "주방",
+    "PT": "Cozinha",
+    "RU": "Кухня",
+    "ZH": "厨房",
+    "ZHT": "廚房"
+   },
+   "sort": 30
+  },
+  {
+   "code": "HEALTH",
+   "kind": "GENERAL",
+   "names": {
+    "AR": "الصحة والنظافة",
+    "DE": "Gesundheit & Hygiene",
+    "EN": "Health & hygiene",
+    "ES": "Salud e higiene",
+    "FR": "Santé et hygiène",
+    "JA": "健康・衛生",
+    "KO": "건강·위생",
+    "PT": "Saúde e higiene",
+    "RU": "Здоровье и гигиена",
+    "ZH": "健康·卫生",
+    "ZHT": "健康·衛生"
+   },
+   "shorts": {
+    "AR": "الصحة",
+    "DE": "Gesundheit",
+    "EN": "Health",
+    "ES": "Salud",
+    "FR": "Santé",
+    "JA": "健康",
+    "KO": "건강",
+    "PT": "Saúde",
+    "RU": "Здоровье",
+    "ZH": "健康",
+    "ZHT": "健康"
+   },
+   "sort": 40
+  },
+  {
+   "code": "BEAUTY",
+   "kind": "GENERAL",
+   "names": {
+    "AR": "الجمال والعناية",
+    "DE": "Schönheit & Pflege",
+    "EN": "Beauty & body",
+    "ES": "Belleza y cuidado",
+    "FR": "Beauté et soins",
+    "JA": "ビューティー・ボディ",
+    "KO": "뷰티·바디",
+    "PT": "Beleza e cuidados",
+    "RU": "Красота и уход",
+    "ZH": "美妆·身体护理",
+    "ZHT": "美妝·身體護理"
+   },
+   "shorts": {
+    "AR": "الجمال",
+    "DE": "Pflege",
+    "EN": "Beauty",
+    "ES": "Belleza",
+    "FR": "Beauté",
+    "JA": "美容",
+    "KO": "뷰티",
+    "PT": "Beleza",
+    "RU": "Красота",
+    "ZH": "美容",
+    "ZHT": "美容"
+   },
+   "sort": 50
+  },
+  {
+   "code": "KIDS",
+   "kind": "GENERAL",
+   "names": {
+    "AR": "الرضع والأطفال",
+    "DE": "Baby & Kinder",
+    "EN": "Baby & kids",
+    "ES": "Bebés y niños",
+    "FR": "Bébé et enfants",
+    "JA": "ベビー・キッズ",
+    "KO": "유아·어린이",
+    "PT": "Bebês e crianças",
+    "RU": "Малыши и дети",
+    "ZH": "婴幼儿·儿童",
+    "ZHT": "嬰幼兒·兒童"
+   },
+   "shorts": {
+    "AR": "الأطفال",
+    "DE": "Kinder",
+    "EN": "Kids",
+    "ES": "Niños",
+    "FR": "Enfants",
+    "JA": "キッズ",
+    "KO": "유아",
+    "PT": "Crianças",
+    "RU": "Дети",
+    "ZH": "儿童",
+    "ZHT": "兒童"
+   },
+   "sort": 60
+  },
+  {
+   "code": "BOOKS",
+   "kind": "GENERAL",
+   "names": {
+    "AR": "القرطاسية والكتب",
+    "DE": "Schreibwaren & Bücher",
+    "EN": "Stationery & books",
+    "ES": "Papelería y libros",
+    "FR": "Papeterie et livres",
+    "JA": "文具・書籍",
+    "KO": "문구·도서",
+    "PT": "Papelaria e livros",
+    "RU": "Канцтовары и книги",
+    "ZH": "文具·图书",
+    "ZHT": "文具·圖書"
+   },
+   "shorts": {
+    "AR": "كتب",
+    "DE": "Bücher",
+    "EN": "Books",
+    "ES": "Libros",
+    "FR": "Livres",
+    "JA": "文具・本",
+    "KO": "문구·책",
+    "PT": "Livros",
+    "RU": "Книги",
+    "ZH": "文具图书",
+    "ZHT": "文具圖書"
+   },
+   "sort": 70
+  },
+  {
+   "code": "DIGITAL",
+   "kind": "GENERAL",
+   "names": {
+    "AR": "الإلكترونيات",
+    "DE": "Elektronik",
+    "EN": "Electronics",
+    "ES": "Electrónica",
+    "FR": "Électronique",
+    "JA": "家電・デジタル",
+    "KO": "가전·디지털",
+    "PT": "Eletrônicos",
+    "RU": "Электроника",
+    "ZH": "家电·数码",
+    "ZHT": "家電·數位"
+   },
+   "shorts": {
+    "AR": "إلكترونيات",
+    "DE": "Technik",
+    "EN": "Tech",
+    "ES": "Tecnología",
+    "FR": "Tech",
+    "JA": "家電",
+    "KO": "가전",
+    "PT": "Tecnologia",
+    "RU": "Техника",
+    "ZH": "电器",
+    "ZHT": "電器"
+   },
+   "sort": 80
+  },
+  {
+   "code": "TEST_TRAVEL",
+   "kind": "TRAVEL",
+   "names": {
+    "EN": "Pilgrimage & travel",
+    "KO": "순례·여행 프로그램"
+   },
+   "shorts": {
+    "EN": "Travel",
+    "KO": "여행"
+   },
+   "sort": 900
+  }
+ ],
+ "collect_q": true,
+ "country": "GB",
+ "hot": {
+  "M": {
+   "KO": [
+    [
+     "성경책",
+     "CHURCH_WORSHIP"
+    ],
+    [
+     "찬송가",
+     "CHURCH_WORSHIP"
+    ],
+    [
+     "성찬기",
+     "CHURCH_WORSHIP"
+    ],
+    [
+     "헌금봉투",
+     "CHURCH_WORSHIP"
+    ],
+    [
+     "강대상",
+     "CHURCH_WORSHIP"
+    ],
+    [
+     "십자가",
+     "CHURCH_WORSHIP"
+    ],
+    [
+     "전도지",
+     "CHURCH_EVENT"
+    ],
+    [
+     "행사 현수막",
+     "CHURCH_EVENT"
+    ],
+    [
+     "선교 물품",
+     "CHURCH_EVENT"
+    ],
+    [
+     "수련회",
+     "CHURCH_EVENT"
+    ],
+    [
+     "기프트카드",
+     "GIFT_CARD"
+    ],
+    [
+     "상품권",
+     "GIFT_CARD"
+    ],
+    [
+     "큐티책",
+     "BOOKS"
+    ],
+    [
+     "성경 필사",
+     "BOOKS"
+    ],
+    [
+     "성경 노트",
+     "BOOKS"
+    ],
+    [
+     "기독교 서적",
+     "BOOKS"
+    ],
+    [
+     "생수",
+     "FOOD"
+    ],
+    [
+     "커피",
+     "FOOD"
+    ],
+    [
+     "간식",
+     "FOOD"
+    ],
+    [
+     "휴지",
+     "LIVING"
+    ],
+    [
+     "세제",
+     "LIVING"
+    ],
+    [
+     "어린이 성경",
+     "KIDS"
+    ],
+    [
+     "주일학교",
+     "KIDS"
+    ],
+    [
+     "블루투스 스피커",
+     "DIGITAL"
+    ],
+    [
+     "마이크",
+     "DIGITAL"
+    ],
+    [
+     "성지순례",
+     "TRAVEL"
+    ],
+    [
+     "제주",
+     "TRAVEL"
+    ],
+    [
+     "예루살렘",
+     "TRAVEL"
+    ]
+   ],
+   "LATIN": [
+    [
+     "bible",
+     "CHURCH_WORSHIP"
+    ],
+    [
+     "hymnal",
+     "CHURCH_WORSHIP"
+    ],
+    [
+     "communion cups",
+     "CHURCH_WORSHIP"
+    ],
+    [
+     "cross",
+     "CHURCH_WORSHIP"
+    ],
+    [
+     "devotional",
+     "BOOKS"
+    ],
+    [
+     "journaling bible",
+     "BOOKS"
+    ],
+    [
+     "christian books",
+     "BOOKS"
+    ],
+    [
+     "kids bible",
+     "KIDS"
+    ],
+    [
+     "sunday school",
+     "KIDS"
+    ],
+    [
+     "gift card",
+     "GIFT_CARD"
+    ],
+    [
+     "holy land tour",
+     "TRAVEL"
+    ],
+    [
+     "Jerusalem",
+     "TRAVEL"
+    ]
+   ]
+  },
+  "Y": {
+   "KO": [
+    [
+     "성경책",
+     "CHURCH_WORSHIP"
+    ],
+    [
+     "찬송가",
+     "CHURCH_WORSHIP"
+    ],
+    [
+     "성찬기",
+     "CHURCH_WORSHIP"
+    ],
+    [
+     "헌금봉투",
+     "CHURCH_WORSHIP"
+    ],
+    [
+     "강대상",
+     "CHURCH_WORSHIP"
+    ],
+    [
+     "십자가",
+     "CHURCH_WORSHIP"
+    ],
+    [
+     "전도지",
+     "CHURCH_EVENT"
+    ],
+    [
+     "행사 현수막",
+     "CHURCH_EVENT"
+    ],
+    [
+     "선교 물품",
+     "CHURCH_EVENT"
+    ],
+    [
+     "수련회",
+     "CHURCH_EVENT"
+    ],
+    [
+     "기프트카드",
+     "GIFT_CARD"
+    ],
+    [
+     "상품권",
+     "GIFT_CARD"
+    ],
+    [
+     "큐티책",
+     "BOOKS"
+    ],
+    [
+     "성경 필사",
+     "BOOKS"
+    ],
+    [
+     "성경 노트",
+     "BOOKS"
+    ],
+    [
+     "기독교 서적",
+     "BOOKS"
+    ],
+    [
+     "생수",
+     "FOOD"
+    ],
+    [
+     "커피",
+     "FOOD"
+    ],
+    [
+     "간식",
+     "FOOD"
+    ],
+    [
+     "휴지",
+     "LIVING"
+    ],
+    [
+     "세제",
+     "LIVING"
+    ],
+    [
+     "어린이 성경",
+     "KIDS"
+    ],
+    [
+     "주일학교",
+     "KIDS"
+    ],
+    [
+     "블루투스 스피커",
+     "DIGITAL"
+    ],
+    [
+     "마이크",
+     "DIGITAL"
+    ],
+    [
+     "성지순례",
+     "TRAVEL"
+    ],
+    [
+     "제주",
+     "TRAVEL"
+    ],
+    [
+     "예루살렘",
+     "TRAVEL"
+    ]
+   ],
+   "LATIN": [
+    [
+     "bible",
+     "CHURCH_WORSHIP"
+    ],
+    [
+     "hymnal",
+     "CHURCH_WORSHIP"
+    ],
+    [
+     "communion cups",
+     "CHURCH_WORSHIP"
+    ],
+    [
+     "cross",
+     "CHURCH_WORSHIP"
+    ],
+    [
+     "devotional",
+     "BOOKS"
+    ],
+    [
+     "journaling bible",
+     "BOOKS"
+    ],
+    [
+     "christian books",
+     "BOOKS"
+    ],
+    [
+     "kids bible",
+     "KIDS"
+    ],
+    [
+     "sunday school",
+     "KIDS"
+    ],
+    [
+     "gift card",
+     "GIFT_CARD"
+    ],
+    [
+     "holy land tour",
+     "TRAVEL"
+    ],
+    [
+     "Jerusalem",
+     "TRAVEL"
+    ]
+   ]
+  }
+ },
+ "items": [
+  {
+   "band": "",
+   "cat": "LIVING",
+   "deliver": "LINK",
+   "descs": {
+    "KO": "페이지가 막혀 이름·그림은 가상입니다. 시험용 상품입니다(docs/3.txt)."
+   },
+   "from": "2026-10-23",
+   "id": 59,
+   "img": "shopimg_af9b38bf7f3b34ea.jpg",
+   "mall": "DEMO_EBAY_UK",
+   "names": {
+    "EN": "eBay UK item (test)",
+    "KO": "이베이 영국 상품(시험)"
+   },
+   "sort": 20,
+   "to": "2026-12-31",
+   "url": "https://www.ebay.co.uk/itm/256020839990?_skw=Shopping&itmmeta=01M5KT6Z1BXCZW23G1KP6T4JEQ&hash=item3b9c07fe36:g:VHkAAOSwIjJmSH8B&itmprp=enc%3AAQALAAAA0CHNgUiiE%2FjQhlDTaMiAde%2FE3OmN54Zujfd%2B7kl9wwscgFq2vdHZtapq0qJ9qj1mb6kxbQ8lOsvaGDg0WYEOBql3N2BvvKkHzGM8HkYSyhE7ts53SHJNy4rLjtCdRSyJziwM75533%2Byyiej5sEcJYT7G4uIM7guLCWAwGMG8TB90Fu534Vj3ThPGZ6CQnNW6S3m27znFBmMZYU1Z%2FD9CF4ufvepg03sSPlf%2B6Tjb5LMuAfdawJv6xB%2F2AMT8j9HT%2BdFwYDzUm0aNm29Lz%2FKYXME%3D%7Ctkp%3ABlBMUIzxm_qsaA"
+  }
+ ],
+ "malls": [
+  {
+   "abroad": [
+    "DE",
+    "FR",
+    "ES",
+    "PT",
+    "AT",
+    "CH",
+    "KR"
+   ],
+   "adv": "",
+   "code": "DEMO_EBAY_UK",
+   "countries": [
+    "GB"
+   ],
+   "home": "https://www.ebay.co.uk/",
+   "logo": "shopimg_6e376d715eafb511.jpg",
+   "menus": [
+    "goods"
+   ],
+   "names": {
+    "EN": "eBay UK",
+    "KO": "이베이 영국"
+   },
+   "network": "DIRECT",
+   "notice": {},
+   "search": "https://www.ebay.co.uk/sch/i.html?_nkw={q}",
+   "sort": 20,
+   "text": 1
+  }
+ ],
+ "menu_counts": {
+  "books": 0,
+  "goods": 1,
+  "travel": 0
+ },
+ "menus": [
+  {
+   "key": "goods",
+   "shown": true,
+   "sort": 10
+  },
+  {
+   "key": "books",
+   "shown": true,
+   "sort": 20
+  },
+  {
+   "key": "travel",
+   "shown": true,
+   "sort": 30
+  },
+  {
+   "key": "cmall",
+   "shown": false,
+   "sort": 40
+  }
+ ],
+ "menus_of": "*",
+ "version": 25
+}

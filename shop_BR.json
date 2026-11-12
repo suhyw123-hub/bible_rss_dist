@@ -1,4 +1,158 @@
 {
+ "best_more": [
+  {
+   "best": {
+    "FAITH": {
+     "line": {
+      "KO": "Bestselling Christian Resources"
+     },
+     "url": "https://www.christianbook.com/page/bestselling-christian-resources"
+    }
+   },
+   "code": "TEST_US_BOOKS",
+   "countries": [
+    "US"
+   ],
+   "logo": "",
+   "menus": [
+    "books"
+   ],
+   "names": {
+    "EN": "Test Books US",
+    "KO": "시험 서점 US"
+   },
+   "sort": 913
+  },
+  {
+   "best": {
+    "FAITH": {
+     "line": {
+      "KO": "국내도서 ▸ 기독교(개신교) 베스트"
+     },
+     "url": "https://www.yes24.com/Product/Category/BestSeller?categoryNumber=001001021003"
+    },
+    "GENERAL": {
+     "line": {
+      "KO": "국내도서 종합 베스트"
+     },
+     "url": "https://www.yes24.com/Product/Category/BestSeller?categoryNumber=001"
+    }
+   },
+   "code": "TEST_KR_YES24",
+   "countries": [
+    "KR"
+   ],
+   "logo": "",
+   "menus": [
+    "books"
+   ],
+   "names": {
+    "EN": "YES24",
+    "KO": "예스24"
+   },
+   "sort": 950
+  },
+  {
+   "best": {
+    "FAITH": {
+     "line": {
+      "KO": "국내도서 ▸ 종교 주간 베스트"
+     },
+     "url": "https://store.kyobobook.co.kr/bestseller/online/weekly/domestic/21"
+    },
+    "GENERAL": {
+     "line": {
+      "KO": "국내도서 주간 베스트"
+     },
+     "url": "https://store.kyobobook.co.kr/bestseller/online/weekly/domestic"
+    }
+   },
+   "code": "TEST_KR_KYOBO",
+   "countries": [
+    "KR"
+   ],
+   "logo": "",
+   "menus": [
+    "books"
+   ],
+   "names": {
+    "EN": "Kyobo Book",
+    "KO": "교보문고"
+   },
+   "sort": 951
+  },
+  {
+   "best": {
+    "FAITH": {
+     "line": {
+      "KO": "기독교 도서 ▸ 분야별 베스트"
+     },
+     "url": "https://mall.godpeople.com/?GO=best_genre"
+    }
+   },
+   "code": "TEST_KR_GODPEOPLE",
+   "countries": [
+    "KR"
+   ],
+   "logo": "",
+   "menus": [
+    "books"
+   ],
+   "names": {
+    "EN": "GodpeopleMall",
+    "KO": "갓피플몰"
+   },
+   "sort": 952
+  },
+  {
+   "best": {
+    "GENERAL": {
+     "line": {
+      "KO": "本 ▸ 売れ筋ランキング"
+     },
+     "url": "https://www.amazon.co.jp/gp/bestsellers/books"
+    }
+   },
+   "code": "TEST_JP_AMAZON",
+   "countries": [
+    "JP"
+   ],
+   "logo": "",
+   "menus": [
+    "books"
+   ],
+   "names": {
+    "EN": "Amazon.co.jp",
+    "JA": "Amazon.co.jp",
+    "KO": "아마존 재팬"
+   },
+   "sort": 955
+  },
+  {
+   "best": {
+    "GENERAL": {
+     "line": {
+      "KO": "Bücher ▸ Bestseller"
+     },
+     "url": "https://www.amazon.de/gp/bestsellers/books"
+    }
+   },
+   "code": "TEST_DE_AMAZON",
+   "countries": [
+    "DE"
+   ],
+   "logo": "",
+   "menus": [
+    "books"
+   ],
+   "names": {
+    "DE": "Amazon.de",
+    "EN": "Amazon.de",
+    "KO": "아마존 독일"
+   },
+   "sort": 956
+  }
+ ],
  "cats": [
   {
    "code": "GIFT_CARD",
@@ -1090,12 +1244,30 @@
     "TW"
    ],
    "adv": "",
+   "best": {
+    "FAITH": {
+     "line": {
+      "KO": "Books ▸ Christian Books & Bibles 베스트셀러"
+     },
+     "url": "https://www.amazon.com/gp/bestsellers/books/12290"
+    },
+    "GENERAL": {
+     "line": {
+      "KO": "Books 베스트셀러"
+     },
+     "url": "https://www.amazon.com/gp/bestsellers/books"
+    }
+   },
    "code": "DEMO_AMAZON",
    "countries": [
     "US"
    ],
    "home": "https://www.amazon.com/",
    "logo": "shopimg_43f41376d76cf06b.jpg",
+   "menus": [
+    "goods",
+    "books"
+   ],
    "names": {
     "EN": "Amazon",
     "KO": "아마존"
@@ -1112,12 +1284,23 @@
   {
    "abroad": [],
    "adv": "",
+   "best": {
+    "GENERAL": {
+     "line": {
+      "KO": "Livros ▸ Mais vendidos"
+     },
+     "url": "https://www.amazon.com.br/gp/bestsellers/books"
+    }
+   },
    "code": "TEST_BR_LIVROS",
    "countries": [
     "BR"
    ],
    "home": "https://www.amazon.com.br/livros",
    "logo": "",
+   "menus": [
+    "books"
+   ],
    "names": {
     "EN": "Test Books BR",
     "KO": "시험 서점 BR",
@@ -1131,7 +1314,7 @@
   }
  ],
  "menu_counts": {
-  "books": 7,
+  "books": 9,
   "goods": 11,
   "travel": 0
  },
@@ -1158,5 +1341,5 @@
   }
  ],
  "menus_of": "BR",
- "version": 23
+ "version": 25
 }

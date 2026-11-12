@@ -3646,12 +3646,30 @@
     "TW"
    ],
    "adv": "",
+   "best": {
+    "FAITH": {
+     "line": {
+      "KO": "Books ▸ Christian Books & Bibles 베스트셀러"
+     },
+     "url": "https://www.amazon.com/gp/bestsellers/books/12290"
+    },
+    "GENERAL": {
+     "line": {
+      "KO": "Books 베스트셀러"
+     },
+     "url": "https://www.amazon.com/gp/bestsellers/books"
+    }
+   },
    "code": "DEMO_AMAZON",
    "countries": [
     "US"
    ],
    "home": "https://www.amazon.com/",
    "logo": "shopimg_43f41376d76cf06b.jpg",
+   "menus": [
+    "goods",
+    "books"
+   ],
    "names": {
     "EN": "Amazon",
     "KO": "아마존"
@@ -3682,6 +3700,9 @@
    ],
    "home": "https://www.ebay.co.uk/",
    "logo": "shopimg_6e376d715eafb511.jpg",
+   "menus": [
+    "goods"
+   ],
    "names": {
     "EN": "eBay UK",
     "KO": "이베이 영국"
@@ -3701,6 +3722,10 @@
    ],
    "home": "https://www.coupang.com/",
    "logo": "shopimg_32600047c85467a7.jpg",
+   "menus": [
+    "goods",
+    "books"
+   ],
    "names": {
     "EN": "Coupang",
     "KO": "쿠팡"
@@ -3723,6 +3748,10 @@
    ],
    "home": "https://shopping.naver.com/ns/home",
    "logo": "shopimg_f490b4ec822084a0.jpg",
+   "menus": [
+    "goods",
+    "books"
+   ],
    "names": {
     "EN": "Naver Store",
     "KO": "네이버 스토어"
@@ -3742,6 +3771,9 @@
    ],
    "home": "https://gift.kakao.com/home",
    "logo": "shopimg_4c259c334ae48e6b.jpg",
+   "menus": [
+    "goods"
+   ],
    "names": {
     "EN": "Kakao Gift",
     "KO": "카카오 선물하기"
@@ -3761,6 +3793,9 @@
    ],
    "home": "https://www.klook.com/ko/",
    "logo": "",
+   "menus": [
+    "travel"
+   ],
    "names": {
     "EN": "Travel demo",
     "KO": "여행 예약 시험몰"
@@ -3784,12 +3819,49 @@
   {
    "abroad": [],
    "adv": "",
+   "code": "TEST_KR_TRIP",
+   "countries": [
+    "KR"
+   ],
+   "home": "https://www.myrealtrip.com/",
+   "logo": "",
+   "menus": [
+    "travel"
+   ],
+   "names": {
+    "EN": "Travel demo (local names)",
+    "KO": "여행 예약 시험몰(한국어 지역)"
+   },
+   "network": "TEST",
+   "notice": {},
+   "search": "",
+   "sort": 901,
+   "text": 1,
+   "travel": {
+    "TOUR": "https://www.myrealtrip.com/search?q={name}",
+    "TOUR_HOME": "https://www.myrealtrip.com/"
+   }
+  },
+  {
+   "abroad": [],
+   "adv": "",
+   "best": {
+    "GENERAL": {
+     "line": {
+      "KO": "Livros ▸ Mais vendidos"
+     },
+     "url": "https://www.amazon.com.br/gp/bestsellers/books"
+    }
+   },
    "code": "TEST_BR_LIVROS",
    "countries": [
     "BR"
    ],
    "home": "https://www.amazon.com.br/livros",
    "logo": "",
+   "menus": [
+    "books"
+   ],
    "names": {
     "EN": "Test Books BR",
     "KO": "시험 서점 BR",
@@ -3810,6 +3882,9 @@
    ],
    "home": "https://www.otto.de/",
    "logo": "",
+   "menus": [
+    "goods"
+   ],
    "names": {
     "DE": "Testmarkt DE",
     "EN": "Test Markt DE",
@@ -3830,6 +3905,9 @@
    ],
    "home": "https://www.rakuten.co.jp/",
    "logo": "",
+   "menus": [
+    "goods"
+   ],
    "names": {
     "EN": "Test Shop JP",
     "JA": "テストショップ JP",
@@ -3850,6 +3928,9 @@
    ],
    "home": "https://books.rakuten.co.jp/",
    "logo": "",
+   "menus": [
+    "books"
+   ],
    "names": {
     "EN": "Test Books JP",
     "JA": "テスト書店 JP",
@@ -3870,6 +3951,9 @@
    ],
    "home": "https://www.target.com/",
    "logo": "",
+   "menus": [
+    "goods"
+   ],
    "names": {
     "EN": "Test Mart US",
     "KO": "시험 마트 US"
@@ -3883,12 +3967,23 @@
   {
    "abroad": [],
    "adv": "",
+   "best": {
+    "FAITH": {
+     "line": {
+      "KO": "Bestselling Christian Resources"
+     },
+     "url": "https://www.christianbook.com/page/bestselling-christian-resources"
+    }
+   },
    "code": "TEST_US_BOOKS",
    "countries": [
     "US"
    ],
    "home": "https://www.christianbook.com/",
    "logo": "",
+   "menus": [
+    "books"
+   ],
    "names": {
     "EN": "Test Books US",
     "KO": "시험 서점 US"
@@ -3908,6 +4003,9 @@
    ],
    "home": "https://www.viator.com/",
    "logo": "",
+   "menus": [
+    "travel"
+   ],
    "names": {
     "EN": "Test Trips US",
     "KO": "시험 여행 US"
@@ -3925,12 +4023,176 @@
     "TOUR": "https://www.viator.com/searchResults/all?text={dest}",
     "TOUR_HOME": "https://www.viator.com/"
    }
+  },
+  {
+   "abroad": [],
+   "adv": "",
+   "best": {
+    "FAITH": {
+     "line": {
+      "KO": "국내도서 ▸ 기독교(개신교) 베스트"
+     },
+     "url": "https://www.yes24.com/Product/Category/BestSeller?categoryNumber=001001021003"
+    },
+    "GENERAL": {
+     "line": {
+      "KO": "국내도서 종합 베스트"
+     },
+     "url": "https://www.yes24.com/Product/Category/BestSeller?categoryNumber=001"
+    }
+   },
+   "code": "TEST_KR_YES24",
+   "countries": [
+    "KR"
+   ],
+   "home": "https://www.yes24.com/",
+   "logo": "",
+   "menus": [
+    "books"
+   ],
+   "names": {
+    "EN": "YES24",
+    "KO": "예스24"
+   },
+   "network": "TEST",
+   "notice": {},
+   "search": "",
+   "sort": 950,
+   "text": 1
+  },
+  {
+   "abroad": [],
+   "adv": "",
+   "best": {
+    "FAITH": {
+     "line": {
+      "KO": "국내도서 ▸ 종교 주간 베스트"
+     },
+     "url": "https://store.kyobobook.co.kr/bestseller/online/weekly/domestic/21"
+    },
+    "GENERAL": {
+     "line": {
+      "KO": "국내도서 주간 베스트"
+     },
+     "url": "https://store.kyobobook.co.kr/bestseller/online/weekly/domestic"
+    }
+   },
+   "code": "TEST_KR_KYOBO",
+   "countries": [
+    "KR"
+   ],
+   "home": "https://www.kyobobook.co.kr/",
+   "logo": "",
+   "menus": [
+    "books"
+   ],
+   "names": {
+    "EN": "Kyobo Book",
+    "KO": "교보문고"
+   },
+   "network": "TEST",
+   "notice": {},
+   "search": "",
+   "sort": 951,
+   "text": 1
+  },
+  {
+   "abroad": [],
+   "adv": "",
+   "best": {
+    "FAITH": {
+     "line": {
+      "KO": "기독교 도서 ▸ 분야별 베스트"
+     },
+     "url": "https://mall.godpeople.com/?GO=best_genre"
+    }
+   },
+   "code": "TEST_KR_GODPEOPLE",
+   "countries": [
+    "KR"
+   ],
+   "home": "https://mall.godpeople.com/",
+   "logo": "",
+   "menus": [
+    "books"
+   ],
+   "names": {
+    "EN": "GodpeopleMall",
+    "KO": "갓피플몰"
+   },
+   "network": "TEST",
+   "notice": {},
+   "search": "",
+   "sort": 952,
+   "text": 1
+  },
+  {
+   "abroad": [],
+   "adv": "",
+   "best": {
+    "GENERAL": {
+     "line": {
+      "KO": "本 ▸ 売れ筋ランキング"
+     },
+     "url": "https://www.amazon.co.jp/gp/bestsellers/books"
+    }
+   },
+   "code": "TEST_JP_AMAZON",
+   "countries": [
+    "JP"
+   ],
+   "home": "https://www.amazon.co.jp/",
+   "logo": "",
+   "menus": [
+    "books"
+   ],
+   "names": {
+    "EN": "Amazon.co.jp",
+    "JA": "Amazon.co.jp",
+    "KO": "아마존 재팬"
+   },
+   "network": "TEST",
+   "notice": {},
+   "search": "",
+   "sort": 955,
+   "text": 1
+  },
+  {
+   "abroad": [],
+   "adv": "",
+   "best": {
+    "GENERAL": {
+     "line": {
+      "KO": "Bücher ▸ Bestseller"
+     },
+     "url": "https://www.amazon.de/gp/bestsellers/books"
+    }
+   },
+   "code": "TEST_DE_AMAZON",
+   "countries": [
+    "DE"
+   ],
+   "home": "https://www.amazon.de/",
+   "logo": "",
+   "menus": [
+    "books"
+   ],
+   "names": {
+    "DE": "Amazon.de",
+    "EN": "Amazon.de",
+    "KO": "아마존 독일"
+   },
+   "network": "TEST",
+   "notice": {},
+   "search": "",
+   "sort": 956,
+   "text": 1
   }
  ],
  "menu_counts": {
-  "books": 54,
+  "books": 62,
   "goods": 75,
-  "travel": 18
+  "travel": 19
  },
  "menus": [
   {
@@ -4655,5 +4917,5 @@
    "sort": 900
   }
  ],
- "version": 23
+ "version": 25
 }
