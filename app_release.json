@@ -1,12 +1,12 @@
 {
- "version": "2026.11.12.1",
- "date": "2026-11-12 01:46",
- "notes": "고쳐진 곳: 쇼핑 · AI 대화 · 암송 · 성경 · 내 서재 · 유튜브 · 최신 · 둘러보기 · 공지 · 홈 · 설정 · 기타 개선 · 모바일 연결",
+ "version": "2026.11.12.2",
+ "date": "2026-11-12 10:48",
+ "notes": "고쳐진 곳: 쇼핑 · 기타 개선 · 모바일 연결",
  "pc": {
-  "version": "2026.11.12.1",
-  "file": "app_pc_2026.11.12.1_77a1d994.zip",
-  "sha256": "77a1d994c3e82a5df8c8f7a9c32bfb9de8552851ffca8fe7bf04eb290496e665",
-  "size": 9190206,
+  "version": "2026.11.12.2",
+  "file": "app_pc_2026.11.12.2_dbf69d6d.zip",
+  "sha256": "dbf69d6db4178564e90cfc8f4b0dd50190a568137be7dc09b5ad9d2e32407d65",
+  "size": 9201324,
   "areas": [
    [
     "UPD_A_MOBILE",
@@ -19,56 +19,16 @@
   ]
  },
  "android": {
-  "version": "2026.11.12.1",
-  "code": 2026111201,
-  "file": "app_android_2026.11.12.1_65b1a922.apk",
-  "sha256": "65b1a9224cb045d7e94ec8e91bd55f18aad6aeef8bacebe852317c251448105e",
+  "version": "2026.11.12.2",
+  "code": 2026111202,
+  "file": "app_android_2026.11.12.2_4e30df65.apk",
+  "sha256": "4e30df65d1c9cc24897c9899694688545e0abe6031db978d4ef43756d8d12f01",
   "size": 32413274,
-  "url": "https://dist.asahdabar.com/app_android_2026.11.12.1_65b1a922.apk",
+  "url": "https://dist.asahdabar.com/app_android_2026.11.12.2_4e30df65.apk",
   "areas": [
    [
     "M_TAB_SHOP2",
     "쇼핑"
-   ],
-   [
-    "M_TAB_AI",
-    "AI 대화"
-   ],
-   [
-    "M_MEMO_TITLE",
-    "암송"
-   ],
-   [
-    "M_TAB_BIBLE",
-    "성경"
-   ],
-   [
-    "M_LIBRARY",
-    "내 서재"
-   ],
-   [
-    "M_TAB_WORSHIP",
-    "유튜브"
-   ],
-   [
-    "M_TAB_LATEST",
-    "최신"
-   ],
-   [
-    "M_EXPLORE",
-    "둘러보기"
-   ],
-   [
-    "M_HOME_NOTICE",
-    "공지"
-   ],
-   [
-    "M_TAB_HOME",
-    "홈"
-   ],
-   [
-    "M_SETTINGS",
-    "설정"
    ],
    [
     "UPD_A_ETC",
@@ -76,5 +36,5 @@
    ]
   ]
  },
- "sig": "819f7140e827af971aa7acafc4e1b92660cc3e7838b4bce60d4dcb4185dd0e38566d1a0680e722eda6d84d9665af1dbefa3223d58b6883628b3aa8499f328a06"
+ "sig": "0a9a3257a0ee3d7096dd42ca984dbb90f0cd2ece3df1f4606abbb90cd0267c7f5b8e7b1f79aa5d4fe0cfc80ac1800f8ece296830dde5d78869a1e2daeb8ff907"
 }
