@@ -1,17 +1,13 @@
 {
- "version": "2026.11.12.5",
- "date": "2026-11-12 19:56",
- "notes": "고쳐진 곳: 쇼핑 · AI 대화 · 말씀카드 · 성경 · 플랜 · 내 서재 · 유튜브 · 최신 · 둘러보기 · 공지 · 설정 · 기타 개선 · AI 도우미",
+ "version": "2026.11.13.1",
+ "date": "2026-11-13 09:36",
+ "notes": "고쳐진 곳: 쇼핑 · 말씀카드 · 성경 · 플랜 · 내 서재 · 기타 개선",
  "pc": {
-  "version": "2026.11.12.5",
-  "file": "app_pc_2026.11.12.5_8d3736fc.zip",
-  "sha256": "8d3736fce827c5d6384ec912874837ddc255cbd74be728cd0cb62c9b75571ce3",
-  "size": 9237136,
+  "version": "2026.11.13.1",
+  "file": "app_pc_2026.11.13.1_cde7d66c.zip",
+  "sha256": "cde7d66ce058113fcbf70d11f98531920cc9abbe6e9e166099b5281b9137bebb",
+  "size": 9237753,
   "areas": [
-   [
-    "UPD_A_AI",
-    "AI 도우미"
-   ],
    [
     "UPD_A_ETC",
     "기타 개선"
@@ -19,20 +15,16 @@
   ]
  },
  "android": {
-  "version": "2026.11.12.5",
-  "code": 2026111205,
-  "file": "app_android_2026.11.12.5_ab79013a.apk",
-  "sha256": "ab79013ac1ea1188c3cc247215295a43114599592f34128585b918ea8343c0a3",
-  "size": 32675654,
-  "url": "https://dist.asahdabar.com/app_android_2026.11.12.5_ab79013a.apk",
+  "version": "2026.11.13.1",
+  "code": 2026111301,
+  "file": "app_android_2026.11.13.1_91ea8dd7.apk",
+  "sha256": "91ea8dd79a6244bfa0faca699d5518ab5e43c8882c7f5916dd219b0051ff235d",
+  "size": 32806726,
+  "url": "https://dist.asahdabar.com/app_android_2026.11.13.1_91ea8dd7.apk",
   "areas": [
    [
     "M_TAB_SHOP2",
     "쇼핑"
-   ],
-   [
-    "M_TAB_AI",
-    "AI 대화"
    ],
    [
     "UPD_A_CARD",
@@ -51,30 +43,10 @@
     "내 서재"
    ],
    [
-    "M_TAB_WORSHIP",
-    "유튜브"
-   ],
-   [
-    "M_TAB_LATEST",
-    "최신"
-   ],
-   [
-    "M_EXPLORE",
-    "둘러보기"
-   ],
-   [
-    "M_HOME_NOTICE",
-    "공지"
-   ],
-   [
-    "M_SETTINGS",
-    "설정"
-   ],
-   [
     "UPD_A_ETC",
     "기타 개선"
    ]
   ]
  },
- "sig": "14e6c6f2297dbf2af73c083cb81496f5aec089ea704f6c8646d4667e8ae10a0b236c5b1b38a8c3328a4ea1edf839a3fcb0d1ac34fc829b5c88a18508d426b608"
+ "sig": "c91f07ba98823c03a2ddf94abf4479816ebd0048c6236cf2eb249146d663414111bb301d6956996601998e567fcc8a6130dd665e0797655d531fbcb19423eb08"
 }
