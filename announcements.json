@@ -121,8 +121,28 @@
  },
  {
   "ann_id": 6,
-  "audience": "ALL",
-  "body": "ㅅㄷㄴㅅ",
+  "audience": "PT",
+  "body": "영아 잘 보이냐",
+  "lang": "AR",
+  "pin": 0,
+  "published": "2026-09-19 23:19:33",
+  "record_status": "LIVE",
+  "title": "영아 잘 보이냐"
+ },
+ {
+  "ann_id": 6,
+  "audience": "PT",
+  "body": "영아 잘 보이냐",
+  "lang": "DE",
+  "pin": 0,
+  "published": "2026-09-19 23:19:33",
+  "record_status": "LIVE",
+  "title": "영아 잘 보이냐"
+ },
+ {
+  "ann_id": 6,
+  "audience": "PT",
+  "body": "Rewrite what I provide to sound professional, polite, and appropriate for a workplace settingRewrite what I provide to sound professional, polite, and appropriate for a workplace settingRewrite what I provide to sound professional, polite, and appropriate for a workplace settingRewrite what I provide to sound professional, polite, and appropriate for a workplace settingRewrite what I provide to sound professional, polite, and appropriate for a workplace settingRewrite what I provide to sound professional, polite, and appropriate for a workplace settingRewrite what I provide to sound professional, polite, and appropriate for a workplace setting",
   "lang": "EN",
   "pin": 0,
   "published": "2026-09-19 23:19:33",
@@ -131,12 +151,132 @@
  },
  {
   "ann_id": 6,
-  "audience": "ALL",
-  "body": "테스트",
+  "audience": "PT",
+  "body": "영아 잘 보이냐",
+  "lang": "ES",
+  "pin": 0,
+  "published": "2026-09-19 23:19:33",
+  "record_status": "LIVE",
+  "title": "영아 잘 보이냐"
+ },
+ {
+  "ann_id": 6,
+  "audience": "PT",
+  "body": "영아 잘 보이냐",
+  "lang": "FR",
+  "pin": 0,
+  "published": "2026-09-19 23:19:33",
+  "record_status": "LIVE",
+  "title": "영아 잘 보이냐"
+ },
+ {
+  "ann_id": 6,
+  "audience": "PT",
+  "body": "영아 잘 보이냐",
+  "lang": "JA",
+  "pin": 0,
+  "published": "2026-09-19 23:19:33",
+  "record_status": "LIVE",
+  "title": "영아 잘 보이냐"
+ },
+ {
+  "ann_id": 6,
+  "audience": "PT",
+  "body": "테스트영아 잘 보이냐영아 잘 보이냐영아 잘 보이냐영아 잘 보이냐영아 잘 보이냐영아 잘 보이냐영아 잘 보이냐영아 잘 보이냐영아 잘 보이냐영아 잘 보이냐영아 잘 보이냐영아 잘 보이냐영아 잘 보이냐",
   "lang": "KO",
   "pin": 0,
   "published": "2026-09-19 23:19:33",
   "record_status": "LIVE",
   "title": "(공지) 하영아 잘 보이냐"
+ },
+ {
+  "ann_id": 6,
+  "audience": "PT",
+  "body": "영아 잘 보이냐",
+  "lang": "PT",
+  "pin": 0,
+  "published": "2026-09-19 23:19:33",
+  "record_status": "LIVE",
+  "title": "영아 잘 보이냐"
+ },
+ {
+  "ann_id": 6,
+  "audience": "PT",
+  "body": "영아 잘 보이냐",
+  "lang": "RU",
+  "pin": 0,
+  "published": "2026-09-19 23:19:33",
+  "record_status": "LIVE",
+  "title": "영아 잘 보이냐"
+ },
+ {
+  "ann_id": 6,
+  "audience": "PT",
+  "body": "영아 잘 보이냐",
+  "lang": "ZH",
+  "pin": 0,
+  "published": "2026-09-19 23:19:33",
+  "record_status": "LIVE",
+  "title": "영아 잘 보이냐"
+ },
+ {
+  "ann_id": 6,
+  "audience": "PT",
+  "body": "영아 잘 보이냐",
+  "lang": "ZHT",
+  "pin": 0,
+  "published": "2026-09-19 23:19:33",
+  "record_status": "LIVE",
+  "title": "영아 잘 보이냐"
+ },
+ {
+  "ann_id": 7,
+  "audience": "ALL",
+  "body": "ㄹㄹㄹㄹㄹㄹ",
+  "lang": "EN",
+  "pin": 0,
+  "published": "2026-11-16 20:41:58",
+  "record_status": "LIVE",
+  "title": "ㄹㄹㄹ"
+ },
+ {
+  "ann_id": 7,
+  "audience": "ALL",
+  "body": "ㄹㄹ",
+  "lang": "JA",
+  "pin": 0,
+  "published": "2026-11-16 20:41:58",
+  "record_status": "LIVE",
+  "title": "ㄹㄹㄹㄹ"
+ },
+ {
+  "ann_id": 7,
+  "audience": "ALL",
+  "body": "ㄹㄹㄹㄹㄹㄹ",
+  "lang": "KO",
+  "pin": 0,
+  "published": "2026-11-16 20:41:58",
+  "record_status": "LIVE",
+  "title": "ㄹㄹㄹ"
+ },
+ {
+  "ann_id": 7,
+  "audience": "ALL",
+  "body": "ㄹㄹㄹㄹㄹ",
+  "lang": "ZH",
+  "pin": 0,
+  "published": "2026-11-16 20:41:58",
+  "record_status": "LIVE",
+  "title": "ㄹㄹㄹㄹ"
+ },
+ {
+  "ann_id": 7,
+  "audience": "ALL",
+  "body": "ㄹ",
+  "lang": "ZHT",
+  "pin": 0,
+  "published": "2026-11-16 20:41:58",
+  "record_status": "LIVE",
+  "title": "ㄹ"
  }
 ]
