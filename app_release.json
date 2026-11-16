@@ -1,12 +1,12 @@
 {
- "version": "2026.11.13.1",
- "date": "2026-11-13 09:36",
- "notes": "고쳐진 곳: 쇼핑 · 말씀카드 · 성경 · 플랜 · 내 서재 · 기타 개선",
+ "version": "2026.11.16.1",
+ "date": "2026-11-16 20:53",
+ "notes": "고쳐진 곳: 기타 개선",
  "pc": {
-  "version": "2026.11.13.1",
-  "file": "app_pc_2026.11.13.1_cde7d66c.zip",
-  "sha256": "cde7d66ce058113fcbf70d11f98531920cc9abbe6e9e166099b5281b9137bebb",
-  "size": 9237753,
+  "version": "2026.11.16.1",
+  "file": "app_pc_2026.11.16.1_fd966c62.zip",
+  "sha256": "fd966c6231d2a9316a883069a5de963a487e11a95b2e4e3c7648d4ab60d7b3d1",
+  "size": 11941794,
   "areas": [
    [
     "UPD_A_ETC",
@@ -15,38 +15,13 @@
   ]
  },
  "android": {
-  "version": "2026.11.13.1",
-  "code": 2026111301,
-  "file": "app_android_2026.11.13.1_91ea8dd7.apk",
-  "sha256": "91ea8dd79a6244bfa0faca699d5518ab5e43c8882c7f5916dd219b0051ff235d",
+  "version": "2026.11.16.1",
+  "code": 2026111601,
+  "file": "app_android_2026.11.16.1_0cdccc40.apk",
+  "sha256": "0cdccc409f16e507e9f6b9c221b0a77c272827b68b433bb26f99dd875ff84168",
   "size": 32806726,
-  "url": "https://dist.asahdabar.com/app_android_2026.11.13.1_91ea8dd7.apk",
-  "areas": [
-   [
-    "M_TAB_SHOP2",
-    "쇼핑"
-   ],
-   [
-    "UPD_A_CARD",
-    "말씀카드"
-   ],
-   [
-    "M_TAB_BIBLE",
-    "성경"
-   ],
-   [
-    "M_TAB_PLAN",
-    "플랜"
-   ],
-   [
-    "M_LIBRARY",
-    "내 서재"
-   ],
-   [
-    "UPD_A_ETC",
-    "기타 개선"
-   ]
-  ]
+  "url": "https://dist.asahdabar.com/app_android_2026.11.16.1_0cdccc40.apk",
+  "areas": []
  },
- "sig": "c91f07ba98823c03a2ddf94abf4479816ebd0048c6236cf2eb249146d663414111bb301d6956996601998e567fcc8a6130dd665e0797655d531fbcb19423eb08"
+ "sig": "b4817a6cf9f88624c7314d6e6451f487bcdff74ad86ba2a4fb83c2e3bf54eee0e6470f94f7de27631e51cbec4e1c646e2bdbf7f58c44b06dd428aeb78083fd0a"
 }
