@@ -1,5 +1,5 @@
 {
- "latest": 23,
+ "latest": 24,
  "full": true,
  "releases": [
   {
@@ -1397,9 +1397,9 @@
    "variant": "-",
    "note": "환경설정 양식(sys_pref_preset) 코어 표 추가",
    "title": "앱 기본 자료(연결·목록·껍데기)",
-   "version": 59,
+   "version": 61,
    "bytes": 10623966,
-   "made_at": "2026-11-16 20:54"
+   "made_at": "2026-11-17 17:56"
   },
   {
    "kind": "DESC",
@@ -1451,10 +1451,10 @@
    "lang": "KO",
    "variant": "-",
    "note": "",
-   "title": "역사서 설명문 (3,381편)",
-   "version": 1,
+   "title": "역사서 설명문 (12,722편)",
+   "version": 3,
    "bytes": null,
-   "made_at": "2026-11-06 23:51"
+   "made_at": "2026-11-17 17:55"
   },
   {
    "kind": "DESC",
@@ -1529,9 +1529,9 @@
    "variant": "-",
    "note": "",
    "title": "오경 설명문 (17,678편)",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": "2026-11-06 23:51"
+   "made_at": "2026-11-17 16:21"
   },
   {
    "kind": "DESC",
@@ -1550,7 +1550,7 @@
    "lang": "KO",
    "variant": "-",
    "note": "",
-   "title": "시가서 설명문 (24편)",
+   "title": "시가서 설명문 (9,234편)",
    "version": 1,
    "bytes": null,
    "made_at": "2026-11-06 23:51"
@@ -1763,6 +1763,83 @@
    "version": 1,
    "bytes": null,
    "made_at": "2026-11-06 23:51"
+  },
+  {
+   "kind": "IMAGE",
+   "key": "AFRICA",
+   "lang": "-",
+   "variant": "-",
+   "note": "",
+   "title": "시작 이미지 · 아프리카 (16장)",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-17 16:21"
+  },
+  {
+   "kind": "IMAGE",
+   "key": "ASIA",
+   "lang": "-",
+   "variant": "-",
+   "note": "",
+   "title": "시작 이미지 · 아시아 (9장)",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-17 16:21"
+  },
+  {
+   "kind": "IMAGE",
+   "key": "EUROPE",
+   "lang": "-",
+   "variant": "-",
+   "note": "",
+   "title": "시작 이미지 · 유럽 (16장)",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-17 16:21"
+  },
+  {
+   "kind": "IMAGE",
+   "key": "MIDEAST",
+   "lang": "-",
+   "variant": "-",
+   "note": "",
+   "title": "시작 이미지 · 중동·성지 (31장)",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-17 16:21"
+  },
+  {
+   "kind": "IMAGE",
+   "key": "NAMERICA",
+   "lang": "-",
+   "variant": "-",
+   "note": "",
+   "title": "시작 이미지 · 북아메리카 (24장)",
+   "version": 2,
+   "bytes": null,
+   "made_at": "2026-11-17 17:56"
+  },
+  {
+   "kind": "IMAGE",
+   "key": "OCEANIA",
+   "lang": "-",
+   "variant": "-",
+   "note": "",
+   "title": "시작 이미지 · 오세아니아 (9장)",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-17 16:21"
+  },
+  {
+   "kind": "IMAGE",
+   "key": "SAMERICA",
+   "lang": "-",
+   "variant": "-",
+   "note": "",
+   "title": "시작 이미지 · 남아메리카 (9장)",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-17 16:21"
   },
   {
    "kind": "LEX",
@@ -2132,7 +2209,7 @@
   {
    "cycle": "BIANNUAL",
    "file": "corepack_BIANNUAL.json.gz",
-   "release": 59,
+   "release": 61,
    "bytes": 11868886
   }
  ]
