@@ -1,13 +1,17 @@
 {
- "version": "2026.11.16.1",
- "date": "2026-11-16 20:53",
- "notes": "고쳐진 곳: 기타 개선",
+ "version": "2026.11.17.1",
+ "date": "2026-11-17 16:18",
+ "notes": "고쳐진 곳: 쇼핑 · 말씀카드 · 성경 · 플랜 · 둘러보기 · 공지 · 홈 · 설정 · 기타 개선 · AI 도우미",
  "pc": {
-  "version": "2026.11.16.1",
-  "file": "app_pc_2026.11.16.1_fd966c62.zip",
-  "sha256": "fd966c6231d2a9316a883069a5de963a487e11a95b2e4e3c7648d4ab60d7b3d1",
-  "size": 11941794,
+  "version": "2026.11.17.1",
+  "file": "app_pc_2026.11.17.1_0f81749b.zip",
+  "sha256": "0f81749ba8f70eeb810def4ccf0339aa8b64707f2354551ac215751e16395d0b",
+  "size": 17813880,
   "areas": [
+   [
+    "UPD_A_AI",
+    "AI 도우미"
+   ],
    [
     "UPD_A_ETC",
     "기타 개선"
@@ -15,13 +19,50 @@
   ]
  },
  "android": {
-  "version": "2026.11.16.1",
-  "code": 2026111601,
-  "file": "app_android_2026.11.16.1_0cdccc40.apk",
-  "sha256": "0cdccc409f16e507e9f6b9c221b0a77c272827b68b433bb26f99dd875ff84168",
-  "size": 32806726,
-  "url": "https://dist.asahdabar.com/app_android_2026.11.16.1_0cdccc40.apk",
-  "areas": []
+  "version": "2026.11.17.1",
+  "code": 2026111701,
+  "file": "app_android_2026.11.17.1_88a1440e.apk",
+  "sha256": "88a1440e6bca35a558672e87b7a2c1bda46d1bd6bd60efafb6a78ca91dd7a89b",
+  "size": 33325618,
+  "url": "https://dist.asahdabar.com/app_android_2026.11.17.1_88a1440e.apk",
+  "areas": [
+   [
+    "M_TAB_SHOP2",
+    "쇼핑"
+   ],
+   [
+    "UPD_A_CARD",
+    "말씀카드"
+   ],
+   [
+    "M_TAB_BIBLE",
+    "성경"
+   ],
+   [
+    "M_TAB_PLAN",
+    "플랜"
+   ],
+   [
+    "M_EXPLORE",
+    "둘러보기"
+   ],
+   [
+    "M_HOME_NOTICE",
+    "공지"
+   ],
+   [
+    "M_TAB_HOME",
+    "홈"
+   ],
+   [
+    "M_SETTINGS",
+    "설정"
+   ],
+   [
+    "UPD_A_ETC",
+    "기타 개선"
+   ]
+  ]
  },
- "sig": "b4817a6cf9f88624c7314d6e6451f487bcdff74ad86ba2a4fb83c2e3bf54eee0e6470f94f7de27631e51cbec4e1c646e2bdbf7f58c44b06dd428aeb78083fd0a"
+ "sig": "4fc04fd25a62b52f03bafaf39a267ac5f3fb006b7d0f5354adec9a3afd564f41ebf213f452950f0c8022bb3b41bf20b1cf54df71aaab58dd5f78edbdcfd2010f"
 }
