@@ -1,5 +1,5 @@
 {
- "latest": 22,
+ "latest": 23,
  "full": true,
  "releases": [
   {
@@ -1287,9 +1287,9 @@
    "variant": "-",
    "note": "",
    "title": "Commentary Critical and Explanatory on the Whole Bible",
-   "version": 3,
+   "version": 4,
    "bytes": null,
-   "made_at": "2026-11-12 17:09"
+   "made_at": "2026-11-12 19:58"
   },
   {
    "kind": "COMM",
@@ -1298,9 +1298,9 @@
    "variant": "-",
    "note": "",
    "title": "Commentary Critical and Explanatory on the Whole Bible",
-   "version": 3,
+   "version": 4,
    "bytes": null,
-   "made_at": "2026-11-12 17:09"
+   "made_at": "2026-11-12 19:58"
   },
   {
    "kind": "COMM",
@@ -1397,9 +1397,9 @@
    "variant": "-",
    "note": "환경설정 양식(sys_pref_preset) 코어 표 추가",
    "title": "앱 기본 자료(연결·목록·껍데기)",
-   "version": 55,
+   "version": 59,
    "bytes": 10623966,
-   "made_at": "2026-11-12 17:10"
+   "made_at": "2026-11-16 20:54"
   },
   {
    "kind": "DESC",
@@ -1451,7 +1451,7 @@
    "lang": "KO",
    "variant": "-",
    "note": "",
-   "title": "역사서 설명문 (7편)",
+   "title": "역사서 설명문 (3,381편)",
    "version": 1,
    "bytes": null,
    "made_at": "2026-11-06 23:51"
@@ -1814,7 +1814,7 @@
    "lang": "-",
    "variant": "-",
    "note": "",
-   "title": "영상 연결 — 승인된 영상 주소 122,995편과 그 연결",
+   "title": "영상 연결 — 승인된 영상 주소 123,105편과 그 연결",
    "version": 1,
    "bytes": 13512056,
    "made_at": "2026-11-03 08:08"
@@ -2126,6 +2126,14 @@
    "version": 2,
    "bytes": null,
    "made_at": "2026-11-03 16:26"
+  }
+ ],
+ "core": [
+  {
+   "cycle": "BIANNUAL",
+   "file": "corepack_BIANNUAL.json.gz",
+   "release": 59,
+   "bytes": 11868886
   }
  ]
 }
