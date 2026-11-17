@@ -1505,6 +1505,37 @@
    "text": 1
   },
   {
+   "abroad": [
+    "US",
+    "JP",
+    "CN",
+    "TW"
+   ],
+   "adv": "",
+   "code": "TEST_KR_TRIP",
+   "countries": [
+    "KR"
+   ],
+   "home": "https://www.myrealtrip.com/",
+   "logo": "",
+   "menus": [
+    "travel"
+   ],
+   "names": {
+    "EN": "Travel demo (local names)",
+    "KO": "여행 예약 시험몰(한국어 지역)"
+   },
+   "network": "TEST",
+   "notice": {},
+   "search": "",
+   "sort": 901,
+   "text": 1,
+   "travel": {
+    "TOUR": "https://www.myrealtrip.com/search?q={name}",
+    "TOUR_HOME": "https://www.myrealtrip.com/"
+   }
+  },
+  {
    "abroad": [],
    "adv": "",
    "code": "TEST_US_MART",
@@ -1590,7 +1621,7 @@
  "menu_counts": {
   "books": 9,
   "goods": 16,
-  "travel": 4
+  "travel": 5
  },
  "menus": [
   {
@@ -2204,5 +2235,5 @@
    "sort": 900
   }
  ],
- "version": 37
+ "version": 40
 }

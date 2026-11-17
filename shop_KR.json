@@ -3115,7 +3115,10 @@
    "text": 1
   },
   {
-   "abroad": [],
+   "abroad": [
+    "JP",
+    "CN"
+   ],
    "adv": "",
    "code": "DEMO_COUPANG",
    "countries": [
@@ -3141,7 +3144,11 @@
    "text": 1
   },
   {
-   "abroad": [],
+   "abroad": [
+    "JP",
+    "CN",
+    "TW"
+   ],
    "adv": "",
    "code": "DEMO_NAVER",
    "countries": [
@@ -3218,7 +3225,12 @@
    }
   },
   {
-   "abroad": [],
+   "abroad": [
+    "US",
+    "JP",
+    "CN",
+    "TW"
+   ],
    "adv": "",
    "code": "TEST_KR_TRIP",
    "countries": [
@@ -3963,5 +3975,5 @@
    "sort": 900
   }
  ],
- "version": 37
+ "version": 40
 }
