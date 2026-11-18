@@ -1,92 +1,27 @@
 {
- "version": "2026.11.18.2",
- "date": "2026-11-18 11:20",
- "notes": "고쳐진 곳: AI 대화 · 나의 시편 · 암송 · 말씀카드 · 때에 맞는 말씀 · 성경 · 플랜 · 내 서재 · 유튜브 · 둘러보기 · 검색 · 홈 · 설정 · 기타 개선 · AI 도우미 · 모바일 연결",
+ "version": "2026.11.18.3",
+ "date": "2026-11-18 12:35",
+ "notes": "고쳐진 곳: 플랜",
  "pc": {
-  "version": "2026.11.18.2",
-  "file": "app_pc_2026.11.18.2_2c2a6448.zip",
-  "sha256": "2c2a6448848a7f30ec73c287e3f300fda7c00a1fc2bd9e0de18dd04504bade3a",
+  "version": "2026.11.18.3",
+  "file": "app_pc_2026.11.18.3_44e5612c.zip",
+  "sha256": "44e5612c913924b5c1b0027312440bfd59ec77bf7154f8aa0f70b16937c4df5d",
   "size": 17816057,
-  "areas": [
-   [
-    "UPD_A_AI",
-    "AI 도우미"
-   ],
-   [
-    "UPD_A_MOBILE",
-    "모바일 연결"
-   ],
-   [
-    "UPD_A_ETC",
-    "기타 개선"
-   ]
-  ]
+  "areas": []
  },
  "android": {
-  "version": "2026.11.18.2",
-  "code": 2026111802,
-  "file": "app_android_2026.11.18.2_6db26e7d.apk",
-  "sha256": "6db26e7d6bf765782fee0367cd3fa417b7bc084b6865bf0c65ee4cd1c904124d",
+  "version": "2026.11.18.3",
+  "code": 2026111803,
+  "file": "app_android_2026.11.18.3_1e5b2ec8.apk",
+  "sha256": "1e5b2ec859c33c821365e0fefbc351b4fca46e853d2042a706bb695923695c8b",
   "size": 33719006,
-  "url": "https://dist.asahdabar.com/app_android_2026.11.18.2_6db26e7d.apk",
+  "url": "https://dist.asahdabar.com/app_android_2026.11.18.3_1e5b2ec8.apk",
   "areas": [
-   [
-    "M_TAB_AI",
-    "AI 대화"
-   ],
-   [
-    "UPD_A_PSALM",
-    "나의 시편"
-   ],
-   [
-    "M_MEMO_TITLE",
-    "암송"
-   ],
-   [
-    "UPD_A_CARD",
-    "말씀카드"
-   ],
-   [
-    "UPD_A_TOPIC",
-    "때에 맞는 말씀"
-   ],
-   [
-    "M_TAB_BIBLE",
-    "성경"
-   ],
    [
     "M_TAB_PLAN",
     "플랜"
-   ],
-   [
-    "M_LIBRARY",
-    "내 서재"
-   ],
-   [
-    "M_TAB_WORSHIP",
-    "유튜브"
-   ],
-   [
-    "M_EXPLORE",
-    "둘러보기"
-   ],
-   [
-    "UPD_A_SEARCH",
-    "검색"
-   ],
-   [
-    "M_TAB_HOME",
-    "홈"
-   ],
-   [
-    "M_SETTINGS",
-    "설정"
-   ],
-   [
-    "UPD_A_ETC",
-    "기타 개선"
    ]
   ]
  },
- "sig": "d590819fc7a27b468a7950774b43cfcd6c663689b2717d3203a5a5258cf786f6631d60d49e443aa756d124b29baab41d9ffbea06645aa91a198569b77f183f07"
+ "sig": "a8d3aa06441456b36bf0a9a1bfde6bca1a0637d58b82fde13d19f91d3b0fe17e69c58ec440e109d41802159674479c90ec76e4fde54078653991c6b9c46cde01"
 }
