@@ -1,13 +1,17 @@
 {
- "version": "2026.11.18.1",
- "date": "2026-11-18 08:52",
- "notes": "고쳐진 곳: AI 대화 · 나의 시편 · 암송 · 말씀카드 · 때에 맞는 말씀 · 성경 · 플랜 · 내 서재 · 유튜브 · 최신 · 둘러보기 · 검색 · 홈 · 설정 · 기타 개선 · 모바일 연결",
+ "version": "2026.11.18.2",
+ "date": "2026-11-18 11:20",
+ "notes": "고쳐진 곳: AI 대화 · 나의 시편 · 암송 · 말씀카드 · 때에 맞는 말씀 · 성경 · 플랜 · 내 서재 · 유튜브 · 둘러보기 · 검색 · 홈 · 설정 · 기타 개선 · AI 도우미 · 모바일 연결",
  "pc": {
-  "version": "2026.11.18.1",
-  "file": "app_pc_2026.11.18.1_42fe67de.zip",
-  "sha256": "42fe67de066bb1dd93a47c94e685983947b8e49d255ed6a2d23cff762a02ee0e",
-  "size": 17816234,
+  "version": "2026.11.18.2",
+  "file": "app_pc_2026.11.18.2_2c2a6448.zip",
+  "sha256": "2c2a6448848a7f30ec73c287e3f300fda7c00a1fc2bd9e0de18dd04504bade3a",
+  "size": 17816057,
   "areas": [
+   [
+    "UPD_A_AI",
+    "AI 도우미"
+   ],
    [
     "UPD_A_MOBILE",
     "모바일 연결"
@@ -19,12 +23,12 @@
   ]
  },
  "android": {
-  "version": "2026.11.18.1",
-  "code": 2026111801,
-  "file": "app_android_2026.11.18.1_719bd948.apk",
-  "sha256": "719bd948c5b9857755c39575f7e4edb49880283cd430f3d95303cb0efbdfe418",
-  "size": 33522334,
-  "url": "https://dist.asahdabar.com/app_android_2026.11.18.1_719bd948.apk",
+  "version": "2026.11.18.2",
+  "code": 2026111802,
+  "file": "app_android_2026.11.18.2_6db26e7d.apk",
+  "sha256": "6db26e7d6bf765782fee0367cd3fa417b7bc084b6865bf0c65ee4cd1c904124d",
+  "size": 33719006,
+  "url": "https://dist.asahdabar.com/app_android_2026.11.18.2_6db26e7d.apk",
   "areas": [
    [
     "M_TAB_AI",
@@ -63,10 +67,6 @@
     "유튜브"
    ],
    [
-    "M_TAB_LATEST",
-    "최신"
-   ],
-   [
     "M_EXPLORE",
     "둘러보기"
    ],
@@ -88,5 +88,5 @@
    ]
   ]
  },
- "sig": "ce3a52749fcfc73233f912778d9004bfd66471aedc0875c63a775a968aa74f0dce5c02f044568a0b6c953a890ff593ebc0d45ba174ca1293d994aeffb0cc3c0d"
+ "sig": "d590819fc7a27b468a7950774b43cfcd6c663689b2717d3203a5a5258cf786f6631d60d49e443aa756d124b29baab41d9ffbea06645aa91a198569b77f183f07"
 }
