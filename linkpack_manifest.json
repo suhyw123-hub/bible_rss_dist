@@ -1,5 +1,5 @@
 {
- "latest": 24,
+ "latest": 25,
  "full": true,
  "releases": [
   {
@@ -1397,9 +1397,9 @@
    "variant": "-",
    "note": "환경설정 양식(sys_pref_preset) 코어 표 추가",
    "title": "앱 기본 자료(연결·목록·껍데기)",
-   "version": 61,
+   "version": 69,
    "bytes": 10623966,
-   "made_at": "2026-11-17 17:56"
+   "made_at": "2026-11-19 12:02"
   },
   {
    "kind": "DESC",
@@ -1451,10 +1451,10 @@
    "lang": "KO",
    "variant": "-",
    "note": "",
-   "title": "역사서 설명문 (12,722편)",
-   "version": 3,
+   "title": "역사서 설명문 (21,055편)",
+   "version": 6,
    "bytes": null,
-   "made_at": "2026-11-17 17:55"
+   "made_at": "2026-11-18 08:53"
   },
   {
    "kind": "DESC",
@@ -1473,10 +1473,10 @@
    "lang": "KO",
    "variant": "-",
    "note": "",
-   "title": "대선지서 설명문 (1,785편)",
-   "version": 1,
+   "title": "대선지서 설명문 (4,785편)",
+   "version": 2,
    "bytes": null,
-   "made_at": "2026-11-06 23:51"
+   "made_at": "2026-11-18 14:02"
   },
   {
    "kind": "DESC",
@@ -1528,10 +1528,10 @@
    "lang": "KO",
    "variant": "-",
    "note": "",
-   "title": "오경 설명문 (17,678편)",
-   "version": 2,
+   "title": "오경 설명문 (20,039편)",
+   "version": 3,
    "bytes": null,
-   "made_at": "2026-11-17 16:21"
+   "made_at": "2026-11-18 08:53"
   },
   {
    "kind": "DESC",
@@ -1550,10 +1550,10 @@
    "lang": "KO",
    "variant": "-",
    "note": "",
-   "title": "시가서 설명문 (9,234편)",
-   "version": 1,
+   "title": "시가서 설명문 (14,364편)",
+   "version": 4,
    "bytes": null,
-   "made_at": "2026-11-06 23:51"
+   "made_at": "2026-11-18 11:21"
   },
   {
    "kind": "DICT",
@@ -1782,9 +1782,9 @@
    "variant": "-",
    "note": "",
    "title": "시작 이미지 · 아시아 (9장)",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": "2026-11-17 16:21"
+   "made_at": "2026-11-17 21:25"
   },
   {
    "kind": "IMAGE",
@@ -1815,9 +1815,9 @@
    "variant": "-",
    "note": "",
    "title": "시작 이미지 · 북아메리카 (24장)",
-   "version": 2,
+   "version": 3,
    "bytes": null,
-   "made_at": "2026-11-17 17:56"
+   "made_at": "2026-11-17 21:25"
   },
   {
    "kind": "IMAGE",
@@ -1891,7 +1891,7 @@
    "lang": "-",
    "variant": "-",
    "note": "",
-   "title": "영상 연결 — 승인된 영상 주소 123,105편과 그 연결",
+   "title": "영상 연결 — 승인된 영상 주소 126,294편과 그 연결",
    "version": 1,
    "bytes": 13512056,
    "made_at": "2026-11-03 08:08"
@@ -2209,7 +2209,7 @@
   {
    "cycle": "BIANNUAL",
    "file": "corepack_BIANNUAL.json.gz",
-   "release": 61,
+   "release": 69,
    "bytes": 11868886
   }
  ]
