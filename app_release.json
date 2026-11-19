@@ -1,12 +1,12 @@
 {
- "version": "2026.11.19.1",
- "date": "2026-11-19 17:31",
- "notes": "고쳐진 곳: 쇼핑 · AI 대화 · 나의 시편 · 기도 노트 · 암송 · 말씀카드 · 때에 맞는 말씀 · 성경 · 내 서재 · 둘러보기 · 공지 · 설정 · 기타 개선 · AI 도우미",
+ "version": "2026.11.19.2",
+ "date": "2026-11-19 20:04",
+ "notes": "고쳐진 곳: 쇼핑 · AI 대화 · 기타 개선 · AI 도우미",
  "pc": {
-  "version": "2026.11.19.1",
-  "file": "app_pc_2026.11.19.1_3a7120ab.zip",
-  "sha256": "3a7120ab8793db008c06356309bb6ee4a7cb980d40907fea09fcf5772f5c28a2",
-  "size": 18991036,
+  "version": "2026.11.19.2",
+  "file": "app_pc_2026.11.19.2_b6ce0bd9.zip",
+  "sha256": "b6ce0bd930818de3f8617c9c6a956233ea7c7ff935de00a21c7fae2af1cc6a51",
+  "size": 18997719,
   "areas": [
    [
     "UPD_A_AI",
@@ -19,12 +19,12 @@
   ]
  },
  "android": {
-  "version": "2026.11.19.1",
-  "code": 2026111901,
-  "file": "app_android_2026.11.19.1_0890cf00.apk",
-  "sha256": "0890cf0029bbf81bad430eef1d307b222cac84d09a78b50fb2efa6cd04a642a3",
-  "size": 33982254,
-  "url": "https://dist.asahdabar.com/app_android_2026.11.19.1_0890cf00.apk",
+  "version": "2026.11.19.2",
+  "code": 2026111902,
+  "file": "app_android_2026.11.19.2_52d88cd4.apk",
+  "sha256": "52d88cd4b347b237b8ffdd4d90d9e8e05dfa1ec58ee357f8c4cc446a44ac9c89",
+  "size": 34113878,
+  "url": "https://dist.asahdabar.com/app_android_2026.11.19.2_52d88cd4.apk",
   "areas": [
    [
     "M_TAB_SHOP2",
@@ -35,50 +35,10 @@
     "AI 대화"
    ],
    [
-    "UPD_A_PSALM",
-    "나의 시편"
-   ],
-   [
-    "M_PR_TITLE",
-    "기도 노트"
-   ],
-   [
-    "M_MEMO_TITLE",
-    "암송"
-   ],
-   [
-    "UPD_A_CARD",
-    "말씀카드"
-   ],
-   [
-    "UPD_A_TOPIC",
-    "때에 맞는 말씀"
-   ],
-   [
-    "M_TAB_BIBLE",
-    "성경"
-   ],
-   [
-    "M_LIBRARY",
-    "내 서재"
-   ],
-   [
-    "M_EXPLORE",
-    "둘러보기"
-   ],
-   [
-    "M_HOME_NOTICE",
-    "공지"
-   ],
-   [
-    "M_SETTINGS",
-    "설정"
-   ],
-   [
     "UPD_A_ETC",
     "기타 개선"
    ]
   ]
  },
- "sig": "0f2bc2fabba7e5bb5af5d9c69459a4bc87885bf96179491b6ed5592a5ef4159aee14205ffe047f458d9d29a77b4a8b4f83b19f4eb5a302b99e9fe867d28b0a0c"
+ "sig": "74fc6bcb7dc2ba1c141ecbae444f04e507fc6604a09e53245593af468a0a7db35714377ea7165756b4556f59d9f5d7f62e4049b1e045c4257de630edc9e72d01"
 }
