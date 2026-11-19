@@ -1,12 +1,12 @@
 {
- "version": "2026.11.19.2",
- "date": "2026-11-19 20:04",
- "notes": "고쳐진 곳: 쇼핑 · AI 대화 · 기타 개선 · AI 도우미",
+ "version": "2026.11.19.3",
+ "date": "2026-11-19 22:07",
+ "notes": "고쳐진 곳: 쇼핑 · AI 대화 · 홈 · 기타 개선 · AI 도우미",
  "pc": {
-  "version": "2026.11.19.2",
-  "file": "app_pc_2026.11.19.2_b6ce0bd9.zip",
-  "sha256": "b6ce0bd930818de3f8617c9c6a956233ea7c7ff935de00a21c7fae2af1cc6a51",
-  "size": 18997719,
+  "version": "2026.11.19.3",
+  "file": "app_pc_2026.11.19.3_29644fb4.zip",
+  "sha256": "29644fb4225433baefab7df6e81f7042b8c5f5ef409ea118ffc3d8b9d797394c",
+  "size": 19000605,
   "areas": [
    [
     "UPD_A_AI",
@@ -19,12 +19,12 @@
   ]
  },
  "android": {
-  "version": "2026.11.19.2",
-  "code": 2026111902,
-  "file": "app_android_2026.11.19.2_52d88cd4.apk",
-  "sha256": "52d88cd4b347b237b8ffdd4d90d9e8e05dfa1ec58ee357f8c4cc446a44ac9c89",
-  "size": 34113878,
-  "url": "https://dist.asahdabar.com/app_android_2026.11.19.2_52d88cd4.apk",
+  "version": "2026.11.19.3",
+  "code": 2026111903,
+  "file": "app_android_2026.11.19.3_6b22e8ae.apk",
+  "sha256": "6b22e8aea0a63cad8d9e25bf729c5e22cffe4d534afd2c5dce2898d1a49fdb0c",
+  "size": 34113582,
+  "url": "https://dist.asahdabar.com/app_android_2026.11.19.3_6b22e8ae.apk",
   "areas": [
    [
     "M_TAB_SHOP2",
@@ -35,10 +35,14 @@
     "AI 대화"
    ],
    [
+    "M_TAB_HOME",
+    "홈"
+   ],
+   [
     "UPD_A_ETC",
     "기타 개선"
    ]
   ]
  },
- "sig": "74fc6bcb7dc2ba1c141ecbae444f04e507fc6604a09e53245593af468a0a7db35714377ea7165756b4556f59d9f5d7f62e4049b1e045c4257de630edc9e72d01"
+ "sig": "90fa199f4be5dbc6c548b8b7fc02df0a24dc64f5c5f9be34933aa705f0f7c60c390ad02f0a1168d113e6fc2693216c6d57ac91ae7105b0a228e64edee2701a07"
 }
