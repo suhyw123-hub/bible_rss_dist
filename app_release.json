@@ -1,12 +1,12 @@
 {
- "version": "2026.11.19.4",
- "date": "2026-11-19 23:11",
- "notes": "고쳐진 곳: 쇼핑 · 둘러보기 · 홈 · 기타 개선",
+ "version": "2026.11.20.1",
+ "date": "2026-11-20 00:42",
+ "notes": "고쳐진 곳: 쇼핑 · 기타 개선",
  "pc": {
-  "version": "2026.11.19.4",
-  "file": "app_pc_2026.11.19.4_b8fa77ed.zip",
-  "sha256": "b8fa77ed1fb1ac9c5bd3136e25c263eb22dc75ffe4f730cdb80ebccb58e3494c",
-  "size": 19024492,
+  "version": "2026.11.20.1",
+  "file": "app_pc_2026.11.20.1_53cf5c98.zip",
+  "sha256": "53cf5c98b725d8a5e54857cef6a5d6392ba85cbf64d8281e39fb788e0d376d90",
+  "size": 19058735,
   "areas": [
    [
     "UPD_A_ETC",
@@ -15,24 +15,16 @@
   ]
  },
  "android": {
-  "version": "2026.11.19.4",
-  "code": 2026111904,
-  "file": "app_android_2026.11.19.4_c0683301.apk",
-  "sha256": "c0683301918d2f3796073c0a4f6d5c9c2cc5f5a10e00d2433d3ebe593f090908",
+  "version": "2026.11.20.1",
+  "code": 2026112001,
+  "file": "app_android_2026.11.20.1_032507a4.apk",
+  "sha256": "032507a4915e9220faff241569c50090b1679e00eb58af6d04f5419573a46fe0",
   "size": 34179118,
-  "url": "https://dist.asahdabar.com/app_android_2026.11.19.4_c0683301.apk",
+  "url": "https://dist.asahdabar.com/app_android_2026.11.20.1_032507a4.apk",
   "areas": [
    [
     "M_TAB_SHOP2",
     "쇼핑"
-   ],
-   [
-    "M_EXPLORE",
-    "둘러보기"
-   ],
-   [
-    "M_TAB_HOME",
-    "홈"
    ],
    [
     "UPD_A_ETC",
@@ -40,5 +32,5 @@
    ]
   ]
  },
- "sig": "dffc6d7b10fe4868eb6aae41082a758876c73feeae7b2b330b8c63280fa913a35e4d00063d16d4d4808d360089d6cb62396ba560c0534752a89e6e1b8668fc01"
+ "sig": "affdf7732bd4b60b037f5f232ab0d18eda2b7c9152bbfb25a61815eb686757c030416420e169766bccdc22a980b2bca379829d0f80643943153201b26eace102"
 }
