@@ -520,6 +520,16 @@
    "sort": 80
   },
   {
+   "code": "TRAVEL_GOODS",
+   "kind": "GENERAL",
+   "names": {
+    "EN": "Travel goods",
+    "KO": "여행용품"
+   },
+   "shorts": {},
+   "sort": 95
+  },
+  {
    "code": "TEST_TRAVEL",
    "kind": "TRAVEL",
    "names": {
@@ -1414,8 +1424,8 @@
    },
    "network": "AMAZON",
    "notice": {
-    "EN": "As an Amazon Associate we earn from qualifying purchases.",
-    "KO": "아마존 어소시에이트로서 적격 구매에 대해 수수료를 받습니다."
+    "EN": "As an Amazon Associate we earn from qualifying purchases; orders, delivery and refunds are handled by each store.",
+    "KO": "아마존 어소시에이트로서 적격 구매에 대해 수수료를 받으며, 주문 · 배송 · 환불은 각 쇼핑몰이 맡습니다."
    },
    "ps": "DATETIME",
    "pt": 24,
@@ -2895,6 +2905,7 @@
    "kw": {
     "KO": [
      "이어폰",
+     "보조배터리",
      "스피커"
     ]
    },
@@ -2959,6 +2970,8 @@
     "KO": [
      "성경",
      "노트",
+     "머그",
+     "텀블러",
      "차"
     ]
    },
@@ -3882,5 +3895,5 @@
    }
   }
  ],
- "version": 49
+ "version": 55
 }

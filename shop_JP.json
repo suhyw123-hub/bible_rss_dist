@@ -496,6 +496,16 @@
    "sort": 80
   },
   {
+   "code": "TRAVEL_GOODS",
+   "kind": "GENERAL",
+   "names": {
+    "EN": "Travel goods",
+    "KO": "여행용품"
+   },
+   "shorts": {},
+   "sort": 95
+  },
+  {
    "code": "TEST_TRAVEL",
    "kind": "TRAVEL",
    "names": {
@@ -1188,6 +1198,306 @@
    "sort": 40,
    "to": "2026-12-31",
    "url": "https://shopping.naver.com/event/6abf135814c78778b150c9eb"
+  },
+  {
+   "band": "",
+   "cat": "TRAVEL_GOODS",
+   "deliver": "LINK",
+   "descs": {
+    "KO": "시험용 가상 상품입니다."
+   },
+   "from": "2026-11-20",
+   "id": 203,
+   "img": "",
+   "mall": "DEMO_COUPANG",
+   "names": {
+    "KO": "일본 eSIM 5일 데이터 무제한"
+   },
+   "pa": "2026-11-19 20:31",
+   "price": 12900,
+   "sort": 40,
+   "to": "2026-12-31",
+   "url": "https://www.coupang.com/np/search?q=%EC%9D%BC%EB%B3%B8%20eSIM%205%EC%9D%BC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%AC%B4%EC%A0%9C%ED%95%9C"
+  },
+  {
+   "band": "",
+   "cat": "TRAVEL_GOODS",
+   "deliver": "LINK",
+   "descs": {
+    "KO": "시험용 가상 상품입니다."
+   },
+   "from": "2026-11-20",
+   "id": 204,
+   "img": "",
+   "mall": "DEMO_COUPANG",
+   "names": {
+    "KO": "이스라엘 여행 유심 7일"
+   },
+   "pa": "2026-11-19 20:31",
+   "price": 19800,
+   "sort": 40,
+   "to": "2026-12-31",
+   "url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EC%8A%A4%EB%9D%BC%EC%97%98%20%EC%97%AC%ED%96%89%20%EC%9C%A0%EC%8B%AC%207%EC%9D%BC"
+  },
+  {
+   "band": "",
+   "cat": "TRAVEL_GOODS",
+   "deliver": "LINK",
+   "descs": {
+    "KO": "시험용 가상 상품입니다."
+   },
+   "from": "2026-11-20",
+   "id": 205,
+   "img": "",
+   "mall": "DEMO_COUPANG",
+   "names": {
+    "KO": "여행용 멀티 어댑터 USB-C"
+   },
+   "pa": "2026-11-19 20:31",
+   "price": 15900,
+   "sort": 40,
+   "to": "2026-12-31",
+   "url": "https://www.coupang.com/np/search?q=%EC%97%AC%ED%96%89%EC%9A%A9%20%EB%A9%80%ED%8B%B0%20%EC%96%B4%EB%8C%91%ED%84%B0%20USB-C"
+  },
+  {
+   "band": "",
+   "cat": "TRAVEL_GOODS",
+   "deliver": "LINK",
+   "descs": {
+    "KO": "시험용 가상 상품입니다."
+   },
+   "from": "2026-11-20",
+   "id": 206,
+   "img": "",
+   "mall": "DEMO_COUPANG",
+   "names": {
+    "KO": "기내용 캐리어 20인치"
+   },
+   "pa": "2026-11-19 20:31",
+   "price": 89000,
+   "sort": 40,
+   "to": "2026-12-31",
+   "url": "https://www.coupang.com/np/search?q=%EA%B8%B0%EB%82%B4%EC%9A%A9%20%EC%BA%90%EB%A6%AC%EC%96%B4%2020%EC%9D%B8%EC%B9%98"
+  },
+  {
+   "band": "",
+   "cat": "TRAVEL_GOODS",
+   "deliver": "LINK",
+   "descs": {
+    "KO": "시험용 가상 상품입니다."
+   },
+   "from": "2026-11-20",
+   "id": 207,
+   "img": "",
+   "mall": "DEMO_COUPANG",
+   "names": {
+    "KO": "메모리폼 여행 목베개"
+   },
+   "pa": "2026-11-19 20:31",
+   "price": 12900,
+   "sort": 40,
+   "to": "2026-12-31",
+   "url": "https://www.coupang.com/np/search?q=%EB%A9%94%EB%AA%A8%EB%A6%AC%ED%8F%BC%20%EC%97%AC%ED%96%89%20%EB%AA%A9%EB%B2%A0%EA%B0%9C"
+  },
+  {
+   "band": "",
+   "cat": "TRAVEL_GOODS",
+   "deliver": "LINK",
+   "descs": {
+    "KO": "시험용 가상 상품입니다."
+   },
+   "from": "2026-11-20",
+   "id": 208,
+   "img": "",
+   "mall": "DEMO_COUPANG",
+   "names": {
+    "KO": "여행용 파우치 6종 세트"
+   },
+   "pa": "2026-11-19 20:31",
+   "price": 9900,
+   "sort": 40,
+   "to": "2026-12-31",
+   "url": "https://www.coupang.com/np/search?q=%EC%97%AC%ED%96%89%EC%9A%A9%20%ED%8C%8C%EC%9A%B0%EC%B9%98%206%EC%A2%85%20%EC%84%B8%ED%8A%B8"
+  },
+  {
+   "band": "",
+   "cat": "LIVING",
+   "deliver": "LINK",
+   "descs": {
+    "KO": "시험용 가상 상품입니다."
+   },
+   "from": "2026-11-20",
+   "id": 209,
+   "img": "",
+   "mall": "DEMO_COUPANG",
+   "names": {
+    "KO": "하드커버 포토북 20p"
+   },
+   "pa": "2026-11-19 20:31",
+   "price": 19800,
+   "sort": 40,
+   "to": "2026-12-31",
+   "url": "https://www.coupang.com/np/search?q=%ED%95%98%EB%93%9C%EC%BB%A4%EB%B2%84%20%ED%8F%AC%ED%86%A0%EB%B6%81%2020p"
+  },
+  {
+   "band": "",
+   "cat": "LIVING",
+   "deliver": "LINK",
+   "descs": {
+    "KO": "시험용 가상 상품입니다."
+   },
+   "from": "2026-11-20",
+   "id": 210,
+   "img": "",
+   "mall": "DEMO_COUPANG",
+   "names": {
+    "KO": "이름 각인 텀블러 500ml"
+   },
+   "pa": "2026-11-19 20:31",
+   "price": 24900,
+   "sort": 40,
+   "to": "2026-12-31",
+   "url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%A6%84%20%EA%B0%81%EC%9D%B8%20%ED%85%80%EB%B8%94%EB%9F%AC%20500ml"
+  },
+  {
+   "band": "",
+   "cat": "LIVING",
+   "deliver": "LINK",
+   "descs": {
+    "KO": "시험용 가상 상품입니다."
+   },
+   "from": "2026-11-20",
+   "id": 211,
+   "img": "",
+   "mall": "DEMO_COUPANG",
+   "names": {
+    "KO": "단체티 제작 라운드 반팔"
+   },
+   "pa": "2026-11-19 20:31",
+   "price": 8900,
+   "sort": 40,
+   "to": "2026-12-31",
+   "url": "https://www.coupang.com/np/search?q=%EB%8B%A8%EC%B2%B4%ED%8B%B0%20%EC%A0%9C%EC%9E%91%20%EB%9D%BC%EC%9A%B4%EB%93%9C%20%EB%B0%98%ED%8C%94"
+  },
+  {
+   "band": "",
+   "cat": "LIVING",
+   "deliver": "LINK",
+   "descs": {
+    "KO": "시험용 가상 상품입니다."
+   },
+   "from": "2026-11-20",
+   "id": 212,
+   "img": "",
+   "mall": "DEMO_COUPANG",
+   "names": {
+    "KO": "사진 머그컵 제작"
+   },
+   "pa": "2026-11-19 20:31",
+   "price": 12900,
+   "sort": 40,
+   "to": "2026-12-31",
+   "url": "https://www.coupang.com/np/search?q=%EC%82%AC%EC%A7%84%20%EB%A8%B8%EA%B7%B8%EC%BB%B5%20%EC%A0%9C%EC%9E%91"
+  },
+  {
+   "band": "",
+   "cat": "TRAVEL_GOODS",
+   "deliver": "LINK",
+   "descs": {
+    "KO": "시험용 가상 상품입니다."
+   },
+   "from": "2026-11-20",
+   "id": 213,
+   "img": "",
+   "mall": "DEMO_COUPANG",
+   "names": {
+    "KO": "대용량 보조배터리 20000mAh"
+   },
+   "pa": "2026-11-19 21:00",
+   "price": 29900,
+   "sort": 40,
+   "to": "2026-12-31",
+   "url": "https://www.coupang.com/np/search?q=%EB%8C%80%EC%9A%A9%EB%9F%89%20%EB%B3%B4%EC%A1%B0%EB%B0%B0%ED%84%B0%EB%A6%AC%2020000mAh"
+  },
+  {
+   "band": "",
+   "cat": "TRAVEL_GOODS",
+   "deliver": "LINK",
+   "descs": {
+    "KO": "시험용 가상 상품입니다."
+   },
+   "from": "2026-11-20",
+   "id": 214,
+   "img": "",
+   "mall": "DEMO_COUPANG",
+   "names": {
+    "KO": "모기 기피제 스프레이"
+   },
+   "pa": "2026-11-19 21:00",
+   "price": 8900,
+   "sort": 40,
+   "to": "2026-12-31",
+   "url": "https://www.coupang.com/np/search?q=%EB%AA%A8%EA%B8%B0%20%EA%B8%B0%ED%94%BC%EC%A0%9C%20%EC%8A%A4%ED%94%84%EB%A0%88%EC%9D%B4"
+  },
+  {
+   "band": "",
+   "cat": "TRAVEL_GOODS",
+   "deliver": "LINK",
+   "descs": {
+    "KO": "시험용 가상 상품입니다."
+   },
+   "from": "2026-11-20",
+   "id": 215,
+   "img": "",
+   "mall": "DEMO_COUPANG",
+   "names": {
+    "KO": "방수팩 휴대폰용"
+   },
+   "pa": "2026-11-19 21:00",
+   "price": 6900,
+   "sort": 40,
+   "to": "2026-12-31",
+   "url": "https://www.coupang.com/np/search?q=%EB%B0%A9%EC%88%98%ED%8C%A9%20%ED%9C%B4%EB%8C%80%ED%8F%B0%EC%9A%A9"
+  },
+  {
+   "band": "",
+   "cat": "TRAVEL_GOODS",
+   "deliver": "LINK",
+   "descs": {
+    "KO": "시험용 가상 상품입니다."
+   },
+   "from": "2026-11-20",
+   "id": 216,
+   "img": "",
+   "mall": "DEMO_COUPANG",
+   "names": {
+    "KO": "여행용 세면도구 세트"
+   },
+   "pa": "2026-11-19 21:00",
+   "price": 12900,
+   "sort": 40,
+   "to": "2026-12-31",
+   "url": "https://www.coupang.com/np/search?q=%EC%97%AC%ED%96%89%EC%9A%A9%20%EC%84%B8%EB%A9%B4%EB%8F%84%EA%B5%AC%20%EC%84%B8%ED%8A%B8"
+  },
+  {
+   "band": "",
+   "cat": "TRAVEL_GOODS",
+   "deliver": "LINK",
+   "descs": {
+    "KO": "시험용 가상 상품입니다."
+   },
+   "from": "2026-11-20",
+   "id": 217,
+   "img": "",
+   "mall": "DEMO_COUPANG",
+   "names": {
+    "KO": "상비약 키트 여행용"
+   },
+   "pa": "2026-11-19 21:00",
+   "price": 15900,
+   "sort": 40,
+   "to": "2026-12-31",
+   "url": "https://www.coupang.com/np/search?q=%EC%83%81%EB%B9%84%EC%95%BD%20%ED%82%A4%ED%8A%B8%20%EC%97%AC%ED%96%89%EC%9A%A9"
   },
   {
    "band": "",
@@ -2898,8 +3208,8 @@
    },
    "network": "AMAZON",
    "notice": {
-    "EN": "As an Amazon Associate we earn from qualifying purchases.",
-    "KO": "아마존 어소시에이트로서 적격 구매에 대해 수수료를 받습니다."
+    "EN": "As an Amazon Associate we earn from qualifying purchases; orders, delivery and refunds are handled by each store.",
+    "KO": "아마존 어소시에이트로서 적격 구매에 대해 수수료를 받으며, 주문 · 배송 · 환불은 각 쇼핑몰이 맡습니다."
    },
    "ps": "DATETIME",
    "pt": 24,
@@ -2929,8 +3239,8 @@
    },
    "network": "COUPANG",
    "notice": {
-    "EN": "This is part of Coupang Partners activity, and a commission is provided accordingly.",
-    "KO": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다."
+    "EN": "As part of Coupang Partners, we receive a commission on purchases; orders, delivery and refunds are handled by each store.",
+    "KO": "이 화면은 쿠팡 파트너스 활동의 일환으로 일정액의 수수료를 제공받으며, 주문 · 배송 · 환불은 각 쇼핑몰이 맡습니다."
    },
    "ps": "DATE",
    "pt": 0,
@@ -3086,7 +3396,7 @@
  ],
  "menu_counts": {
   "books": 44,
-  "goods": 44,
+  "goods": 59,
   "travel": 1
  },
  "menus": [
@@ -3300,7 +3610,7 @@
    },
    "names": {
     "EN": "Selcuk",
-    "KO": "에베소(셀축)"
+    "KO": "에베소"
    },
    "pilgrim": true,
    "sort": 150
@@ -5144,6 +5454,7 @@
    "kw": {
     "KO": [
      "이어폰",
+     "보조배터리",
      "스피커"
     ]
    },
@@ -5208,6 +5519,8 @@
     "KO": [
      "성경",
      "노트",
+     "머그",
+     "텀블러",
      "차"
     ]
    },
@@ -6131,5 +6444,5 @@
    }
   }
  ],
- "version": 49
+ "version": 55
 }

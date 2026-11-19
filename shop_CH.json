@@ -550,6 +550,16 @@
    "sort": 80
   },
   {
+   "code": "TRAVEL_GOODS",
+   "kind": "GENERAL",
+   "names": {
+    "EN": "Travel goods",
+    "KO": "여행용품"
+   },
+   "shorts": {},
+   "sort": 95
+  },
+  {
    "code": "TEST_TRAVEL",
    "kind": "TRAVEL",
    "names": {
@@ -2692,6 +2702,7 @@
    "kw": {
     "KO": [
      "이어폰",
+     "보조배터리",
      "스피커"
     ]
    },
@@ -2756,6 +2767,8 @@
     "KO": [
      "성경",
      "노트",
+     "머그",
+     "텀블러",
      "차"
     ]
    },
@@ -3679,5 +3692,5 @@
    }
   }
  ],
- "version": 49
+ "version": 55
 }
