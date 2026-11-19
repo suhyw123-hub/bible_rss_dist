@@ -470,6 +470,193 @@
    }
   }
  },
+ "custom": [
+  {
+   "desc": {
+    "EN": "Turn your photos into a book",
+    "KO": "사진을 보내면 한 권의 책으로"
+   },
+   "key": "PHOTOBOOK",
+   "names": {
+    "EN": "Photo books",
+    "KO": "포토북 · 앨범"
+   },
+   "words": [
+    "포토북",
+    "사진 앨범 제작"
+   ]
+  },
+  {
+   "desc": {
+    "EN": "Prints, frames and canvas",
+    "KO": "사진을 인화하거나 액자 · 캔버스로"
+   },
+   "key": "PRINT",
+   "names": {
+    "EN": "Prints & frames",
+    "KO": "사진 인화 · 액자"
+   },
+   "words": [
+    "사진 인화",
+    "사진 액자",
+    "캔버스 액자"
+   ]
+  },
+  {
+   "desc": {
+    "EN": "Names or verses engraved",
+    "KO": "이름 · 말씀을 새긴 볼펜 · 텀블러 · 성경 커버"
+   },
+   "key": "ENGRAVE",
+   "names": {
+    "EN": "Engraving",
+    "KO": "이름 새김"
+   },
+   "words": [
+    "각인 볼펜",
+    "각인 텀블러",
+    "이니셜 각인"
+   ]
+  },
+  {
+   "desc": {
+    "EN": "Shirts and tote bags for groups",
+    "KO": "모임 · 행사 · 가족 티셔츠와 에코백"
+   },
+   "key": "APPAREL",
+   "names": {
+    "EN": "Custom apparel",
+    "KO": "단체티 · 옷 인쇄"
+   },
+   "words": [
+    "단체티 제작",
+    "티셔츠 인쇄",
+    "에코백 인쇄"
+   ]
+  },
+  {
+   "desc": {
+    "EN": "Photo or text mugs",
+    "KO": "사진 · 글자를 넣은 컵"
+   },
+   "key": "MUG",
+   "names": {
+    "EN": "Printed mugs",
+    "KO": "머그 · 컵 인쇄"
+   },
+   "words": [
+    "머그컵 제작",
+    "사진 머그컵"
+   ]
+  },
+  {
+   "desc": {
+    "EN": "Calendars from your photos",
+    "KO": "우리 사진으로 만드는 달력"
+   },
+   "key": "CALENDAR",
+   "names": {
+    "EN": "Calendars & diaries",
+    "KO": "달력 · 다이어리"
+   },
+   "words": [
+    "포토 달력",
+    "탁상 달력 제작"
+   ]
+  },
+  {
+   "desc": {
+    "EN": "Cushions, puzzles and blankets",
+    "KO": "사진을 넣은 쿠션 · 퍼즐 · 담요"
+   },
+   "key": "GIFT",
+   "names": {
+    "EN": "Photo gifts",
+    "KO": "사진 쿠션 · 퍼즐"
+   },
+   "words": [
+    "사진 쿠션",
+    "포토 퍼즐",
+    "사진 담요"
+   ]
+  },
+  {
+   "desc": {
+    "EN": "Name stickers and labels",
+    "KO": "이름 스티커 · 답례품 라벨"
+   },
+   "key": "STICKER",
+   "names": {
+    "EN": "Stickers & labels",
+    "KO": "스티커 · 라벨"
+   },
+   "words": [
+    "스티커 제작",
+    "네임 스티커"
+   ]
+  },
+  {
+   "desc": {
+    "EN": "Event and welcome banners",
+    "KO": "행사 · 환영 · 축하 현수막"
+   },
+   "key": "BANNER",
+   "names": {
+    "EN": "Banners",
+    "KO": "현수막 · 배너"
+   },
+   "words": [
+    "현수막 제작",
+    "배너 제작"
+   ]
+  },
+  {
+   "desc": {
+    "EN": "Thanks and memorial plaques",
+    "KO": "은퇴 · 감사 · 기념패"
+   },
+   "key": "PLAQUE",
+   "names": {
+    "EN": "Plaques",
+    "KO": "감사패 · 상패"
+   },
+   "words": [
+    "감사패 제작",
+    "기념패"
+   ]
+  },
+  {
+   "desc": {
+    "EN": "Stamps and name plates",
+    "KO": "도장 · 문패 · 책상 명패"
+   },
+   "key": "STAMP",
+   "names": {
+    "EN": "Stamps & name plates",
+    "KO": "도장 · 명패"
+   },
+   "words": [
+    "도장 제작",
+    "명패 제작"
+   ]
+  },
+  {
+   "desc": {
+    "EN": "Invitations, cards and business cards",
+    "KO": "청첩장 · 명함 · 인사 카드 인쇄"
+   },
+   "key": "CARD",
+   "names": {
+    "EN": "Invitations & cards",
+    "KO": "청첩장 · 명함 · 카드"
+   },
+   "words": [
+    "청첩장",
+    "명함 제작",
+    "카드 인쇄"
+   ]
+  }
+ ],
  "hot": {
   "M": {
    "KO": [
@@ -5109,6 +5296,437 @@
    "sort": 900
   }
  ],
+ "prep": [
+  {
+   "items": [
+    "이름표",
+    "단체 티셔츠",
+    "만들기 세트",
+    "벽 장식",
+    "생수",
+    "간식",
+    "구급상자"
+   ],
+   "key": "VBS",
+   "names": {
+    "EN": "Vacation Bible School",
+    "KO": "여름성경학교"
+   }
+  },
+  {
+   "items": [
+    "생수",
+    "구급상자",
+    "이름표",
+    "손소독제",
+    "블루투스 스피커",
+    "물티슈"
+   ],
+   "key": "RETREAT",
+   "names": {
+    "EN": "Retreat",
+    "KO": "수련회"
+   }
+  },
+  {
+   "items": [
+    "성탄 장식",
+    "LED 전구",
+    "초",
+    "선물 포장",
+    "떡 답례"
+   ],
+   "key": "XMAS",
+   "names": {
+    "EN": "Christmas service",
+    "KO": "성탄 예배 · 행사"
+   }
+  },
+  {
+   "items": [
+    "부활절 달걀 포장 상자",
+    "스티커",
+    "포장 리본",
+    "떡 답례"
+   ],
+   "key": "EASTER",
+   "names": {
+    "EN": "Easter service",
+    "KO": "부활절 예배 · 행사"
+   }
+  },
+  {
+   "items": [
+    "성찬 컵",
+    "성찬기",
+    "제단 초",
+    "포도 주스"
+   ],
+   "key": "SUPPER",
+   "names": {
+    "EN": "Lord's Supper",
+    "KO": "성찬 준비"
+   }
+  },
+  {
+   "items": [
+    "테이블보",
+    "이름표",
+    "접이식 의자",
+    "가격표",
+    "쇼핑백"
+   ],
+   "key": "BAZAAR",
+   "names": {
+    "EN": "Mission bazaar",
+    "KO": "선교 바자회"
+   }
+  },
+  {
+   "items": [
+    "커피믹스",
+    "전기 주전자",
+    "일회용 수저",
+    "다과",
+    "물티슈"
+   ],
+   "key": "CELL",
+   "names": {
+    "EN": "Small group",
+    "KO": "소그룹 · 구역 모임"
+   }
+  },
+  {
+   "items": [
+    "밥솥",
+    "들통",
+    "행주",
+    "일회용 수저",
+    "보온 물통",
+    "고무장갑"
+   ],
+   "key": "KITCHEN",
+   "names": {
+    "EN": "Church kitchen",
+    "KO": "교회 주방 봉사"
+   }
+  }
+ ],
+ "seasons": [
+  {
+   "desc": {
+    "EN": "Start the year with Scripture",
+    "KO": "새해 말씀 · 묵상을 새로 시작할 때"
+   },
+   "key": "NEWYEAR",
+   "kind": "CHURCH",
+   "months": [
+    12,
+    1
+   ],
+   "names": {
+    "EN": "New year",
+    "KO": "신년"
+   },
+   "words": [
+    "성경",
+    "큐티",
+    "다이어리",
+    "말씀 카드"
+   ]
+  },
+  {
+   "desc": {
+    "EN": "Small Easter gifts",
+    "KO": "부활의 기쁨을 나누는 작은 선물"
+   },
+   "key": "EASTER",
+   "kind": "CHURCH",
+   "months": [
+    3,
+    4
+   ],
+   "names": {
+    "EN": "Easter",
+    "KO": "부활절"
+   },
+   "prep": "EASTER",
+   "words": [
+    "부활절 선물",
+    "말씀 카드",
+    "어린이 성경"
+   ]
+  },
+  {
+   "desc": {
+    "EN": "Give thanks",
+    "KO": "감사의 마음을 전할 때"
+   },
+   "key": "HARVEST1",
+   "kind": "CHURCH",
+   "months": [
+    7
+   ],
+   "names": {
+    "EN": "Firstfruits thanksgiving",
+    "KO": "맥추감사절"
+   },
+   "words": [
+    "감사 카드",
+    "선물 세트"
+   ]
+  },
+  {
+   "desc": {
+    "EN": "Share a year of thanks",
+    "KO": "한 해의 감사를 나눌 때"
+   },
+   "key": "THANKS",
+   "kind": "CHURCH",
+   "months": [
+    11
+   ],
+   "names": {
+    "EN": "Thanksgiving",
+    "KO": "추수감사절"
+   },
+   "words": [
+    "감사 카드",
+    "과일",
+    "선물 세트"
+   ]
+  },
+  {
+   "desc": {
+    "EN": "Cards and gifts",
+    "KO": "성탄 카드 · 선물 · 가족과 함께"
+   },
+   "key": "XMAS",
+   "kind": "CHURCH",
+   "months": [
+    12
+   ],
+   "names": {
+    "EN": "Christmas",
+    "KO": "성탄"
+   },
+   "prep": "XMAS",
+   "words": [
+    "성탄 카드",
+    "크리스마스 선물",
+    "어린이 성경",
+    "찬양 CD"
+   ]
+  },
+  {
+   "desc": {
+    "EN": "Holiday gifts",
+    "KO": "가족 · 어른께 드리는 명절 선물"
+   },
+   "key": "LUNAR",
+   "kind": "LIFE",
+   "months": [
+    1,
+    2
+   ],
+   "names": {
+    "EN": "Lunar new year",
+    "KO": "설 명절"
+   },
+   "words": [
+    "선물 세트",
+    "한과",
+    "건강식품"
+   ]
+  },
+  {
+   "desc": {
+    "EN": "Cheer a new start",
+    "KO": "새 출발을 응원할 때"
+   },
+   "key": "SCHOOL",
+   "kind": "LIFE",
+   "months": [
+    2,
+    3
+   ],
+   "names": {
+    "EN": "Graduation · new school",
+    "KO": "졸업 · 입학"
+   },
+   "words": [
+    "이어폰",
+    "가방",
+    "필통",
+    "스탠드"
+   ]
+  },
+  {
+   "desc": {
+    "EN": "Thank your parents",
+    "KO": "부모님께 감사를 전할 때"
+   },
+   "key": "PARENTS",
+   "kind": "LIFE",
+   "months": [
+    5
+   ],
+   "names": {
+    "EN": "Parents' day",
+    "KO": "어버이날"
+   },
+   "words": [
+    "카네이션",
+    "건강식품",
+    "안마기"
+   ]
+  },
+  {
+   "desc": {
+    "EN": "A small thanks",
+    "KO": "선생님 · 교사께 작은 감사"
+   },
+   "key": "TEACHER",
+   "kind": "LIFE",
+   "months": [
+    5
+   ],
+   "names": {
+    "EN": "Teachers' day",
+    "KO": "스승의 날"
+   },
+   "words": [
+    "감사 카드",
+    "커피 기프티콘"
+   ]
+  },
+  {
+   "desc": {
+    "EN": "Stay dry",
+    "KO": "눅눅함 · 비 대비"
+   },
+   "key": "RAIN",
+   "kind": "LIFE",
+   "months": [
+    6,
+    7
+   ],
+   "names": {
+    "EN": "Rainy season",
+    "KO": "장마"
+   },
+   "words": [
+    "우산",
+    "제습기",
+    "장화"
+   ]
+  },
+  {
+   "desc": {
+    "EN": "Beat the heat",
+    "KO": "더위 · 나들이 준비"
+   },
+   "key": "SUMMER",
+   "kind": "LIFE",
+   "months": [
+    7,
+    8
+   ],
+   "names": {
+    "EN": "Summer",
+    "KO": "여름 휴가"
+   },
+   "words": [
+    "선크림",
+    "휴대용 선풍기",
+    "텀블러"
+   ]
+  },
+  {
+   "desc": {
+    "EN": "Holiday gifts",
+    "KO": "가족 · 이웃과 나누는 명절 선물"
+   },
+   "key": "CHUSEOK",
+   "kind": "LIFE",
+   "months": [
+    9,
+    10
+   ],
+   "names": {
+    "EN": "Chuseok",
+    "KO": "추석"
+   },
+   "words": [
+    "선물 세트",
+    "과일",
+    "건강식품"
+   ]
+  },
+  {
+   "desc": {
+    "EN": "Cheer a student",
+    "KO": "수험생을 응원할 때"
+   },
+   "key": "EXAM",
+   "kind": "LIFE",
+   "months": [
+    11
+   ],
+   "names": {
+    "EN": "Exam season",
+    "KO": "수능"
+   },
+   "words": [
+    "응원 선물",
+    "초콜릿",
+    "담요"
+   ]
+  },
+  {
+   "desc": {
+    "EN": "Kimchi making",
+    "KO": "김장 준비"
+   },
+   "key": "KIMJANG",
+   "kind": "LIFE",
+   "months": [
+    11
+   ],
+   "names": {
+    "EN": "Kimchi season",
+    "KO": "김장"
+   },
+   "words": [
+    "김장 매트",
+    "고무장갑",
+    "김치통"
+   ]
+  },
+  {
+   "desc": {
+    "EN": "Stay warm",
+    "KO": "추위 · 건조함 대비"
+   },
+   "key": "WINTER",
+   "kind": "LIFE",
+   "months": [
+    12,
+    1,
+    2
+   ],
+   "names": {
+    "EN": "Winter",
+    "KO": "겨울"
+   },
+   "words": [
+    "전기장판",
+    "핫팩",
+    "가습기",
+    "담요"
+   ]
+  }
+ ],
  "tips": [
   {
    "id": 1,
@@ -5718,9 +6336,6 @@
    "gift": {
     "when": [
      "VISIT"
-    ],
-    "who": [
-     "ELDER"
     ]
    },
    "id": 3,
@@ -5731,6 +6346,17 @@
      "커피믹스"
     ]
    },
+   "pick": [
+    {
+     "i": 107
+    },
+    {
+     "i": 109
+    },
+    {
+     "i": 88
+    }
+   ],
    "points": {
     "KO": [
      "무겁고 큰 것보다 손에 들고 가기 쉬운 작은 선물이 서로 편합니다.",
@@ -5810,7 +6436,14 @@
      "선물을 주려고 예고 없이 새신자의 집을 방문하거나, 집 안까지 들어가려 하지 마세요."
     ]
    },
-   "gift": {},
+   "gift": {
+    "when": [
+     "WELCOME"
+    ],
+    "who": [
+     "NEWCOMER"
+    ]
+   },
    "id": 6,
    "kind": {
     "KO": "새신자 환영 선물 준비 및 전달"
@@ -5827,6 +6460,17 @@
      "물건을 선물하는 것 자체로 새신자가 교회에 정착하는 것은 아니며, 예쁘기만 하고 서랍에 방치되는 선물은 효과가 없습니다."
     ]
    },
+   "pick": [
+    {
+     "i": 107
+    },
+    {
+     "i": 108
+    },
+    {
+     "i": 110
+    }
+   ],
    "points": {
     "KO": [
      "받는 분이 부담을 느끼지 않도록 값보다 쓰임새를 먼저 생각합니다.",
@@ -5948,6 +6592,20 @@
      "찬양 CD"
     ]
    },
+   "pick": [
+    {
+     "i": 111
+    },
+    {
+     "i": 112
+    },
+    {
+     "i": 113
+    },
+    {
+     "i": 114
+    }
+   ],
    "points": {
     "KO": [
      "그림이 많은 어린이 성경은 집에서도 부모와 함께 읽을 수 있습니다.",
@@ -5965,7 +6623,11 @@
    "verse": "막 10:14"
   },
   {
-   "gift": {},
+   "gift": {
+    "who": [
+     "PARENT"
+    ]
+   },
    "id": 12,
    "kw": {
     "KO": [
@@ -5973,6 +6635,14 @@
      "새찬송가"
     ]
    },
+   "pick": [
+    {
+     "i": 116
+    },
+    {
+     "i": 83
+    }
+   ],
    "points": {
     "KO": [
      "큰 글 성경은 판형이 커서 무거우니, 집에서 읽을 것과 교회에 들고 갈 것을 나눠 생각합니다.",
@@ -5990,7 +6660,15 @@
    "verse": "레 19:32"
   },
   {
-   "gift": {},
+   "gift": {
+    "when": [
+     "THANKS"
+    ],
+    "who": [
+     "TEACHER",
+     "PASTOR"
+    ]
+   },
    "id": 15,
    "kw": {
     "KO": [
@@ -5998,6 +6676,23 @@
      "모바일 금액권"
     ]
    },
+   "pick": [
+    {
+     "i": 75
+    },
+    {
+     "i": 76
+    },
+    {
+     "i": 77
+    },
+    {
+     "i": 78
+    },
+    {
+     "i": 79
+    }
+   ],
    "points": {
     "KO": [
      "커피 한 잔 기프티콘처럼 부담 없는 금액이 받는 분도 편합니다.",
@@ -6037,7 +6732,6 @@
      "GRAD"
     ],
     "who": [
-     "CHILD",
      "STUDENT"
     ]
    },
@@ -6054,6 +6748,17 @@
      "이미 가지고 있는 물건인지 먼저 물어보면 겹치지 않습니다."
     ]
    },
+   "pick": [
+    {
+     "i": 120
+    },
+    {
+     "i": 74
+    },
+    {
+     "i": 123
+    }
+   ],
    "points": {
     "KO": [
      "무선 이어폰 — 통학 · 강의 · 운동에 날마다 씁니다. 5만 원 안에서는 보급형을 찾습니다.",
@@ -6107,6 +6812,17 @@
      "신앙 서적은 처음부터 어려운 책을 피합니다."
     ]
    },
+   "pick": [
+    {
+     "i": 107
+    },
+    {
+     "i": 108
+    },
+    {
+     "i": 75
+    }
+   ],
    "points": {
     "KO": [
      "큰 글 성경 · 쉬운 번역 성경 — 처음 읽는 분께는 글자가 크고 쉬운 것이 좋습니다.",
@@ -6140,10 +6856,6 @@
     },
     "when": [
      "VISIT"
-    ],
-    "who": [
-     "ELDER",
-     "FRIEND"
     ]
    },
    "id": 43,
@@ -6159,6 +6871,17 @@
      "꽃은 병실에 들일 수 없는 곳이 많습니다."
     ]
    },
+   "pick": [
+    {
+     "i": 107
+    },
+    {
+     "i": 109
+    },
+    {
+     "i": 87
+    }
+   ],
    "points": {
     "KO": [
      "과일 · 음료 선물 세트 — 가족이 함께 나눌 수 있습니다. 병원이면 음식 반입이 되는지 먼저 확인합니다.",
