@@ -1,4 +1,63 @@
 {
+ "alarm": {
+  "CY": {
+   "at": "2026-05-31",
+   "lv": 1,
+   "nm": "여행유의"
+  },
+  "EG": {
+   "at": "2026-11-09",
+   "lv": 3,
+   "nm": "출국권고"
+  },
+  "GR": {
+   "at": "2025-10-22",
+   "lv": 1,
+   "nm": "여행유의"
+  },
+  "IL": {
+   "at": "2026-09-10",
+   "lv": 4,
+   "nm": "여행금지",
+   "rg": "一部地域"
+  },
+  "IT": {
+   "at": "2026-09-09",
+   "lv": 2,
+   "nm": "여행자제"
+  },
+  "JO": {
+   "at": "2026-06-25",
+   "lv": 2,
+   "nm": "여행자제"
+  },
+  "LB": {
+   "at": "2026-10-29",
+   "lv": 3,
+   "nm": "출국권고"
+  },
+  "MT": {
+   "at": "2026-07-08",
+   "lv": 1,
+   "nm": "여행유의"
+  },
+  "PS": {
+   "at": "2026-10-29",
+   "lv": 4,
+   "nm": "여행금지"
+  },
+  "SY": {
+   "at": "2026-10-29",
+   "lv": 4,
+   "nm": "여행금지"
+  },
+  "TR": {
+   "at": "2024-05-15",
+   "lv": 4,
+   "nm": "여행금지",
+   "rg": "一部地域"
+  }
+ },
  "best_more": [
   {
    "best": {
@@ -4125,6 +4184,9 @@
     "KO": "에베소"
    },
    "pilgrim": true,
+   "search": {
+    "KO": "셀축"
+   },
    "sort": 150
   },
   {
@@ -4521,6 +4583,2261 @@
     "KO": "서울"
    },
    "sort": 900
+  }
+ ],
+ "pnews": [
+  {
+   "d": "2026-11-18",
+   "k": "OTHER",
+   "l": "DE",
+   "s": "Israelnetz",
+   "t": "Ein schädliches Gerücht",
+   "u": "https://www.israelnetz.com/ein-schaedliches-geruecht/",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-18",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Christian Media Center (Holy Land)",
+   "t": "Christians in the Holy Land: the challenge of remaining",
+   "u": "https://cmc-terrasanta.org/en/media/news/41839/christians-in-the-holy-land:-the-challenge-of-remaining",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-18",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "JNS",
+   "t": "Israel faces a political showdown just as another war with Iran looms",
+   "u": "https://www.jns.org/jns-tv/israel-undiplomatic/israel-faces-a-political-showdown-just-as-another-war-with-iran-looms",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-18",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "JNS",
+   "t": "Israel Police chief vows to 'turn over every stone' to find Haymanut Kasau",
+   "u": "https://www.jns.org/news/israel-news/israel-police-chief-vows-to-turn-over-every-stone-to-find-haymanut-kasau",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-18",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "JNS",
+   "t": "The architecture of a secular myth",
+   "u": "https://www.jns.org/opinion/erik-arnold/the-architecture-of-a-secular-myth",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-18",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "JNS",
+   "t": "MKs Rothman, Gvili to lead Knesset Land of Israel Caucus",
+   "u": "https://www.jns.org/news/israel-news/mks-rothman-gvili-to-lead-knesset-land-of-israel-caucus",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-18",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "JNS",
+   "t": "One of the anti-Israel ‘Michigan 12’ charged with evidence tampering",
+   "u": "https://www.jns.org/news/u-s-news/one-of-the-anti-israel-michigan-12-charged-with-evidence-tampering",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-18",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "JNS",
+   "t": "IDF detains two Palestinians after attack on Jewish farmer in Samaria",
+   "u": "https://www.jns.org/news/israel-news/idf-detains-two-palestinians-after-attack-on-jewish-farmer-in-samaria",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-18",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "JNS",
+   "t": "European countries push new pro-Palestinian UN resolution with expanded criticism of Israel",
+   "u": "https://www.jns.org/news/israel-news/european-countries-push-new-pro-palestinian-un-resolution-with-expanded-criticism-of-israel",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-18",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "JNS",
+   "t": "Anti-Israel soccer game won’t take place on campus, University of Washington says",
+   "u": "https://www.jns.org/news/u-s-news/anti-israel-soccer-game-wont-take-place-on-campus-university-of-washington-says",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-18",
+   "k": "OTHER",
+   "l": "DE",
+   "s": "Israelnetz",
+   "t": "Anschlag auf Israeli in Griechenland durch Mossad-Hinweis verhindert",
+   "u": "https://www.israelnetz.com/anschlag-auf-israeli-in-griechenland-durch-mossad-hinweis-verhindert/",
+   "z": [
+    "GREECE"
+   ]
+  },
+  {
+   "d": "2026-11-18",
+   "k": "OTHER",
+   "l": "DE",
+   "s": "Israelnetz",
+   "t": "Armee: Schüsse galten wohl Steinewerfern",
+   "u": "https://www.israelnetz.com/armee-schuesse-galten-wohl-steinewerfern/",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-18",
+   "k": "OTHER",
+   "l": "DE",
+   "s": "Israelnetz",
+   "t": "Friedenspreis Dresden geht an vier Beduinen aus Israel",
+   "u": "https://www.israelnetz.com/friedenspreis-dresden-geht-an-vier-beduinen-aus-israel/",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-18",
+   "k": "OTHER",
+   "l": "DE",
+   "s": "Israelnetz",
+   "t": "Von Israel verwaltete Zone C: Frankreich stellt 5 Millionen Euro für Palästinenser in ländlichen Gebieten zur Verfügung",
+   "u": "https://www.israelnetz.com/von-israel-verwaltete-zone-c-frankreich-stellt-5-millionen-euro-fuer-palaestinenser-in-laendlichen-gebieten-zur-verfuegung/",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-18",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Christian Media Center (Holy Land)",
+   "t": "Ain Arik, the young Christians are a sign of hope: from the summer camp to the Shabebeh group",
+   "u": "https://cmc-terrasanta.org/en/media/news/41836/ain-arik,-the-young-christians-are-a-sign-of-hope:-from-the-summer-camp-to-the-shabebeh-group",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-18",
+   "k": "PILGRIM",
+   "l": "EN",
+   "s": "Christian Media Center (Holy Land)",
+   "t": "Tabgha: the feast of the Multiplication of the loaves and fishes. Jesus at the centre of the miracle!",
+   "u": "https://cmc-terrasanta.org/en/media/news/41826/tabgha:-the-feast-of-the-multiplication-of-the-loaves-and-fishes-jesus-at-the-centre-of-the-miracle",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-18",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Christian Media Center (Holy Land)",
+   "t": "Jerusalem, the Saint Rachel Centre for migrant children",
+   "u": "https://cmc-terrasanta.org/en/media/news/41818/jerusalem,-the-saint-rachel-centre-for-migrant-children",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-18",
+   "k": "ARCH",
+   "l": "EN",
+   "s": "Daily Sabah — Türkiye",
+   "t": "Istanbul’s Basilica Cistern preserves centuries of history",
+   "u": "https://www.dailysabah.com/turkiye/istanbul/istanbuls-basilica-cistern-preserves-centuries-of-history",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-18",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Daily Sabah — Türkiye",
+   "t": "Türkiye urges D-8 countries to deepen zero-waste cooperation",
+   "u": "https://www.dailysabah.com/turkiye/turkiye-urges-d-8-countries-to-deepen-zero-waste-cooperation/news",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-18",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Daily Sabah — Türkiye",
+   "t": "Türkiye integrates climate awareness into education at COP31",
+   "u": "https://www.dailysabah.com/turkiye/education/turkiye-integrates-climate-awareness-into-education-at-cop31",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-18",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Daily Sabah — Türkiye",
+   "t": "COP31 puts ocean conservation at the center of climate action",
+   "u": "https://www.dailysabah.com/turkiye/cop31-puts-ocean-conservation-at-the-center-of-climate-action/news",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-18",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "JNS",
+   "t": "Israel blasts Amnesty over planned award for Francesca Albanese",
+   "u": "https://www.jns.org/news/world/israel-blasts-amnesty-over-planned-award-for-francesca-albanese",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-18",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "JNS",
+   "t": "Israel Police arrests two Fatah terrorists suspected of planning attack",
+   "u": "https://www.jns.org/news/israel-news/israel-police-arrests-two-fatah-terrorists-suspected-of-planning-attack",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-18",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "JNS",
+   "t": "Israel destroys some 400 Syrian land mines in Golan Heights",
+   "u": "https://www.jns.org/news/israel-news/israel-destroys-some-400-syrian-land-mines-in-golan-heights",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-18",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "JNS",
+   "t": "250 young American leaders plant trees in southern Israel in a show of solidarity",
+   "u": "https://www.jns.org/wire/kkl-jnf/250-young-american-leaders-plant-trees-in-ofakim-in-a-show-of-solidarity",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-18",
+   "k": "ARCH",
+   "l": "EN",
+   "s": "JNS",
+   "t": "6 suspects arrested while allegedly excavating ancient cistern in Judean Hills",
+   "u": "https://www.jns.org/news/israel-news/6-suspects-arrested-while-allegedly-excavating-ancient-cistern-in-judean-hills",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-18",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "JNS",
+   "t": "Israeli forces thwart smuggling of five Glock pistols at Jordanian border",
+   "u": "https://www.jns.org/news/israel-news/israeli-forces-thwart-smuggling-of-five-glock-pistols-at-jordanian-border",
+   "z": [
+    "JORDAN"
+   ]
+  },
+  {
+   "d": "2026-11-18",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "JNS",
+   "t": "British taxpayer funds sent to Palestinian museum accused of glorifying terrorists",
+   "u": "https://www.jns.org/news/world/british-taxpayer-funds-sent-to-palestinian-museum-accused-of-glorifying-terrorists",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-18",
+   "k": "OTHER",
+   "l": "KO",
+   "s": "크리스천투데이",
+   "t": "믿음, 율법, 기도, 성례… 칼빈의 제네바 교리문답 4대 주제",
+   "u": "https://www.christiantoday.co.kr/news/378692",
+   "z": [
+    "EUROPE"
+   ]
+  },
+  {
+   "d": "2026-11-18",
+   "k": "OTHER",
+   "l": "ZHT",
+   "s": "福音中國 Gospel Herald",
+   "t": "「別再跳過羅馬書9至11章！」以色列宣教士彼得·塚平牧師：神從未棄絕猶太人",
+   "u": "https://www.gospelherald.com/news/9s6bz0030zdt",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-18",
+   "k": "ARCH",
+   "l": "EN",
+   "s": "Christian Headlines",
+   "t": "Egyptian Farmer Makes Stunning Discovery of Ancient Statue Linked to Possible Biblical Pharaoh",
+   "u": "https://www.crosswalk.com/headlines/contributors/guest-commentary/egyptian-farmer-makes-stunning-discovery-of-ancient-statue-linked-to-biblical-pharaoh.html",
+   "z": [
+    "EGYPT"
+   ]
+  },
+  {
+   "d": "2026-11-18",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Christian Today",
+   "t": "Anti-Christian harassment continues to rise in Jerusalem",
+   "u": "https://www.christiantoday.com/news/anti-christian-harassment-continues-to-rise-in-jerusalem",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-18",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Christian Daily International",
+   "t": "US delegation visit to Jordan, Jerusalem highlights status of evangelicals",
+   "u": "https://www.christiandaily.com/news/us-delegation-visit-to-jordan-jerusalem-highlights-status-of-evangelicals",
+   "z": [
+    "HOLY",
+    "JORDAN"
+   ]
+  },
+  {
+   "d": "2026-11-18",
+   "k": "OTHER",
+   "l": "FR",
+   "s": "Réforme",
+   "t": "Israël : la question palestinienne, grande absente de la campagne",
+   "u": "https://www.reforme.net/monde/israel-la-question-palestinienne-grande-absente-de-la-campagne/",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-18",
+   "k": "OTHER",
+   "l": "FR",
+   "s": "Réforme",
+   "t": "Plaies d’Égypte et terre promise – L’œil de Réforme du 23 octobre 2026",
+   "u": "https://www.reforme.net/oeil-reforme/plaies-degypte-et-terre-promise-de-reforme-du-23-octobre-2026/",
+   "z": [
+    "EGYPT"
+   ]
+  },
+  {
+   "d": "2026-11-18",
+   "k": "OTHER",
+   "l": "FR",
+   "s": "Info Chrétienne Flux",
+   "t": "Terre sainte : les chefs des Églises de Jérusalem dénoncent une attaque de colons contre le village chrétien de Taybeh",
+   "u": "https://www.infochretienne.com/articles/terre-sainte-les-chefs-des-eglises-de-jerusalem-denoncent-une-attaque-de-colons-contre-le-village-chretien-de-taybeh/",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-18",
+   "k": "OTHER",
+   "l": "FR",
+   "s": "Info Chrétienne Flux",
+   "t": "À Jérusalem, les actes d’hostilités envers les chrétiens se multiplient",
+   "u": "https://www.infochretienne.com/articles/a-jerusalem-les-actes-dhostilites-envers-les-chretiens-se-multiplient/",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-18",
+   "k": "OTHER",
+   "l": "FR",
+   "s": "Info Chrétienne Flux",
+   "t": "Le pape s'adresse à la foule au Vatican pour la première fois depuis son opération",
+   "u": "https://www.infochretienne.com/articles/le-pape-sadresse-a-la-foule-au-vatican-pour-la-premiere-fois-depuis-son-operation/",
+   "z": [
+    "EUROPE"
+   ]
+  },
+  {
+   "d": "2026-11-18",
+   "k": "OTHER",
+   "l": "JA",
+   "s": "クリスチャントゥデイ",
+   "t": "景教のルーツを探るトルコ・アナトリアへの旅（４）ワン県のヤナル（ソラディル）教会を訪ねて　川口一彦",
+   "u": "https://www.christiantoday.co.jp/articles/36410/20261020/keikyo-journey-to-turkey-anatolia-4.htm",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-18",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "RNS » Feed",
+   "t": "New Vatican document cautions against ‘triumphalism’ over rise in baptisms",
+   "u": "https://religionnews.com/2026/10/22/new-vatican-document-cautions-against-triumphalism-over-rise-in-baptisms/",
+   "z": [
+    "EUROPE"
+   ]
+  },
+  {
+   "d": "2026-11-18",
+   "k": "PILGRIM",
+   "l": "EN",
+   "s": "RNS » Feed",
+   "t": "Pope Leo’s alma mater Villanova traveling to Rome for hoops doubleheader vs. Notre Dame",
+   "u": "https://religionnews.com/2026/10/22/pope-leos-alma-mater-villanova-traveling-to-rome-for-hoops-doubleheader-vs-notre-dame/",
+   "z": [
+    "EUROPE"
+   ]
+  },
+  {
+   "d": "2026-11-18",
+   "k": "OTHER",
+   "l": "KO",
+   "s": "크리스천투데이",
+   "t": "美 대표단, 요르단·예루살렘 방문… “중동서의 기독교 지위 및 종교 자유 논의”",
+   "u": "https://www.christiantoday.co.kr/news/378097",
+   "z": [
+    "HOLY",
+    "JORDAN"
+   ]
+  },
+  {
+   "d": "2026-11-18",
+   "k": "OTHER",
+   "l": "KO",
+   "s": "기독교타임즈",
+   "t": "[카이로스] 거센 맞바람의 시대, 각자도생을 넘어 ‘영적 펠로톤’을 짜라",
+   "u": "https://www.kmctimes.com/news/articleView.html?idxno=60611",
+   "z": [
+    "EGYPT"
+   ]
+  },
+  {
+   "d": "2026-11-17",
+   "k": "OTHER",
+   "l": "DE",
+   "s": "Israelnetz",
+   "t": "Netanjahu warnt Europa vor Iran",
+   "u": "https://www.israelnetz.com/netanjahu-warnt-europa-vor-iran/",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-17",
+   "k": "OTHER",
+   "l": "DE",
+   "s": "Israelnetz",
+   "t": "Widersprüchliche Aussagen nach Tod einer Palästinenserin in Jericho",
+   "u": "https://www.israelnetz.com/widerspruechliche-aussagen-nach-tod-einer-palaestinenserin-in-jericho/",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-17",
+   "k": "OTHER",
+   "l": "DE",
+   "s": "Israelnetz",
+   "t": "Venezolanische Delegation besucht Israel",
+   "u": "https://www.israelnetz.com/venezolanische-delegation-besucht-israel/",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-17",
+   "k": "OTHER",
+   "l": "DE",
+   "s": "Israelnetz",
+   "t": "Terroranschlag gegen Juden auf Tempelberg geplant: 19-jähriger Araber aus Ostjerusalem festgenommen",
+   "u": "https://www.israelnetz.com/terroranschlag-gegen-juden-auf-tempelberg-geplant-19-jaehriger-araber-aus-ostjerusalem-festgenommen/",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-17",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Daily Sabah — Türkiye",
+   "t": "Istanbul parks, attractions welcome children for midterm break",
+   "u": "https://www.dailysabah.com/turkiye/istanbul/istanbul-parks-attractions-welcome-children-for-midterm-break",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-17",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Daily Sabah — Türkiye",
+   "t": "COP31 spotlights climate threats to global food security",
+   "u": "https://www.dailysabah.com/turkiye/cop31-spotlights-climate-threats-to-global-food-security/news",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-17",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Christianity Daily",
+   "t": "Three Men Sentenced to Hang for Deadly Attack on Christians in Jordan",
+   "u": "https://www.christianitydaily.com/news/three-men-sentenced-to-hang-for-deadly-attack-on-christians.html",
+   "z": [
+    "JORDAN"
+   ]
+  },
+  {
+   "d": "2026-11-17",
+   "k": "ARCH",
+   "l": "EN",
+   "s": "BiblePlaces Blog",
+   "t": "Why Another History of Israel? Hezekiah and Manasseh",
+   "u": "https://www.bibleplaces.com/blog/2026/11/why-another-history-of-israel-hezekiah-and-manasseh/",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-17",
+   "k": "OTHER",
+   "l": "KO",
+   "s": "데일리굿뉴스",
+   "t": "제17회 홀리위크, 12월 4일 개막…\"한국과 이스라엘 위해 기도\"",
+   "u": "https://www.goodnews1.com/news/articleView.html?idxno=466289",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-17",
+   "k": "OTHER",
+   "l": "KO",
+   "s": "데일리굿뉴스",
+   "t": "요르단 교회 장례식장 총격 사건…9명 살해한 남성 3명 사형 선고",
+   "u": "https://www.goodnews1.com/news/articleView.html?idxno=466302",
+   "z": [
+    "JORDAN"
+   ]
+  },
+  {
+   "d": "2026-11-17",
+   "k": "OTHER",
+   "l": "FR",
+   "s": "Info Chrétienne Flux",
+   "t": "Le pape conclut sa tournée et rentre à Rome poursuivre sa \"mission\"",
+   "u": "https://www.infochretienne.com/articles/le-pape-conclut-sa-tournee-et-rentre-a-rome-poursuivre-sa-mission/",
+   "z": [
+    "EUROPE"
+   ]
+  },
+  {
+   "d": "2026-11-17",
+   "k": "PILGRIM",
+   "l": "KO",
+   "s": "기독일보 : Top News",
+   "t": "이스라엘관광청 ‘2026 이스라엘 파트너 송년회’ 개최",
+   "u": "https://www.christiandaily.co.kr/news/167493",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-17",
+   "k": "OTHER",
+   "l": "KO",
+   "s": "기독일보 : Top News",
+   "t": "요르단 정교회 장례식장 총격 사건… 용의자 3명 사형 선고",
+   "u": "https://www.christiandaily.co.kr/news/167479",
+   "z": [
+    "JORDAN"
+   ]
+  },
+  {
+   "d": "2026-11-17",
+   "k": "PILGRIM",
+   "l": "KO",
+   "s": "당당뉴스 - 전체기사",
+   "t": "이스라엘관광청, ‘2026 이스라엘 파트너 송년회' 개최… 2027년 한국 시장 마케팅 계획 발표",
+   "u": "https://www.dangdangnews.com/news/articleView.html?idxno=53963",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-17",
+   "k": "OTHER",
+   "l": "KO",
+   "s": "기독교타임즈",
+   "t": "[카이로스] 목동으로 바로서기",
+   "u": "https://www.kmctimes.com/news/articleView.html?idxno=60749",
+   "z": [
+    "EGYPT"
+   ]
+  },
+  {
+   "d": "2026-11-17",
+   "k": "OTHER",
+   "l": "KO",
+   "s": "기독교타임즈",
+   "t": "이스라엘 두 지파의 이집트인 어머니, 아스낫",
+   "u": "https://www.kmctimes.com/news/articleView.html?idxno=60745",
+   "z": [
+    "HOLY",
+    "EGYPT"
+   ]
+  },
+  {
+   "d": "2026-11-17",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "RNS » Feed",
+   "t": "Palestinian Christians press US lawmakers to address violence in the West Bank and Gaza",
+   "u": "https://religionnews.com/2026/11/17/in-dc-palestinian-christians-and-their-allies-push-lawmakers/",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-17",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Christian Daily International",
+   "t": "Christianity began in the Middle East and continues unbroken in Nazareth",
+   "u": "https://www.christiandaily.com/news/christianity-in-middle-east-continues-unbroken-in-nazareth",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-17",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Christian Daily International",
+   "t": "Death penalty for church attack killers in Jordan faces obstacles",
+   "u": "https://www.christiandaily.com/news/death-penalty-for-church-attack-killers-in-jordan-faces-obstacles",
+   "z": [
+    "JORDAN"
+   ]
+  },
+  {
+   "d": "2026-11-16",
+   "k": "OTHER",
+   "l": "DE",
+   "s": "Israelnetz",
+   "t": "Israelis gewinnen drei Medaillen bei Jugendspielen in Dakar",
+   "u": "https://www.israelnetz.com/israelis-gewinnen-drei-medaillen-bei-jugendspielen-in-dakar/",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-16",
+   "k": "OTHER",
+   "l": "DE",
+   "s": "Israelnetz",
+   "t": "Jordanien verhaftet Israeli, der Richtung Grenze schwamm",
+   "u": "https://www.israelnetz.com/jordanien-verhaftet-israeli-der-richtung-grenze-schwamm/",
+   "z": [
+    "HOLY",
+    "JORDAN"
+   ]
+  },
+  {
+   "d": "2026-11-16",
+   "k": "OTHER",
+   "l": "DE",
+   "s": "Israelnetz",
+   "t": "Ehemalige Geisel heiratet drei Jahre nach Freilassung",
+   "u": "https://www.israelnetz.com/ehemalige-geisel-heiratet-drei-jahre-nach-freilassung/",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-16",
+   "k": "OTHER",
+   "l": "DE",
+   "s": "Israelnetz",
+   "t": "Mit 102 Jahren: Fallschirmsprung für Soldaten",
+   "u": "https://www.israelnetz.com/mit-102-jahren-fallschirmsprung-fuer-soldaten/",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-16",
+   "k": "OTHER",
+   "l": "DE",
+   "s": "Israelnetz",
+   "t": "Israelischer Arzt rettet Lufthansa-Flugbegleiter das Leben",
+   "u": "https://www.israelnetz.com/israelischer-arzt-rettet-lufthansa-flugbegleiter-das-leben/",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-16",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Daily Sabah — Türkiye",
+   "t": "COP31 draws record crowds as summit enters final days",
+   "u": "https://www.dailysabah.com/turkiye/cop31-draws-record-crowds-as-summit-enters-final-days/news",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-16",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Daily Sabah — Türkiye",
+   "t": "Nearly 59M ID cards, licenses expire in Türkiye by 2031",
+   "u": "https://www.dailysabah.com/turkiye/nearly-59m-id-cards-licenses-expire-in-turkiye-by-2031/news",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-16",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Daily Sabah — Türkiye",
+   "t": "Turkish students turn waste into music at COP31",
+   "u": "https://www.dailysabah.com/turkiye/turkish-students-turn-waste-into-music-at-cop31/news",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-16",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Daily Sabah — Türkiye",
+   "t": "COP31’s first week ends, here is what you need to know",
+   "u": "https://www.dailysabah.com/turkiye/cop31s-first-week-ends-here-is-what-you-need-to-know/news",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-16",
+   "k": "ARCH",
+   "l": "EN",
+   "s": "Archaeology Magazine",
+   "t": "Souvenir Collection May Have Begun 500,000 Years Ago",
+   "u": "https://archaeology.org/news/2026/11/16/souvenir-collection-may-have-begun-500000-years-ago/",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-16",
+   "k": "ARCH",
+   "l": "EN",
+   "s": "Archaeology Magazine",
+   "t": "Natufian Clay Figurines Dated to 15,000 Years Ago",
+   "u": "https://archaeology.org/news/2026/11/16/natufian-clay-figurines-dated-to-15000-years-ago/",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-16",
+   "k": "OTHER",
+   "l": "KO",
+   "s": "크리스천투데이",
+   "t": "요르단 법원, 교회 장례식장 총격 살해 피고인 3명에 사형 선고",
+   "u": "https://www.christiantoday.co.kr/news/378651",
+   "z": [
+    "JORDAN"
+   ]
+  },
+  {
+   "d": "2026-11-16",
+   "k": "OTHER",
+   "l": "FR",
+   "s": "Info Chrétienne Flux",
+   "t": "Jordanie : trois hommes condamnés à mort pour l'attaque contre une église",
+   "u": "https://www.infochretienne.com/articles/jordanie-trois-hommes-condamnes-a-mort-pour-lattaque-contre-une-eglise/",
+   "z": [
+    "JORDAN"
+   ]
+  },
+  {
+   "d": "2026-11-16",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "The Christian Post",
+   "t": "3 sentenced to death for deadly church mass shooting in Jordan",
+   "u": "https://www.christianpost.com/news/3-sentenced-to-death-for-church-mass-shooting-in-jordan.html",
+   "z": [
+    "JORDAN"
+   ]
+  },
+  {
+   "d": "2026-11-16",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Christian Daily International",
+   "t": "In Cairo, Christian women leaders explore what it means to lead in the 'wilderness'",
+   "u": "https://www.christiandaily.com/news/in-cairo-christian-women-explore-leading-in-the-wilderness",
+   "z": [
+    "EGYPT"
+   ]
+  },
+  {
+   "d": "2026-11-15",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Daily Sabah — Türkiye",
+   "t": "Divers clean Antalya's seabed during COP31 in Türkiye",
+   "u": "https://www.dailysabah.com/turkiye/divers-clean-antalyas-seabed-during-cop31-in-turkiye/news",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-15",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Daily Sabah — Türkiye",
+   "t": "2,700 volunteers support Türkiye's COP31 summit",
+   "u": "https://www.dailysabah.com/turkiye/2700-volunteers-support-turkiyes-cop31-summit/news",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-15",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Daily Sabah — Türkiye",
+   "t": "Türkiye emerges as global model in emergency medicine",
+   "u": "https://www.dailysabah.com/turkiye/turkiye-emerges-as-global-model-in-emergency-medicine/news",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-15",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Christian Daily International",
+   "t": "Killers in Jordan church massacre sentenced to death by hanging",
+   "u": "https://www.christiandaily.com/news/killers-in-jordan-church-massacre-sentenced-to-death-by-hanging",
+   "z": [
+    "JORDAN"
+   ]
+  },
+  {
+   "d": "2026-11-14",
+   "k": "OTHER",
+   "l": "DE",
+   "s": "Israelnetz",
+   "t": "Türkei und Katar unterzeichnen Verteidigungsabkommen",
+   "u": "https://www.israelnetz.com/tuerkei-und-katar-unterzeichnen-verteidigungsabkommen/",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-14",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Daily Sabah — Türkiye",
+   "t": "6 held over deadly Türkiye steel plant blast that killed 17",
+   "u": "https://www.dailysabah.com/turkiye/6-held-over-deadly-turkiye-steel-plant-blast-that-killed-17/news",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-14",
+   "k": "ARCH",
+   "l": "EN",
+   "s": "BiblePlaces Blog",
+   "t": "Weekend Roundup, Part 1",
+   "u": "https://www.bibleplaces.com/blog/2026/11/weekend-roundup-part-1-316/",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-14",
+   "k": "OTHER",
+   "l": "KO",
+   "s": "크리스천투데이",
+   "t": "사도 바울, 3개월 만에 표류했던 멜리데(몰타) 떠나 로마로",
+   "u": "https://www.christiantoday.co.kr/news/378630",
+   "z": [
+    "EUROPE"
+   ]
+  },
+  {
+   "d": "2026-11-13",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Christian Media Center (Holy Land)",
+   "t": "Terra Santa News 12/11/2026",
+   "u": "https://cmc-terrasanta.org/en/media/terra-santa-news/41795/terra-santa-news-12-11-2026",
+   "z": [
+    "HOLY",
+    "EGYPT"
+   ]
+  },
+  {
+   "d": "2026-11-13",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Daily Sabah — Türkiye",
+   "t": "Türkiye looks to COP31 to unlock financing for energy transformation: Former minister",
+   "u": "https://www.dailysabah.com/business/energy/turkiye-looks-to-cop31-to-unlock-financing-for-energy-transformation-former-minister",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-13",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Daily Sabah — Türkiye",
+   "t": "Emine Erdoğan showcases Türkiye's zero waste drive at COP31",
+   "u": "https://www.dailysabah.com/turkiye/emine-erdogan-showcases-turkiyes-zero-waste-drive-at-cop31/news",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-13",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Daily Sabah — Türkiye",
+   "t": "Türkiye plans 2,500 new technology classrooms for 2027",
+   "u": "https://www.dailysabah.com/turkiye/turkiye-plans-2500-new-technology-classrooms-for-2027/news",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-13",
+   "k": "ARCH",
+   "l": "EN",
+   "s": "Archaeology Magazine",
+   "t": "Health of Mummified Egyptian Cats Evaluated",
+   "u": "https://archaeology.org/news/2026/11/13/health-of-mummified-egyptian-cats-evaluated/",
+   "z": [
+    "EGYPT"
+   ]
+  },
+  {
+   "d": "2026-11-13",
+   "k": "OTHER",
+   "l": "KO",
+   "s": "크리스천투데이",
+   "t": "이집트 복음주의 교회 수, 15년간 25% 증가… “사회 발전의 일원”",
+   "u": "https://www.christiantoday.co.kr/news/378605",
+   "z": [
+    "EGYPT"
+   ]
+  },
+  {
+   "d": "2026-11-13",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Christianity Today » Feed",
+   "t": "Jordanian Christians Grieve Terror Attack on Church",
+   "u": "https://www.christianitytoday.com/2026/11/jordanian-christians-grieve-terror-attack-on-karak-church/",
+   "z": [
+    "JORDAN"
+   ]
+  },
+  {
+   "d": "2026-11-13",
+   "k": "OTHER",
+   "l": "KO",
+   "s": "기독일보 : Top News",
+   "t": "강서대, ‘선한 사마리아인 프로젝트’ 개최… 자아 성찰 넘어 이웃 사랑",
+   "u": "https://www.christiandaily.co.kr/news/167273",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-12",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "First Things",
+   "t": "The Vatican and the Good of Judaism",
+   "u": "https://firstthings.com/the-vatican-and-the-good-of-judaism/",
+   "z": [
+    "EUROPE"
+   ]
+  },
+  {
+   "d": "2026-11-12",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Christian Media Center (Holy Land)",
+   "t": "The commissaries of the Holy Land in the land of Egypt",
+   "u": "https://cmc-terrasanta.org/en/media/custodia/41786/the-commissaries-of-the-holy-land-in-the-land-of-egypt",
+   "z": [
+    "HOLY",
+    "EGYPT"
+   ]
+  },
+  {
+   "d": "2026-11-12",
+   "k": "PILGRIM",
+   "l": "EN",
+   "s": "Christian Media Center (Holy Land)",
+   "t": "School, coexistence and pilgrims: the stages of the Apostolic Delegate's visit to Jericho",
+   "u": "https://cmc-terrasanta.org/en/media/custodia/41783/school,-coexistence-and-pilgrims:-the-stages-of-the-apostolic-delegate's-visit-to-jericho",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-12",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Daily Sabah — Türkiye",
+   "t": "Türkiye touts resilient cities at COP31 summit",
+   "u": "https://www.dailysabah.com/turkiye/turkiye-touts-resilient-cities-at-cop31-summit/news",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-12",
+   "k": "ARCH",
+   "l": "EN",
+   "s": "Daily Sabah — Türkiye",
+   "t": "Türkiye pavilion links heritage with climate action at COP31",
+   "u": "https://www.dailysabah.com/turkiye/turkiye-pavilion-links-heritage-with-climate-action-at-cop31/news",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-12",
+   "k": "ARCH",
+   "l": "EN",
+   "s": "BiblePlaces Blog",
+   "t": "Why Another History of Israel? The Fall of the Northern Kingdom",
+   "u": "https://www.bibleplaces.com/blog/2026/11/why-another-history-of-israel-the-fall-of-the-northern-kingdom/",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-12",
+   "k": "ARCH",
+   "l": "EN",
+   "s": "Archaeology Magazine",
+   "t": "Fired Clay Fragments Offer Hints to Development of Near Eastern Pottery",
+   "u": "https://archaeology.org/news/2026/11/12/fired-clay-fragments-offer-hints-to-development-of-near-eastern-pottery/",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-12",
+   "k": "OTHER",
+   "l": "KO",
+   "s": "데일리굿뉴스",
+   "t": "트럼프 \"대이스라엘 원조 연말 종료\" vs 네타냐후 \"10년에 걸쳐 축소\"",
+   "u": "https://www.goodnews1.com/news/articleView.html?idxno=466111",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-12",
+   "k": "OTHER",
+   "l": "KO",
+   "s": "크리스천투데이",
+   "t": "美 중간선거 이후 공화당 내부 균열… 이스라엘 지지 노선도 논쟁",
+   "u": "https://www.christiantoday.co.kr/news/378589",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-12",
+   "k": "OTHER",
+   "l": "FR",
+   "s": "Info Chrétienne Flux",
+   "t": "Turquie : des fragments de bois découverts sur le site présumé de l’Arche de Noé",
+   "u": "https://www.infochretienne.com/articles/turquie-des-fragments-de-bois-decouverts-sur-le-site-presume-de-larche-de-noe/",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-12",
+   "k": "OTHER",
+   "l": "FR",
+   "s": "Info Chrétienne Flux",
+   "t": "Une chapelle incendiée en Égypte : les chrétiens de la région inquiets",
+   "u": "https://www.infochretienne.com/articles/une-chapelle-incendiee-en-egypte-les-chretiens-inquiets/",
+   "z": [
+    "EGYPT"
+   ]
+  },
+  {
+   "d": "2026-11-12",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Christian Daily International",
+   "t": "‘Part of the Egyptian fabric’: Egypt’s evangelical leader on growth, citizenship and the next generation",
+   "u": "https://www.christiandaily.com/news/part-of-the-egyptian-fabric-egypts-evangelical-leader-on-growth-citizenship-and-the-next-generation",
+   "z": [
+    "EGYPT"
+   ]
+  },
+  {
+   "d": "2026-11-12",
+   "k": "OTHER",
+   "l": "ES",
+   "s": "Coalición por el Evangelio",
+   "t": "Juan Calvino: ¿El reformador tirano de Ginebra?",
+   "u": "https://www.coalicionporelevangelio.org/articulo/juan-calvino-tirano-ginebra/",
+   "z": [
+    "EUROPE"
+   ]
+  },
+  {
+   "d": "2026-11-12",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "The Christian Post",
+   "t": "Pope Leo XIV promotes 'spiritual bond' between Catholics and 'people of Israel'",
+   "u": "https://www.christianpost.com/news/pope-promotes-spiritual-bond-with-people-of-israel.html",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-12",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Christian Today",
+   "t": "Egyptian Christian killed in Libya after refusing to deny Jesus",
+   "u": "https://www.christiantoday.com/news/egyptian-christian-killed-in-libya-after-refusing-to-deny-jesus",
+   "z": [
+    "EGYPT"
+   ]
+  },
+  {
+   "d": "2026-11-11",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Daily Sabah — Türkiye",
+   "t": "Türkiye deploys 58,000 personnel to secure COP31 summit in Antalya",
+   "u": "https://www.dailysabah.com/business/energy/turkiye-deploys-58000-personnel-to-secure-cop31-summit-in-antalya",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-11",
+   "k": "OTHER",
+   "l": "KO",
+   "s": "데일리굿뉴스",
+   "t": "이스라엘 26대 의회 개원…연정 협상 본격화",
+   "u": "https://www.goodnews1.com/news/articleView.html?idxno=466067",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-11",
+   "k": "OTHER",
+   "l": "KO",
+   "s": "기독일보 : Top News",
+   "t": "이집트서 개종 기독교인 사형 위기… 약혼녀, 미국·네덜란드에 석방 호소",
+   "u": "https://www.christiandaily.co.kr/news/167122",
+   "z": [
+    "EGYPT"
+   ]
+  },
+  {
+   "d": "2026-11-11",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "The Christian Post",
+   "t": "Pastor Gary Hamrick calls Vance election claims 'nonsense,' says US must continue Israel support",
+   "u": "https://www.christianpost.com/news/pastor-gary-hamrick-says-us-must-continue-to-support-israel.html",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-11",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "The Christian Post",
+   "t": "House Republicans elect Jim Jordan as minority leader for 120th Congress",
+   "u": "https://www.christianpost.com/news/house-republicans-elect-jim-jordan-as-minority-leader.html",
+   "z": [
+    "JORDAN"
+   ]
+  },
+  {
+   "d": "2026-11-11",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Christian Today",
+   "t": "After the 2026 Republican meltdown, where now for the GOP and Israel?",
+   "u": "https://www.christiantoday.com/news/after-the-2026-republican-meltdown-where-now-for-the-gop-and-israel",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-10",
+   "k": "OTHER",
+   "l": "JA",
+   "s": "クリスチャントゥデイ",
+   "t": "キリストの兵士とサムライの精神 穂森幸一",
+   "u": "https://www.christiantoday.co.jp/articles/36471/20261110/homori-koichi-324.htm",
+   "z": [
+    "EUROPE"
+   ]
+  },
+  {
+   "d": "2026-11-10",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Daily Sabah — Türkiye",
+   "t": "Türkiye orders arrests of 11 over deadly Izmir steel plant blast",
+   "u": "https://www.dailysabah.com/turkiye/turkiye-orders-arrests-of-11-over-deadly-izmir-steel-plant-blast/news",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-10",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Daily Sabah — Türkiye",
+   "t": "Zero Waste Foundation plans 193-country documentary at COP31",
+   "u": "https://www.dailysabah.com/turkiye/zero-waste-foundation-plans-193-country-documentary-at-cop31/news",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-10",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Daily Sabah — Türkiye",
+   "t": "Emine Erdoğan promotes global zero-waste alliance at COP31",
+   "u": "https://www.dailysabah.com/turkiye/emine-erdogan-promotes-global-zero-waste-alliance-at-cop31/news",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-10",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Christianity Daily",
+   "t": "“I Would Never Renounce My Faith”: 20-Year-Old Egyptian Christian Killed by ISIS in Libya",
+   "u": "https://www.christianitydaily.com/news/i-would-never-renounce-my-faith-christian-killed-by-isis.html",
+   "z": [
+    "EGYPT"
+   ]
+  },
+  {
+   "d": "2026-11-10",
+   "k": "ARCH",
+   "l": "EN",
+   "s": "BiblePlaces Blog",
+   "t": "Why Another History of Israel? Oppression and Deliverance",
+   "u": "https://www.bibleplaces.com/blog/2026/11/why-another-history-of-israel-oppression-and-deliverance/",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-10",
+   "k": "OTHER",
+   "l": "KO",
+   "s": "기독일보 : Top News",
+   "t": "리비아서 이집트 콥트교인 피살… 오픈도어, 개종 강요 정황 전해",
+   "u": "https://www.christiandaily.co.kr/news/167003",
+   "z": [
+    "EGYPT"
+   ]
+  },
+  {
+   "d": "2026-11-10",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "RNS » Feed",
+   "t": "Israel’s president gives Eisenkot the first chance to form the next government",
+   "u": "https://religionnews.com/2026/11/10/israels-president-gives-eisenkot-the-first-chance-to-form-the-next-government/",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-10",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "The Christian Post",
+   "t": "Fiancée of Egyptian Christian convert facing execution urges US, Netherlands to intervene",
+   "u": "https://www.christianpost.com/news/woman-pleads-for-us-to-save-christian-convert-from-execution.html",
+   "z": [
+    "EGYPT"
+   ]
+  },
+  {
+   "d": "2026-11-10",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "RNS » Feed",
+   "t": "Socialists plan to ‘break’ the US-Israel alliance after winning big in the midterms",
+   "u": "https://religionnews.com/2026/11/10/socialists-plan-to-break-the-us-israel-alliance-after-winning-big-in-the-midterms/",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-09",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Daily Sabah — Türkiye",
+   "t": "16 killed, 13 injured in explosion at steel plant in Türkiye's Izmir",
+   "u": "https://www.dailysabah.com/turkiye/16-killed-13-injured-in-explosion-at-steel-plant-in-turkiyes-izmir/news",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-09",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Daily Sabah — Türkiye",
+   "t": "COP31 puts rural supply chains at center of climate resilience efforts",
+   "u": "https://www.dailysabah.com/turkiye/cop31-puts-rural-supply-chains-at-center-of-climate-resilience-efforts/news",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-09",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Daily Sabah — Türkiye",
+   "t": "COP31 opens in Türkiye with push to turn climate pledges into action",
+   "u": "https://www.dailysabah.com/turkiye/cop31-opens-in-turkiye-with-push-to-turn-climate-pledges-into-action/news",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-09",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Daily Sabah — Türkiye",
+   "t": "Türkiye deploys 28,000 personnel for COP31 traffic security",
+   "u": "https://www.dailysabah.com/turkiye/turkiye-deploys-28000-personnel-for-cop31-traffic-security/news",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-09",
+   "k": "OTHER",
+   "l": "JA",
+   "s": "クリスチャントゥデイ",
+   "t": "景教のルーツを探るトルコ・アナトリアへの旅（５）マルディンにおけるキリスト教会と小史　川口一彦",
+   "u": "https://www.christiantoday.co.jp/articles/36469/20261109/keikyo-journey-to-turkey-anatolia-5.htm",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-09",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "RNS » Feed",
+   "t": "The US election showed growing frustration with Israel on both sides of the aisle",
+   "u": "https://religionnews.com/2026/11/09/the-us-election-showed-growing-frustration-with-israel-on-both-sides-of-the-aisle/",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-09",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "The Christian Post",
+   "t": "Israel aims to finalize phasing out of US military aid before new Congress takes office: report",
+   "u": "https://www.christianpost.com/news/israel-aims-to-finalize-phasing-out-of-us-military-aid.html",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-09",
+   "k": "OTHER",
+   "l": "KO",
+   "s": "기독일보 : Top News",
+   "t": "GOODTV 최요셉 선교기자, 이집트 수단 난민 교회 개척·어린이 교육 지원",
+   "u": "https://www.christiandaily.co.kr/news/166988",
+   "z": [
+    "EGYPT"
+   ]
+  },
+  {
+   "d": "2026-11-09",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Christian Daily International",
+   "t": "Christian from Egypt killed in Libya for his faith",
+   "u": "https://www.christiandaily.com/news/christian-from-egypt-killed-in-libya-for-his-faith",
+   "z": [
+    "EGYPT"
+   ]
+  },
+  {
+   "d": "2026-11-08",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Daily Sabah — Türkiye",
+   "t": "COP31 in Türkiye answers key questions on climate action",
+   "u": "https://www.dailysabah.com/turkiye/cop31-in-turkiye-answers-key-questions-on-climate-action/news",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-08",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Daily Sabah — Türkiye",
+   "t": "9 killed, 5 injured in truck-minibus collision in eastern Türkiye",
+   "u": "https://www.dailysabah.com/turkiye/9-killed-5-injured-in-truck-minibus-collision-in-eastern-turkiye/news",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-08",
+   "k": "OTHER",
+   "l": "KO",
+   "s": "데일리굿뉴스",
+   "t": "이스라엘 '네타냐후 시대' 막 내리나…야 당대표에 연정 구성권",
+   "u": "https://www.goodnews1.com/news/articleView.html?idxno=465979",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-07",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Daily Sabah — Türkiye",
+   "t": "Tarkan's climate anthem gains traction ahead of COP31 in Antalya",
+   "u": "https://www.dailysabah.com/arts/music/tarkans-climate-anthem-gains-traction-ahead-of-cop31-in-antalya",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-07",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Daily Sabah — Türkiye",
+   "t": "Turkish experts look to COP31 for solutions on water, food",
+   "u": "https://www.dailysabah.com/turkiye/turkish-experts-look-to-cop31-for-solutions-on-water-food/news",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-07",
+   "k": "OTHER",
+   "l": "ZHT",
+   "s": "福音中國 Gospel Herald",
+   "t": "新約學者賴特：批時代論以色列觀，警惕基督教民族主義",
+   "u": "https://www.gospelherald.com/news/cblmp080eyvb",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-06",
+   "k": "ARCH",
+   "l": "EN",
+   "s": "Daily Sabah — Türkiye",
+   "t": "Istanbul, Ankara outranked Rome in ancient road network: Study",
+   "u": "https://www.dailysabah.com/life/history/istanbul-ankara-outranked-rome-in-ancient-road-network-study",
+   "z": [
+    "ASIA_MINOR",
+    "EUROPE"
+   ]
+  },
+  {
+   "d": "2026-11-06",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Daily Sabah — Türkiye",
+   "t": "Türkiye prepares 5 medical stations for COP31 summit",
+   "u": "https://www.dailysabah.com/turkiye/turkiye-prepares-5-medical-stations-for-cop31-summit/news",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-06",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Daily Sabah — Türkiye",
+   "t": "Climate action needs women in decision-making: COP31 ambassador",
+   "u": "https://www.dailysabah.com/turkiye/climate-action-needs-women-in-decision-making-cop31-ambassador/news",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-06",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Daily Sabah — Türkiye",
+   "t": "Istanbul dam levels hit 10-year high after record rainfall",
+   "u": "https://www.dailysabah.com/turkiye/istanbul/istanbul-dam-levels-hit-10-year-high-after-record-rainfall",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-06",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Daily Sabah — Türkiye",
+   "t": "Türkiye Diyanet Foundation plants 925,000 saplings in Türkiye",
+   "u": "https://www.dailysabah.com/turkiye/turkiye-diyanet-foundation-plants-925000-saplings-in-turkiye/news",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-06",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "The Christian Post",
+   "t": "Trump's week in review: Vows to use veto power, cut $4B aid to Israel and Melania brokers ceasefire",
+   "u": "https://www.christianpost.com/news/trump-vows-use-veto-power-cut-4-billion-aid-israel-melania-brokers-ceasefire.html",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-06",
+   "k": "OTHER",
+   "l": "KO",
+   "s": "데일리굿뉴스",
+   "t": "이집트에 수단 난민 위한 교회 개척…복음으로 희망 전해",
+   "u": "https://www.goodnews1.com/news/articleView.html?idxno=465948",
+   "z": [
+    "EGYPT"
+   ]
+  },
+  {
+   "d": "2026-11-06",
+   "k": "OTHER",
+   "l": "DE",
+   "s": "ERF.de - Topthema",
+   "t": "Ist Israel christenfeindlich?",
+   "u": "https://feedpress.me/link/19277/17516220/2270-542-8108",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-06",
+   "k": "OTHER",
+   "l": "KO",
+   "s": "크리스천투데이",
+   "t": "“2,500년 전 이집트 파피루스, 오늘날 초연결 시대 종교 향해…”",
+   "u": "https://www.christiantoday.co.kr/news/378434",
+   "z": [
+    "EGYPT"
+   ]
+  },
+  {
+   "d": "2026-11-06",
+   "k": "OTHER",
+   "l": "KO",
+   "s": "기독일보 : Top News",
+   "t": "시애틀 안디옥장로교회 창립 30주년 감사예배 드려",
+   "u": "https://www.christiandaily.co.kr/news/166783",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-06",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "The Christian Post",
+   "t": "NT Wright warns of ‘modern-day fantasy’ interpretation of ‘All Israel will be saved'",
+   "u": "https://www.christianpost.com/news/nt-wright-on-large-scale-last-minute-salvation-of-jews.html",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-05",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Daily Sabah — Türkiye",
+   "t": "8 killed in multiple shootings in Türkiye's Afyonkarahisar",
+   "u": "https://www.dailysabah.com/turkiye/8-killed-in-multiple-shootings-in-turkiyes-afyonkarahisar/news",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-05",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Daily Sabah — Türkiye",
+   "t": "Türkiye extradites wanted Dalton gang member from Georgia",
+   "u": "https://www.dailysabah.com/turkiye/turkiye-extradites-wanted-dalton-gang-member-from-georgia/news",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-05",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Daily Sabah — Türkiye",
+   "t": "Deportations from Germany to Türkiye rise despite overall decline",
+   "u": "https://www.dailysabah.com/turkiye/diaspora/deportations-from-germany-to-turkiye-rise-despite-overall-decline",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-05",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Daily Sabah — Türkiye",
+   "t": "Türkiye's digital education platform attracts 230,000 applicants",
+   "u": "https://www.dailysabah.com/turkiye/education/turkiyes-digital-education-platform-attracts-230000-applicants",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-05",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Daily Sabah — Türkiye",
+   "t": "Global experts see COP31 as test of climate action",
+   "u": "https://www.dailysabah.com/turkiye/global-experts-see-cop31-as-test-of-climate-action/news",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-05",
+   "k": "OTHER",
+   "l": "KO",
+   "s": "데일리굿뉴스",
+   "t": "네타냐후 재집권 '먹구름'…이스라엘 야권으로 무게추",
+   "u": "https://www.goodnews1.com/news/articleView.html?idxno=465890",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-05",
+   "k": "OTHER",
+   "l": "KO",
+   "s": "크리스천투데이",
+   "t": "이집트 기독교인, IS의 배교 강요 거부하고 순교",
+   "u": "https://www.christiantoday.co.kr/news/378416",
+   "z": [
+    "EGYPT"
+   ]
+  },
+  {
+   "d": "2026-11-05",
+   "k": "OTHER",
+   "l": "KO",
+   "s": "데일리굿뉴스",
+   "t": "美 선거영향 의회 지형 재편…대이스라엘 정책 대수술 수순",
+   "u": "https://www.goodnews1.com/news/articleView.html?idxno=465913",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-05",
+   "k": "OTHER",
+   "l": "KO",
+   "s": "기독일보 : Top News",
+   "t": "부천 갈릴리소명교회 11월 전도·치유 집회 개최",
+   "u": "https://www.christiandaily.co.kr/news/166778",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-04",
+   "k": "OTHER",
+   "l": "KO",
+   "s": "크리스천투데이",
+   "t": "칼빈, 제네바 시의회에서 거부된 신앙 교육서 다시 집필",
+   "u": "https://www.christiantoday.co.kr/news/378362",
+   "z": [
+    "EUROPE"
+   ]
+  },
+  {
+   "d": "2026-11-04",
+   "k": "OTHER",
+   "l": "KO",
+   "s": "데일리굿뉴스",
+   "t": "WEA, 요르단 교회 총격 희생자 추모…\"증오가 사랑 이길 수 없어\"",
+   "u": "https://www.goodnews1.com/news/articleView.html?idxno=465840",
+   "z": [
+    "JORDAN"
+   ]
+  },
+  {
+   "d": "2026-11-04",
+   "k": "OTHER",
+   "l": "KO",
+   "s": "기독일보 : Top News",
+   "t": "리산 중국 천주교 애국회 주석, 로마 세미나 참석 예정",
+   "u": "https://www.christiandaily.co.kr/news/166676",
+   "z": [
+    "EUROPE"
+   ]
+  },
+  {
+   "d": "2026-11-04",
+   "k": "OTHER",
+   "l": "FR",
+   "s": "Info Chrétienne Flux",
+   "t": "Église attaquée en Jordanie : qualifications terroristes retenues",
+   "u": "https://www.infochretienne.com/articles/eglise-attaquee-en-jordanie-qualifications-terroristes-retenues/",
+   "z": [
+    "JORDAN"
+   ]
+  },
+  {
+   "d": "2026-11-04",
+   "k": "OTHER",
+   "l": "FR",
+   "s": "Info Chrétienne Flux",
+   "t": "Attaque terroriste en Jordanie : des responsables évangéliques auprès des victimes",
+   "u": "https://www.infochretienne.com/articles/attaque-terroriste-en-jordanie-des-responsables-evangeliques-aupres-des-victimes/",
+   "z": [
+    "JORDAN"
+   ]
+  },
+  {
+   "d": "2026-11-04",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "RNS » Feed",
+   "t": "Is Brad Lander, a pro-Palestinian liberal Zionist heading to Congress, the future of Jewish Democrats?",
+   "u": "https://religionnews.com/2026/11/04/is-brad-lander-a-pro-palestinian-liberal-zionist-heading-to-congress-the-future-of-jewish-political-leadership/",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-03",
+   "k": "OTHER",
+   "l": "KO",
+   "s": "기독일보 : Top News",
+   "t": "WEA, 요르단 교회 총기 테러 현장 방문… \"테러에 굴하지 않을 것\"",
+   "u": "https://www.christiandaily.co.kr/news/166549",
+   "z": [
+    "JORDAN"
+   ]
+  },
+  {
+   "d": "2026-11-03",
+   "k": "PILGRIM",
+   "l": "KO",
+   "s": "당당뉴스 - 전체기사",
+   "t": "예루살렘 성전산 입구서 발견된 2,000년 전 순례자들의 ‘정결례탕’",
+   "u": "https://www.dangdangnews.com/news/articleView.html?idxno=53824",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-03",
+   "k": "OTHER",
+   "l": "KO",
+   "s": "크리스천투데이",
+   "t": "WEA 사무총장, 요르단 교회 총격 희생자 추모… “테러가 사랑을 이길 수 없다”",
+   "u": "https://www.christiantoday.co.kr/news/378349",
+   "z": [
+    "JORDAN"
+   ]
+  },
+  {
+   "d": "2026-11-03",
+   "k": "OTHER",
+   "l": "KO",
+   "s": "기독일보 : Top News",
+   "t": "이집트, 이슬람 교육 비판한 콥트 기독교인 엔지니어 체포",
+   "u": "https://www.christiandaily.co.kr/news/166604",
+   "z": [
+    "EGYPT"
+   ]
+  },
+  {
+   "d": "2026-11-03",
+   "k": "OTHER",
+   "l": "KO",
+   "s": "기독교타임즈",
+   "t": "[카이로스] 진정한 ‘그냥드림’을 위해, 정부는 한 걸음 뒤로, 교회는 한 걸음 앞으로",
+   "u": "https://www.kmctimes.com/news/articleView.html?idxno=60682",
+   "z": [
+    "EGYPT"
+   ]
+  },
+  {
+   "d": "2026-11-03",
+   "k": "OTHER",
+   "l": "FR",
+   "s": "Info Chrétienne Flux",
+   "t": "Israël : profanation d’une église maronite le jour de la Toussaint",
+   "u": "https://www.infochretienne.com/articles/israel-profanation-dune-eglise-maronite-le-jour-de-la-toussaint/",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-03",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "RNS » Feed",
+   "t": "Israel’s future depends on bringing Jews and Arabs together in its next government",
+   "u": "https://religionnews.com/2026/11/03/israels-future-depends-on-bringing-jews-and-arabs-together-in-its-next-government/",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-02",
+   "k": "OTHER",
+   "l": "KO",
+   "s": "데일리굿뉴스",
+   "t": "이스라엘 선관위·신베트, 네타냐후 '총선 부정' 주장 일축",
+   "u": "https://www.goodnews1.com/news/articleView.html?idxno=465749",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-02",
+   "k": "OTHER",
+   "l": "KO",
+   "s": "데일리굿뉴스",
+   "t": "이스라엘 가디 아이젠코트, 새 연립정부 구성 공식화…네타냐후 퇴진 압박",
+   "u": "https://www.goodnews1.com/news/articleView.html?idxno=465747",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-02",
+   "k": "OTHER",
+   "l": "KO",
+   "s": "기독일보 : Top News",
+   "t": "교사 단체, 학교 성경 읽기 제지 논란에 “경위 조사해야”",
+   "u": "https://www.christiandaily.co.kr/news/166522",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-02",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "RNS » Feed",
+   "t": "I was detained for helping Palestinian farmers. Here’s what Israel wants to hide.",
+   "u": "https://religionnews.com/2026/11/02/i-was-detained-for-helping-palestinian-farmers-heres-what-israel-wants-to-hide/",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-02",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "The Christian Post",
+   "t": "Christian arrested after speaking against Islam being pushed in Egypt schools",
+   "u": "https://www.christianpost.com/news/christian-arrested-for-speaking-against-islam-in-egypt-schools.html",
+   "z": [
+    "EGYPT"
+   ]
+  },
+  {
+   "d": "2026-11-02",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "RNS » Feed",
+   "t": "5 things to know about the Michigan Senate race set on Israel",
+   "u": "https://religionnews.com/2026/11/02/5-things-to-know-about-a-senate-race-hyper-focused-on-israel/",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-02",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "The Christian Post",
+   "t": "Theologian NT Wright: Belief that Israel is fulfillment of Bible prophecy is a 'totally unbiblical idea'",
+   "u": "https://www.christianpost.com/news/nt-wright-belief-israel-is-fulfilment-of-prophecy-unbiblical.html",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-02",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Christian Daily International",
+   "t": "Head of global evangelical body visits Jordanian village where gunmen killed 9 at church funeral",
+   "u": "https://www.christiandaily.com/news/head-of-global-evangelical-body-visits-jordanian-village-where-gunmen-killed-9-at-church-funeral",
+   "z": [
+    "JORDAN"
+   ]
+  },
+  {
+   "d": "2026-10-31",
+   "k": "OTHER",
+   "l": "FR",
+   "s": "Christianisme Aujourd'hui",
+   "t": "Le christianisme disséqué, le Royaume à l’envers, l’image de soi, Israël en questions: nos lectures de novembre",
+   "u": "https://www.christianismeaujourdhui.info/livres-chretiens-novembre-2026-kraybill-houziaux/",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-10-31",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Desiring God",
+   "t": "The Pull of Rome and the Promise of Grace",
+   "u": "https://rss.desiringgod.org/link/10732/17512004/the-pull-of-rome-and-the-promise-of-grace",
+   "z": [
+    "EUROPE"
+   ]
+  },
+  {
+   "d": "2026-10-31",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Christian Today",
+   "t": "Latin Patriarch of Jerusalem offers hope in region plagued by conflict",
+   "u": "https://www.christiantoday.com/news/latin-patriarch-of-jerusalem-offers-hope-in-region-plagued-by-conflict",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-10-30",
+   "k": "PILGRIM",
+   "l": "KO",
+   "s": "데일리굿뉴스",
+   "t": "예루살렘 성전 앞서 2천 년 전 정결례탕 발견…성경 속 순례 흔적",
+   "u": "https://www.goodnews1.com/news/articleView.html?idxno=465685",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-10-30",
+   "k": "OTHER",
+   "l": "KO",
+   "s": "기독교타임즈",
+   "t": "예루살렘 성전산 입구서 2000년 전 정결례탕 발견",
+   "u": "https://www.kmctimes.com/news/articleView.html?idxno=60656",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-10-30",
+   "k": "PILGRIM",
+   "l": "KO",
+   "s": "크리스천투데이",
+   "t": "예루살렘 성전산 입구서 발견된, 2천 년 전 순례자들의 ‘정결례탕’",
+   "u": "https://www.christiantoday.co.kr/news/378272",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-10-30",
+   "k": "OTHER",
+   "l": "KO",
+   "s": "데일리굿뉴스",
+   "t": "이스라엘 부정선거 논란…네타냐후 정권 연장 노림수 지적",
+   "u": "https://www.goodnews1.com/news/articleView.html?idxno=465715",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-10-30",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "RNS » Feed",
+   "t": "Basketball and papal courts collide as Villanova and Notre Dame tip off in Rome",
+   "u": "https://religionnews.com/2026/10/30/basketball-and-papal-courts-collide-as-villanova-and-notre-dame-tip-off-in-rome/",
+   "z": [
+    "EUROPE"
+   ]
+  },
+  {
+   "d": "2026-10-30",
+   "k": "OTHER",
+   "l": "FR",
+   "s": "Réforme",
+   "t": "En Israël, la coalition menée par Nétanyahou en tête mais sans majorité",
+   "u": "https://www.reforme.net/monde/en-israel-la-coalition-menee-par-netanyahou-en-tete-mais-sans-majorite/",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-10-30",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "RNS » Feed",
+   "t": "In another historic move, Pope Leo casts absentee US vote from Rome",
+   "u": "https://religionnews.com/2026/10/30/in-another-historic-move-pope-leo-casts-absentee-u-s-vote-from-rome/",
+   "z": [
+    "EUROPE"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "k": "OTHER",
+   "l": "KO",
+   "s": "데일리굿뉴스",
+   "t": "이스라엘 총선 개표 막바지…네타냐후·야권 모두 과반 확보 실패",
+   "u": "https://www.goodnews1.com/news/articleView.html?idxno=465639",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "k": "OTHER",
+   "l": "KO",
+   "s": "데일리굿뉴스",
+   "t": "이집트서 틱톡 영상 올린 청년 기독교인 6명 체포…종교의 자유 침해 논란",
+   "u": "https://www.goodnews1.com/news/articleView.html?idxno=465633",
+   "z": [
+    "EGYPT"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "k": "OTHER",
+   "l": "KO",
+   "s": "데일리굿뉴스",
+   "t": "이스라엘 총선 야권 과반 실패…네타냐후 축출 기회 놓쳤다",
+   "u": "https://www.goodnews1.com/news/articleView.html?idxno=465660",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "k": "OTHER",
+   "l": "KO",
+   "s": "크리스천투데이",
+   "t": "예루살렘정교회 총대주교, 요르단 교회 총격 희생자 애도",
+   "u": "https://www.christiantoday.co.kr/news/378240",
+   "z": [
+    "HOLY",
+    "JORDAN"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "k": "OTHER",
+   "l": "FR",
+   "s": "Réforme",
+   "t": "Israël, Jordanie, Brésil… L’actualité en bref",
+   "u": "https://www.reforme.net/actualites/israel-jordanie-bresil-lactualite-en-bref/",
+   "z": [
+    "HOLY",
+    "JORDAN"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "RNS » Feed",
+   "t": "Jordan’s Christians are citizens, not guests",
+   "u": "https://religionnews.com/2026/10/29/jordans-christians-are-citizens-not-guests/",
+   "z": [
+    "JORDAN"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "RNS » Feed",
+   "t": "Top Vatican official says pope’s cancer diagnosis a ‘game-changer’ for the papacy",
+   "u": "https://religionnews.com/2026/10/29/top-vatican-official-says-popes-cancer-diagnosis-a-game-changer-for-the-papacy/",
+   "z": [
+    "EUROPE"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "The Christian Post",
+   "t": "When will Israel's new gov't be formed? When will the new Knesset be sworn in? Here's the timeline",
+   "u": "https://www.christianpost.com/news/when-will-israels-new-govt-be-formed-when-will-the-new-knesset.html",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-10-28",
+   "k": "OTHER",
+   "l": "KO",
+   "s": "데일리굿뉴스",
+   "t": "이스라엘 총선 '초박빙'…여야 모두 과반 미달 전망",
+   "u": "https://www.goodnews1.com/news/articleView.html?idxno=465603",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-10-28",
+   "k": "OTHER",
+   "l": "KO",
+   "s": "데일리굿뉴스",
+   "t": "이스라엘 총선 집권 여당, 투표 시간 연장 요청…야당 \"선거 불복 핑계\"",
+   "u": "https://www.goodnews1.com/news/articleView.html?idxno=465587",
+   "z": [
+    "HOLY"
+   ]
+  }
+ ],
+ "pnews_zones": [
+  {
+   "code": "HOLY",
+   "names": {
+    "EN": "Around Jerusalem",
+    "KO": "예루살렘 주변"
+   }
+  },
+  {
+   "code": "JORDAN",
+   "names": {
+    "EN": "Jordan",
+    "KO": "요르단"
+   }
+  },
+  {
+   "code": "EGYPT",
+   "names": {
+    "EN": "Egypt · Sinai",
+    "KO": "이집트 · 시내"
+   }
+  },
+  {
+   "code": "ASIA_MINOR",
+   "names": {
+    "EN": "Asia Minor",
+    "KO": "소아시아"
+   }
+  },
+  {
+   "code": "GREECE",
+   "names": {
+    "EN": "Greece",
+    "KO": "그리스"
+   }
+  },
+  {
+   "code": "EUROPE",
+   "names": {
+    "EN": "Europe",
+    "KO": "유럽"
+   }
   }
  ],
  "prep": [
@@ -6953,6 +9270,634 @@
       "v": "식기세척기를 쓰더라도 '비자극성 세제(non-irritant detergent)'를 사용해야 하며, 광택 유지를 위해 손세척이 안전하다."
      }
     ]
+   }
+  }
+ ],
+ "trip_prep": [
+  {
+   "items": [
+    {
+     "g": "서류 · 돈",
+     "n": "여권"
+    },
+    {
+     "g": "서류 · 돈",
+     "n": "여권 지갑"
+    },
+    {
+     "g": "서류 · 돈",
+     "n": "해외 결제 카드"
+    },
+    {
+     "g": "서류 · 돈",
+     "n": "여행자 보험 확인서"
+    },
+    {
+     "g": "전자 · 통신",
+     "n": "eSIM"
+    },
+    {
+     "g": "전자 · 통신",
+     "n": "멀티 어댑터"
+    },
+    {
+     "g": "전자 · 통신",
+     "n": "보조배터리"
+    },
+    {
+     "g": "전자 · 통신",
+     "n": "충전 케이블"
+    },
+    {
+     "g": "가방 · 정리",
+     "n": "캐리어"
+    },
+    {
+     "g": "가방 · 정리",
+     "n": "보조 가방"
+    },
+    {
+     "g": "가방 · 정리",
+     "n": "여행용 파우치"
+    },
+    {
+     "g": "가방 · 정리",
+     "n": "압축 파우치"
+    },
+    {
+     "g": "세면 · 위생",
+     "n": "여행용 세면도구"
+    },
+    {
+     "g": "세면 · 위생",
+     "n": "휴대용 칫솔"
+    },
+    {
+     "g": "세면 · 위생",
+     "n": "물티슈"
+    },
+    {
+     "g": "세면 · 위생",
+     "n": "손소독제"
+    },
+    {
+     "g": "상비약 · 건강",
+     "n": "상비약 키트"
+    },
+    {
+     "g": "상비약 · 건강",
+     "n": "멀미약"
+    },
+    {
+     "g": "상비약 · 건강",
+     "n": "밴드"
+    },
+    {
+     "g": "기내 · 편의",
+     "n": "목베개"
+    },
+    {
+     "g": "기내 · 편의",
+     "n": "안대"
+    },
+    {
+     "g": "기내 · 편의",
+     "n": "귀마개"
+    },
+    {
+     "g": "더운 나라",
+     "n": "모기 기피제"
+    },
+    {
+     "g": "더운 나라",
+     "n": "선크림"
+    },
+    {
+     "g": "더운 나라",
+     "n": "방수팩"
+    },
+    {
+     "g": "더운 나라",
+     "n": "얇은 겉옷"
+    },
+    {
+     "g": "더운 나라",
+     "n": "샌들"
+    },
+    {
+     "g": "더운 나라",
+     "n": "래시가드"
+    }
+   ],
+   "key": "ASIA_BEACH",
+   "names": {
+    "EN": "Southeast Asia beach",
+    "KO": "동남아 휴양"
+   }
+  },
+  {
+   "items": [
+    {
+     "g": "서류 · 돈",
+     "n": "여권"
+    },
+    {
+     "g": "서류 · 돈",
+     "n": "여권 지갑"
+    },
+    {
+     "g": "서류 · 돈",
+     "n": "해외 결제 카드"
+    },
+    {
+     "g": "서류 · 돈",
+     "n": "여행자 보험 확인서"
+    },
+    {
+     "g": "전자 · 통신",
+     "n": "eSIM"
+    },
+    {
+     "g": "전자 · 통신",
+     "n": "멀티 어댑터"
+    },
+    {
+     "g": "전자 · 통신",
+     "n": "보조배터리"
+    },
+    {
+     "g": "전자 · 통신",
+     "n": "충전 케이블"
+    },
+    {
+     "g": "가방 · 정리",
+     "n": "캐리어"
+    },
+    {
+     "g": "가방 · 정리",
+     "n": "보조 가방"
+    },
+    {
+     "g": "가방 · 정리",
+     "n": "여행용 파우치"
+    },
+    {
+     "g": "가방 · 정리",
+     "n": "압축 파우치"
+    },
+    {
+     "g": "세면 · 위생",
+     "n": "여행용 세면도구"
+    },
+    {
+     "g": "세면 · 위생",
+     "n": "휴대용 칫솔"
+    },
+    {
+     "g": "세면 · 위생",
+     "n": "물티슈"
+    },
+    {
+     "g": "세면 · 위생",
+     "n": "손소독제"
+    },
+    {
+     "g": "상비약 · 건강",
+     "n": "상비약 키트"
+    },
+    {
+     "g": "상비약 · 건강",
+     "n": "멀미약"
+    },
+    {
+     "g": "상비약 · 건강",
+     "n": "밴드"
+    },
+    {
+     "g": "기내 · 편의",
+     "n": "목베개"
+    },
+    {
+     "g": "기내 · 편의",
+     "n": "안대"
+    },
+    {
+     "g": "기내 · 편의",
+     "n": "귀마개"
+    },
+    {
+     "g": "도시 걷기",
+     "n": "편한 운동화"
+    },
+    {
+     "g": "도시 걷기",
+     "n": "접이식 우산"
+    },
+    {
+     "g": "도시 걷기",
+     "n": "작은 크로스백"
+    }
+   ],
+   "key": "NEAR_CITY",
+   "names": {
+    "EN": "Nearby city trip",
+    "KO": "가까운 나라 도시 여행"
+   }
+  },
+  {
+   "items": [
+    {
+     "g": "서류 · 돈",
+     "n": "여권"
+    },
+    {
+     "g": "서류 · 돈",
+     "n": "여권 지갑"
+    },
+    {
+     "g": "서류 · 돈",
+     "n": "해외 결제 카드"
+    },
+    {
+     "g": "서류 · 돈",
+     "n": "여행자 보험 확인서"
+    },
+    {
+     "g": "전자 · 통신",
+     "n": "eSIM"
+    },
+    {
+     "g": "전자 · 통신",
+     "n": "멀티 어댑터"
+    },
+    {
+     "g": "전자 · 통신",
+     "n": "보조배터리"
+    },
+    {
+     "g": "전자 · 통신",
+     "n": "충전 케이블"
+    },
+    {
+     "g": "가방 · 정리",
+     "n": "캐리어"
+    },
+    {
+     "g": "가방 · 정리",
+     "n": "보조 가방"
+    },
+    {
+     "g": "가방 · 정리",
+     "n": "여행용 파우치"
+    },
+    {
+     "g": "가방 · 정리",
+     "n": "압축 파우치"
+    },
+    {
+     "g": "세면 · 위생",
+     "n": "여행용 세면도구"
+    },
+    {
+     "g": "세면 · 위생",
+     "n": "휴대용 칫솔"
+    },
+    {
+     "g": "세면 · 위생",
+     "n": "물티슈"
+    },
+    {
+     "g": "세면 · 위생",
+     "n": "손소독제"
+    },
+    {
+     "g": "상비약 · 건강",
+     "n": "상비약 키트"
+    },
+    {
+     "g": "상비약 · 건강",
+     "n": "멀미약"
+    },
+    {
+     "g": "상비약 · 건강",
+     "n": "밴드"
+    },
+    {
+     "g": "기내 · 편의",
+     "n": "목베개"
+    },
+    {
+     "g": "기내 · 편의",
+     "n": "안대"
+    },
+    {
+     "g": "기내 · 편의",
+     "n": "귀마개"
+    },
+    {
+     "g": "장거리",
+     "n": "캐리어 벨트"
+    },
+    {
+     "g": "장거리",
+     "n": "자물쇠"
+    },
+    {
+     "g": "장거리",
+     "n": "기내용 슬리퍼"
+    },
+    {
+     "g": "장거리",
+     "n": "수면 양말"
+    },
+    {
+     "g": "장거리",
+     "n": "가벼운 패딩"
+    }
+   ],
+   "key": "LONG_HAUL",
+   "names": {
+    "EN": "Long-haul trip",
+    "KO": "유럽 · 장거리 여행"
+   }
+  },
+  {
+   "items": [
+    {
+     "g": "서류 · 돈",
+     "n": "여권"
+    },
+    {
+     "g": "서류 · 돈",
+     "n": "여권 지갑"
+    },
+    {
+     "g": "서류 · 돈",
+     "n": "해외 결제 카드"
+    },
+    {
+     "g": "서류 · 돈",
+     "n": "여행자 보험 확인서"
+    },
+    {
+     "g": "전자 · 통신",
+     "n": "eSIM"
+    },
+    {
+     "g": "전자 · 통신",
+     "n": "멀티 어댑터"
+    },
+    {
+     "g": "전자 · 통신",
+     "n": "보조배터리"
+    },
+    {
+     "g": "전자 · 통신",
+     "n": "충전 케이블"
+    },
+    {
+     "g": "가방 · 정리",
+     "n": "캐리어"
+    },
+    {
+     "g": "가방 · 정리",
+     "n": "보조 가방"
+    },
+    {
+     "g": "가방 · 정리",
+     "n": "여행용 파우치"
+    },
+    {
+     "g": "가방 · 정리",
+     "n": "압축 파우치"
+    },
+    {
+     "g": "세면 · 위생",
+     "n": "여행용 세면도구"
+    },
+    {
+     "g": "세면 · 위생",
+     "n": "휴대용 칫솔"
+    },
+    {
+     "g": "세면 · 위생",
+     "n": "물티슈"
+    },
+    {
+     "g": "세면 · 위생",
+     "n": "손소독제"
+    },
+    {
+     "g": "상비약 · 건강",
+     "n": "상비약 키트"
+    },
+    {
+     "g": "상비약 · 건강",
+     "n": "멀미약"
+    },
+    {
+     "g": "상비약 · 건강",
+     "n": "밴드"
+    },
+    {
+     "g": "기내 · 편의",
+     "n": "목베개"
+    },
+    {
+     "g": "기내 · 편의",
+     "n": "안대"
+    },
+    {
+     "g": "기내 · 편의",
+     "n": "귀마개"
+    },
+    {
+     "g": "순례",
+     "n": "성경"
+    },
+    {
+     "g": "순례",
+     "n": "묵상 노트"
+    },
+    {
+     "g": "순례",
+     "n": "챙 넓은 모자"
+    },
+    {
+     "g": "순례",
+     "n": "긴 바지"
+    },
+    {
+     "g": "순례",
+     "n": "스카프"
+    },
+    {
+     "g": "순례",
+     "n": "등산 스틱"
+    }
+   ],
+   "key": "PILGRIM",
+   "names": {
+    "EN": "Pilgrimage",
+    "KO": "성지순례"
+   }
+  },
+  {
+   "items": [
+    {
+     "g": "서류 · 돈",
+     "n": "여권"
+    },
+    {
+     "g": "서류 · 돈",
+     "n": "여권 지갑"
+    },
+    {
+     "g": "서류 · 돈",
+     "n": "해외 결제 카드"
+    },
+    {
+     "g": "서류 · 돈",
+     "n": "여행자 보험 확인서"
+    },
+    {
+     "g": "전자 · 통신",
+     "n": "eSIM"
+    },
+    {
+     "g": "전자 · 통신",
+     "n": "멀티 어댑터"
+    },
+    {
+     "g": "전자 · 통신",
+     "n": "보조배터리"
+    },
+    {
+     "g": "전자 · 통신",
+     "n": "충전 케이블"
+    },
+    {
+     "g": "가방 · 정리",
+     "n": "캐리어"
+    },
+    {
+     "g": "가방 · 정리",
+     "n": "보조 가방"
+    },
+    {
+     "g": "가방 · 정리",
+     "n": "여행용 파우치"
+    },
+    {
+     "g": "가방 · 정리",
+     "n": "압축 파우치"
+    },
+    {
+     "g": "세면 · 위생",
+     "n": "여행용 세면도구"
+    },
+    {
+     "g": "세면 · 위생",
+     "n": "휴대용 칫솔"
+    },
+    {
+     "g": "세면 · 위생",
+     "n": "물티슈"
+    },
+    {
+     "g": "세면 · 위생",
+     "n": "손소독제"
+    },
+    {
+     "g": "상비약 · 건강",
+     "n": "상비약 키트"
+    },
+    {
+     "g": "상비약 · 건강",
+     "n": "멀미약"
+    },
+    {
+     "g": "상비약 · 건강",
+     "n": "밴드"
+    },
+    {
+     "g": "기내 · 편의",
+     "n": "목베개"
+    },
+    {
+     "g": "기내 · 편의",
+     "n": "안대"
+    },
+    {
+     "g": "기내 · 편의",
+     "n": "귀마개"
+    },
+    {
+     "g": "아이",
+     "n": "유아용 물티슈"
+    },
+    {
+     "g": "아이",
+     "n": "휴대용 유모차"
+    },
+    {
+     "g": "아이",
+     "n": "아이 간식"
+    },
+    {
+     "g": "아이",
+     "n": "아이 상비약"
+    },
+    {
+     "g": "아이",
+     "n": "색칠 놀이"
+    }
+   ],
+   "key": "FAMILY",
+   "names": {
+    "EN": "With children",
+    "KO": "아이와 함께"
+   }
+  },
+  {
+   "items": [
+    {
+     "g": "가방 · 정리",
+     "n": "보조 가방"
+    },
+    {
+     "g": "가방 · 정리",
+     "n": "여행용 파우치"
+    },
+    {
+     "g": "전자 · 통신",
+     "n": "보조배터리"
+    },
+    {
+     "g": "전자 · 통신",
+     "n": "충전 케이블"
+    },
+    {
+     "g": "세면 · 위생",
+     "n": "여행용 세면도구"
+    },
+    {
+     "g": "세면 · 위생",
+     "n": "물티슈"
+    },
+    {
+     "g": "상비약 · 건강",
+     "n": "상비약 키트"
+    },
+    {
+     "g": "상비약 · 건강",
+     "n": "밴드"
+    }
+   ],
+   "key": "DOMESTIC",
+   "names": {
+    "EN": "Domestic trip",
+    "KO": "국내 여행"
    }
   }
  ],
