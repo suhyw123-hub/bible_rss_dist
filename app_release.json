@@ -1,16 +1,32 @@
 {
- "version": "2026.11.20.4",
- "date": "2026-11-20 15:47",
- "notes": "고쳐진 곳: 쇼핑 · AI 대화 · 기도 노트 · 성경 · 플랜 · 내 서재 · 유튜브 · 최신 · 홈 · 설정 · 기타 개선 · AI 도우미",
+ "version": "2026.11.20.5",
+ "date": "2026-11-20 23:08",
+ "notes": "고쳐진 곳: 쇼핑 · AI 대화 · 기도 노트 · 때에 맞는 말씀 · 성경 · 플랜 · 서재 · 유튜브 · 최신 · 둘러보기 · 홈 · 설정 · 기타 개선 · AI 도우미 · 쇼핑몰 · 묵상플랜 · 모바일 연결 · 자료 받기·업데이트",
  "pc": {
-  "version": "2026.11.20.4",
-  "file": "app_pc_2026.11.20.4_a2064670.zip",
-  "sha256": "a2064670639a641645828c0251e0be8340b7caaa7f7eeb47ef34d3ae8546c648",
-  "size": 19072821,
+  "version": "2026.11.20.5",
+  "file": "app_pc_2026.11.20.5_a8aa75a8.zip",
+  "sha256": "a8aa75a835ab03d1898e2a52ade1ab5170f92db61f5e7e283b58d5b7ed40f144",
+  "size": 19078033,
   "areas": [
    [
     "UPD_A_AI",
     "AI 도우미"
+   ],
+   [
+    "UPD_A_SHOP",
+    "쇼핑몰"
+   ],
+   [
+    "UPD_A_PLAN",
+    "묵상플랜"
+   ],
+   [
+    "UPD_A_MOBILE",
+    "모바일 연결"
+   ],
+   [
+    "UPD_A_UPDATE",
+    "자료 받기·업데이트"
    ],
    [
     "UPD_A_ETC",
@@ -19,12 +35,12 @@
   ]
  },
  "android": {
-  "version": "2026.11.20.4",
-  "code": 2026112004,
-  "file": "app_android_2026.11.20.4_18d7a20e.apk",
-  "sha256": "18d7a20ea08a2a21e11e74c78cb1bbb367069cd3e88cbffb5ddde06eafb4c6ee",
-  "size": 33953866,
-  "url": "https://dist.asahdabar.com/app_android_2026.11.20.4_18d7a20e.apk",
+  "version": "2026.11.20.5",
+  "code": 2026112005,
+  "file": "app_android_2026.11.20.5_129ca067.apk",
+  "sha256": "129ca0673071950a08b3795b31c855009a3ebc5c7e75799397d22f9bcd01fd20",
+  "size": 33954538,
+  "url": "https://dist.asahdabar.com/app_android_2026.11.20.5_129ca067.apk",
   "areas": [
    [
     "M_TAB_SHOP2",
@@ -39,6 +55,10 @@
     "기도 노트"
    ],
    [
+    "UPD_A_TOPIC",
+    "때에 맞는 말씀"
+   ],
+   [
     "M_TAB_BIBLE",
     "성경"
    ],
@@ -48,7 +68,7 @@
    ],
    [
     "M_LIBRARY",
-    "내 서재"
+    "서재"
    ],
    [
     "M_TAB_WORSHIP",
@@ -57,6 +77,10 @@
    [
     "M_TAB_LATEST",
     "최신"
+   ],
+   [
+    "M_EXPLORE",
+    "둘러보기"
    ],
    [
     "M_TAB_HOME",
@@ -72,5 +96,5 @@
    ]
   ]
  },
- "sig": "b4e6becf9ec636933007f45704f497f839d1980edbe371b7bd2635d6f500fe515c8e5b04a154c31261fb64334ee506c111215be95dd6d4858789b8b9050c9204"
+ "sig": "8874a252d43547f99ac72e09b1d2aef835385d4708233c2c666ed358c90a3ffec7e53f1ef62873917724d21ef42b07a09a5d638670af315c0e4ea93132041b03"
 }
