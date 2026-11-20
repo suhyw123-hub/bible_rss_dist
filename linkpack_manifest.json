@@ -1397,9 +1397,9 @@
    "variant": "-",
    "note": "환경설정 양식(sys_pref_preset) 코어 표 추가",
    "title": "앱 기본 자료(연결·목록·껍데기)",
-   "version": 72,
+   "version": 77,
    "bytes": 10623966,
-   "made_at": "2026-11-19 17:32"
+   "made_at": "2026-11-20 15:49"
   },
   {
    "kind": "DESC",
@@ -1514,13 +1514,57 @@
   {
    "kind": "DESC",
    "key": "PENT",
+   "lang": "AR",
+   "variant": "-",
+   "note": "",
+   "title": "오경 설명문 (318편)",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 15:48"
+  },
+  {
+   "kind": "DESC",
+   "key": "PENT",
+   "lang": "DE",
+   "variant": "-",
+   "note": "",
+   "title": "오경 설명문 (318편)",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 15:48"
+  },
+  {
+   "kind": "DESC",
+   "key": "PENT",
    "lang": "EN",
    "variant": "-",
    "note": "",
    "title": "오경 설명문 (17,627편)",
+   "version": 2,
+   "bytes": null,
+   "made_at": "2026-11-20 15:48"
+  },
+  {
+   "kind": "DESC",
+   "key": "PENT",
+   "lang": "ES",
+   "variant": "-",
+   "note": "",
+   "title": "오경 설명문 (318편)",
    "version": 1,
    "bytes": null,
-   "made_at": "2026-11-06 23:51"
+   "made_at": "2026-11-20 15:48"
+  },
+  {
+   "kind": "DESC",
+   "key": "PENT",
+   "lang": "FR",
+   "variant": "-",
+   "note": "",
+   "title": "오경 설명문 (318편)",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 15:48"
   },
   {
    "kind": "DESC",
@@ -1529,9 +1573,53 @@
    "variant": "-",
    "note": "",
    "title": "오경 설명문 (20,039편)",
-   "version": 3,
+   "version": 4,
    "bytes": null,
-   "made_at": "2026-11-18 08:53"
+   "made_at": "2026-11-20 15:48"
+  },
+  {
+   "kind": "DESC",
+   "key": "PENT",
+   "lang": "PT",
+   "variant": "-",
+   "note": "",
+   "title": "오경 설명문 (318편)",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 15:48"
+  },
+  {
+   "kind": "DESC",
+   "key": "PENT",
+   "lang": "RU",
+   "variant": "-",
+   "note": "",
+   "title": "오경 설명문 (318편)",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 15:48"
+  },
+  {
+   "kind": "DESC",
+   "key": "PENT",
+   "lang": "ZH",
+   "variant": "-",
+   "note": "",
+   "title": "오경 설명문 (318편)",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 15:48"
+  },
+  {
+   "kind": "DESC",
+   "key": "PENT",
+   "lang": "ZHT",
+   "variant": "-",
+   "note": "",
+   "title": "오경 설명문 (318편)",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 15:48"
   },
   {
    "kind": "DESC",
