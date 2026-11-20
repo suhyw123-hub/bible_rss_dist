@@ -1,61 +1,289 @@
 {
  "alarm": {
-  "CY": {
-   "at": "2026-05-31",
-   "lv": 1,
-   "nm": "여행유의"
+  "DE": {
+   "EG": {
+    "at": "2026-11-09",
+    "lv": 3,
+    "nm": "Teilreisewarnung"
+   },
+   "LB": {
+    "at": "2026-10-29",
+    "lv": 3,
+    "nm": "Teilreisewarnung"
+   },
+   "PS": {
+    "at": "2026-10-29",
+    "lv": 4,
+    "nm": "Reisewarnung"
+   },
+   "SY": {
+    "at": "2026-10-29",
+    "lv": 4,
+    "nm": "Reisewarnung"
+   }
   },
-  "EG": {
-   "at": "2026-11-09",
-   "lv": 3,
-   "nm": "출국권고"
+  "GB": {
+   "EG": {
+    "at": "2026-10-27",
+    "lv": 3,
+    "nm": "FCDO advises against all travel to parts of the country",
+    "u": "https://www.gov.uk/foreign-travel-advice/egypt"
+   },
+   "IL": {
+    "at": "2026-11-18",
+    "lv": 3,
+    "nm": "FCDO advises against all travel to parts of the country",
+    "u": "https://www.gov.uk/foreign-travel-advice/israel"
+   },
+   "JO": {
+    "at": "2026-11-18",
+    "lv": 3,
+    "nm": "FCDO advises against all travel to parts of the country",
+    "u": "https://www.gov.uk/foreign-travel-advice/jordan"
+   },
+   "LB": {
+    "at": "2026-08-10",
+    "lv": 3,
+    "nm": "FCDO advises against all travel to parts of the country",
+    "u": "https://www.gov.uk/foreign-travel-advice/lebanon"
+   },
+   "SY": {
+    "at": "2026-11-18",
+    "lv": 4,
+    "nm": "FCDO advises against all travel",
+    "u": "https://www.gov.uk/foreign-travel-advice/syria"
+   },
+   "TR": {
+    "at": "2026-11-18",
+    "lv": 3,
+    "nm": "FCDO advises against all travel to parts of the country",
+    "u": "https://www.gov.uk/foreign-travel-advice/turkey"
+   }
   },
-  "GR": {
-   "at": "2025-10-22",
-   "lv": 1,
-   "nm": "여행유의"
+  "JP": {
+   "EG": {
+    "at": "2026-09-11",
+    "lv": 3,
+    "nm": "レベル3：渡航は止めてください。（渡航中止勧告）",
+    "rg": "一部地域",
+    "u": "https://www.anzen.mofa.go.jp/info/map/2026T082_1_Detail.html"
+   },
+   "IL": {
+    "at": "2026-09-10",
+    "lv": 4,
+    "nm": "レベル4：退避してください。渡航は止めてください。（退避勧告）",
+    "rg": "一部地域",
+    "u": "https://www.anzen.mofa.go.jp/info/map/2026T085_1_Detail.html"
+   },
+   "JO": {
+    "at": "2026-06-25",
+    "lv": 2,
+    "nm": "レベル2：不要不急の渡航は止めてください。",
+    "u": "https://www.anzen.mofa.go.jp/info/map/2026T073_1_Detail.html"
+   },
+   "LB": {
+    "at": "2026-09-10",
+    "lv": 4,
+    "nm": "レベル4：退避してください。渡航は止めてください。（退避勧告）",
+    "rg": "一部地域",
+    "u": "https://www.anzen.mofa.go.jp/info/map/2026T086_1_Detail.html"
+   },
+   "PS": {
+    "at": "2026-09-10",
+    "lv": 4,
+    "nm": "レベル4：退避してください。渡航は止めてください。（退避勧告）",
+    "rg": "一部地域",
+    "u": "https://www.anzen.mofa.go.jp/info/map/2026T085_1_Detail.html"
+   },
+   "SY": {
+    "at": "2025-04-11",
+    "lv": 4,
+    "nm": "レベル4：退避してください。渡航は止めてください。（退避勧告）",
+    "u": "https://www.anzen.mofa.go.jp/info/map/2025T035_1_Detail.html"
+   },
+   "TR": {
+    "at": "2024-05-15",
+    "lv": 4,
+    "nm": "レベル4：退避してください。渡航は止めてください。（退避勧告）",
+    "rg": "一部地域",
+    "u": "https://www.anzen.mofa.go.jp/info/map/2024T042_1_Detail.html"
+   }
   },
-  "IL": {
-   "at": "2026-09-10",
-   "lv": 4,
-   "nm": "여행금지",
-   "rg": "一部地域"
+  "KR": {
+   "CY": {
+    "lv": 3,
+    "nm": "출국권고",
+    "rg": "일부",
+    "rm": "파마구스타 내 바로샤 지역"
+   },
+   "EG": {
+    "lv": 3,
+    "nm": "출국권고",
+    "rg": "일부",
+    "rm": "중•북부 시나이 반도(1,2단계 지역 제외), 리비아 국경으로부터 30km까지"
+   },
+   "GR": {
+    "lv": 1,
+    "nm": "여행유의",
+    "rg": "전체",
+    "rm": "전 지역"
+   },
+   "IL": {
+    "lv": 4,
+    "nm": "여행금지",
+    "rg": "일부",
+    "rm": "이스라엘 북부 레바논 접경지역(국경으로부터 4km), 가자지구"
+   },
+   "IT": {
+    "lv": 1,
+    "nm": "여행유의",
+    "rg": "전체",
+    "rm": "전 지역"
+   },
+   "JO": {
+    "lv": 3,
+    "nm": "출국권고",
+    "rg": "일부",
+    "rm": "자르카 시 동편 경계선의 동부 지역"
+   },
+   "LB": {
+    "lv": 4,
+    "nm": "여행금지",
+    "rg": "일부",
+    "rm": "남부 이스라엘 접경 지역(블루라인으로부터 5km 포함), 남부주, 나바티예주, 다히예의 일부 지역(베이루트 공항 및 M51 도로 제외),바알벡헤르멜주,베카주(서베카구,라샤야구)"
+   },
+   "MT": {
+    "lv": 1,
+    "nm": "여행유의",
+    "rg": "전체",
+    "rm": "전 지역"
+   },
+   "PS": {
+    "lv": 4,
+    "nm": "여행금지",
+    "rg": "일부",
+    "rm": "이스라엘 북부 레바논 접경지역(국경으로부터 4km), 가자지구"
+   },
+   "SY": {
+    "lv": 4,
+    "nm": "여행금지",
+    "rg": "일부",
+    "rm": "3단계를 제외한 전 지역"
+   },
+   "TR": {
+    "lv": 3,
+    "nm": "출국권고",
+    "rg": "일부",
+    "rm": "빙괼, 바트만, 시이르트, 시르나크, 하카리, 시리아의 국경 10km 이내 지역"
+   }
   },
-  "IT": {
-   "at": "2026-09-09",
-   "lv": 2,
-   "nm": "여행자제"
+  "US": {
+   "CY": {
+    "at": "2026-05-31",
+    "lv": 1,
+    "nm": "Level 1: Exercise Normal Precautions",
+    "u": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.cyp.html"
+   },
+   "EG": {
+    "at": "2025-07-14",
+    "lv": 2,
+    "nm": "Level 2: Exercise Increased Caution",
+    "u": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.egy.html"
+   },
+   "GR": {
+    "at": "2025-10-22",
+    "lv": 1,
+    "nm": "Level 1: Exercise Normal Precautions",
+    "u": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.grc.html"
+   },
+   "IL": {
+    "at": "2026-10-22",
+    "lv": 3,
+    "nm": "Level 3: Reconsider Travel",
+    "u": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.isr.html"
+   },
+   "IT": {
+    "at": "2026-09-09",
+    "lv": 2,
+    "nm": "Level 2: Exercise Increased Caution",
+    "u": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.ita.html"
+   },
+   "JO": {
+    "at": "2026-10-22",
+    "lv": 3,
+    "nm": "Level 3: Reconsider Travel",
+    "u": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.jor.html"
+   },
+   "LB": {
+    "at": "2026-10-22",
+    "lv": 4,
+    "nm": "Level 4: Do Not Travel",
+    "u": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.lbn.html"
+   },
+   "MT": {
+    "at": "2026-07-08",
+    "lv": 1,
+    "nm": "Level 1: Exercise Normal Precautions",
+    "u": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.mlt.html"
+   },
+   "PS": {
+    "at": "2026-08-25",
+    "lv": 4,
+    "nm": "Level 4: Do Not Travel",
+    "rg": "Gaza",
+    "u": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.xgz.html"
+   },
+   "SY": {
+    "at": "2026-10-22",
+    "lv": 4,
+    "nm": "Level 4: Do Not Travel",
+    "u": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.syr.html"
+   },
+   "TR": {
+    "at": "2026-06-08",
+    "lv": 2,
+    "nm": "Level 2: Exercise Increased Caution",
+    "u": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.tur.html"
+   }
+  }
+ },
+ "alarm_src": {
+  "DE": {
+   "names": {
+    "DE": "Auswärtiges Amt",
+    "EN": "German Federal Foreign Office",
+    "KO": "독일 외무부"
+   },
+   "site": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-und-sicherheitshinweise"
   },
-  "JO": {
-   "at": "2026-06-25",
-   "lv": 2,
-   "nm": "여행자제"
+  "GB": {
+   "names": {
+    "EN": "UK Foreign, Commonwealth & Development Office",
+    "KO": "영국 외무부(FCDO)"
+   },
+   "site": "https://www.gov.uk/foreign-travel-advice"
   },
-  "LB": {
-   "at": "2026-10-29",
-   "lv": 3,
-   "nm": "출국권고"
+  "JP": {
+   "names": {
+    "EN": "Ministry of Foreign Affairs of Japan",
+    "JA": "外務省",
+    "KO": "일본 외무성"
+   },
+   "site": "https://www.anzen.mofa.go.jp/"
   },
-  "MT": {
-   "at": "2026-07-08",
-   "lv": 1,
-   "nm": "여행유의"
+  "KR": {
+   "names": {
+    "EN": "Ministry of Foreign Affairs, Republic of Korea",
+    "KO": "대한민국 외교부"
+   },
+   "site": "https://www.0404.go.kr"
   },
-  "PS": {
-   "at": "2026-10-29",
-   "lv": 4,
-   "nm": "여행금지"
-  },
-  "SY": {
-   "at": "2026-10-29",
-   "lv": 4,
-   "nm": "여행금지"
-  },
-  "TR": {
-   "at": "2024-05-15",
-   "lv": 4,
-   "nm": "여행금지",
-   "rg": "一部地域"
+  "US": {
+   "names": {
+    "EN": "U.S. Department of State",
+    "KO": "미국 국무부"
+   },
+   "site": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html"
   }
  },
  "best_more": [
@@ -1198,6 +1426,11 @@
     "KO": "Miracase 아이폰 16 프로 맥스 매트 케이스 · 마그네틱 · 블랙"
    },
    "sort": 10,
+   "tg": {
+    "CAT": [
+     "DIGITAL"
+    ]
+   },
    "to": "2026-12-31",
    "url": "https://www.amazon.com/dp/B0F8V7F6KX?ref=dlx_deals_dg_dcl_B0F8V7F6KX_dt_sl14_0c_pi&pf_rd_r=CWPKQ46JE25MSRF6CQQT&pf_rd_p=1bc57a75-72bb-4964-82be-095fd4a7bf0c&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D"
   },
@@ -1217,6 +1450,19 @@
     "KO": "아마존 e기프트카드"
    },
    "sort": 50,
+   "tg": {
+    "CAT": [
+     "GIFT_CARD"
+    ],
+    "GIFT_WHEN": [
+     "BIRTHDAY",
+     "THANKS"
+    ],
+    "GIFT_WHO": [
+     "COWORKER",
+     "FRIEND"
+    ]
+   },
    "to": "2026-12-31",
    "url": "https://www.amazon.com/dp/B07PCMWTSG"
   },
@@ -1239,10 +1485,15 @@
    },
    "price": 90,
    "rank": 1,
-   "rank_at": "2026-11-11",
+   "rank_at": "2026-11-19",
    "rank_by": "시험 순위",
    "sort": 50,
-   "to": "2026-12-02",
+   "tg": {
+    "BOOK_SUB": [
+     "FAITH:BIBLE"
+    ]
+   },
+   "to": "2026-12-10",
    "url": "https://www.amazon.com.br/s?k=Holy%20Bible%20NVI%20Large%20Print&i=stripbooks",
    "was": 110
   },
@@ -1262,6 +1513,14 @@
     "KO": "성찬 컵·떡 세트 100개"
    },
    "sort": 51,
+   "tg": {
+    "CAT": [
+     "CHURCH_WORSHIP"
+    ],
+    "PREP": [
+     "성찬 컵"
+    ]
+   },
    "to": "2026-12-31",
    "url": "https://www.amazon.com/dp/B015X6ETYS"
   },
@@ -1284,9 +1543,14 @@
    },
    "price": 45,
    "rank": 2,
-   "rank_at": "2026-11-11",
+   "rank_at": "2026-11-19",
    "rank_by": "시험 순위",
    "sort": 51,
+   "tg": {
+    "BOOK_SUB": [
+     "FAITH:THEOLOGY"
+    ]
+   },
    "to": "",
    "url": "https://www.amazon.com.br/s?k=Mere%20Christianity&i=stripbooks"
   },
@@ -1306,6 +1570,14 @@
     "KO": "여름성경학교 벽 장식 6종"
    },
    "sort": 52,
+   "tg": {
+    "CAT": [
+     "CHURCH_EVENT"
+    ],
+    "PREP": [
+     "벽 장식"
+    ]
+   },
    "to": "2026-12-31",
    "url": "https://www.amazon.com/dp/B0DSW166NS"
   },
@@ -1328,9 +1600,14 @@
    },
    "price": 30,
    "rank": 3,
-   "rank_at": "2026-11-11",
+   "rank_at": "2026-11-19",
    "rank_by": "시험 순위",
    "sort": 52,
+   "tg": {
+    "BOOK_SUB": [
+     "FAITH:LIFE"
+    ]
+   },
    "to": "",
    "url": "https://www.amazon.com.br/s?k=The%20Pilgrim%27s%20Progress&i=stripbooks"
   },
@@ -1350,6 +1627,14 @@
     "KO": "크리스탈 가이저 생수 24병"
    },
    "sort": 53,
+   "tg": {
+    "CAT": [
+     "FOOD"
+    ],
+    "PREP": [
+     "생수"
+    ]
+   },
    "to": "2026-12-31",
    "url": "https://www.amazon.com/dp/B001B48RCC"
   },
@@ -1372,9 +1657,14 @@
    },
    "price": 40,
    "rank": 4,
-   "rank_at": "2026-11-11",
+   "rank_at": "2026-11-19",
    "rank_by": "시험 순위",
    "sort": 53,
+   "tg": {
+    "BOOK_SUB": [
+     "FAITH:FAMILY"
+    ]
+   },
    "to": "",
    "url": "https://www.amazon.com.br/s?k=Shielded%20Marriage&i=stripbooks"
   },
@@ -1394,6 +1684,11 @@
     "KO": "바운티 키친타월 8롤"
    },
    "sort": 54,
+   "tg": {
+    "CAT": [
+     "LIVING"
+    ]
+   },
    "to": "2026-12-31",
    "url": "https://www.amazon.com/dp/B0DQYP1L95"
   },
@@ -1416,9 +1711,14 @@
    },
    "price": 20,
    "rank": 1,
-   "rank_at": "2026-11-11",
+   "rank_at": "2026-11-19",
    "rank_by": "시험 순위",
    "sort": 54,
+   "tg": {
+    "BOOK_SUB": [
+     "GENERAL:NOVEL"
+    ]
+   },
    "to": "",
    "url": "https://www.amazon.com.br/s?k=Dom%20Casmurro&i=stripbooks"
   },
@@ -1438,6 +1738,14 @@
     "KO": "카로테 논스틱 프라이팬 20cm"
    },
    "sort": 55,
+   "tg": {
+    "CAT": [
+     "KITCHEN"
+    ],
+    "GIFT_WHEN": [
+     "MOVE"
+    ]
+   },
    "to": "2026-12-31",
    "url": "https://www.amazon.com/dp/B0732NXYNS"
   },
@@ -1460,9 +1768,14 @@
    },
    "price": 50,
    "rank": 1,
-   "rank_at": "2026-11-11",
+   "rank_at": "2026-11-19",
    "rank_by": "시험 순위",
    "sort": 55,
+   "tg": {
+    "BOOK_SUB": [
+     "GENERAL:BIZ"
+    ]
+   },
    "to": "",
    "url": "https://www.amazon.com.br/s?k=Rich%20Dad%20Poor%20Dad&i=stripbooks"
   },
@@ -1482,6 +1795,17 @@
     "KO": "휴대용 구급상자 150종"
    },
    "sort": 56,
+   "tg": {
+    "CAT": [
+     "HEALTH"
+    ],
+    "PREP": [
+     "구급상자"
+    ],
+    "TRIP": [
+     "상비약 키트"
+    ]
+   },
    "to": "2026-12-31",
    "url": "https://www.amazon.com/dp/B0DB794BKQ"
   },
@@ -1501,6 +1825,26 @@
     "KO": "시어버터 핸드크림 선물 세트"
    },
    "sort": 57,
+   "tg": {
+    "CAT": [
+     "BEAUTY"
+    ],
+    "GIFT_WHEN": [
+     "BIRTHDAY",
+     "THANKS"
+    ],
+    "GIFT_WHO": [
+     "COWORKER",
+     "FRIEND",
+     "PARENT",
+     "TEACHER"
+    ],
+    "SEASON": [
+     "CHUSEOK",
+     "LUNAR",
+     "WINTER"
+    ]
+   },
    "to": "2026-12-31",
    "url": "https://www.amazon.com/dp/B0CC8Z27D1"
   },
@@ -1520,6 +1864,24 @@
     "KO": "그림으로 보는 어린이 성경"
    },
    "sort": 58,
+   "tg": {
+    "AGE": [
+     "KID"
+    ],
+    "CAT": [
+     "KIDS"
+    ],
+    "GIFT_WHEN": [
+     "BIRTHDAY",
+     "HOLIDAY"
+    ],
+    "GIFT_WHO": [
+     "KID"
+    ],
+    "SEASON": [
+     "XMAS"
+    ]
+   },
    "to": "2026-12-31",
    "url": "https://www.amazon.com/dp/B0HLDX9J9J"
   },
@@ -1542,6 +1904,11 @@
     "KO": "ESV 노트 성경(저널링 바이블)"
    },
    "sort": 59,
+   "tg": {
+    "BOOK_SUB": [
+     "FAITH:BIBLE"
+    ]
+   },
    "to": "2026-12-31",
    "url": "https://www.amazon.com/dp/B0DHW69RG6"
   },
@@ -1561,6 +1928,21 @@
     "KO": "블루투스 무선 이어폰"
    },
    "sort": 60,
+   "tg": {
+    "CAT": [
+     "DIGITAL"
+    ],
+    "GIFT_WHEN": [
+     "ENTER",
+     "GRAD"
+    ],
+    "GIFT_WHO": [
+     "STUDENT"
+    ],
+    "SEASON": [
+     "SCHOOL"
+    ]
+   },
    "to": "2026-12-31",
    "url": "https://www.amazon.com/dp/B0HDB173YV"
   }
@@ -6995,5 +7377,5 @@
    }
   }
  ],
- "version": 66
+ "version": 67
 }

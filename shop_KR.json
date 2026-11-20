@@ -1,61 +1,289 @@
 {
  "alarm": {
-  "CY": {
-   "at": "2026-05-31",
-   "lv": 1,
-   "nm": "여행유의"
+  "DE": {
+   "EG": {
+    "at": "2026-11-09",
+    "lv": 3,
+    "nm": "Teilreisewarnung"
+   },
+   "LB": {
+    "at": "2026-10-29",
+    "lv": 3,
+    "nm": "Teilreisewarnung"
+   },
+   "PS": {
+    "at": "2026-10-29",
+    "lv": 4,
+    "nm": "Reisewarnung"
+   },
+   "SY": {
+    "at": "2026-10-29",
+    "lv": 4,
+    "nm": "Reisewarnung"
+   }
   },
-  "EG": {
-   "at": "2026-11-09",
-   "lv": 3,
-   "nm": "출국권고"
+  "GB": {
+   "EG": {
+    "at": "2026-10-27",
+    "lv": 3,
+    "nm": "FCDO advises against all travel to parts of the country",
+    "u": "https://www.gov.uk/foreign-travel-advice/egypt"
+   },
+   "IL": {
+    "at": "2026-11-18",
+    "lv": 3,
+    "nm": "FCDO advises against all travel to parts of the country",
+    "u": "https://www.gov.uk/foreign-travel-advice/israel"
+   },
+   "JO": {
+    "at": "2026-11-18",
+    "lv": 3,
+    "nm": "FCDO advises against all travel to parts of the country",
+    "u": "https://www.gov.uk/foreign-travel-advice/jordan"
+   },
+   "LB": {
+    "at": "2026-08-10",
+    "lv": 3,
+    "nm": "FCDO advises against all travel to parts of the country",
+    "u": "https://www.gov.uk/foreign-travel-advice/lebanon"
+   },
+   "SY": {
+    "at": "2026-11-18",
+    "lv": 4,
+    "nm": "FCDO advises against all travel",
+    "u": "https://www.gov.uk/foreign-travel-advice/syria"
+   },
+   "TR": {
+    "at": "2026-11-18",
+    "lv": 3,
+    "nm": "FCDO advises against all travel to parts of the country",
+    "u": "https://www.gov.uk/foreign-travel-advice/turkey"
+   }
   },
-  "GR": {
-   "at": "2025-10-22",
-   "lv": 1,
-   "nm": "여행유의"
+  "JP": {
+   "EG": {
+    "at": "2026-09-11",
+    "lv": 3,
+    "nm": "レベル3：渡航は止めてください。（渡航中止勧告）",
+    "rg": "一部地域",
+    "u": "https://www.anzen.mofa.go.jp/info/map/2026T082_1_Detail.html"
+   },
+   "IL": {
+    "at": "2026-09-10",
+    "lv": 4,
+    "nm": "レベル4：退避してください。渡航は止めてください。（退避勧告）",
+    "rg": "一部地域",
+    "u": "https://www.anzen.mofa.go.jp/info/map/2026T085_1_Detail.html"
+   },
+   "JO": {
+    "at": "2026-06-25",
+    "lv": 2,
+    "nm": "レベル2：不要不急の渡航は止めてください。",
+    "u": "https://www.anzen.mofa.go.jp/info/map/2026T073_1_Detail.html"
+   },
+   "LB": {
+    "at": "2026-09-10",
+    "lv": 4,
+    "nm": "レベル4：退避してください。渡航は止めてください。（退避勧告）",
+    "rg": "一部地域",
+    "u": "https://www.anzen.mofa.go.jp/info/map/2026T086_1_Detail.html"
+   },
+   "PS": {
+    "at": "2026-09-10",
+    "lv": 4,
+    "nm": "レベル4：退避してください。渡航は止めてください。（退避勧告）",
+    "rg": "一部地域",
+    "u": "https://www.anzen.mofa.go.jp/info/map/2026T085_1_Detail.html"
+   },
+   "SY": {
+    "at": "2025-04-11",
+    "lv": 4,
+    "nm": "レベル4：退避してください。渡航は止めてください。（退避勧告）",
+    "u": "https://www.anzen.mofa.go.jp/info/map/2025T035_1_Detail.html"
+   },
+   "TR": {
+    "at": "2024-05-15",
+    "lv": 4,
+    "nm": "レベル4：退避してください。渡航は止めてください。（退避勧告）",
+    "rg": "一部地域",
+    "u": "https://www.anzen.mofa.go.jp/info/map/2024T042_1_Detail.html"
+   }
   },
-  "IL": {
-   "at": "2026-09-10",
-   "lv": 4,
-   "nm": "여행금지",
-   "rg": "一部地域"
+  "KR": {
+   "CY": {
+    "lv": 3,
+    "nm": "출국권고",
+    "rg": "일부",
+    "rm": "파마구스타 내 바로샤 지역"
+   },
+   "EG": {
+    "lv": 3,
+    "nm": "출국권고",
+    "rg": "일부",
+    "rm": "중•북부 시나이 반도(1,2단계 지역 제외), 리비아 국경으로부터 30km까지"
+   },
+   "GR": {
+    "lv": 1,
+    "nm": "여행유의",
+    "rg": "전체",
+    "rm": "전 지역"
+   },
+   "IL": {
+    "lv": 4,
+    "nm": "여행금지",
+    "rg": "일부",
+    "rm": "이스라엘 북부 레바논 접경지역(국경으로부터 4km), 가자지구"
+   },
+   "IT": {
+    "lv": 1,
+    "nm": "여행유의",
+    "rg": "전체",
+    "rm": "전 지역"
+   },
+   "JO": {
+    "lv": 3,
+    "nm": "출국권고",
+    "rg": "일부",
+    "rm": "자르카 시 동편 경계선의 동부 지역"
+   },
+   "LB": {
+    "lv": 4,
+    "nm": "여행금지",
+    "rg": "일부",
+    "rm": "남부 이스라엘 접경 지역(블루라인으로부터 5km 포함), 남부주, 나바티예주, 다히예의 일부 지역(베이루트 공항 및 M51 도로 제외),바알벡헤르멜주,베카주(서베카구,라샤야구)"
+   },
+   "MT": {
+    "lv": 1,
+    "nm": "여행유의",
+    "rg": "전체",
+    "rm": "전 지역"
+   },
+   "PS": {
+    "lv": 4,
+    "nm": "여행금지",
+    "rg": "일부",
+    "rm": "이스라엘 북부 레바논 접경지역(국경으로부터 4km), 가자지구"
+   },
+   "SY": {
+    "lv": 4,
+    "nm": "여행금지",
+    "rg": "일부",
+    "rm": "3단계를 제외한 전 지역"
+   },
+   "TR": {
+    "lv": 3,
+    "nm": "출국권고",
+    "rg": "일부",
+    "rm": "빙괼, 바트만, 시이르트, 시르나크, 하카리, 시리아의 국경 10km 이내 지역"
+   }
   },
-  "IT": {
-   "at": "2026-09-09",
-   "lv": 2,
-   "nm": "여행자제"
+  "US": {
+   "CY": {
+    "at": "2026-05-31",
+    "lv": 1,
+    "nm": "Level 1: Exercise Normal Precautions",
+    "u": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.cyp.html"
+   },
+   "EG": {
+    "at": "2025-07-14",
+    "lv": 2,
+    "nm": "Level 2: Exercise Increased Caution",
+    "u": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.egy.html"
+   },
+   "GR": {
+    "at": "2025-10-22",
+    "lv": 1,
+    "nm": "Level 1: Exercise Normal Precautions",
+    "u": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.grc.html"
+   },
+   "IL": {
+    "at": "2026-10-22",
+    "lv": 3,
+    "nm": "Level 3: Reconsider Travel",
+    "u": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.isr.html"
+   },
+   "IT": {
+    "at": "2026-09-09",
+    "lv": 2,
+    "nm": "Level 2: Exercise Increased Caution",
+    "u": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.ita.html"
+   },
+   "JO": {
+    "at": "2026-10-22",
+    "lv": 3,
+    "nm": "Level 3: Reconsider Travel",
+    "u": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.jor.html"
+   },
+   "LB": {
+    "at": "2026-10-22",
+    "lv": 4,
+    "nm": "Level 4: Do Not Travel",
+    "u": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.lbn.html"
+   },
+   "MT": {
+    "at": "2026-07-08",
+    "lv": 1,
+    "nm": "Level 1: Exercise Normal Precautions",
+    "u": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.mlt.html"
+   },
+   "PS": {
+    "at": "2026-08-25",
+    "lv": 4,
+    "nm": "Level 4: Do Not Travel",
+    "rg": "Gaza",
+    "u": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.xgz.html"
+   },
+   "SY": {
+    "at": "2026-10-22",
+    "lv": 4,
+    "nm": "Level 4: Do Not Travel",
+    "u": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.syr.html"
+   },
+   "TR": {
+    "at": "2026-06-08",
+    "lv": 2,
+    "nm": "Level 2: Exercise Increased Caution",
+    "u": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.tur.html"
+   }
+  }
+ },
+ "alarm_src": {
+  "DE": {
+   "names": {
+    "DE": "Auswärtiges Amt",
+    "EN": "German Federal Foreign Office",
+    "KO": "독일 외무부"
+   },
+   "site": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-und-sicherheitshinweise"
   },
-  "JO": {
-   "at": "2026-06-25",
-   "lv": 2,
-   "nm": "여행자제"
+  "GB": {
+   "names": {
+    "EN": "UK Foreign, Commonwealth & Development Office",
+    "KO": "영국 외무부(FCDO)"
+   },
+   "site": "https://www.gov.uk/foreign-travel-advice"
   },
-  "LB": {
-   "at": "2026-10-29",
-   "lv": 3,
-   "nm": "출국권고"
+  "JP": {
+   "names": {
+    "EN": "Ministry of Foreign Affairs of Japan",
+    "JA": "外務省",
+    "KO": "일본 외무성"
+   },
+   "site": "https://www.anzen.mofa.go.jp/"
   },
-  "MT": {
-   "at": "2026-07-08",
-   "lv": 1,
-   "nm": "여행유의"
+  "KR": {
+   "names": {
+    "EN": "Ministry of Foreign Affairs, Republic of Korea",
+    "KO": "대한민국 외교부"
+   },
+   "site": "https://www.0404.go.kr"
   },
-  "PS": {
-   "at": "2026-10-29",
-   "lv": 4,
-   "nm": "여행금지"
-  },
-  "SY": {
-   "at": "2026-10-29",
-   "lv": 4,
-   "nm": "여행금지"
-  },
-  "TR": {
-   "at": "2024-05-15",
-   "lv": 4,
-   "nm": "여행금지",
-   "rg": "一部地域"
+  "US": {
+   "names": {
+    "EN": "U.S. Department of State",
+    "KO": "미국 국무부"
+   },
+   "site": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html"
   }
  },
  "best_more": [
@@ -1141,6 +1369,11 @@
     "KO": "Miracase 아이폰 16 프로 맥스 매트 케이스 · 마그네틱 · 블랙"
    },
    "sort": 10,
+   "tg": {
+    "CAT": [
+     "DIGITAL"
+    ]
+   },
    "to": "2026-12-31",
    "url": "https://www.amazon.com/dp/B0F8V7F6KX?ref=dlx_deals_dg_dcl_B0F8V7F6KX_dt_sl14_0c_pi&pf_rd_r=CWPKQ46JE25MSRF6CQQT&pf_rd_p=1bc57a75-72bb-4964-82be-095fd4a7bf0c&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D"
   },
@@ -1160,6 +1393,22 @@
     "KO": "페스티브 코롱 듀오"
    },
    "sort": 10,
+   "tg": {
+    "CAT": [
+     "BEAUTY"
+    ],
+    "GIFT_WHEN": [
+     "BIRTHDAY",
+     "HOLIDAY"
+    ],
+    "GIFT_WHO": [
+     "FRIEND",
+     "SPOUSE"
+    ],
+    "SEASON": [
+     "XMAS"
+    ]
+   },
    "to": "2026-12-31",
    "url": "https://gift.kakao.com/product/12407907"
   },
@@ -1198,6 +1447,20 @@
     "KO": "스타벅스 기프티콘"
    },
    "sort": 20,
+   "tg": {
+    "CAT": [
+     "GIFT_CARD"
+    ],
+    "GIFT_WHEN": [
+     "BIRTHDAY",
+     "THANKS"
+    ],
+    "GIFT_WHO": [
+     "COWORKER",
+     "FRIEND",
+     "TEACHER"
+    ]
+   },
    "to": "2026-12-31",
    "url": "https://smartstore.naver.com/kpin/products/11127498814?nl-ts-pid=jWVKswqos5wssfeuvGK-463144&n_media=684925&n_query=%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4%EA%B8%B0%ED%94%84%ED%8B%B0%EC%BD%98&n_rank=1&n_ad_group=grp-a001-02-000000046923040&n_ad=nad-a001-02-000000340601505&n_campaign_type=2&n_mall_id=ncp_1ojuzh_01&n_mall_pid=11127498814&n_ad_group_type=2&n_match=3&NaPm=ct%3Dmvknc5ac%7Cci%3DER0d18e86d%2Dceb3%2D11f1%2D83c9%2D26fec18b87ba%7Ctr%3Dplan%7Chk%3Db4b9f7f08cc81e61df51892cef80d5431f68da8e%7Cnacn%3D9h5nBIh780CfB"
   },
@@ -1256,6 +1519,14 @@
    "pa": "2026-11-19 20:31",
    "price": 12900,
    "sort": 40,
+   "tg": {
+    "CAT": [
+     "TRAVEL_GOODS"
+    ],
+    "TRIP": [
+     "eSIM"
+    ]
+   },
    "to": "2026-12-31",
    "url": "https://www.coupang.com/np/search?q=%EC%9D%BC%EB%B3%B8%20eSIM%205%EC%9D%BC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%AC%B4%EC%A0%9C%ED%95%9C"
   },
@@ -1276,6 +1547,11 @@
    "pa": "2026-11-19 20:31",
    "price": 19800,
    "sort": 40,
+   "tg": {
+    "CAT": [
+     "TRAVEL_GOODS"
+    ]
+   },
    "to": "2026-12-31",
    "url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EC%8A%A4%EB%9D%BC%EC%97%98%20%EC%97%AC%ED%96%89%20%EC%9C%A0%EC%8B%AC%207%EC%9D%BC"
   },
@@ -1296,6 +1572,14 @@
    "pa": "2026-11-19 20:31",
    "price": 15900,
    "sort": 40,
+   "tg": {
+    "CAT": [
+     "DIGITAL"
+    ],
+    "TRIP": [
+     "멀티 어댑터"
+    ]
+   },
    "to": "2026-12-31",
    "url": "https://www.coupang.com/np/search?q=%EC%97%AC%ED%96%89%EC%9A%A9%20%EB%A9%80%ED%8B%B0%20%EC%96%B4%EB%8C%91%ED%84%B0%20USB-C"
   },
@@ -1316,6 +1600,14 @@
    "pa": "2026-11-19 20:31",
    "price": 89000,
    "sort": 40,
+   "tg": {
+    "CAT": [
+     "TRAVEL_GOODS"
+    ],
+    "TRIP": [
+     "캐리어"
+    ]
+   },
    "to": "2026-12-31",
    "url": "https://www.coupang.com/np/search?q=%EA%B8%B0%EB%82%B4%EC%9A%A9%20%EC%BA%90%EB%A6%AC%EC%96%B4%2020%EC%9D%B8%EC%B9%98"
   },
@@ -1336,6 +1628,14 @@
    "pa": "2026-11-19 20:31",
    "price": 12900,
    "sort": 40,
+   "tg": {
+    "CAT": [
+     "TRAVEL_GOODS"
+    ],
+    "TRIP": [
+     "목베개"
+    ]
+   },
    "to": "2026-12-31",
    "url": "https://www.coupang.com/np/search?q=%EB%A9%94%EB%AA%A8%EB%A6%AC%ED%8F%BC%20%EC%97%AC%ED%96%89%20%EB%AA%A9%EB%B2%A0%EA%B0%9C"
   },
@@ -1356,6 +1656,14 @@
    "pa": "2026-11-19 20:31",
    "price": 9900,
    "sort": 40,
+   "tg": {
+    "CAT": [
+     "TRAVEL_GOODS"
+    ],
+    "TRIP": [
+     "여행용 파우치"
+    ]
+   },
    "to": "2026-12-31",
    "url": "https://www.coupang.com/np/search?q=%EC%97%AC%ED%96%89%EC%9A%A9%20%ED%8C%8C%EC%9A%B0%EC%B9%98%206%EC%A2%85%20%EC%84%B8%ED%8A%B8"
   },
@@ -1376,6 +1684,11 @@
    "pa": "2026-11-19 20:31",
    "price": 19800,
    "sort": 40,
+   "tg": {
+    "CUSTOM": [
+     "PHOTOBOOK"
+    ]
+   },
    "to": "2026-12-31",
    "url": "https://www.coupang.com/np/search?q=%ED%95%98%EB%93%9C%EC%BB%A4%EB%B2%84%20%ED%8F%AC%ED%86%A0%EB%B6%81%2020p"
   },
@@ -1396,6 +1709,17 @@
    "pa": "2026-11-19 20:31",
    "price": 24900,
    "sort": 40,
+   "tg": {
+    "CAT": [
+     "KITCHEN"
+    ],
+    "CUSTOM": [
+     "ENGRAVE"
+    ],
+    "SEASON": [
+     "SUMMER"
+    ]
+   },
    "to": "2026-12-31",
    "url": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%A6%84%20%EA%B0%81%EC%9D%B8%20%ED%85%80%EB%B8%94%EB%9F%AC%20500ml"
   },
@@ -1416,6 +1740,14 @@
    "pa": "2026-11-19 20:31",
    "price": 8900,
    "sort": 40,
+   "tg": {
+    "CAT": [
+     "CHURCH_EVENT"
+    ],
+    "CUSTOM": [
+     "APPAREL"
+    ]
+   },
    "to": "2026-12-31",
    "url": "https://www.coupang.com/np/search?q=%EB%8B%A8%EC%B2%B4%ED%8B%B0%20%EC%A0%9C%EC%9E%91%20%EB%9D%BC%EC%9A%B4%EB%93%9C%20%EB%B0%98%ED%8C%94"
   },
@@ -1436,6 +1768,11 @@
    "pa": "2026-11-19 20:31",
    "price": 12900,
    "sort": 40,
+   "tg": {
+    "CUSTOM": [
+     "MUG"
+    ]
+   },
    "to": "2026-12-31",
    "url": "https://www.coupang.com/np/search?q=%EC%82%AC%EC%A7%84%20%EB%A8%B8%EA%B7%B8%EC%BB%B5%20%EC%A0%9C%EC%9E%91"
   },
@@ -1456,6 +1793,14 @@
    "pa": "2026-11-19 21:00",
    "price": 29900,
    "sort": 40,
+   "tg": {
+    "CAT": [
+     "DIGITAL"
+    ],
+    "TRIP": [
+     "보조배터리"
+    ]
+   },
    "to": "2026-12-31",
    "url": "https://www.coupang.com/np/search?q=%EB%8C%80%EC%9A%A9%EB%9F%89%20%EB%B3%B4%EC%A1%B0%EB%B0%B0%ED%84%B0%EB%A6%AC%2020000mAh"
   },
@@ -1476,6 +1821,11 @@
    "pa": "2026-11-19 21:00",
    "price": 8900,
    "sort": 40,
+   "tg": {
+    "TRIP": [
+     "모기 기피제"
+    ]
+   },
    "to": "2026-12-31",
    "url": "https://www.coupang.com/np/search?q=%EB%AA%A8%EA%B8%B0%20%EA%B8%B0%ED%94%BC%EC%A0%9C%20%EC%8A%A4%ED%94%84%EB%A0%88%EC%9D%B4"
   },
@@ -1496,6 +1846,11 @@
    "pa": "2026-11-19 21:00",
    "price": 6900,
    "sort": 40,
+   "tg": {
+    "TRIP": [
+     "방수팩"
+    ]
+   },
    "to": "2026-12-31",
    "url": "https://www.coupang.com/np/search?q=%EB%B0%A9%EC%88%98%ED%8C%A9%20%ED%9C%B4%EB%8C%80%ED%8F%B0%EC%9A%A9"
   },
@@ -1516,6 +1871,14 @@
    "pa": "2026-11-19 21:00",
    "price": 12900,
    "sort": 40,
+   "tg": {
+    "CAT": [
+     "TRAVEL_GOODS"
+    ],
+    "TRIP": [
+     "여행용 세면도구"
+    ]
+   },
    "to": "2026-12-31",
    "url": "https://www.coupang.com/np/search?q=%EC%97%AC%ED%96%89%EC%9A%A9%20%EC%84%B8%EB%A9%B4%EB%8F%84%EA%B5%AC%20%EC%84%B8%ED%8A%B8"
   },
@@ -1536,6 +1899,14 @@
    "pa": "2026-11-19 21:00",
    "price": 15900,
    "sort": 40,
+   "tg": {
+    "CAT": [
+     "TRAVEL_GOODS"
+    ],
+    "TRIP": [
+     "상비약 키트"
+    ]
+   },
    "to": "2026-12-31",
    "url": "https://www.coupang.com/np/search?q=%EC%83%81%EB%B9%84%EC%95%BD%20%ED%82%A4%ED%8A%B8%20%EC%97%AC%ED%96%89%EC%9A%A9"
   },
@@ -1555,6 +1926,19 @@
     "KO": "아마존 e기프트카드"
    },
    "sort": 50,
+   "tg": {
+    "CAT": [
+     "GIFT_CARD"
+    ],
+    "GIFT_WHEN": [
+     "BIRTHDAY",
+     "THANKS"
+    ],
+    "GIFT_WHO": [
+     "COWORKER",
+     "FRIEND"
+    ]
+   },
    "to": "2026-12-31",
    "url": "https://www.amazon.com/dp/B07PCMWTSG"
   },
@@ -1572,6 +1956,19 @@
    },
    "price": 9000,
    "sort": 50,
+   "tg": {
+    "CAT": [
+     "GIFT_CARD"
+    ],
+    "GIFT_WHEN": [
+     "THANKS"
+    ],
+    "GIFT_WHO": [
+     "COWORKER",
+     "FRIEND",
+     "TEACHER"
+    ]
+   },
    "to": "",
    "url": "https://gift.kakao.com/search/result?query=%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4%20%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4%EB%85%B8%20T%202%EC%9E%94"
   },
@@ -1589,6 +1986,11 @@
    },
    "price": 98000,
    "sort": 50,
+   "tg": {
+    "CAT": [
+     "CHURCH_WORSHIP"
+    ]
+   },
    "to": "",
    "url": "https://gift.kakao.com/search/result?query=%EA%B0%9C%EC%97%AD%EA%B0%9C%EC%A0%95%20%EA%B0%95%EB%8C%80%EC%83%81%20%EC%84%B1%EA%B2%BD%20%EB%8C%80%ED%98%95"
   },
@@ -1606,6 +2008,14 @@
    },
    "price": 12800,
    "sort": 50,
+   "tg": {
+    "CAT": [
+     "FOOD"
+    ],
+    "PREP": [
+     "생수"
+    ]
+   },
    "to": "",
    "url": "https://search.shopping.naver.com/ns/search?query=%EC%82%BC%EB%8B%A4%EC%88%98%202L%2012%EB%B3%91"
   },
@@ -1623,6 +2033,17 @@
    },
    "price": 160000,
    "sort": 50,
+   "tg": {
+    "PREP": [
+     "단체 티셔츠"
+    ],
+    "SEASON": [
+     "NEWYEAR"
+    ],
+    "TRIP": [
+     "성경"
+    ]
+   },
    "to": "",
    "url": "https://www.coupang.com/np/search?q=%EC%97%AC%EB%A6%84%EC%84%B1%EA%B2%BD%ED%95%99%EA%B5%90%20%EB%8B%A8%EC%B2%B4%20%ED%8B%B0%EC%85%94%EC%B8%A0%2020%EC%9E%A5"
   },
@@ -1640,6 +2061,14 @@
    },
    "price": 11900,
    "sort": 50,
+   "tg": {
+    "CAT": [
+     "KITCHEN"
+    ],
+    "PREP": [
+     "행주"
+    ]
+   },
    "to": "",
    "url": "https://gift.kakao.com/search/result?query=%EA%B5%90%ED%9A%8C%20%EC%A3%BC%EB%B0%A9%20%ED%96%89%EC%A3%BC%2030%EB%A7%A4"
   },
@@ -1657,6 +2086,14 @@
    },
    "price": 69000,
    "sort": 50,
+   "tg": {
+    "CAT": [
+     "KITCHEN"
+    ],
+    "PREP": [
+     "들통"
+    ]
+   },
    "to": "",
    "url": "https://www.coupang.com/np/search?q=%EB%8C%80%ED%98%95%20%EB%93%A4%ED%86%B5%20%EC%8A%A4%ED%85%8C%EC%9D%B8%EB%A6%AC%EC%8A%A4%2040cm"
   },
@@ -1674,6 +2111,11 @@
    },
    "price": 19900,
    "sort": 50,
+   "tg": {
+    "CAT": [
+     "HEALTH"
+    ]
+   },
    "to": "",
    "url": "https://search.shopping.naver.com/ns/search?query=KF94%20%EB%A7%88%EC%8A%A4%ED%81%AC%20%EB%8C%80%ED%98%95%20100%EB%A7%A4"
   },
@@ -1691,6 +2133,26 @@
    },
    "price": 15900,
    "sort": 50,
+   "tg": {
+    "CAT": [
+     "BEAUTY"
+    ],
+    "GIFT_WHEN": [
+     "BIRTHDAY",
+     "THANKS"
+    ],
+    "GIFT_WHO": [
+     "COWORKER",
+     "FRIEND",
+     "PARENT",
+     "TEACHER"
+    ],
+    "SEASON": [
+     "CHUSEOK",
+     "LUNAR",
+     "WINTER"
+    ]
+   },
    "to": "",
    "url": "https://gift.kakao.com/search/result?query=%ED%95%B8%EB%93%9C%ED%81%AC%EB%A6%BC%20%EC%84%A0%EB%AC%BC%20%EC%84%B8%ED%8A%B8%205%EC%A2%85"
   },
@@ -1708,6 +2170,23 @@
    },
    "price": 18000,
    "sort": 50,
+   "tg": {
+    "AGE": [
+     "KID"
+    ],
+    "CAT": [
+     "KIDS"
+    ],
+    "GIFT_WHO": [
+     "KID"
+    ],
+    "SEASON": [
+     "NEWYEAR"
+    ],
+    "TRIP": [
+     "성경"
+    ]
+   },
    "to": "",
    "url": "https://www.coupang.com/np/search?q=%EC%96%B4%EB%A6%B0%EC%9D%B4%20%EA%B7%B8%EB%A6%BC%20%EC%84%B1%EA%B2%BD"
   },
@@ -1728,9 +2207,14 @@
    },
    "price": 25000,
    "rank": 2,
-   "rank_at": "2026-11-11",
+   "rank_at": "2026-11-19",
    "rank_by": "시험 순위",
    "sort": 50,
+   "tg": {
+    "BOOK_SUB": [
+     "FAITH:BIBLE"
+    ]
+   },
    "to": "",
    "url": "https://www.coupang.com/np/search?q=%EA%B0%9C%EC%97%AD%EA%B0%9C%EC%A0%95%20%EC%84%B1%EA%B2%BD%20%EC%A4%91%20%EB%8B%A8%EB%B3%B8%20%EC%83%89%EC%9D%B8"
   },
@@ -1748,7 +2232,15 @@
    },
    "price": 39000,
    "sort": 50,
-   "to": "2026-12-07",
+   "tg": {
+    "CAT": [
+     "DIGITAL"
+    ],
+    "PREP": [
+     "블루투스 스피커"
+    ]
+   },
+   "to": "2026-12-15",
    "url": "https://search.shopping.naver.com/ns/search?query=%EB%B8%94%EB%A3%A8%ED%88%AC%EC%8A%A4%20%ED%9C%B4%EB%8C%80%EC%9A%A9%20%EC%8A%A4%ED%94%BC%EC%BB%A4",
    "was": 49000
   },
@@ -1758,8 +2250,8 @@
    "days": 8,
    "deliver": "LINK",
    "departs": [
-    "2026-12-22",
-    "2027-01-21"
+    "2026-12-30",
+    "2027-01-29"
    ],
    "descs": {},
    "from": "",
@@ -1775,7 +2267,18 @@
    ],
    "price": 2890000,
    "sort": 50,
-   "to": "2026-12-07",
+   "tg": {
+    "DAYS": [
+     "8"
+    ],
+    "TOUR": [
+     "PACKAGE"
+    ],
+    "TRV_PLACE": [
+     "JERUSALEM"
+    ]
+   },
+   "to": "2026-12-15",
    "tt": "PACKAGE",
    "url": "https://www.klook.com/ko/search/result/?query=%EC%98%88%EB%A3%A8%EC%82%B4%EB%A0%98%20%EC%84%B1%EC%A7%80%EC%88%9C%EB%A1%80%208%EC%9D%BC%20%ED%8C%A8%ED%82%A4%EC%A7%80",
    "was": 3190000
@@ -1796,6 +2299,14 @@
     "KO": "성찬 컵·떡 세트 100개"
    },
    "sort": 51,
+   "tg": {
+    "CAT": [
+     "CHURCH_WORSHIP"
+    ],
+    "PREP": [
+     "성찬 컵"
+    ]
+   },
    "to": "2026-12-31",
    "url": "https://www.amazon.com/dp/B015X6ETYS"
   },
@@ -1813,6 +2324,19 @@
    },
    "price": 10000,
    "sort": 51,
+   "tg": {
+    "CAT": [
+     "GIFT_CARD"
+    ],
+    "GIFT_WHEN": [
+     "MOVE",
+     "THANKS"
+    ],
+    "GIFT_WHO": [
+     "FRIEND",
+     "NEIGHBOR"
+    ]
+   },
    "to": "",
    "url": "https://gift.kakao.com/search/result?query=%ED%8C%8C%EB%A6%AC%EB%B0%94%EA%B2%8C%EB%9C%A8%20%EB%AA%A8%EB%B0%94%EC%9D%BC%20%EA%B8%88%EC%95%A1%EA%B6%8C%201%EB%A7%8C%EC%9B%90"
   },
@@ -1830,6 +2354,14 @@
    },
    "price": 128000,
    "sort": 51,
+   "tg": {
+    "CAT": [
+     "CHURCH_WORSHIP"
+    ],
+    "PREP": [
+     "성찬기"
+    ]
+   },
    "to": "",
    "url": "https://www.coupang.com/np/search?q=%EC%84%B1%EC%B0%AC%EA%B8%B0%20%EC%84%B8%ED%8A%B8%20%EC%8A%A4%ED%85%8C%EC%9D%B8%EB%A6%AC%EC%8A%A4%206%EC%9D%B8%EC%9A%A9"
   },
@@ -1847,6 +2379,14 @@
    },
    "price": 150000,
    "sort": 51,
+   "tg": {
+    "CAT": [
+     "CHURCH_EVENT"
+    ],
+    "PREP": [
+     "떡 답례"
+    ]
+   },
    "to": "",
    "url": "https://gift.kakao.com/search/result?query=%EA%B5%90%ED%9A%8C%20%ED%96%89%EC%82%AC%EC%9A%A9%20%EB%96%A1%20%EB%8B%B5%EB%A1%80%20%EC%84%B8%ED%8A%B8%2050%EA%B0%9C"
   },
@@ -1864,6 +2404,14 @@
    },
    "price": 32000,
    "sort": 51,
+   "tg": {
+    "CAT": [
+     "CHURCH_EVENT"
+    ],
+    "PREP": [
+     "테이블보"
+    ]
+   },
    "to": "",
    "url": "https://search.shopping.naver.com/ns/search?query=%EC%84%A0%EA%B5%90%20%EB%B0%94%EC%9E%90%ED%9A%8C%20%ED%85%8C%EC%9D%B4%EB%B8%94%EB%B3%B4%205%EC%9E%A5"
   },
@@ -1881,6 +2429,17 @@
    },
    "price": 13900,
    "sort": 51,
+   "tg": {
+    "CAT": [
+     "LIVING"
+    ],
+    "PREP": [
+     "물티슈"
+    ],
+    "TRIP": [
+     "물티슈"
+    ]
+   },
    "to": "",
    "url": "https://www.coupang.com/np/search?q=%EB%8C%80%EC%9A%A9%EB%9F%89%20%EB%AC%BC%ED%8B%B0%EC%8A%88%20100%EB%A7%A4%2010%ED%8C%A9"
   },
@@ -1898,6 +2457,14 @@
    },
    "price": 21000,
    "sort": 51,
+   "tg": {
+    "CAT": [
+     "KITCHEN"
+    ],
+    "PREP": [
+     "일회용 수저"
+    ]
+   },
    "to": "",
    "url": "https://search.shopping.naver.com/ns/search?query=%EC%9D%BC%ED%9A%8C%EC%9A%A9%20%EC%88%98%EC%A0%80%20%EC%84%B8%ED%8A%B8%20500%EA%B0%9C"
   },
@@ -1915,6 +2482,17 @@
    },
    "price": 16800,
    "sort": 51,
+   "tg": {
+    "CAT": [
+     "HEALTH"
+    ],
+    "PREP": [
+     "손소독제"
+    ],
+    "TRIP": [
+     "손소독제"
+    ]
+   },
    "to": "",
    "url": "https://gift.kakao.com/search/result?query=%EC%86%90%EC%86%8C%EB%8F%85%EC%A0%9C%20%ED%8E%8C%ED%94%84%20500ml%206%EA%B0%9C"
   },
@@ -1932,6 +2510,11 @@
    },
    "price": 9900,
    "sort": 51,
+   "tg": {
+    "CAT": [
+     "BEAUTY"
+    ]
+   },
    "to": "",
    "url": "https://www.coupang.com/np/search?q=%EB%A6%BD%EB%B0%A4%203%EA%B0%9C%20%EC%84%B8%ED%8A%B8"
   },
@@ -1949,6 +2532,17 @@
    },
    "price": 14000,
    "sort": 51,
+   "tg": {
+    "AGE": [
+     "KID"
+    ],
+    "CAT": [
+     "KIDS"
+    ],
+    "GIFT_WHO": [
+     "KID"
+    ]
+   },
    "to": "",
    "url": "https://search.shopping.naver.com/ns/search?query=%EC%84%B1%EA%B2%BD%20%EC%9D%B8%EB%AC%BC%20%ED%8D%BC%EC%A6%90%20100%ED%94%BC%EC%8A%A4"
   },
@@ -1969,6 +2563,11 @@
    },
    "price": 52000,
    "sort": 51,
+   "tg": {
+    "BOOK_SUB": [
+     "FAITH:BIBLE"
+    ]
+   },
    "to": "",
    "url": "https://search.shopping.naver.com/ns/search?query=%ED%81%B0%EA%B8%80%20%EC%84%B1%EA%B2%BD%20%EA%B0%9C%EC%97%AD%EA%B0%9C%EC%A0%95%20%EB%8C%80%20%ED%95%A9%EB%B3%B8"
   },
@@ -1986,6 +2585,11 @@
    },
    "price": 59000,
    "sort": 51,
+   "tg": {
+    "CAT": [
+     "DIGITAL"
+    ]
+   },
    "to": "",
    "url": "https://gift.kakao.com/search/result?query=%EB%AC%B4%EC%84%A0%20%ED%95%80%20%EB%A7%88%EC%9D%B4%ED%81%AC%202%EA%B0%9C"
   },
@@ -2007,6 +2611,17 @@
    ],
    "price": 120000,
    "sort": 51,
+   "tg": {
+    "DAYS": [
+     "1"
+    ],
+    "TOUR": [
+     "DAY"
+    ],
+    "TRV_PLACE": [
+     "JERUSALEM"
+    ]
+   },
    "to": "",
    "tt": "DAY",
    "url": "https://www.klook.com/ko/search/result/?query=%EC%98%88%EB%A3%A8%EC%82%B4%EB%A0%98%20%C2%B7%20%EC%82%AC%ED%95%B4%201%EC%9D%BC%20%ED%88%AC%EC%96%B4"
@@ -2027,6 +2642,14 @@
     "KO": "여름성경학교 벽 장식 6종"
    },
    "sort": 52,
+   "tg": {
+    "CAT": [
+     "CHURCH_EVENT"
+    ],
+    "PREP": [
+     "벽 장식"
+    ]
+   },
    "to": "2026-12-31",
    "url": "https://www.amazon.com/dp/B0DSW166NS"
   },
@@ -2044,6 +2667,18 @@
    },
    "price": 9800,
    "sort": 52,
+   "tg": {
+    "CAT": [
+     "GIFT_CARD"
+    ],
+    "GIFT_WHEN": [
+     "BIRTHDAY"
+    ],
+    "GIFT_WHO": [
+     "FRIEND",
+     "KID"
+    ]
+   },
    "to": "",
    "url": "https://gift.kakao.com/search/result?query=%EB%B0%B0%EC%8A%A4%ED%82%A8%EB%9D%BC%EB%B9%88%EC%8A%A4%20%ED%8C%8C%EC%9D%B8%ED%8A%B8%20%EC%95%84%EC%9D%B4%EC%8A%A4%ED%81%AC%EB%A6%BC"
   },
@@ -2061,6 +2696,11 @@
    },
    "price": 85000,
    "sort": 52,
+   "tg": {
+    "CAT": [
+     "CHURCH_WORSHIP"
+    ]
+   },
    "to": "",
    "url": "https://search.shopping.naver.com/ns/search?query=%EC%98%88%EB%B0%B0%EB%8B%B9%20%ED%97%8C%EA%B8%88%ED%95%A8%20%EC%9B%90%EB%AA%A9"
   },
@@ -2078,7 +2718,7 @@
    },
    "price": 28900,
    "sort": 52,
-   "to": "2026-11-26",
+   "to": "2026-12-04",
    "url": "https://www.coupang.com/np/search?q=%EC%B9%B4%EB%88%84%20%EB%AF%B8%EB%8B%88%20%EB%A7%88%EC%9D%BC%EB%93%9C%20%EB%A1%9C%EC%8A%A4%ED%8A%B8%20150T",
    "was": 33900
   },
@@ -2096,6 +2736,18 @@
    },
    "price": 24900,
    "sort": 52,
+   "tg": {
+    "CAT": [
+     "CHURCH_EVENT"
+    ],
+    "PREP": [
+     "LED 전구",
+     "성탄 장식"
+    ],
+    "SEASON": [
+     "XMAS"
+    ]
+   },
    "to": "",
    "url": "https://gift.kakao.com/search/result?query=%EC%84%B1%ED%83%84%20%EC%9E%A5%EC%8B%9D%20LED%20%EB%B3%84%20%EC%A0%84%EA%B5%AC"
   },
@@ -2113,7 +2765,15 @@
    },
    "price": 79000,
    "sort": 52,
-   "to": "2026-12-10",
+   "tg": {
+    "CAT": [
+     "LIVING"
+    ],
+    "PREP": [
+     "접이식 의자"
+    ]
+   },
+   "to": "2026-12-18",
    "url": "https://search.shopping.naver.com/ns/search?query=%EC%A0%91%EC%9D%B4%EC%8B%9D%20%EC%9D%98%EC%9E%90%204%EA%B0%9C",
    "was": 99000
   },
@@ -2131,6 +2791,14 @@
    },
    "price": 45000,
    "sort": 52,
+   "tg": {
+    "CAT": [
+     "KITCHEN"
+    ],
+    "PREP": [
+     "보온 물통"
+    ]
+   },
    "to": "",
    "url": "https://gift.kakao.com/search/result?query=%EB%B3%B4%EC%98%A8%20%EB%AC%BC%ED%86%B5%20%EB%8C%80%EC%9A%A9%EB%9F%89%2012L"
   },
@@ -2148,6 +2816,14 @@
    },
    "price": 27000,
    "sort": 52,
+   "tg": {
+    "CAT": [
+     "HEALTH"
+    ],
+    "PREP": [
+     "구급상자"
+    ]
+   },
    "to": "",
    "url": "https://www.coupang.com/np/search?q=%EA%B5%AC%EA%B8%89%EC%83%81%EC%9E%90%20%EA%B0%80%EC%A0%95%EC%9A%A9%20%EC%84%B8%ED%8A%B8"
   },
@@ -2165,6 +2841,14 @@
    },
    "price": 18900,
    "sort": 52,
+   "tg": {
+    "CAT": [
+     "BEAUTY"
+    ],
+    "SEASON": [
+     "WINTER"
+    ]
+   },
    "to": "",
    "url": "https://search.shopping.naver.com/ns/search?query=%EB%B0%94%EB%94%94%EB%A1%9C%EC%85%98%20%EB%8C%80%EC%9A%A9%EB%9F%89%201L"
   },
@@ -2182,6 +2866,17 @@
    },
    "price": 6500,
    "sort": 52,
+   "tg": {
+    "AGE": [
+     "KID"
+    ],
+    "CAT": [
+     "KIDS"
+    ],
+    "TRIP": [
+     "색칠 놀이"
+    ]
+   },
    "to": "",
    "url": "https://gift.kakao.com/search/result?query=%EC%A3%BC%EC%9D%BC%ED%95%99%EA%B5%90%20%EC%83%89%EC%B9%A0%20%EA%B3%B5%EB%B6%80%20%EC%B1%85"
   },
@@ -2219,6 +2914,11 @@
    },
    "price": 189000,
    "sort": 52,
+   "tg": {
+    "CAT": [
+     "DIGITAL"
+    ]
+   },
    "to": "",
    "url": "https://www.coupang.com/np/search?q=%EB%B9%94%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%84%B0%20%EC%86%8C%ED%98%95"
   },
@@ -2228,7 +2928,7 @@
    "days": 7,
    "deliver": "LINK",
    "departs": [
-    "2026-12-27"
+    "2027-01-04"
    ],
    "descs": {},
    "from": "",
@@ -2244,6 +2944,18 @@
    ],
    "price": 2450000,
    "sort": 52,
+   "tg": {
+    "DAYS": [
+     "7"
+    ],
+    "TOUR": [
+     "PACKAGE"
+    ],
+    "TRV_PLACE": [
+     "GALILEE",
+     "JERUSALEM"
+    ]
+   },
    "to": "",
    "tt": "PACKAGE",
    "url": "https://www.klook.com/ko/search/result/?query=%EA%B0%88%EB%A6%B4%EB%A6%AC%20%C2%B7%20%EC%98%88%EB%A3%A8%EC%82%B4%EB%A0%98%207%EC%9D%BC%20%EC%88%9C%EB%A1%80"
@@ -2264,6 +2976,14 @@
     "KO": "크리스탈 가이저 생수 24병"
    },
    "sort": 53,
+   "tg": {
+    "CAT": [
+     "FOOD"
+    ],
+    "PREP": [
+     "생수"
+    ]
+   },
    "to": "2026-12-31",
    "url": "https://www.amazon.com/dp/B001B48RCC"
   },
@@ -2281,6 +3001,15 @@
    },
    "price": 5000,
    "sort": 53,
+   "tg": {
+    "CAT": [
+     "GIFT_CARD"
+    ],
+    "GIFT_WHO": [
+     "FRIEND",
+     "STUDENT"
+    ]
+   },
    "to": "",
    "url": "https://gift.kakao.com/search/result?query=CU%20%EB%AA%A8%EB%B0%94%EC%9D%BC%20%EC%83%81%ED%92%88%EA%B6%8C%205%EC%B2%9C%EC%9B%90"
   },
@@ -2298,6 +3027,17 @@
    },
    "price": 23000,
    "sort": 53,
+   "tg": {
+    "AGE": [
+     "SENIOR"
+    ],
+    "CAT": [
+     "CHURCH_WORSHIP"
+    ],
+    "GIFT_WHO": [
+     "PARENT"
+    ]
+   },
    "to": "",
    "url": "https://gift.kakao.com/search/result?query=%EC%83%88%EC%B0%AC%EC%86%A1%EA%B0%80%20%ED%81%B0%EA%B8%80%20%EB%8B%A8%EB%B3%B8"
   },
@@ -2315,6 +3055,14 @@
    },
    "price": 31500,
    "sort": 53,
+   "tg": {
+    "CAT": [
+     "FOOD"
+    ],
+    "PREP": [
+     "커피믹스"
+    ]
+   },
    "to": "",
    "url": "https://search.shopping.naver.com/ns/search?query=%EB%A7%A5%EC%8B%AC%20%EB%AA%A8%EC%B9%B4%EA%B3%A8%EB%93%9C%20%EC%BB%A4%ED%94%BC%EB%AF%B9%EC%8A%A4%20250T"
   },
@@ -2332,6 +3080,14 @@
    },
    "price": 15900,
    "sort": 53,
+   "tg": {
+    "CAT": [
+     "CHURCH_EVENT"
+    ],
+    "PREP": [
+     "이름표"
+    ]
+   },
    "to": "",
    "url": "https://www.coupang.com/np/search?q=%ED%96%89%EC%82%AC%EC%9A%A9%20%EC%9D%B4%EB%A6%84%ED%91%9C%20%EB%AA%A9%EA%B1%B8%EC%9D%B4%20100%EA%B0%9C"
   },
@@ -2349,6 +3105,11 @@
    },
    "price": 29900,
    "sort": 53,
+   "tg": {
+    "CAT": [
+     "LIVING"
+    ]
+   },
    "to": "",
    "url": "https://gift.kakao.com/search/result?query=%EB%8B%A4%EC%9A%A9%EB%8F%84%20%EC%88%98%EB%82%A9%20%EC%A0%95%EB%A6%AC%ED%95%A8%203%EB%8B%A8"
   },
@@ -2366,7 +3127,15 @@
    },
    "price": 189000,
    "sort": 53,
-   "to": "2026-12-03",
+   "tg": {
+    "CAT": [
+     "KITCHEN"
+    ],
+    "PREP": [
+     "밥솥"
+    ]
+   },
+   "to": "2026-12-11",
    "url": "https://www.coupang.com/np/search?q=%EC%A0%84%EA%B8%B0%20%EB%B0%A5%EC%86%A5%2030%EC%9D%B8%EC%9A%A9%20%EC%97%85%EC%86%8C%EC%9A%A9",
    "was": 219000
   },
@@ -2384,6 +3153,14 @@
    },
    "price": 32000,
    "sort": 53,
+   "tg": {
+    "CAT": [
+     "HEALTH"
+    ],
+    "GIFT_WHEN": [
+     "BABY"
+    ]
+   },
    "to": "",
    "url": "https://search.shopping.naver.com/ns/search?query=%EC%B2%B4%EC%98%A8%EA%B3%84%20%EB%B9%84%EC%A0%91%EC%B4%89%EC%8B%9D"
   },
@@ -2401,6 +3178,23 @@
    },
    "price": 24900,
    "sort": 53,
+   "tg": {
+    "CAT": [
+     "BEAUTY"
+    ],
+    "GIFT_WHEN": [
+     "MOVE",
+     "THANKS"
+    ],
+    "GIFT_WHO": [
+     "COWORKER",
+     "PARENT"
+    ],
+    "SEASON": [
+     "CHUSEOK",
+     "LUNAR"
+    ]
+   },
    "to": "",
    "url": "https://gift.kakao.com/search/result?query=%EC%83%B4%ED%91%B8%20%EB%A6%B0%EC%8A%A4%20%EC%84%A0%EB%AC%BC%20%EC%84%B8%ED%8A%B8"
   },
@@ -2418,6 +3212,20 @@
    },
    "price": 12000,
    "sort": 53,
+   "tg": {
+    "AGE": [
+     "KID"
+    ],
+    "CAT": [
+     "KIDS"
+    ],
+    "GIFT_WHO": [
+     "KID"
+    ],
+    "SEASON": [
+     "XMAS"
+    ]
+   },
    "to": "",
    "url": "https://www.coupang.com/np/search?q=%EC%96%B4%EB%A6%B0%EC%9D%B4%20%EC%B0%AC%EC%96%91%20CD%20%EB%AA%A8%EC%9D%8C"
   },
@@ -2438,9 +3246,14 @@
    },
    "price": 18000,
    "rank": 6,
-   "rank_at": "2026-11-11",
+   "rank_at": "2026-11-19",
    "rank_by": "시험 순위",
    "sort": 53,
+   "tg": {
+    "BOOK_SUB": [
+     "FAITH:BIBLE"
+    ]
+   },
    "to": "",
    "url": "https://search.shopping.naver.com/ns/search?query=%EC%84%B1%EA%B2%BD%20%ED%8C%8C%EB%85%B8%EB%9D%BC%EB%A7%88"
   },
@@ -2458,6 +3271,17 @@
    },
    "price": 45000,
    "sort": 53,
+   "tg": {
+    "AGE": [
+     "SENIOR"
+    ],
+    "CAT": [
+     "DIGITAL"
+    ],
+    "GIFT_WHO": [
+     "PARENT"
+    ]
+   },
    "to": "",
    "url": "https://search.shopping.naver.com/ns/search?query=%EC%84%B1%EA%B2%BD%20%EC%98%A4%EB%94%94%EC%98%A4%20%ED%94%8C%EB%A0%88%EC%9D%B4%EC%96%B4"
   },
@@ -2479,6 +3303,17 @@
    ],
    "price": 45000,
    "sort": 53,
+   "tg": {
+    "DAYS": [
+     "1"
+    ],
+    "TOUR": [
+     "DAY"
+    ],
+    "TRV_PLACE": [
+     "GALILEE"
+    ]
+   },
    "to": "",
    "tt": "DAY",
    "url": "https://www.klook.com/ko/search/result/?query=%EA%B0%88%EB%A6%B4%EB%A6%AC%20%ED%98%B8%EC%88%98%20%EB%B0%B0%20%ED%83%80%EA%B8%B0%20%EB%B0%98%EB%82%98%EC%A0%88%20%ED%88%AC%EC%96%B4"
@@ -2499,6 +3334,11 @@
     "KO": "바운티 키친타월 8롤"
    },
    "sort": 54,
+   "tg": {
+    "CAT": [
+     "LIVING"
+    ]
+   },
    "to": "2026-12-31",
    "url": "https://www.amazon.com/dp/B0DQYP1L95"
   },
@@ -2516,7 +3356,19 @@
    },
    "price": 36000,
    "sort": 54,
-   "to": "2026-12-03",
+   "tg": {
+    "CAT": [
+     "GIFT_CARD"
+    ],
+    "GIFT_WHEN": [
+     "BIRTHDAY"
+    ],
+    "GIFT_WHO": [
+     "COWORKER",
+     "FRIEND"
+    ]
+   },
+   "to": "2026-12-11",
    "url": "https://gift.kakao.com/search/result?query=%ED%88%AC%EC%8D%B8%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%20%EC%BC%80%EC%9D%B4%ED%81%AC%20%EA%B5%90%ED%99%98%EA%B6%8C",
    "was": 42000
   },
@@ -2551,6 +3403,14 @@
    },
    "price": 19900,
    "sort": 54,
+   "tg": {
+    "CAT": [
+     "FOOD"
+    ],
+    "PREP": [
+     "간식"
+    ]
+   },
    "to": "",
    "url": "https://gift.kakao.com/search/result?query=%EC%BB%B5%EB%9D%BC%EB%A9%B4%20%EC%9C%A1%EA%B0%9C%EC%9E%A5%20%EC%82%AC%EB%B0%9C%EB%A9%B4%2024%EA%B0%9C"
   },
@@ -2568,6 +3428,17 @@
    },
    "price": 12500,
    "sort": 54,
+   "tg": {
+    "CAT": [
+     "CHURCH_EVENT"
+    ],
+    "PREP": [
+     "부활절 달걀 포장 상자"
+    ],
+    "SEASON": [
+     "EASTER"
+    ]
+   },
    "to": "",
    "url": "https://search.shopping.naver.com/ns/search?query=%EB%B6%80%ED%99%9C%EC%A0%88%20%EB%8B%AC%EA%B1%80%20%ED%8F%AC%EC%9E%A5%20%EC%83%81%EC%9E%90%2050%EA%B0%9C"
   },
@@ -2588,9 +3459,14 @@
    },
    "price": 19800,
    "rank": 1,
-   "rank_at": "2026-11-11",
+   "rank_at": "2026-11-19",
    "rank_by": "시험 순위",
    "sort": 54,
+   "tg": {
+    "BOOK_SUB": [
+     "FAITH:LIFE"
+    ]
+   },
    "to": "",
    "url": "https://www.coupang.com/np/search?q=%EA%B8%B0%EB%8F%84"
   },
@@ -2600,7 +3476,7 @@
    "days": 10,
    "deliver": "LINK",
    "departs": [
-    "2027-01-01"
+    "2027-01-09"
    ],
    "descs": {},
    "from": "",
@@ -2617,6 +3493,18 @@
    ],
    "price": 2490000,
    "sort": 54,
+   "tg": {
+    "DAYS": [
+     "10"
+    ],
+    "TOUR": [
+     "PACKAGE"
+    ],
+    "TRV_PLACE": [
+     "EPHESUS",
+     "ISTANBUL"
+    ]
+   },
    "to": "",
    "tt": "PACKAGE",
    "url": "https://www.klook.com/ko/search/result/?query=%ED%84%B0%ED%82%A4%20%EC%82%AC%EB%8F%84%20%EB%B0%94%EC%9A%B8%20%EB%B0%9C%EC%9E%90%EC%B7%A8%20%EC%88%9C%EB%A1%80%2010%EC%9D%BC%20%28%EC%9D%B4%EC%8A%A4%ED%83%84%EB%B6%88%20%C2%B7%20%EC%97%90%EB%B2%A0%EC%86%8C%29"
@@ -2637,6 +3525,14 @@
     "KO": "카로테 논스틱 프라이팬 20cm"
    },
    "sort": 55,
+   "tg": {
+    "CAT": [
+     "KITCHEN"
+    ],
+    "GIFT_WHEN": [
+     "MOVE"
+    ]
+   },
    "to": "2026-12-31",
    "url": "https://www.amazon.com/dp/B0732NXYNS"
   },
@@ -2646,7 +3542,7 @@
    "days": 9,
    "deliver": "LINK",
    "departs": [
-    "2027-01-11"
+    "2027-01-19"
    ],
    "descs": {},
    "from": "",
@@ -2663,6 +3559,19 @@
    ],
    "price": 2690000,
    "sort": 55,
+   "tg": {
+    "DAYS": [
+     "9"
+    ],
+    "TOUR": [
+     "PACKAGE"
+    ],
+    "TRV_PLACE": [
+     "ATHENS",
+     "CORINTH",
+     "GREECE"
+    ]
+   },
    "to": "",
    "tt": "PACKAGE",
    "url": "https://www.klook.com/ko/search/result/?query=%EA%B7%B8%EB%A6%AC%EC%8A%A4%20%EB%B0%94%EC%9A%B8%20%EC%A0%84%EB%8F%84%20%EC%97%AC%ED%96%89%209%EC%9D%BC%20%28%EC%95%84%ED%85%8C%EB%84%A4%20%C2%B7%20%EA%B3%A0%EB%A6%B0%EB%8F%84%29"
@@ -2684,6 +3593,11 @@
    },
    "price": 9800,
    "sort": 55,
+   "tg": {
+    "BOOK_SUB": [
+     "FAITH:LIFE"
+    ]
+   },
    "to": "",
    "url": "https://search.shopping.naver.com/ns/search?query=%ED%95%98%EB%82%98%EB%8B%98%EC%9D%98%20%EC%9E%84%EC%9E%AC%20%EC%97%B0%EC%8A%B5"
   },
@@ -2703,6 +3617,17 @@
     "KO": "휴대용 구급상자 150종"
    },
    "sort": 56,
+   "tg": {
+    "CAT": [
+     "HEALTH"
+    ],
+    "PREP": [
+     "구급상자"
+    ],
+    "TRIP": [
+     "상비약 키트"
+    ]
+   },
    "to": "2026-12-31",
    "url": "https://www.amazon.com/dp/B0DB794BKQ"
   },
@@ -2712,7 +3637,7 @@
    "days": 8,
    "deliver": "LINK",
    "departs": [
-    "2027-01-31"
+    "2027-02-08"
    ],
    "descs": {},
    "from": "",
@@ -2728,6 +3653,17 @@
    ],
    "price": 2390000,
    "sort": 56,
+   "tg": {
+    "DAYS": [
+     "8"
+    ],
+    "TOUR": [
+     "PACKAGE"
+    ],
+    "TRV_PLACE": [
+     "EGYPT"
+    ]
+   },
    "to": "",
    "tt": "PACKAGE",
    "url": "https://www.klook.com/ko/search/result/?query=%EC%9D%B4%EC%A7%91%ED%8A%B8%20%C2%B7%20%EC%8B%9C%EB%82%B4%EC%82%B0%20%EC%B6%9C%EC%95%A0%EA%B5%BD%20%EC%88%9C%EB%A1%80%208%EC%9D%BC"
@@ -2749,7 +3685,7 @@
    },
    "price": 13500,
    "rank": 4,
-   "rank_at": "2026-11-11",
+   "rank_at": "2026-11-19",
    "rank_by": "시험 순위",
    "sort": 56,
    "to": "",
@@ -2771,6 +3707,26 @@
     "KO": "시어버터 핸드크림 선물 세트"
    },
    "sort": 57,
+   "tg": {
+    "CAT": [
+     "BEAUTY"
+    ],
+    "GIFT_WHEN": [
+     "BIRTHDAY",
+     "THANKS"
+    ],
+    "GIFT_WHO": [
+     "COWORKER",
+     "FRIEND",
+     "PARENT",
+     "TEACHER"
+    ],
+    "SEASON": [
+     "CHUSEOK",
+     "LUNAR",
+     "WINTER"
+    ]
+   },
    "to": "2026-12-31",
    "url": "https://www.amazon.com/dp/B0CC8Z27D1"
   },
@@ -2793,6 +3749,18 @@
    ],
    "price": 180000,
    "sort": 57,
+   "tg": {
+    "DAYS": [
+     "1"
+    ],
+    "TOUR": [
+     "DAY"
+    ],
+    "TRV_PLACE": [
+     "AMMAN",
+     "JORDAN"
+    ]
+   },
    "to": "",
    "tt": "DAY",
    "url": "https://www.klook.com/ko/search/result/?query=%EC%9A%94%EB%A5%B4%EB%8B%A8%20%EB%8A%90%EB%B3%B4%EC%82%B0%20%C2%B7%20%ED%8E%98%ED%8A%B8%EB%9D%BC%201%EC%9D%BC%20%ED%88%AC%EC%96%B4"
@@ -2814,6 +3782,11 @@
    },
    "price": 32000,
    "sort": 57,
+   "tg": {
+    "BOOK_SUB": [
+     "FAITH:SERMON"
+    ]
+   },
    "to": "",
    "url": "https://search.shopping.naver.com/ns/search?query=%EC%82%B0%EC%83%81%EC%88%98%ED%9B%88%20%EA%B0%95%ED%95%B4"
   },
@@ -2833,6 +3806,24 @@
     "KO": "그림으로 보는 어린이 성경"
    },
    "sort": 58,
+   "tg": {
+    "AGE": [
+     "KID"
+    ],
+    "CAT": [
+     "KIDS"
+    ],
+    "GIFT_WHEN": [
+     "BIRTHDAY",
+     "HOLIDAY"
+    ],
+    "GIFT_WHO": [
+     "KID"
+    ],
+    "SEASON": [
+     "XMAS"
+    ]
+   },
    "to": "2026-12-31",
    "url": "https://www.amazon.com/dp/B0HLDX9J9J"
   },
@@ -2854,6 +3845,17 @@
    ],
    "price": 69000,
    "sort": 58,
+   "tg": {
+    "DAYS": [
+     "1"
+    ],
+    "TOUR": [
+     "DAY"
+    ],
+    "TRV_PLACE": [
+     "ROME"
+    ]
+   },
    "to": "",
    "tt": "DAY",
    "url": "https://www.klook.com/ko/search/result/?query=%EB%A1%9C%EB%A7%88%20%EC%B9%B4%ED%83%80%EC%BD%A4%20%EB%B0%98%EB%82%98%EC%A0%88%20%ED%88%AC%EC%96%B4"
@@ -2875,6 +3877,11 @@
    },
    "price": 28000,
    "sort": 58,
+   "tg": {
+    "BOOK_SUB": [
+     "FAITH:SERMON"
+    ]
+   },
    "to": "",
    "url": "https://www.coupang.com/np/search?q=%EB%A1%9C%EB%A7%88%EC%84%9C%20%EA%B0%95%ED%95%B4%201"
   },
@@ -2897,6 +3904,11 @@
     "KO": "ESV 노트 성경(저널링 바이블)"
    },
    "sort": 59,
+   "tg": {
+    "BOOK_SUB": [
+     "FAITH:BIBLE"
+    ]
+   },
    "to": "2026-12-31",
    "url": "https://www.amazon.com/dp/B0DHW69RG6"
   },
@@ -2917,6 +3929,14 @@
    ],
    "price": 320000,
    "sort": 59,
+   "tg": {
+    "TOUR": [
+     "PACKAGE"
+    ],
+    "TRV_PLACE": [
+     "JEJU"
+    ]
+   },
    "to": "",
    "tt": "PACKAGE",
    "url": "https://www.klook.com/ko/search/result/?query=%EC%A0%9C%EC%A3%BC%20%EA%B5%90%ED%9A%8C%20%EC%88%98%EB%A0%A8%ED%9A%8C%20%EC%88%99%EC%86%8C%202%EB%B0%95%20%2830%EB%AA%85%29"
@@ -2938,10 +3958,15 @@
    },
    "price": 14000,
    "rank": 3,
-   "rank_at": "2026-11-11",
+   "rank_at": "2026-11-19",
    "rank_by": "시험 순위",
    "sort": 59,
-   "to": "2026-12-02",
+   "tg": {
+    "BOOK_SUB": [
+     "FAITH:THEOLOGY"
+    ]
+   },
+   "to": "2026-12-10",
    "url": "https://search.shopping.naver.com/ns/search?query=%EC%88%9C%EC%A0%84%ED%95%9C%20%EA%B8%B0%EB%8F%85%EA%B5%90",
    "was": 16000
   },
@@ -2961,6 +3986,21 @@
     "KO": "블루투스 무선 이어폰"
    },
    "sort": 60,
+   "tg": {
+    "CAT": [
+     "DIGITAL"
+    ],
+    "GIFT_WHEN": [
+     "ENTER",
+     "GRAD"
+    ],
+    "GIFT_WHO": [
+     "STUDENT"
+    ],
+    "SEASON": [
+     "SCHOOL"
+    ]
+   },
    "to": "2026-12-31",
    "url": "https://www.amazon.com/dp/B0HDB173YV"
   },
@@ -2981,6 +4021,14 @@
    ],
    "price": 158000,
    "sort": 60,
+   "tg": {
+    "TOUR": [
+     "PACKAGE"
+    ],
+    "TRV_PLACE": [
+     "BUSAN"
+    ]
+   },
    "to": "",
    "tt": "PACKAGE",
    "url": "https://www.klook.com/ko/search/result/?query=%EB%B6%80%EC%82%B0%20%ED%95%B4%EC%9A%B4%EB%8C%80%20%EA%B0%80%EC%A1%B1%20%ED%98%B8%ED%85%94%201%EB%B0%95"
@@ -3002,6 +4050,11 @@
    },
    "price": 38000,
    "sort": 60,
+   "tg": {
+    "BOOK_SUB": [
+     "FAITH:THEOLOGY"
+    ]
+   },
    "to": "",
    "url": "https://www.coupang.com/np/search?q=%EC%A1%B0%EC%A7%81%EC%8B%A0%ED%95%99%20%EA%B0%9C%EB%A1%A0"
   },
@@ -3011,7 +4064,7 @@
    "days": 4,
    "deliver": "LINK",
    "departs": [
-    "2026-12-12"
+    "2026-12-20"
    ],
    "descs": {},
    "from": "",
@@ -3026,6 +4079,17 @@
    ],
    "price": 890000,
    "sort": 61,
+   "tg": {
+    "DAYS": [
+     "4"
+    ],
+    "TOUR": [
+     "PACKAGE"
+    ],
+    "TRV_PLACE": [
+     "TOKYO"
+    ]
+   },
    "to": "",
    "tt": "PACKAGE",
    "url": "https://www.klook.com/ko/search/result/?query=%EB%8F%84%EC%BF%84%20%EA%B5%90%ED%9A%8C%20%ED%83%90%EB%B0%A9%204%EC%9D%BC"
@@ -3047,9 +4111,14 @@
    },
    "price": 17000,
    "rank": 5,
-   "rank_at": "2026-11-11",
+   "rank_at": "2026-11-19",
    "rank_by": "시험 순위",
    "sort": 61,
+   "tg": {
+    "BOOK_SUB": [
+     "FAITH:FAMILY"
+    ]
+   },
    "to": "",
    "url": "https://search.shopping.naver.com/ns/search?query=%EA%B2%B0%ED%98%BC%EC%9D%98%20%EC%9D%98%EB%AF%B8"
   },
@@ -3070,6 +4139,14 @@
    ],
    "price": 410000,
    "sort": 62,
+   "tg": {
+    "TOUR": [
+     "PACKAGE"
+    ],
+    "TRV_PLACE": [
+     "DANANG"
+    ]
+   },
    "to": "",
    "tt": "PACKAGE",
    "url": "https://www.klook.com/ko/search/result/?query=%EB%8B%A4%EB%82%AD%20%EC%84%A0%EA%B5%90%20%EC%97%AC%ED%96%89%20%EC%88%99%EC%86%8C%204%EB%B0%95"
@@ -3091,6 +4168,11 @@
    },
    "price": 15000,
    "sort": 62,
+   "tg": {
+    "BOOK_SUB": [
+     "FAITH:FAMILY"
+    ]
+   },
    "to": "",
    "url": "https://www.coupang.com/np/search?q=5%EA%B0%80%EC%A7%80%20%EC%82%AC%EB%9E%91%EC%9D%98%20%EC%96%B8%EC%96%B4"
   },
@@ -3111,8 +4193,43 @@
    },
    "price": 16000,
    "sort": 63,
+   "tg": {
+    "BOOK_SUB": [
+     "FAITH:TESTIMONY"
+    ]
+   },
    "to": "",
    "url": "https://search.shopping.naver.com/ns/search?query=%EA%B3%A0%EB%B0%B1%EB%A1%9D"
+  },
+  {
+   "band": "",
+   "cat": "TEST_TRAVEL",
+   "days": 9,
+   "deliver": "LINK",
+   "departs": [
+    "2026-12-25",
+    "2027-01-24",
+    "2027-02-23"
+   ],
+   "descs": {},
+   "from": "",
+   "id": 218,
+   "img": "",
+   "mall": "TEST_TRAVEL",
+   "names": {
+    "KO": "이스라엘 소그룹 성지순례 9일 (12명 이내)"
+   },
+   "places": [
+    "JERUSALEM",
+    "GALILEE",
+    "NAZARETH",
+    "BETHLEHEM"
+   ],
+   "price": 3390000,
+   "sort": 63,
+   "to": "",
+   "tt": "SMALL",
+   "url": "https://www.klook.com/ko/search/result/?query=%EC%9D%B4%EC%8A%A4%EB%9D%BC%EC%97%98%20%EC%86%8C%EA%B7%B8%EB%A3%B9%20%EC%84%B1%EC%A7%80%EC%88%9C%EB%A1%80%209%EC%9D%BC%20%2812%EB%AA%85%20%EC%9D%B4%EB%82%B4%29"
   },
   {
    "author": "하워드 테일러",
@@ -3131,11 +4248,39 @@
    },
    "price": 12000,
    "rank": 7,
-   "rank_at": "2026-11-11",
+   "rank_at": "2026-11-19",
    "rank_by": "시험 순위",
    "sort": 64,
    "to": "",
    "url": "https://www.coupang.com/np/search?q=%ED%97%88%EB%93%9C%EC%8A%A8%20%ED%85%8C%EC%9D%BC%EB%9F%AC%EC%9D%98%20%EC%98%81%EC%A0%81%20%EB%B9%84%EB%B0%80"
+  },
+  {
+   "band": "",
+   "cat": "TEST_TRAVEL",
+   "days": 8,
+   "deliver": "LINK",
+   "departs": [
+    "2027-01-14",
+    "2027-03-20"
+   ],
+   "descs": {},
+   "from": "",
+   "id": 219,
+   "img": "",
+   "mall": "TEST_TRAVEL",
+   "names": {
+    "KO": "튀르키예 일곱 교회 소그룹 순례 8일"
+   },
+   "places": [
+    "TURKEY",
+    "EPHESUS",
+    "ISTANBUL"
+   ],
+   "price": 2790000,
+   "sort": 64,
+   "to": "",
+   "tt": "SMALL",
+   "url": "https://www.klook.com/ko/search/result/?query=%ED%8A%80%EB%A5%B4%ED%82%A4%EC%98%88%20%EC%9D%BC%EA%B3%B1%20%EA%B5%90%ED%9A%8C%20%EC%86%8C%EA%B7%B8%EB%A3%B9%20%EC%88%9C%EB%A1%80%208%EC%9D%BC"
   },
   {
    "author": "편집부",
@@ -3154,11 +4299,43 @@
    },
    "price": 18000,
    "rank": 8,
-   "rank_at": "2026-11-11",
+   "rank_at": "2026-11-19",
    "rank_by": "시험 순위",
    "sort": 65,
+   "tg": {
+    "BOOK_SUB": [
+     "FAITH:YOUTH"
+    ]
+   },
    "to": "",
    "url": "https://search.shopping.naver.com/ns/search?query=%EC%96%B4%EB%A6%B0%EC%9D%B4%20%EA%B7%B8%EB%A6%BC%20%EC%84%B1%EA%B2%BD"
+  },
+  {
+   "band": "",
+   "cat": "TEST_TRAVEL",
+   "days": 6,
+   "deliver": "LINK",
+   "departs": [
+    "2027-02-03"
+   ],
+   "descs": {},
+   "from": "",
+   "id": 220,
+   "img": "",
+   "mall": "TEST_TRAVEL",
+   "names": {
+    "KO": "요르단 · 이스라엘 소그룹 순례 6일"
+   },
+   "places": [
+    "JORDAN",
+    "AMMAN",
+    "JERUSALEM"
+   ],
+   "price": 2190000,
+   "sort": 65,
+   "to": "",
+   "tt": "SMALL",
+   "url": "https://www.klook.com/ko/search/result/?query=%EC%9A%94%EB%A5%B4%EB%8B%A8%20%C2%B7%20%EC%9D%B4%EC%8A%A4%EB%9D%BC%EC%97%98%20%EC%86%8C%EA%B7%B8%EB%A3%B9%20%EC%88%9C%EB%A1%80%206%EC%9D%BC"
   },
   {
    "author": "편집부",
@@ -3177,8 +4354,41 @@
    },
    "price": 9000,
    "sort": 66,
+   "tg": {
+    "BOOK_SUB": [
+     "FAITH:BIBLE"
+    ]
+   },
    "to": "",
    "url": "https://www.coupang.com/np/search?q=%EC%8B%AD%EB%8C%80%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%ED%81%90%ED%8B%B0%20%EC%B2%AB%EA%B1%B8%EC%9D%8C"
+  },
+  {
+   "band": "",
+   "cat": "TEST_TRAVEL",
+   "days": 7,
+   "deliver": "LINK",
+   "departs": [
+    "2026-12-18",
+    "2027-04-19"
+   ],
+   "descs": {},
+   "from": "",
+   "id": 221,
+   "img": "",
+   "mall": "TEST_TRAVEL",
+   "names": {
+    "KO": "그리스 소그룹 바울 순례 7일 (데살로니가 · 아테네)"
+   },
+   "places": [
+    "GREECE",
+    "THESSALONIKI",
+    "ATHENS"
+   ],
+   "price": 2590000,
+   "sort": 66,
+   "to": "",
+   "tt": "SMALL",
+   "url": "https://www.klook.com/ko/search/result/?query=%EA%B7%B8%EB%A6%AC%EC%8A%A4%20%EC%86%8C%EA%B7%B8%EB%A3%B9%20%EB%B0%94%EC%9A%B8%20%EC%88%9C%EB%A1%80%207%EC%9D%BC%20%28%EB%8D%B0%EC%82%B4%EB%A1%9C%EB%8B%88%EA%B0%80%20%C2%B7%20%EC%95%84%ED%85%8C%EB%84%A4%29"
   },
   {
    "author": "한강",
@@ -3197,11 +4407,38 @@
    },
    "price": 15000,
    "rank": 1,
-   "rank_at": "2026-11-11",
+   "rank_at": "2026-11-19",
    "rank_by": "시험 순위",
    "sort": 67,
+   "tg": {
+    "BOOK_SUB": [
+     "GENERAL:NOVEL"
+    ]
+   },
    "to": "",
    "url": "https://search.shopping.naver.com/ns/search?query=%EC%86%8C%EB%85%84%EC%9D%B4%20%EC%98%A8%EB%8B%A4"
+  },
+  {
+   "band": "",
+   "cat": "TEST_TRAVEL",
+   "days": 1,
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 222,
+   "img": "",
+   "mall": "TEST_TRAVEL",
+   "names": {
+    "KO": "예루살렘 구시가 프라이빗 가이드 투어 1일"
+   },
+   "places": [
+    "JERUSALEM"
+   ],
+   "price": 350000,
+   "sort": 67,
+   "to": "",
+   "tt": "PRIVATE",
+   "url": "https://www.klook.com/ko/search/result/?query=%EC%98%88%EB%A3%A8%EC%82%B4%EB%A0%98%20%EA%B5%AC%EC%8B%9C%EA%B0%80%20%ED%94%84%EB%9D%BC%EC%9D%B4%EB%B9%97%20%EA%B0%80%EC%9D%B4%EB%93%9C%20%ED%88%AC%EC%96%B4%201%EC%9D%BC"
   },
   {
    "author": "한강",
@@ -3220,11 +4457,34 @@
    },
    "price": 15000,
    "rank": 2,
-   "rank_at": "2026-11-11",
+   "rank_at": "2026-11-19",
    "rank_by": "시험 순위",
    "sort": 68,
    "to": "",
    "url": "https://www.coupang.com/np/search?q=%EC%B1%84%EC%8B%9D%EC%A3%BC%EC%9D%98%EC%9E%90"
+  },
+  {
+   "band": "",
+   "cat": "TEST_TRAVEL",
+   "days": 2,
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 223,
+   "img": "",
+   "mall": "TEST_TRAVEL",
+   "names": {
+    "KO": "갑바도기아 프라이빗 투어 2일"
+   },
+   "places": [
+    "CAPPADOCIA",
+    "TURKEY"
+   ],
+   "price": 520000,
+   "sort": 68,
+   "to": "",
+   "tt": "PRIVATE",
+   "url": "https://www.klook.com/ko/search/result/?query=%EA%B0%91%EB%B0%94%EB%8F%84%EA%B8%B0%EC%95%84%20%ED%94%84%EB%9D%BC%EC%9D%B4%EB%B9%97%20%ED%88%AC%EC%96%B4%202%EC%9D%BC"
   },
   {
    "author": "김호연",
@@ -3243,11 +4503,41 @@
    },
    "price": 14000,
    "rank": 3,
-   "rank_at": "2026-11-11",
+   "rank_at": "2026-11-19",
    "rank_by": "시험 순위",
    "sort": 69,
+   "tg": {
+    "BOOK_SUB": [
+     "GENERAL:NOVEL"
+    ]
+   },
    "to": "",
    "url": "https://search.shopping.naver.com/ns/search?query=%EB%B6%88%ED%8E%B8%ED%95%9C%20%ED%8E%B8%EC%9D%98%EC%A0%90"
+  },
+  {
+   "band": "",
+   "cat": "TEST_TRAVEL",
+   "days": 3,
+   "deliver": "LINK",
+   "departs": [
+    "2026-12-15"
+   ],
+   "descs": {},
+   "from": "",
+   "id": 224,
+   "img": "",
+   "mall": "TEST_TRAVEL",
+   "names": {
+    "KO": "로마 · 바티칸 프라이빗 순례 3일"
+   },
+   "places": [
+    "ROME"
+   ],
+   "price": 980000,
+   "sort": 69,
+   "to": "",
+   "tt": "PRIVATE",
+   "url": "https://www.klook.com/ko/search/result/?query=%EB%A1%9C%EB%A7%88%20%C2%B7%20%EB%B0%94%ED%8B%B0%EC%B9%B8%20%ED%94%84%EB%9D%BC%EC%9D%B4%EB%B9%97%20%EC%88%9C%EB%A1%80%203%EC%9D%BC"
   },
   {
    "author": "손원평",
@@ -3266,11 +4556,34 @@
    },
    "price": 14000,
    "rank": 4,
-   "rank_at": "2026-11-11",
+   "rank_at": "2026-11-19",
    "rank_by": "시험 순위",
    "sort": 70,
    "to": "",
    "url": "https://www.coupang.com/np/search?q=%EC%95%84%EB%AA%AC%EB%93%9C"
+  },
+  {
+   "band": "",
+   "cat": "TEST_TRAVEL",
+   "days": 1,
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 225,
+   "img": "",
+   "mall": "TEST_TRAVEL",
+   "names": {
+    "KO": "카이로 피라미드 프라이빗 투어 1일"
+   },
+   "places": [
+    "CAIRO",
+    "EGYPT"
+   ],
+   "price": 210000,
+   "sort": 70,
+   "to": "",
+   "tt": "PRIVATE",
+   "url": "https://www.klook.com/ko/search/result/?query=%EC%B9%B4%EC%9D%B4%EB%A1%9C%20%ED%94%BC%EB%9D%BC%EB%AF%B8%EB%93%9C%20%ED%94%84%EB%9D%BC%EC%9D%B4%EB%B9%97%20%ED%88%AC%EC%96%B4%201%EC%9D%BC"
   },
   {
    "author": "유발 하라리",
@@ -3289,11 +4602,45 @@
    },
    "price": 24000,
    "rank": 1,
-   "rank_at": "2026-11-11",
+   "rank_at": "2026-11-19",
    "rank_by": "시험 순위",
    "sort": 71,
+   "tg": {
+    "BOOK_SUB": [
+     "GENERAL:HUMAN"
+    ]
+   },
    "to": "",
    "url": "https://search.shopping.naver.com/ns/search?query=%EC%82%AC%ED%94%BC%EC%97%94%EC%8A%A4"
+  },
+  {
+   "band": "",
+   "cat": "TEST_TRAVEL",
+   "days": 11,
+   "deliver": "LINK",
+   "departs": [
+    "2027-03-10",
+    "2027-05-09"
+   ],
+   "descs": {},
+   "from": "",
+   "id": 226,
+   "img": "",
+   "mall": "TEST_TRAVEL",
+   "names": {
+    "KO": "바울 전도 여행 지중해 크루즈 11일 (아테네 · 에베소 · 로마)"
+   },
+   "places": [
+    "GREECE",
+    "ATHENS",
+    "EPHESUS",
+    "ROME"
+   ],
+   "price": 4590000,
+   "sort": 71,
+   "to": "",
+   "tt": "CRUISE",
+   "url": "https://www.klook.com/ko/search/result/?query=%EB%B0%94%EC%9A%B8%20%EC%A0%84%EB%8F%84%20%EC%97%AC%ED%96%89%20%EC%A7%80%EC%A4%91%ED%95%B4%20%ED%81%AC%EB%A3%A8%EC%A6%88%2011%EC%9D%BC%20%28%EC%95%84%ED%85%8C%EB%84%A4%20%C2%B7%20%EC%97%90%EB%B2%A0%EC%86%8C%20%C2%B7%20%EB%A1%9C%EB%A7%88%29"
   },
   {
    "author": "재레드 다이아몬드",
@@ -3312,11 +4659,37 @@
    },
    "price": 29800,
    "rank": 2,
-   "rank_at": "2026-11-11",
+   "rank_at": "2026-11-19",
    "rank_by": "시험 순위",
    "sort": 72,
    "to": "",
    "url": "https://www.coupang.com/np/search?q=%EC%B4%9D%20%EA%B7%A0%20%EC%87%A0"
+  },
+  {
+   "band": "",
+   "cat": "TEST_TRAVEL",
+   "days": 9,
+   "deliver": "LINK",
+   "departs": [
+    "2027-04-09"
+   ],
+   "descs": {},
+   "from": "",
+   "id": 227,
+   "img": "",
+   "mall": "TEST_TRAVEL",
+   "names": {
+    "KO": "나일강 크루즈 · 시내산 순례 9일"
+   },
+   "places": [
+    "EGYPT",
+    "CAIRO"
+   ],
+   "price": 3190000,
+   "sort": 72,
+   "to": "",
+   "tt": "CRUISE",
+   "url": "https://www.klook.com/ko/search/result/?query=%EB%82%98%EC%9D%BC%EA%B0%95%20%ED%81%AC%EB%A3%A8%EC%A6%88%20%C2%B7%20%EC%8B%9C%EB%82%B4%EC%82%B0%20%EC%88%9C%EB%A1%80%209%EC%9D%BC"
   },
   {
    "author": "마이클 샌델",
@@ -3335,11 +4708,38 @@
    },
    "price": 18000,
    "rank": 3,
-   "rank_at": "2026-11-11",
+   "rank_at": "2026-11-19",
    "rank_by": "시험 순위",
    "sort": 73,
+   "tg": {
+    "BOOK_SUB": [
+     "GENERAL:HUMAN"
+    ]
+   },
    "to": "",
    "url": "https://search.shopping.naver.com/ns/search?query=%EC%A0%95%EC%9D%98%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80"
+  },
+  {
+   "band": "",
+   "cat": "TEST_TRAVEL",
+   "days": 1,
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 228,
+   "img": "",
+   "mall": "TEST_TRAVEL",
+   "names": {
+    "KO": "베들레헴 · 헤브론 일일 투어"
+   },
+   "places": [
+    "BETHLEHEM"
+   ],
+   "price": 95000,
+   "sort": 73,
+   "to": "",
+   "tt": "DAY",
+   "url": "https://www.klook.com/ko/search/result/?query=%EB%B2%A0%EB%93%A4%EB%A0%88%ED%97%B4%20%C2%B7%20%ED%97%A4%EB%B8%8C%EB%A1%A0%20%EC%9D%BC%EC%9D%BC%20%ED%88%AC%EC%96%B4"
   },
   {
    "author": "제임스 클리어",
@@ -3358,12 +4758,35 @@
    },
    "price": 16000,
    "rank": 1,
-   "rank_at": "2026-11-11",
+   "rank_at": "2026-11-19",
    "rank_by": "시험 순위",
    "sort": 74,
-   "to": "2026-11-26",
+   "to": "2026-12-04",
    "url": "https://www.coupang.com/np/search?q=%EC%95%84%EC%A3%BC%20%EC%9E%91%EC%9D%80%20%EC%8A%B5%EA%B4%80%EC%9D%98%20%ED%9E%98",
    "was": 18000
+  },
+  {
+   "band": "",
+   "cat": "TEST_TRAVEL",
+   "days": 1,
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 229,
+   "img": "",
+   "mall": "TEST_TRAVEL",
+   "names": {
+    "KO": "나사렛 · 가나 일일 투어"
+   },
+   "places": [
+    "NAZARETH",
+    "GALILEE"
+   ],
+   "price": 88000,
+   "sort": 74,
+   "to": "",
+   "tt": "DAY",
+   "url": "https://www.klook.com/ko/search/result/?query=%EB%82%98%EC%82%AC%EB%A0%9B%20%C2%B7%20%EA%B0%80%EB%82%98%20%EC%9D%BC%EC%9D%BC%20%ED%88%AC%EC%96%B4"
   },
   {
    "author": "게리 켈러",
@@ -3382,11 +4805,39 @@
    },
    "price": 16000,
    "rank": 2,
-   "rank_at": "2026-11-11",
+   "rank_at": "2026-11-19",
    "rank_by": "시험 순위",
    "sort": 75,
+   "tg": {
+    "BOOK_SUB": [
+     "GENERAL:SELF"
+    ]
+   },
    "to": "",
    "url": "https://search.shopping.naver.com/ns/search?query=%EC%9B%90%EC%94%BD"
+  },
+  {
+   "band": "",
+   "cat": "TEST_TRAVEL",
+   "days": 1,
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 230,
+   "img": "",
+   "mall": "TEST_TRAVEL",
+   "names": {
+    "KO": "아테네 아레오바고 · 고린도 일일 투어"
+   },
+   "places": [
+    "ATHENS",
+    "CORINTH"
+   ],
+   "price": 110000,
+   "sort": 75,
+   "to": "",
+   "tt": "DAY",
+   "url": "https://www.klook.com/ko/search/result/?query=%EC%95%84%ED%85%8C%EB%84%A4%20%EC%95%84%EB%A0%88%EC%98%A4%EB%B0%94%EA%B3%A0%20%C2%B7%20%EA%B3%A0%EB%A6%B0%EB%8F%84%20%EC%9D%BC%EC%9D%BC%20%ED%88%AC%EC%96%B4"
   },
   {
    "author": "기시미 이치로",
@@ -3405,11 +4856,34 @@
    },
    "price": 16800,
    "rank": 3,
-   "rank_at": "2026-11-11",
+   "rank_at": "2026-11-19",
    "rank_by": "시험 순위",
    "sort": 76,
    "to": "",
    "url": "https://www.coupang.com/np/search?q=%EB%AF%B8%EC%9B%80%EB%B0%9B%EC%9D%84%20%EC%9A%A9%EA%B8%B0"
+  },
+  {
+   "band": "",
+   "cat": "TEST_TRAVEL",
+   "days": 1,
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 231,
+   "img": "",
+   "mall": "TEST_TRAVEL",
+   "names": {
+    "KO": "에베소 유적 일일 투어"
+   },
+   "places": [
+    "EPHESUS",
+    "TURKEY"
+   ],
+   "price": 99000,
+   "sort": 76,
+   "to": "",
+   "tt": "DAY",
+   "url": "https://www.klook.com/ko/search/result/?query=%EC%97%90%EB%B2%A0%EC%86%8C%20%EC%9C%A0%EC%A0%81%20%EC%9D%BC%EC%9D%BC%20%ED%88%AC%EC%96%B4"
   },
   {
    "author": "모건 하우절",
@@ -3428,11 +4902,43 @@
    },
    "price": 19800,
    "rank": 1,
-   "rank_at": "2026-11-11",
+   "rank_at": "2026-11-19",
    "rank_by": "시험 순위",
    "sort": 77,
+   "tg": {
+    "BOOK_SUB": [
+     "GENERAL:BIZ"
+    ]
+   },
    "to": "",
    "url": "https://search.shopping.naver.com/ns/search?query=%EB%8F%88%EC%9D%98%20%EC%8B%AC%EB%A6%AC%ED%95%99"
+  },
+  {
+   "band": "",
+   "cat": "TEST_TRAVEL",
+   "days": 5,
+   "deliver": "LINK",
+   "departs": [
+    "2026-12-10",
+    "2027-01-07"
+   ],
+   "descs": {},
+   "from": "",
+   "id": 232,
+   "img": "",
+   "mall": "TEST_TRAVEL",
+   "names": {
+    "KO": "데살로니가 · 빌립보 순례 5일"
+   },
+   "places": [
+    "THESSALONIKI",
+    "GREECE"
+   ],
+   "price": 1590000,
+   "sort": 77,
+   "to": "",
+   "tt": "PACKAGE",
+   "url": "https://www.klook.com/ko/search/result/?query=%EB%8D%B0%EC%82%B4%EB%A1%9C%EB%8B%88%EA%B0%80%20%C2%B7%20%EB%B9%8C%EB%A6%BD%EB%B3%B4%20%EC%88%9C%EB%A1%80%205%EC%9D%BC"
   },
   {
    "author": "엠제이 드마코",
@@ -3451,11 +4957,39 @@
    },
    "price": 17500,
    "rank": 2,
-   "rank_at": "2026-11-11",
+   "rank_at": "2026-11-19",
    "rank_by": "시험 순위",
    "sort": 78,
    "to": "",
    "url": "https://www.coupang.com/np/search?q=%EB%B6%80%EC%9D%98%20%EC%B6%94%EC%9B%94%EC%B0%A8%EC%84%A0"
+  },
+  {
+   "band": "",
+   "cat": "TEST_TRAVEL",
+   "days": 15,
+   "deliver": "LINK",
+   "departs": [
+    "2027-02-28",
+    "2027-06-08"
+   ],
+   "descs": {},
+   "from": "",
+   "id": 233,
+   "img": "",
+   "mall": "TEST_TRAVEL",
+   "names": {
+    "KO": "이집트 · 요르단 · 이스라엘 출애굽 여정 15일"
+   },
+   "places": [
+    "EGYPT",
+    "JORDAN",
+    "JERUSALEM"
+   ],
+   "price": 4290000,
+   "sort": 78,
+   "to": "",
+   "tt": "PACKAGE",
+   "url": "https://www.klook.com/ko/search/result/?query=%EC%9D%B4%EC%A7%91%ED%8A%B8%20%C2%B7%20%EC%9A%94%EB%A5%B4%EB%8B%A8%20%C2%B7%20%EC%9D%B4%EC%8A%A4%EB%9D%BC%EC%97%98%20%EC%B6%9C%EC%95%A0%EA%B5%BD%20%EC%97%AC%EC%A0%95%2015%EC%9D%BC"
   },
   {
    "author": "김난도",
@@ -3474,11 +5008,43 @@
    },
    "price": 20000,
    "rank": 3,
-   "rank_at": "2026-11-11",
+   "rank_at": "2026-11-19",
    "rank_by": "시험 순위",
    "sort": 79,
+   "tg": {
+    "BOOK_SUB": [
+     "GENERAL:BIZ"
+    ]
+   },
    "to": "",
    "url": "https://search.shopping.naver.com/ns/search?query=%ED%8A%B8%EB%A0%8C%EB%93%9C%20%EC%BD%94%EB%A6%AC%EC%95%84"
+  },
+  {
+   "band": "",
+   "cat": "TEST_TRAVEL",
+   "days": 6,
+   "deliver": "LINK",
+   "departs": [
+    "2026-12-06"
+   ],
+   "descs": {},
+   "from": "",
+   "id": 234,
+   "img": "",
+   "mall": "TEST_TRAVEL",
+   "names": {
+    "KO": "이스탄불 · 갑바도기아 순례 6일"
+   },
+   "places": [
+    "ISTANBUL",
+    "CAPPADOCIA",
+    "TURKEY"
+   ],
+   "price": 1990000,
+   "sort": 79,
+   "to": "",
+   "tt": "PACKAGE",
+   "url": "https://www.klook.com/ko/search/result/?query=%EC%9D%B4%EC%8A%A4%ED%83%84%EB%B6%88%20%C2%B7%20%EA%B0%91%EB%B0%94%EB%8F%84%EA%B8%B0%EC%95%84%20%EC%88%9C%EB%A1%80%206%EC%9D%BC"
   },
   {
    "author": "정희원",
@@ -3497,11 +5063,37 @@
    },
    "price": 18800,
    "rank": 1,
-   "rank_at": "2026-11-11",
+   "rank_at": "2026-11-19",
    "rank_by": "시험 순위",
    "sort": 80,
    "to": "",
    "url": "https://www.coupang.com/np/search?q=%EC%A0%80%EC%86%8D%EB%85%B8%ED%99%94%20%EC%8B%9D%EC%82%AC%EB%B2%95"
+  },
+  {
+   "band": "",
+   "cat": "TEST_TRAVEL",
+   "days": 4,
+   "deliver": "LINK",
+   "departs": [
+    "2026-12-05",
+    "2027-01-04"
+   ],
+   "descs": {},
+   "from": "",
+   "id": 235,
+   "img": "",
+   "mall": "TEST_TRAVEL",
+   "names": {
+    "KO": "오사카 · 교토 소그룹 여행 4일"
+   },
+   "places": [
+    "OSAKA"
+   ],
+   "price": 1090000,
+   "sort": 80,
+   "to": "",
+   "tt": "SMALL",
+   "url": "https://www.klook.com/ko/search/result/?query=%EC%98%A4%EC%82%AC%EC%B9%B4%20%C2%B7%20%EA%B5%90%ED%86%A0%20%EC%86%8C%EA%B7%B8%EB%A3%B9%20%EC%97%AC%ED%96%89%204%EC%9D%BC"
   },
   {
    "author": "정희원",
@@ -3520,11 +5112,41 @@
    },
    "price": 17000,
    "rank": 2,
-   "rank_at": "2026-11-11",
+   "rank_at": "2026-11-19",
    "rank_by": "시험 순위",
    "sort": 81,
+   "tg": {
+    "BOOK_SUB": [
+     "GENERAL:HEALTH"
+    ]
+   },
    "to": "",
    "url": "https://search.shopping.naver.com/ns/search?query=%EB%8B%B9%EC%8B%A0%EB%8F%84%20%EB%8A%90%EB%A6%AC%EA%B2%8C%20%EB%82%98%EC%9D%B4%20%EB%93%A4%20%EC%88%98%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4"
+  },
+  {
+   "band": "",
+   "cat": "TEST_TRAVEL",
+   "days": 3,
+   "deliver": "LINK",
+   "departs": [
+    "2026-12-12"
+   ],
+   "descs": {},
+   "from": "",
+   "id": 236,
+   "img": "",
+   "mall": "TEST_TRAVEL",
+   "names": {
+    "KO": "후쿠오카 온천 소그룹 여행 3일"
+   },
+   "places": [
+    "FUKUOKA"
+   ],
+   "price": 790000,
+   "sort": 81,
+   "to": "",
+   "tt": "SMALL",
+   "url": "https://www.klook.com/ko/search/result/?query=%ED%9B%84%EC%BF%A0%EC%98%A4%EC%B9%B4%20%EC%98%A8%EC%B2%9C%20%EC%86%8C%EA%B7%B8%EB%A3%B9%20%EC%97%AC%ED%96%89%203%EC%9D%BC"
   },
   {
    "author": "편집부",
@@ -3543,11 +5165,37 @@
    },
    "price": 16000,
    "rank": 3,
-   "rank_at": "2026-11-11",
+   "rank_at": "2026-11-19",
    "rank_by": "시험 순위",
    "sort": 82,
    "to": "",
    "url": "https://www.coupang.com/np/search?q=%EC%A7%91%EB%B0%A5%20%EA%B8%B0%EB%B3%B8%20%EB%B0%98%EC%B0%AC"
+  },
+  {
+   "band": "",
+   "cat": "TEST_TRAVEL",
+   "days": 3,
+   "deliver": "LINK",
+   "departs": [
+    "2026-12-02",
+    "2027-01-01"
+   ],
+   "descs": {},
+   "from": "",
+   "id": 237,
+   "img": "",
+   "mall": "TEST_TRAVEL",
+   "names": {
+    "KO": "제주 올레 소그룹 걷기 3일"
+   },
+   "places": [
+    "JEJU"
+   ],
+   "price": 450000,
+   "sort": 82,
+   "to": "",
+   "tt": "SMALL",
+   "url": "https://www.klook.com/ko/search/result/?query=%EC%A0%9C%EC%A3%BC%20%EC%98%AC%EB%A0%88%20%EC%86%8C%EA%B7%B8%EB%A3%B9%20%EA%B1%B7%EA%B8%B0%203%EC%9D%BC"
   },
   {
    "author": "루리",
@@ -3566,11 +5214,37 @@
    },
    "price": 11500,
    "rank": 1,
-   "rank_at": "2026-11-11",
+   "rank_at": "2026-11-19",
    "rank_by": "시험 순위",
    "sort": 83,
+   "tg": {
+    "BOOK_SUB": [
+     "GENERAL:KIDS"
+    ]
+   },
    "to": "",
    "url": "https://search.shopping.naver.com/ns/search?query=%EA%B8%B4%EA%B8%B4%EB%B0%A4"
+  },
+  {
+   "band": "",
+   "cat": "TEST_TRAVEL",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 238,
+   "img": "",
+   "mall": "TEST_TRAVEL",
+   "names": {
+    "KO": "세부 소그룹 호핑 투어"
+   },
+   "places": [
+    "CEBU"
+   ],
+   "price": 85000,
+   "sort": 83,
+   "to": "",
+   "tt": "SMALL",
+   "url": "https://www.klook.com/ko/search/result/?query=%EC%84%B8%EB%B6%80%20%EC%86%8C%EA%B7%B8%EB%A3%B9%20%ED%98%B8%ED%95%91%20%ED%88%AC%EC%96%B4"
   },
   {
    "author": "백희나",
@@ -3589,11 +5263,33 @@
    },
    "price": 13000,
    "rank": 2,
-   "rank_at": "2026-11-11",
+   "rank_at": "2026-11-19",
    "rank_by": "시험 순위",
    "sort": 84,
    "to": "",
    "url": "https://www.coupang.com/np/search?q=%EA%B5%AC%EB%A6%84%EB%B9%B5"
+  },
+  {
+   "band": "",
+   "cat": "TEST_TRAVEL",
+   "days": 1,
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 239,
+   "img": "",
+   "mall": "TEST_TRAVEL",
+   "names": {
+    "KO": "방콕 일일 투어 (왕궁 · 수상시장)"
+   },
+   "places": [
+    "BANGKOK"
+   ],
+   "price": 59000,
+   "sort": 84,
+   "to": "",
+   "tt": "DAY",
+   "url": "https://www.klook.com/ko/search/result/?query=%EB%B0%A9%EC%BD%95%20%EC%9D%BC%EC%9D%BC%20%ED%88%AC%EC%96%B4%20%28%EC%99%95%EA%B6%81%20%C2%B7%20%EC%88%98%EC%83%81%EC%8B%9C%EC%9E%A5%29"
   },
   {
    "author": "황선미",
@@ -3612,11 +5308,424 @@
    },
    "price": 12000,
    "rank": 3,
-   "rank_at": "2026-11-11",
+   "rank_at": "2026-11-19",
    "rank_by": "시험 순위",
    "sort": 85,
+   "tg": {
+    "BOOK_SUB": [
+     "GENERAL:KIDS"
+    ]
+   },
    "to": "",
    "url": "https://search.shopping.naver.com/ns/search?query=%EB%A7%88%EB%8B%B9%EC%9D%84%20%EB%82%98%EC%98%A8%20%EC%95%94%ED%83%89"
+  },
+  {
+   "band": "",
+   "cat": "TEST_TRAVEL",
+   "days": 1,
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 240,
+   "img": "",
+   "mall": "TEST_TRAVEL",
+   "names": {
+    "KO": "다낭 · 호이안 일일 투어"
+   },
+   "places": [
+    "DANANG"
+   ],
+   "price": 49000,
+   "sort": 85,
+   "to": "",
+   "tt": "DAY",
+   "url": "https://www.klook.com/ko/search/result/?query=%EB%8B%A4%EB%82%AD%20%C2%B7%20%ED%98%B8%EC%9D%B4%EC%95%88%20%EC%9D%BC%EC%9D%BC%20%ED%88%AC%EC%96%B4"
+  },
+  {
+   "band": "",
+   "cat": "TEST_TRAVEL",
+   "days": 1,
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 241,
+   "img": "",
+   "mall": "TEST_TRAVEL",
+   "names": {
+    "KO": "호찌민 · 메콩강 일일 투어"
+   },
+   "places": [
+    "HOCHIMINH"
+   ],
+   "price": 55000,
+   "sort": 86,
+   "to": "",
+   "tt": "DAY",
+   "url": "https://www.klook.com/ko/search/result/?query=%ED%98%B8%EC%B0%8C%EB%AF%BC%20%C2%B7%20%EB%A9%94%EC%BD%A9%EA%B0%95%20%EC%9D%BC%EC%9D%BC%20%ED%88%AC%EC%96%B4"
+  },
+  {
+   "band": "",
+   "cat": "TEST_TRAVEL",
+   "days": 1,
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 242,
+   "img": "",
+   "mall": "TEST_TRAVEL",
+   "names": {
+    "KO": "도쿄 근교 하코네 일일 투어"
+   },
+   "places": [
+    "TOKYO"
+   ],
+   "price": 98000,
+   "sort": 87,
+   "to": "",
+   "tt": "DAY",
+   "url": "https://www.klook.com/ko/search/result/?query=%EB%8F%84%EC%BF%84%20%EA%B7%BC%EA%B5%90%20%ED%95%98%EC%BD%94%EB%84%A4%20%EC%9D%BC%EC%9D%BC%20%ED%88%AC%EC%96%B4"
+  },
+  {
+   "band": "",
+   "cat": "TEST_TRAVEL",
+   "days": 1,
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 243,
+   "img": "",
+   "mall": "TEST_TRAVEL",
+   "names": {
+    "KO": "서울 기독교 유적 일일 투어 (정동 · 양화진)"
+   },
+   "places": [
+    "SEOUL"
+   ],
+   "price": 39000,
+   "sort": 88,
+   "to": "",
+   "tt": "DAY",
+   "url": "https://www.klook.com/ko/search/result/?query=%EC%84%9C%EC%9A%B8%20%EA%B8%B0%EB%8F%85%EA%B5%90%20%EC%9C%A0%EC%A0%81%20%EC%9D%BC%EC%9D%BC%20%ED%88%AC%EC%96%B4%20%28%EC%A0%95%EB%8F%99%20%C2%B7%20%EC%96%91%ED%99%94%EC%A7%84%29"
+  },
+  {
+   "band": "",
+   "cat": "TEST_TRAVEL",
+   "days": 2,
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 244,
+   "img": "",
+   "mall": "TEST_TRAVEL",
+   "names": {
+    "KO": "나트랑 프라이빗 가족 투어 2일"
+   },
+   "places": [
+    "NHATRANG"
+   ],
+   "price": 380000,
+   "sort": 89,
+   "to": "",
+   "tt": "PRIVATE",
+   "url": "https://www.klook.com/ko/search/result/?query=%EB%82%98%ED%8A%B8%EB%9E%91%20%ED%94%84%EB%9D%BC%EC%9D%B4%EB%B9%97%20%EA%B0%80%EC%A1%B1%20%ED%88%AC%EC%96%B4%202%EC%9D%BC"
+  },
+  {
+   "band": "",
+   "cat": "TEST_TRAVEL",
+   "days": 2,
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 245,
+   "img": "",
+   "mall": "TEST_TRAVEL",
+   "names": {
+    "KO": "오키나와 프라이빗 가이드 투어 2일"
+   },
+   "places": [
+    "OKINAWA"
+   ],
+   "price": 560000,
+   "sort": 90,
+   "to": "",
+   "tt": "PRIVATE",
+   "url": "https://www.klook.com/ko/search/result/?query=%EC%98%A4%ED%82%A4%EB%82%98%EC%99%80%20%ED%94%84%EB%9D%BC%EC%9D%B4%EB%B9%97%20%EA%B0%80%EC%9D%B4%EB%93%9C%20%ED%88%AC%EC%96%B4%202%EC%9D%BC"
+  },
+  {
+   "band": "",
+   "cat": "TEST_TRAVEL",
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 246,
+   "img": "",
+   "mall": "TEST_TRAVEL",
+   "names": {
+    "KO": "하와이 프라이빗 섬 일주 투어"
+   },
+   "places": [
+    "HAWAII"
+   ],
+   "price": 420000,
+   "sort": 91,
+   "to": "",
+   "tt": "PRIVATE",
+   "url": "https://www.klook.com/ko/search/result/?query=%ED%95%98%EC%99%80%EC%9D%B4%20%ED%94%84%EB%9D%BC%EC%9D%B4%EB%B9%97%20%EC%84%AC%20%EC%9D%BC%EC%A3%BC%20%ED%88%AC%EC%96%B4"
+  },
+  {
+   "band": "",
+   "cat": "TEST_TRAVEL",
+   "days": 6,
+   "deliver": "LINK",
+   "departs": [
+    "2027-01-19",
+    "2027-04-19"
+   ],
+   "descs": {},
+   "from": "",
+   "id": 247,
+   "img": "",
+   "mall": "TEST_TRAVEL",
+   "names": {
+    "KO": "싱가포르 출발 동남아 크루즈 6일"
+   },
+   "places": [
+    "SINGAPORE"
+   ],
+   "price": 1890000,
+   "sort": 92,
+   "to": "",
+   "tt": "CRUISE",
+   "url": "https://www.klook.com/ko/search/result/?query=%EC%8B%B1%EA%B0%80%ED%8F%AC%EB%A5%B4%20%EC%B6%9C%EB%B0%9C%20%EB%8F%99%EB%82%A8%EC%95%84%20%ED%81%AC%EB%A3%A8%EC%A6%88%206%EC%9D%BC"
+  },
+  {
+   "band": "",
+   "cat": "TEST_TRAVEL",
+   "days": 5,
+   "deliver": "LINK",
+   "departs": [
+    "2027-02-18"
+   ],
+   "descs": {},
+   "from": "",
+   "id": 248,
+   "img": "",
+   "mall": "TEST_TRAVEL",
+   "names": {
+    "KO": "부산 출발 일본 크루즈 5일"
+   },
+   "places": [
+    "BUSAN",
+    "FUKUOKA"
+   ],
+   "price": 1290000,
+   "sort": 93,
+   "to": "",
+   "tt": "CRUISE",
+   "url": "https://www.klook.com/ko/search/result/?query=%EB%B6%80%EC%82%B0%20%EC%B6%9C%EB%B0%9C%20%EC%9D%BC%EB%B3%B8%20%ED%81%AC%EB%A3%A8%EC%A6%88%205%EC%9D%BC"
+  },
+  {
+   "band": "",
+   "cat": "TEST_TRAVEL",
+   "days": 2,
+   "deliver": "LINK",
+   "descs": {},
+   "from": "",
+   "id": 249,
+   "img": "",
+   "mall": "TEST_TRAVEL",
+   "names": {
+    "KO": "하노이 · 하롱베이 크루즈 2일"
+   },
+   "places": [
+    "HANOI"
+   ],
+   "price": 330000,
+   "sort": 94,
+   "to": "",
+   "tt": "CRUISE",
+   "url": "https://www.klook.com/ko/search/result/?query=%ED%95%98%EB%85%B8%EC%9D%B4%20%C2%B7%20%ED%95%98%EB%A1%B1%EB%B2%A0%EC%9D%B4%20%ED%81%AC%EB%A3%A8%EC%A6%88%202%EC%9D%BC"
+  },
+  {
+   "band": "",
+   "cat": "TEST_TRAVEL",
+   "days": 8,
+   "deliver": "LINK",
+   "departs": [
+    "2027-01-29",
+    "2027-03-30"
+   ],
+   "descs": {},
+   "from": "",
+   "id": 250,
+   "img": "",
+   "mall": "TEST_TRAVEL",
+   "names": {
+    "KO": "파리 · 스위스 패키지 8일"
+   },
+   "places": [
+    "PARIS"
+   ],
+   "price": 3290000,
+   "sort": 95,
+   "to": "",
+   "tt": "PACKAGE",
+   "url": "https://www.klook.com/ko/search/result/?query=%ED%8C%8C%EB%A6%AC%20%C2%B7%20%EC%8A%A4%EC%9C%84%EC%8A%A4%20%ED%8C%A8%ED%82%A4%EC%A7%80%208%EC%9D%BC"
+  },
+  {
+   "band": "",
+   "cat": "TEST_TRAVEL",
+   "days": 4,
+   "deliver": "LINK",
+   "departs": [
+    "2026-12-08",
+    "2026-12-30"
+   ],
+   "descs": {},
+   "from": "",
+   "id": 251,
+   "img": "",
+   "mall": "TEST_TRAVEL",
+   "names": {
+    "KO": "타이베이 패키지 4일"
+   },
+   "places": [
+    "TAIPEI"
+   ],
+   "price": 690000,
+   "sort": 96,
+   "to": "",
+   "tt": "PACKAGE",
+   "url": "https://www.klook.com/ko/search/result/?query=%ED%83%80%EC%9D%B4%EB%B2%A0%EC%9D%B4%20%ED%8C%A8%ED%82%A4%EC%A7%80%204%EC%9D%BC"
+  },
+  {
+   "band": "",
+   "cat": "TEST_TRAVEL",
+   "days": 3,
+   "deliver": "LINK",
+   "departs": [
+    "2026-12-23"
+   ],
+   "descs": {},
+   "from": "",
+   "id": 252,
+   "img": "",
+   "mall": "TEST_TRAVEL",
+   "names": {
+    "KO": "홍콩 · 마카오 패키지 3일"
+   },
+   "places": [
+    "HONGKONG"
+   ],
+   "price": 750000,
+   "sort": 97,
+   "to": "",
+   "tt": "PACKAGE",
+   "url": "https://www.klook.com/ko/search/result/?query=%ED%99%8D%EC%BD%A9%20%C2%B7%20%EB%A7%88%EC%B9%B4%EC%98%A4%20%ED%8C%A8%ED%82%A4%EC%A7%80%203%EC%9D%BC"
+  },
+  {
+   "band": "",
+   "cat": "TEST_TRAVEL",
+   "days": 5,
+   "deliver": "LINK",
+   "departs": [
+    "2027-01-11",
+    "2027-02-10"
+   ],
+   "descs": {},
+   "from": "",
+   "id": 253,
+   "img": "",
+   "mall": "TEST_TRAVEL",
+   "names": {
+    "KO": "괌 가족 패키지 5일"
+   },
+   "places": [
+    "GUAM"
+   ],
+   "price": 1190000,
+   "sort": 98,
+   "to": "",
+   "tt": "PACKAGE",
+   "url": "https://www.klook.com/ko/search/result/?query=%EA%B4%8C%20%EA%B0%80%EC%A1%B1%20%ED%8C%A8%ED%82%A4%EC%A7%80%205%EC%9D%BC"
+  },
+  {
+   "band": "",
+   "cat": "TEST_TRAVEL",
+   "days": 4,
+   "deliver": "LINK",
+   "departs": [
+    "2027-02-03"
+   ],
+   "descs": {},
+   "from": "",
+   "id": 254,
+   "img": "",
+   "mall": "TEST_TRAVEL",
+   "names": {
+    "KO": "삿포로 눈축제 패키지 4일"
+   },
+   "places": [
+    "SAPPORO"
+   ],
+   "price": 1350000,
+   "sort": 99,
+   "to": "",
+   "tt": "PACKAGE",
+   "url": "https://www.klook.com/ko/search/result/?query=%EC%82%BF%ED%8F%AC%EB%A1%9C%20%EB%88%88%EC%B6%95%EC%A0%9C%20%ED%8C%A8%ED%82%A4%EC%A7%80%204%EC%9D%BC"
+  },
+  {
+   "band": "",
+   "cat": "TEST_TRAVEL",
+   "days": 5,
+   "deliver": "LINK",
+   "departs": [
+    "2026-12-18",
+    "2027-01-17"
+   ],
+   "descs": {},
+   "from": "",
+   "id": 255,
+   "img": "",
+   "mall": "TEST_TRAVEL",
+   "names": {
+    "KO": "푸껫 패키지 5일"
+   },
+   "places": [
+    "PHUKET"
+   ],
+   "price": 990000,
+   "sort": 100,
+   "to": "",
+   "tt": "PACKAGE",
+   "url": "https://www.klook.com/ko/search/result/?query=%ED%91%B8%EA%BB%AB%20%ED%8C%A8%ED%82%A4%EC%A7%80%205%EC%9D%BC"
+  },
+  {
+   "band": "",
+   "cat": "TEST_TRAVEL",
+   "days": 5,
+   "deliver": "LINK",
+   "departs": [
+    "2026-12-26",
+    "2027-01-25",
+    "2027-02-24"
+   ],
+   "descs": {},
+   "from": "",
+   "id": 256,
+   "img": "",
+   "mall": "TEST_TRAVEL",
+   "names": {
+    "KO": "방콕 · 파타야 패키지 5일"
+   },
+   "places": [
+    "BANGKOK"
+   ],
+   "price": 890000,
+   "sort": 101,
+   "to": "",
+   "tt": "PACKAGE",
+   "url": "https://www.klook.com/ko/search/result/?query=%EB%B0%A9%EC%BD%95%20%C2%B7%20%ED%8C%8C%ED%83%80%EC%95%BC%20%ED%8C%A8%ED%82%A4%EC%A7%80%205%EC%9D%BC"
   }
  ],
  "malls": [
@@ -3968,7 +6077,7 @@
  "menu_counts": {
   "books": 41,
   "goods": 75,
-  "travel": 15
+  "travel": 54
  },
  "menus": [
   {
@@ -9899,5 +12008,5 @@
    }
   }
  ],
- "version": 66
+ "version": 67
 }
