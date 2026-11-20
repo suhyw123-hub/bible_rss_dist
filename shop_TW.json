@@ -2841,6 +2841,226 @@
  ],
  "pnews": [
   {
+   "d": "2026-11-19",
+   "k": "OTHER",
+   "l": "DE",
+   "s": "Israelnetz",
+   "t": "Pew: 62 Prozent der Juden werden 2070 in Israel leben",
+   "u": "https://www.israelnetz.com/pew-62-prozent-der-juden-werden-2070-in-israel-leben/",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-19",
+   "k": "OTHER",
+   "l": "DE",
+   "s": "Israelnetz",
+   "t": "Irische Universität verlässt Forschungsprojekt wegen israelischer Beteiligung",
+   "u": "https://www.israelnetz.com/irische-universitaet-verlaesst-forschungsprojekt-wegen-israelischer-beteiligung/",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-19",
+   "k": "OTHER",
+   "l": "DE",
+   "s": "Israelnetz",
+   "t": "Bundeswehrexperte warnt vor „europäischem Blick“ auf Israel",
+   "u": "https://www.israelnetz.com/bundeswehrexperte-warnt-vor-europaeischem-blick-auf-israel/",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-19",
+   "k": "OTHER",
+   "l": "DE",
+   "s": "Israelnetz",
+   "t": "In Griechenland: Israelische und griechische Luftwaffe hielten am Montag eine gemeinsame Übung ab",
+   "u": "https://www.israelnetz.com/in-griechenland-israelische-und-griechische-luftwaffe-hielten-am-montag-eine-gemeinsame-uebung-ab/",
+   "z": [
+    "GREECE"
+   ]
+  },
+  {
+   "d": "2026-11-19",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Daily Sabah — Türkiye",
+   "t": "Türkiye looks beyond reconstruction to build disaster-ready cities",
+   "u": "https://www.dailysabah.com/turkiye/turkiye-looks-beyond-reconstruction-to-build-disaster-ready-cities/news",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-19",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Daily Sabah — Türkiye",
+   "t": "Türkiye's COPArt initiative to continue at future UN climate summits",
+   "u": "https://www.dailysabah.com/arts/events/turkiyes-copart-initiative-to-continue-at-future-un-climate-summits",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-19",
+   "k": "ARCH",
+   "l": "EN",
+   "s": "Daily Sabah — Türkiye",
+   "t": "Ancient Roman bath in Türkiye traces 2,000 years of quakes",
+   "u": "https://www.dailysabah.com/life/history/ancient-roman-bath-in-turkiye-traces-2000-years-of-quakes",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-19",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "JNS",
+   "t": "ANC’s shrinking mandate should change how the world sees South Africa",
+   "u": "https://www.jns.org/opinion/angie-segal/ancs-shrinking-mandate-should-change-how-the-world-sees-south-africa",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-19",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "JNS",
+   "t": "Anti-Israel activists try to block Jewish groups from advising new Massachusetts Holocaust education panel",
+   "u": "https://www.jns.org/news/u-s-news/massachusetts-forms-holocaust-education-committee-as-activists-object-to-jewish-groups-involvement",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-19",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "JNS",
+   "t": "Congress gives posthumous gold medal to former Egyptian president Sadat",
+   "u": "https://www.jns.org/news/u-s-news/congress-gives-posthumous-gold-medal-to-former-egyptian-president-sadat",
+   "z": [
+    "EGYPT"
+   ]
+  },
+  {
+   "d": "2026-11-19",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "JNS",
+   "t": "Surfside can’t be part of Sister Cities org after its ‘extremely biased’ anti-Israel event, Florida town mayor says",
+   "u": "https://www.jns.org/news/u-s-news/surfside-cant-be-part-of-sister-cities-org-after-its-extremely-biased-anti-israel-event-florida-town-mayor-says",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-19",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "JNS",
+   "t": "Mamdani again rejects idea he should hold anti-Israel remarks on Oct. 7 anniversaries",
+   "u": "https://www.jns.org/news/u-s-news/mamdani-again-rejects-idea-he-should-hold-anti-israel-remarks-on-oct-7-anniversaries",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-19",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "JNS",
+   "t": "Support for Israel cannot be separated from Jewish peoplehood, rabbis say at JNF",
+   "u": "https://www.jns.org/news/u-s-news/support-for-israel-cant-be-separated-from-jewish-peoplehood-rabbis-say-at-jnf",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-19",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "JNS",
+   "t": "The theological war against Israel",
+   "u": "https://www.jns.org/opinion/steve-wenick/the-theological-war-against-israel",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-19",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "JNS",
+   "t": "World Court rules Myanmar committed genocide against Rohingya",
+   "u": "https://www.jns.org/news/world/world-court-rules-myanmar-committed-genocide-against-rohingya",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-19",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "JNS",
+   "t": "Israel, Morocco and the risks highlighted by a $500 million hospital plan",
+   "u": "https://www.jns.org/opinion/david-adler/israel-morocco-and-the-risks-highlighted-by-a-500-million-hospital-plan",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-19",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "The Christian Post",
+   "t": "Huckabee defends US-Israel alliance, says 'the birthplace of America was actually Jerusalem'",
+   "u": "https://www.christianpost.com/news/huckabee-says-the-birthplace-of-america-was-actually-jerusalem.html",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-19",
+   "k": "ARCH",
+   "l": "EN",
+   "s": "Archaeology Magazine",
+   "t": "Ancient Cemetery Discovered in Northern Egypt",
+   "u": "https://archaeology.org/news/2026/11/19/ancient-cemetery-discovered-in-northern-egypt/",
+   "z": [
+    "EGYPT"
+   ]
+  },
+  {
+   "d": "2026-11-19",
+   "k": "ARCH",
+   "l": "EN",
+   "s": "BiblePlaces Blog",
+   "t": "Why Another History of Israel? Josiah and Destruction",
+   "u": "https://www.bibleplaces.com/blog/2026/11/why-another-history-of-israel-josiah-and-destruction/",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-19",
+   "k": "OTHER",
+   "l": "KO",
+   "s": "데일리굿뉴스",
+   "t": "美 중부사령관, 이스라엘 전격 방문…군·정보 수뇌부와 회동",
+   "u": "https://www.goodnews1.com/news/articleView.html?idxno=466409",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
    "d": "2026-11-18",
    "k": "OTHER",
    "l": "DE",
@@ -4825,228 +5045,6 @@
    "u": "https://www.christiandaily.com/news/head-of-global-evangelical-body-visits-jordanian-village-where-gunmen-killed-9-at-church-funeral",
    "z": [
     "JORDAN"
-   ]
-  },
-  {
-   "d": "2026-10-31",
-   "k": "OTHER",
-   "l": "FR",
-   "s": "Christianisme Aujourd'hui",
-   "t": "Le christianisme disséqué, le Royaume à l’envers, l’image de soi, Israël en questions: nos lectures de novembre",
-   "u": "https://www.christianismeaujourdhui.info/livres-chretiens-novembre-2026-kraybill-houziaux/",
-   "z": [
-    "HOLY"
-   ]
-  },
-  {
-   "d": "2026-10-31",
-   "k": "OTHER",
-   "l": "EN",
-   "s": "Desiring God",
-   "t": "The Pull of Rome and the Promise of Grace",
-   "u": "https://rss.desiringgod.org/link/10732/17512004/the-pull-of-rome-and-the-promise-of-grace",
-   "z": [
-    "EUROPE"
-   ]
-  },
-  {
-   "d": "2026-10-31",
-   "k": "OTHER",
-   "l": "EN",
-   "s": "Christian Today",
-   "t": "Latin Patriarch of Jerusalem offers hope in region plagued by conflict",
-   "u": "https://www.christiantoday.com/news/latin-patriarch-of-jerusalem-offers-hope-in-region-plagued-by-conflict",
-   "z": [
-    "HOLY"
-   ]
-  },
-  {
-   "d": "2026-10-30",
-   "k": "PILGRIM",
-   "l": "KO",
-   "s": "데일리굿뉴스",
-   "t": "예루살렘 성전 앞서 2천 년 전 정결례탕 발견…성경 속 순례 흔적",
-   "u": "https://www.goodnews1.com/news/articleView.html?idxno=465685",
-   "z": [
-    "HOLY"
-   ]
-  },
-  {
-   "d": "2026-10-30",
-   "k": "OTHER",
-   "l": "KO",
-   "s": "기독교타임즈",
-   "t": "예루살렘 성전산 입구서 2000년 전 정결례탕 발견",
-   "u": "https://www.kmctimes.com/news/articleView.html?idxno=60656",
-   "z": [
-    "HOLY"
-   ]
-  },
-  {
-   "d": "2026-10-30",
-   "k": "PILGRIM",
-   "l": "KO",
-   "s": "크리스천투데이",
-   "t": "예루살렘 성전산 입구서 발견된, 2천 년 전 순례자들의 ‘정결례탕’",
-   "u": "https://www.christiantoday.co.kr/news/378272",
-   "z": [
-    "HOLY"
-   ]
-  },
-  {
-   "d": "2026-10-30",
-   "k": "OTHER",
-   "l": "KO",
-   "s": "데일리굿뉴스",
-   "t": "이스라엘 부정선거 논란…네타냐후 정권 연장 노림수 지적",
-   "u": "https://www.goodnews1.com/news/articleView.html?idxno=465715",
-   "z": [
-    "HOLY"
-   ]
-  },
-  {
-   "d": "2026-10-30",
-   "k": "OTHER",
-   "l": "EN",
-   "s": "RNS » Feed",
-   "t": "Basketball and papal courts collide as Villanova and Notre Dame tip off in Rome",
-   "u": "https://religionnews.com/2026/10/30/basketball-and-papal-courts-collide-as-villanova-and-notre-dame-tip-off-in-rome/",
-   "z": [
-    "EUROPE"
-   ]
-  },
-  {
-   "d": "2026-10-30",
-   "k": "OTHER",
-   "l": "FR",
-   "s": "Réforme",
-   "t": "En Israël, la coalition menée par Nétanyahou en tête mais sans majorité",
-   "u": "https://www.reforme.net/monde/en-israel-la-coalition-menee-par-netanyahou-en-tete-mais-sans-majorite/",
-   "z": [
-    "HOLY"
-   ]
-  },
-  {
-   "d": "2026-10-30",
-   "k": "OTHER",
-   "l": "EN",
-   "s": "RNS » Feed",
-   "t": "In another historic move, Pope Leo casts absentee US vote from Rome",
-   "u": "https://religionnews.com/2026/10/30/in-another-historic-move-pope-leo-casts-absentee-u-s-vote-from-rome/",
-   "z": [
-    "EUROPE"
-   ]
-  },
-  {
-   "d": "2026-10-29",
-   "k": "OTHER",
-   "l": "KO",
-   "s": "데일리굿뉴스",
-   "t": "이스라엘 총선 개표 막바지…네타냐후·야권 모두 과반 확보 실패",
-   "u": "https://www.goodnews1.com/news/articleView.html?idxno=465639",
-   "z": [
-    "HOLY"
-   ]
-  },
-  {
-   "d": "2026-10-29",
-   "k": "OTHER",
-   "l": "KO",
-   "s": "데일리굿뉴스",
-   "t": "이집트서 틱톡 영상 올린 청년 기독교인 6명 체포…종교의 자유 침해 논란",
-   "u": "https://www.goodnews1.com/news/articleView.html?idxno=465633",
-   "z": [
-    "EGYPT"
-   ]
-  },
-  {
-   "d": "2026-10-29",
-   "k": "OTHER",
-   "l": "KO",
-   "s": "데일리굿뉴스",
-   "t": "이스라엘 총선 야권 과반 실패…네타냐후 축출 기회 놓쳤다",
-   "u": "https://www.goodnews1.com/news/articleView.html?idxno=465660",
-   "z": [
-    "HOLY"
-   ]
-  },
-  {
-   "d": "2026-10-29",
-   "k": "OTHER",
-   "l": "KO",
-   "s": "크리스천투데이",
-   "t": "예루살렘정교회 총대주교, 요르단 교회 총격 희생자 애도",
-   "u": "https://www.christiantoday.co.kr/news/378240",
-   "z": [
-    "HOLY",
-    "JORDAN"
-   ]
-  },
-  {
-   "d": "2026-10-29",
-   "k": "OTHER",
-   "l": "FR",
-   "s": "Réforme",
-   "t": "Israël, Jordanie, Brésil… L’actualité en bref",
-   "u": "https://www.reforme.net/actualites/israel-jordanie-bresil-lactualite-en-bref/",
-   "z": [
-    "HOLY",
-    "JORDAN"
-   ]
-  },
-  {
-   "d": "2026-10-29",
-   "k": "OTHER",
-   "l": "EN",
-   "s": "RNS » Feed",
-   "t": "Jordan’s Christians are citizens, not guests",
-   "u": "https://religionnews.com/2026/10/29/jordans-christians-are-citizens-not-guests/",
-   "z": [
-    "JORDAN"
-   ]
-  },
-  {
-   "d": "2026-10-29",
-   "k": "OTHER",
-   "l": "EN",
-   "s": "RNS » Feed",
-   "t": "Top Vatican official says pope’s cancer diagnosis a ‘game-changer’ for the papacy",
-   "u": "https://religionnews.com/2026/10/29/top-vatican-official-says-popes-cancer-diagnosis-a-game-changer-for-the-papacy/",
-   "z": [
-    "EUROPE"
-   ]
-  },
-  {
-   "d": "2026-10-29",
-   "k": "OTHER",
-   "l": "EN",
-   "s": "The Christian Post",
-   "t": "When will Israel's new gov't be formed? When will the new Knesset be sworn in? Here's the timeline",
-   "u": "https://www.christianpost.com/news/when-will-israels-new-govt-be-formed-when-will-the-new-knesset.html",
-   "z": [
-    "HOLY"
-   ]
-  },
-  {
-   "d": "2026-10-28",
-   "k": "OTHER",
-   "l": "KO",
-   "s": "데일리굿뉴스",
-   "t": "이스라엘 총선 '초박빙'…여야 모두 과반 미달 전망",
-   "u": "https://www.goodnews1.com/news/articleView.html?idxno=465603",
-   "z": [
-    "HOLY"
-   ]
-  },
-  {
-   "d": "2026-10-28",
-   "k": "OTHER",
-   "l": "KO",
-   "s": "데일리굿뉴스",
-   "t": "이스라엘 총선 집권 여당, 투표 시간 연장 요청…야당 \"선거 불복 핑계\"",
-   "u": "https://www.goodnews1.com/news/articleView.html?idxno=465587",
-   "z": [
-    "HOLY"
    ]
   }
  ],
