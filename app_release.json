@@ -1,30 +1,16 @@
 {
- "version": "2026.11.20.1",
- "date": "2026-11-20 00:42",
- "notes": "고쳐진 곳: 쇼핑 · 기타 개선",
+ "version": "2026.11.20.2",
+ "date": "2026-11-20 11:22",
+ "notes": "고쳐진 곳: 쇼핑 · 때에 맞는 말씀 · 성경 · 홈 · 기타 개선 · 쇼핑몰",
  "pc": {
-  "version": "2026.11.20.1",
-  "file": "app_pc_2026.11.20.1_53cf5c98.zip",
-  "sha256": "53cf5c98b725d8a5e54857cef6a5d6392ba85cbf64d8281e39fb788e0d376d90",
-  "size": 19058735,
+  "version": "2026.11.20.2",
+  "file": "app_pc_2026.11.20.2_173b67a1.zip",
+  "sha256": "173b67a13010e0e66eabc5185299f5b85990eab9728d85985b80ef7784438e74",
+  "size": 19060272,
   "areas": [
    [
-    "UPD_A_ETC",
-    "기타 개선"
-   ]
-  ]
- },
- "android": {
-  "version": "2026.11.20.1",
-  "code": 2026112001,
-  "file": "app_android_2026.11.20.1_032507a4.apk",
-  "sha256": "032507a4915e9220faff241569c50090b1679e00eb58af6d04f5419573a46fe0",
-  "size": 34179118,
-  "url": "https://dist.asahdabar.com/app_android_2026.11.20.1_032507a4.apk",
-  "areas": [
-   [
-    "M_TAB_SHOP2",
-    "쇼핑"
+    "UPD_A_SHOP",
+    "쇼핑몰"
    ],
    [
     "UPD_A_ETC",
@@ -32,5 +18,35 @@
    ]
   ]
  },
- "sig": "affdf7732bd4b60b037f5f232ab0d18eda2b7c9152bbfb25a61815eb686757c030416420e169766bccdc22a980b2bca379829d0f80643943153201b26eace102"
+ "android": {
+  "version": "2026.11.20.2",
+  "code": 2026112002,
+  "file": "app_android_2026.11.20.2_a2d11a16.apk",
+  "sha256": "a2d11a16a37f508c6fcc0f795424ca78dcbf4f1ab141b70c2a9a5a84d90e14db",
+  "size": 34179090,
+  "url": "https://dist.asahdabar.com/app_android_2026.11.20.2_a2d11a16.apk",
+  "areas": [
+   [
+    "M_TAB_SHOP2",
+    "쇼핑"
+   ],
+   [
+    "UPD_A_TOPIC",
+    "때에 맞는 말씀"
+   ],
+   [
+    "M_TAB_BIBLE",
+    "성경"
+   ],
+   [
+    "M_TAB_HOME",
+    "홈"
+   ],
+   [
+    "UPD_A_ETC",
+    "기타 개선"
+   ]
+  ]
+ },
+ "sig": "3e81c680c7c296cab7b4605b34596ca0b4ebfa53dac22f7925d47a24e31e10a4d62c58e2df8a7754434da041dcbc710765e1bf4e02de2b360777d38844f1e905"
 }
