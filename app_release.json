@@ -1,20 +1,16 @@
 {
- "version": "2026.11.20.3",
- "date": "2026-11-20 11:50",
- "notes": "고쳐진 곳: 쇼핑 · AI 대화 · 홈 · 기타 개선 · AI 도우미 · 묵상플랜",
+ "version": "2026.11.20.4",
+ "date": "2026-11-20 15:47",
+ "notes": "고쳐진 곳: 쇼핑 · AI 대화 · 기도 노트 · 성경 · 플랜 · 내 서재 · 유튜브 · 최신 · 홈 · 설정 · 기타 개선 · AI 도우미",
  "pc": {
-  "version": "2026.11.20.3",
-  "file": "app_pc_2026.11.20.3_805d22f8.zip",
-  "sha256": "805d22f8d15bebe303dbe74c8aa7cb6aecd22ecee8916903e937f9c6acc25f34",
-  "size": 19064185,
+  "version": "2026.11.20.4",
+  "file": "app_pc_2026.11.20.4_a2064670.zip",
+  "sha256": "a2064670639a641645828c0251e0be8340b7caaa7f7eeb47ef34d3ae8546c648",
+  "size": 19072821,
   "areas": [
    [
     "UPD_A_AI",
     "AI 도우미"
-   ],
-   [
-    "UPD_A_PLAN",
-    "묵상플랜"
    ],
    [
     "UPD_A_ETC",
@@ -23,12 +19,12 @@
   ]
  },
  "android": {
-  "version": "2026.11.20.3",
-  "code": 2026112003,
-  "file": "app_android_2026.11.20.3_6a394d7c.apk",
-  "sha256": "6a394d7ced8392881b5cc4f062dc17784c0921baeb2288761d362510161a1410",
-  "size": 34179086,
-  "url": "https://dist.asahdabar.com/app_android_2026.11.20.3_6a394d7c.apk",
+  "version": "2026.11.20.4",
+  "code": 2026112004,
+  "file": "app_android_2026.11.20.4_18d7a20e.apk",
+  "sha256": "18d7a20ea08a2a21e11e74c78cb1bbb367069cd3e88cbffb5ddde06eafb4c6ee",
+  "size": 33953866,
+  "url": "https://dist.asahdabar.com/app_android_2026.11.20.4_18d7a20e.apk",
   "areas": [
    [
     "M_TAB_SHOP2",
@@ -39,8 +35,36 @@
     "AI 대화"
    ],
    [
+    "M_PR_TITLE",
+    "기도 노트"
+   ],
+   [
+    "M_TAB_BIBLE",
+    "성경"
+   ],
+   [
+    "M_TAB_PLAN",
+    "플랜"
+   ],
+   [
+    "M_LIBRARY",
+    "내 서재"
+   ],
+   [
+    "M_TAB_WORSHIP",
+    "유튜브"
+   ],
+   [
+    "M_TAB_LATEST",
+    "최신"
+   ],
+   [
     "M_TAB_HOME",
     "홈"
+   ],
+   [
+    "M_SETTINGS",
+    "설정"
    ],
    [
     "UPD_A_ETC",
@@ -48,5 +72,5 @@
    ]
   ]
  },
- "sig": "bc84d7993fb34224b7fec9cc37d6abf46beb75997f4114d1e4f4d5680bf6c69531194e24e60b42bfee844ac0bae1353d45c36db1a9ec7f3423ef679ea781b20d"
+ "sig": "b4e6becf9ec636933007f45704f497f839d1980edbe371b7bd2635d6f500fe515c8e5b04a154c31261fb64334ee506c111215be95dd6d4858789b8b9050c9204"
 }
