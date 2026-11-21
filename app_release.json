@@ -1,29 +1,73 @@
 {
- "version": "2026.11.21.4",
- "date": "2026-11-21 16:21",
- "notes": "고쳐진 곳: 쇼핑 · 유튜브 · 설정 · 기타 개선",
+ "version": "2026.11.21.5",
+ "date": "2026-11-21 18:25",
+ "notes": "고쳐진 곳: 쇼핑 · AI 대화 · 나의 시편 · 기도 노트 · 암송 · 때에 맞는 말씀 · 성경 · 플랜 · 서재 · 유튜브 · 최신 · 둘러보기 · 홈 · 설정 · 기타 개선",
  "pc": {
-  "version": "2026.11.21.4",
-  "file": "app_pc_2026.11.21.4_352038d1.zip",
-  "sha256": "352038d17482ed78c7ffd9e28427212b8a431cdf08b0460d7a583d5c33b21051",
-  "size": 19082790,
+  "version": "2026.11.21.5",
+  "file": "app_pc_2026.11.21.5_cff4df21.zip",
+  "sha256": "cff4df210252dd6f470aef1c282a9efc8634266d0c7a0fea99b63ace58fb0c6a",
+  "size": 19082789,
   "areas": []
  },
  "android": {
-  "version": "2026.11.21.4",
-  "code": 2026112104,
-  "file": "app_android_2026.11.21.4_355edd3c.apk",
-  "sha256": "355edd3c484a0d5cebb9430e02bec5a38b2abfef5998781a1075b897b8c74f7c",
-  "size": 34151078,
-  "url": "https://dist.asahdabar.com/app_android_2026.11.21.4_355edd3c.apk",
+  "version": "2026.11.21.5",
+  "code": 2026112105,
+  "file": "app_android_2026.11.21.5_63af1ff2.apk",
+  "sha256": "63af1ff20c7660d440137d932522115ec78f7cbef717ab66d21f5df00316c49b",
+  "size": 34151006,
+  "url": "https://dist.asahdabar.com/app_android_2026.11.21.5_63af1ff2.apk",
   "areas": [
    [
     "M_TAB_SHOP2",
     "쇼핑"
    ],
    [
+    "M_TAB_AI",
+    "AI 대화"
+   ],
+   [
+    "UPD_A_PSALM",
+    "나의 시편"
+   ],
+   [
+    "M_PR_TITLE",
+    "기도 노트"
+   ],
+   [
+    "M_MEMO_TITLE",
+    "암송"
+   ],
+   [
+    "UPD_A_TOPIC",
+    "때에 맞는 말씀"
+   ],
+   [
+    "M_TAB_BIBLE",
+    "성경"
+   ],
+   [
+    "M_TAB_PLAN",
+    "플랜"
+   ],
+   [
+    "M_LIBRARY",
+    "서재"
+   ],
+   [
     "M_TAB_WORSHIP",
     "유튜브"
+   ],
+   [
+    "M_TAB_LATEST",
+    "최신"
+   ],
+   [
+    "M_EXPLORE",
+    "둘러보기"
+   ],
+   [
+    "M_TAB_HOME",
+    "홈"
    ],
    [
     "M_SETTINGS",
@@ -35,5 +79,5 @@
    ]
   ]
  },
- "sig": "accb0d1da222da1a88e709082141cd5cb9170fe93cc086e4abbaad74dfd0e143e738d8ce3c247da60c4aba882c93c2d907ecdc5b7719853cb85b44430c5d3f05"
+ "sig": "ff9cb12929c9b46a5161aaff806f0da924674bbe9e26c697e82f03c150ff409f5cf7dfee8ace6c00e2539aa451d749e744d285a25cd3dd424c47cef10ed4a707"
 }
