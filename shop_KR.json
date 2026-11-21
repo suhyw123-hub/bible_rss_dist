@@ -1071,19 +1071,35 @@
     ],
     [
      "큐티책",
-     "BOOKS"
+     "BOOKS:FAITH"
     ],
     [
      "성경 필사",
-     "BOOKS"
+     "BOOKS:FAITH"
     ],
     [
      "성경 노트",
-     "BOOKS"
+     "BOOKS:FAITH"
     ],
     [
      "기독교 서적",
-     "BOOKS"
+     "BOOKS:FAITH"
+    ],
+    [
+     "소설",
+     "BOOKS:GENERAL"
+    ],
+    [
+     "에세이",
+     "BOOKS:GENERAL"
+    ],
+    [
+     "자기계발",
+     "BOOKS:GENERAL"
+    ],
+    [
+     "어린이 그림책",
+     "BOOKS:GENERAL"
     ],
     [
      "생수",
@@ -1123,15 +1139,27 @@
     ],
     [
      "성지순례",
-     "TRAVEL"
-    ],
-    [
-     "제주",
-     "TRAVEL"
+     "TRAVEL:PILGRIM"
     ],
     [
      "예루살렘",
-     "TRAVEL"
+     "TRAVEL:PILGRIM"
+    ],
+    [
+     "갈릴리",
+     "TRAVEL:PILGRIM"
+    ],
+    [
+     "제주",
+     "TRAVEL:GENERAL"
+    ],
+    [
+     "오사카",
+     "TRAVEL:GENERAL"
+    ],
+    [
+     "가족 여행",
+     "TRAVEL:GENERAL"
     ]
    ],
    "LATIN": [
@@ -1153,15 +1181,23 @@
     ],
     [
      "devotional",
-     "BOOKS"
+     "BOOKS:FAITH"
     ],
     [
      "journaling bible",
-     "BOOKS"
+     "BOOKS:FAITH"
     ],
     [
      "christian books",
-     "BOOKS"
+     "BOOKS:FAITH"
+    ],
+    [
+     "novel",
+     "BOOKS:GENERAL"
+    ],
+    [
+     "self help",
+     "BOOKS:GENERAL"
     ],
     [
      "kids bible",
@@ -1177,11 +1213,15 @@
     ],
     [
      "holy land tour",
-     "TRAVEL"
+     "TRAVEL:PILGRIM"
     ],
     [
      "Jerusalem",
-     "TRAVEL"
+     "TRAVEL:PILGRIM"
+    ],
+    [
+     "family trip",
+     "TRAVEL:GENERAL"
     ]
    ]
   },
@@ -1237,19 +1277,35 @@
     ],
     [
      "큐티책",
-     "BOOKS"
+     "BOOKS:FAITH"
     ],
     [
      "성경 필사",
-     "BOOKS"
+     "BOOKS:FAITH"
     ],
     [
      "성경 노트",
-     "BOOKS"
+     "BOOKS:FAITH"
     ],
     [
      "기독교 서적",
-     "BOOKS"
+     "BOOKS:FAITH"
+    ],
+    [
+     "소설",
+     "BOOKS:GENERAL"
+    ],
+    [
+     "에세이",
+     "BOOKS:GENERAL"
+    ],
+    [
+     "자기계발",
+     "BOOKS:GENERAL"
+    ],
+    [
+     "어린이 그림책",
+     "BOOKS:GENERAL"
     ],
     [
      "생수",
@@ -1289,15 +1345,27 @@
     ],
     [
      "성지순례",
-     "TRAVEL"
-    ],
-    [
-     "제주",
-     "TRAVEL"
+     "TRAVEL:PILGRIM"
     ],
     [
      "예루살렘",
-     "TRAVEL"
+     "TRAVEL:PILGRIM"
+    ],
+    [
+     "갈릴리",
+     "TRAVEL:PILGRIM"
+    ],
+    [
+     "제주",
+     "TRAVEL:GENERAL"
+    ],
+    [
+     "오사카",
+     "TRAVEL:GENERAL"
+    ],
+    [
+     "가족 여행",
+     "TRAVEL:GENERAL"
     ]
    ],
    "LATIN": [
@@ -1319,15 +1387,23 @@
     ],
     [
      "devotional",
-     "BOOKS"
+     "BOOKS:FAITH"
     ],
     [
      "journaling bible",
-     "BOOKS"
+     "BOOKS:FAITH"
     ],
     [
      "christian books",
-     "BOOKS"
+     "BOOKS:FAITH"
+    ],
+    [
+     "novel",
+     "BOOKS:GENERAL"
+    ],
+    [
+     "self help",
+     "BOOKS:GENERAL"
     ],
     [
      "kids bible",
@@ -1343,11 +1419,15 @@
     ],
     [
      "holy land tour",
-     "TRAVEL"
+     "TRAVEL:PILGRIM"
     ],
     [
      "Jerusalem",
-     "TRAVEL"
+     "TRAVEL:PILGRIM"
+    ],
+    [
+     "family trip",
+     "TRAVEL:GENERAL"
     ]
    ]
   }
