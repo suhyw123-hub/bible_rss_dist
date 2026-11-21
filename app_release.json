@@ -1,32 +1,16 @@
 {
- "version": "2026.11.20.5",
- "date": "2026-11-20 23:08",
- "notes": "고쳐진 곳: 쇼핑 · AI 대화 · 기도 노트 · 때에 맞는 말씀 · 성경 · 플랜 · 서재 · 유튜브 · 최신 · 둘러보기 · 홈 · 설정 · 기타 개선 · AI 도우미 · 쇼핑몰 · 묵상플랜 · 모바일 연결 · 자료 받기·업데이트",
+ "version": "2026.11.21.1",
+ "date": "2026-11-21 13:13",
+ "notes": "고쳐진 곳: 쇼핑 · 홈 · 설정 · 기타 개선 · 모바일 연결",
  "pc": {
-  "version": "2026.11.20.5",
-  "file": "app_pc_2026.11.20.5_a8aa75a8.zip",
-  "sha256": "a8aa75a835ab03d1898e2a52ade1ab5170f92db61f5e7e283b58d5b7ed40f144",
-  "size": 19078033,
+  "version": "2026.11.21.1",
+  "file": "app_pc_2026.11.21.1_611d9135.zip",
+  "sha256": "611d91351be49de090b8a7dfaff7a9866f782d917e6d01ab3449e4b4ad567de7",
+  "size": 19079401,
   "areas": [
-   [
-    "UPD_A_AI",
-    "AI 도우미"
-   ],
-   [
-    "UPD_A_SHOP",
-    "쇼핑몰"
-   ],
-   [
-    "UPD_A_PLAN",
-    "묵상플랜"
-   ],
    [
     "UPD_A_MOBILE",
     "모바일 연결"
-   ],
-   [
-    "UPD_A_UPDATE",
-    "자료 받기·업데이트"
    ],
    [
     "UPD_A_ETC",
@@ -35,52 +19,16 @@
   ]
  },
  "android": {
-  "version": "2026.11.20.5",
-  "code": 2026112005,
-  "file": "app_android_2026.11.20.5_129ca067.apk",
-  "sha256": "129ca0673071950a08b3795b31c855009a3ebc5c7e75799397d22f9bcd01fd20",
-  "size": 33954538,
-  "url": "https://dist.asahdabar.com/app_android_2026.11.20.5_129ca067.apk",
+  "version": "2026.11.21.1",
+  "code": 2026112101,
+  "file": "app_android_2026.11.21.1_f43d6121.apk",
+  "sha256": "f43d6121bd6bfce8d40f69f65260e7c1c05bcf3e099b55835c9549951e800c4b",
+  "size": 34085638,
+  "url": "https://dist.asahdabar.com/app_android_2026.11.21.1_f43d6121.apk",
   "areas": [
    [
     "M_TAB_SHOP2",
     "쇼핑"
-   ],
-   [
-    "M_TAB_AI",
-    "AI 대화"
-   ],
-   [
-    "M_PR_TITLE",
-    "기도 노트"
-   ],
-   [
-    "UPD_A_TOPIC",
-    "때에 맞는 말씀"
-   ],
-   [
-    "M_TAB_BIBLE",
-    "성경"
-   ],
-   [
-    "M_TAB_PLAN",
-    "플랜"
-   ],
-   [
-    "M_LIBRARY",
-    "서재"
-   ],
-   [
-    "M_TAB_WORSHIP",
-    "유튜브"
-   ],
-   [
-    "M_TAB_LATEST",
-    "최신"
-   ],
-   [
-    "M_EXPLORE",
-    "둘러보기"
    ],
    [
     "M_TAB_HOME",
@@ -96,5 +44,5 @@
    ]
   ]
  },
- "sig": "8874a252d43547f99ac72e09b1d2aef835385d4708233c2c666ed358c90a3ffec7e53f1ef62873917724d21ef42b07a09a5d638670af315c0e4ea93132041b03"
+ "sig": "989bc0fe62e6a1ead7c32fff1f9cd93c0e62506f80aae8f425667852aa4a71f3d722d5fe5cac2f43deaeaca751f78c98e62e55f48f0e676ef9f4f9a7e6f49304"
 }
