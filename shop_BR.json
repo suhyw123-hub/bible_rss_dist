@@ -1485,7 +1485,7 @@
    },
    "price": 90,
    "rank": 1,
-   "rank_at": "2026-11-19",
+   "rank_at": "2026-11-20",
    "rank_by": "시험 순위",
    "sort": 50,
    "tg": {
@@ -1493,7 +1493,7 @@
      "FAITH:BIBLE"
     ]
    },
-   "to": "2026-12-10",
+   "to": "2026-12-11",
    "url": "https://www.amazon.com.br/s?k=Holy%20Bible%20NVI%20Large%20Print&i=stripbooks",
    "was": 110
   },
@@ -1543,7 +1543,7 @@
    },
    "price": 45,
    "rank": 2,
-   "rank_at": "2026-11-19",
+   "rank_at": "2026-11-20",
    "rank_by": "시험 순위",
    "sort": 51,
    "tg": {
@@ -1600,7 +1600,7 @@
    },
    "price": 30,
    "rank": 3,
-   "rank_at": "2026-11-19",
+   "rank_at": "2026-11-20",
    "rank_by": "시험 순위",
    "sort": 52,
    "tg": {
@@ -1657,7 +1657,7 @@
    },
    "price": 40,
    "rank": 4,
-   "rank_at": "2026-11-19",
+   "rank_at": "2026-11-20",
    "rank_by": "시험 순위",
    "sort": 53,
    "tg": {
@@ -1711,7 +1711,7 @@
    },
    "price": 20,
    "rank": 1,
-   "rank_at": "2026-11-19",
+   "rank_at": "2026-11-20",
    "rank_by": "시험 순위",
    "sort": 54,
    "tg": {
@@ -1768,7 +1768,7 @@
    },
    "price": 50,
    "rank": 1,
-   "rank_at": "2026-11-19",
+   "rank_at": "2026-11-20",
    "rank_by": "시험 순위",
    "sort": 55,
    "tg": {
@@ -2064,6 +2064,238 @@
  ],
  "menus_of": "BR",
  "pnews": [
+  {
+   "d": "2026-11-20",
+   "k": "ARCH",
+   "l": "DE",
+   "s": "Israelnetz",
+   "t": "Archäologen entdecken 2.000 Jahre alte Grabstätten bei Jericho",
+   "u": "https://www.israelnetz.com/archaeologen-entdecken-2-000-jahre-alte-grabstaetten-bei-jericho/",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-20",
+   "k": "OTHER",
+   "l": "DE",
+   "s": "Israelnetz",
+   "t": "Mit Porträts gegen Hass und Vergessen",
+   "u": "https://www.israelnetz.com/mit-portraets-gegen-hass-und-vergessen/",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-20",
+   "k": "OTHER",
+   "l": "DE",
+   "s": "Israelnetz",
+   "t": "Lacrosse-EM: Israelische Herren beenden Turnier auf Platz 5",
+   "u": "https://www.israelnetz.com/lacrosse-em-israelische-herren-beenden-turnier-auf-platz-5/",
+   "z": [
+    "HOLY",
+    "GREECE"
+   ]
+  },
+  {
+   "d": "2026-11-20",
+   "k": "OTHER",
+   "l": "DE",
+   "s": "Israelnetz",
+   "t": "Israel verzeichnet eine Rekord-Weizenernte",
+   "u": "https://www.israelnetz.com/israel-verzeichnet-eine-rekord-weizenernte/",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-20",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Christian Media Center (Holy Land)",
+   "t": "Terra Santa News 19/11/2026",
+   "u": "https://cmc-terrasanta.org/en/media/terra-santa-news/41859/terra-santa-news-19-11-2026",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-20",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "JNS",
+   "t": "Anti-Israel law student group sues Berkeley for denying it official recognition",
+   "u": "https://www.jns.org/news/u-s-news/anti-israel-law-student-group-sues-berkeley-for-denying-it-official-recognition",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-20",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "JNS",
+   "t": "‘We won’t define ourselves through trauma,’ say those recovering in Israel’s south",
+   "u": "https://www.jns.org/israel-news/we-wont-define-ourselves-through-trauma-say-those-recovering-in-israels-south",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-20",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "JNS",
+   "t": "Faced with poll that GOP support for Israel still strong, Republican state lawmakers seek answers for election defeat",
+   "u": "https://www.jns.org/news/u-s-news/faced-with-poll-that-gop-support-for-israel-still-strong-republican-state-lawmakers-seek-answers-for-election-defeat",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-20",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "JNS",
+   "t": "Mayor of Surfside, Fla., meets with delegation from Sderot, Israel",
+   "u": "https://www.jns.org/news/u-s-news/mayor-of-surfside-fla-meets-with-delegation-from-sderot-israel",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-20",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "JNS",
+   "t": "Ed Miliband’s ‘North Star’ has a blind spot",
+   "u": "https://www.jns.org/opinion/steve-winston/ed-milibands-north-star-has-a-blind-spot",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-20",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "JNS",
+   "t": "Collective blame wrongly pushes Jews from areas of public life",
+   "u": "https://www.jns.org/wire/the-focus-project/collective-blame-wrongly-pushes-jews-from-areas-of-public-life",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-20",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "JNS",
+   "t": "Trump, Xi and Putin issue ‘peace declaration’ at historic summit",
+   "u": "https://www.jns.org/news/world/trump-xi-and-putin-issue-peace-declaration-at-historic-summit",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-20",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "JNS",
+   "t": "Palestinian Authority co-opts Jerusalem bagel to claim Israel's capital",
+   "u": "https://www.jns.org/news/world/palestinian-authority-co-opts-jerusalem-bagel-to-claim-israels-capital",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-20",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "JNS",
+   "t": "Israel moves toward national policy on women’s health",
+   "u": "https://www.jns.org/feature/israel-moves-toward-national-policy-on-womens-health",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-20",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "JNS",
+   "t": "The Oct. 7 fallout that ripples throughout Israel",
+   "u": "https://www.jns.org/opinion/eliezer-avraham/the-oct-7-fallout-that-ripples-throughout-israel",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-20",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Daily Sabah — Türkiye",
+   "t": "Türkiye steps up anti-drug crackdown with 254 detentions",
+   "u": "https://www.dailysabah.com/turkiye/investigations/turkiye-steps-up-anti-drug-crackdown-with-254-detentions",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-20",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Daily Sabah — Türkiye",
+   "t": "Internet use among children in Türkiye reaches 92% in 2026",
+   "u": "https://www.dailysabah.com/turkiye/internet-use-among-children-in-turkiye-reaches-92-in-2026/news",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-20",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "RNS » Feed",
+   "t": "Mideast nations ramp up efforts to avert all-out war as Israel urges Iran strikes, officials say",
+   "u": "https://religionnews.com/2026/11/20/mideast-nations-ramp-up-efforts-to-avert-all-out-war-as-israel-urges-iran-strikes-officials-say/",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-20",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "The Christian Post",
+   "t": "Huckabee, US Embassy in Jerusalem post 'Grand Theft Auto' meme for Shabbat",
+   "u": "https://www.christianpost.com/news/mike-huckabee-us-embassy-jerusalem-post-gta6-themed-meme.html",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-20",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "The Christian Post",
+   "t": "US lawmakers urge Egyptian president to intervene on behalf of jailed Christian convert",
+   "u": "https://www.christianpost.com/news/us-lawmakers-urge-release-of-christian-convert-detained-in-egypt.html",
+   "z": [
+    "EGYPT"
+   ]
+  },
+  {
+   "d": "2026-11-19",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "RNS » Feed",
+   "t": "‘Battle for the identity of Jerusalem’: How one cafe galvanized the fight over Shabbat",
+   "u": "https://religionnews.com/2026/11/19/in-jerusalem-a-fight-over-one-cafe-becomes-a-fight-over-shabbat/",
+   "z": [
+    "HOLY"
+   ]
+  },
   {
    "d": "2026-11-19",
    "k": "OTHER",
@@ -4038,237 +4270,6 @@
    "u": "https://www.christiandaily.co.kr/news/166778",
    "z": [
     "HOLY"
-   ]
-  },
-  {
-   "d": "2026-11-04",
-   "k": "OTHER",
-   "l": "KO",
-   "s": "크리스천투데이",
-   "t": "칼빈, 제네바 시의회에서 거부된 신앙 교육서 다시 집필",
-   "u": "https://www.christiantoday.co.kr/news/378362",
-   "z": [
-    "EUROPE"
-   ]
-  },
-  {
-   "d": "2026-11-04",
-   "k": "OTHER",
-   "l": "KO",
-   "s": "데일리굿뉴스",
-   "t": "WEA, 요르단 교회 총격 희생자 추모…\"증오가 사랑 이길 수 없어\"",
-   "u": "https://www.goodnews1.com/news/articleView.html?idxno=465840",
-   "z": [
-    "JORDAN"
-   ]
-  },
-  {
-   "d": "2026-11-04",
-   "k": "OTHER",
-   "l": "KO",
-   "s": "기독일보 : Top News",
-   "t": "리산 중국 천주교 애국회 주석, 로마 세미나 참석 예정",
-   "u": "https://www.christiandaily.co.kr/news/166676",
-   "z": [
-    "EUROPE"
-   ]
-  },
-  {
-   "d": "2026-11-04",
-   "k": "OTHER",
-   "l": "FR",
-   "s": "Info Chrétienne Flux",
-   "t": "Église attaquée en Jordanie : qualifications terroristes retenues",
-   "u": "https://www.infochretienne.com/articles/eglise-attaquee-en-jordanie-qualifications-terroristes-retenues/",
-   "z": [
-    "JORDAN"
-   ]
-  },
-  {
-   "d": "2026-11-04",
-   "k": "OTHER",
-   "l": "FR",
-   "s": "Info Chrétienne Flux",
-   "t": "Attaque terroriste en Jordanie : des responsables évangéliques auprès des victimes",
-   "u": "https://www.infochretienne.com/articles/attaque-terroriste-en-jordanie-des-responsables-evangeliques-aupres-des-victimes/",
-   "z": [
-    "JORDAN"
-   ]
-  },
-  {
-   "d": "2026-11-04",
-   "k": "OTHER",
-   "l": "EN",
-   "s": "RNS » Feed",
-   "t": "Is Brad Lander, a pro-Palestinian liberal Zionist heading to Congress, the future of Jewish Democrats?",
-   "u": "https://religionnews.com/2026/11/04/is-brad-lander-a-pro-palestinian-liberal-zionist-heading-to-congress-the-future-of-jewish-political-leadership/",
-   "z": [
-    "HOLY"
-   ]
-  },
-  {
-   "d": "2026-11-03",
-   "k": "OTHER",
-   "l": "KO",
-   "s": "기독일보 : Top News",
-   "t": "WEA, 요르단 교회 총기 테러 현장 방문… \"테러에 굴하지 않을 것\"",
-   "u": "https://www.christiandaily.co.kr/news/166549",
-   "z": [
-    "JORDAN"
-   ]
-  },
-  {
-   "d": "2026-11-03",
-   "k": "PILGRIM",
-   "l": "KO",
-   "s": "당당뉴스 - 전체기사",
-   "t": "예루살렘 성전산 입구서 발견된 2,000년 전 순례자들의 ‘정결례탕’",
-   "u": "https://www.dangdangnews.com/news/articleView.html?idxno=53824",
-   "z": [
-    "HOLY"
-   ]
-  },
-  {
-   "d": "2026-11-03",
-   "k": "OTHER",
-   "l": "KO",
-   "s": "크리스천투데이",
-   "t": "WEA 사무총장, 요르단 교회 총격 희생자 추모… “테러가 사랑을 이길 수 없다”",
-   "u": "https://www.christiantoday.co.kr/news/378349",
-   "z": [
-    "JORDAN"
-   ]
-  },
-  {
-   "d": "2026-11-03",
-   "k": "OTHER",
-   "l": "KO",
-   "s": "기독일보 : Top News",
-   "t": "이집트, 이슬람 교육 비판한 콥트 기독교인 엔지니어 체포",
-   "u": "https://www.christiandaily.co.kr/news/166604",
-   "z": [
-    "EGYPT"
-   ]
-  },
-  {
-   "d": "2026-11-03",
-   "k": "OTHER",
-   "l": "KO",
-   "s": "기독교타임즈",
-   "t": "[카이로스] 진정한 ‘그냥드림’을 위해, 정부는 한 걸음 뒤로, 교회는 한 걸음 앞으로",
-   "u": "https://www.kmctimes.com/news/articleView.html?idxno=60682",
-   "z": [
-    "EGYPT"
-   ]
-  },
-  {
-   "d": "2026-11-03",
-   "k": "OTHER",
-   "l": "FR",
-   "s": "Info Chrétienne Flux",
-   "t": "Israël : profanation d’une église maronite le jour de la Toussaint",
-   "u": "https://www.infochretienne.com/articles/israel-profanation-dune-eglise-maronite-le-jour-de-la-toussaint/",
-   "z": [
-    "HOLY"
-   ]
-  },
-  {
-   "d": "2026-11-03",
-   "k": "OTHER",
-   "l": "EN",
-   "s": "RNS » Feed",
-   "t": "Israel’s future depends on bringing Jews and Arabs together in its next government",
-   "u": "https://religionnews.com/2026/11/03/israels-future-depends-on-bringing-jews-and-arabs-together-in-its-next-government/",
-   "z": [
-    "HOLY"
-   ]
-  },
-  {
-   "d": "2026-11-02",
-   "k": "OTHER",
-   "l": "KO",
-   "s": "데일리굿뉴스",
-   "t": "이스라엘 선관위·신베트, 네타냐후 '총선 부정' 주장 일축",
-   "u": "https://www.goodnews1.com/news/articleView.html?idxno=465749",
-   "z": [
-    "HOLY"
-   ]
-  },
-  {
-   "d": "2026-11-02",
-   "k": "OTHER",
-   "l": "KO",
-   "s": "데일리굿뉴스",
-   "t": "이스라엘 가디 아이젠코트, 새 연립정부 구성 공식화…네타냐후 퇴진 압박",
-   "u": "https://www.goodnews1.com/news/articleView.html?idxno=465747",
-   "z": [
-    "HOLY"
-   ]
-  },
-  {
-   "d": "2026-11-02",
-   "k": "OTHER",
-   "l": "KO",
-   "s": "기독일보 : Top News",
-   "t": "교사 단체, 학교 성경 읽기 제지 논란에 “경위 조사해야”",
-   "u": "https://www.christiandaily.co.kr/news/166522",
-   "z": [
-    "HOLY"
-   ]
-  },
-  {
-   "d": "2026-11-02",
-   "k": "OTHER",
-   "l": "EN",
-   "s": "RNS » Feed",
-   "t": "I was detained for helping Palestinian farmers. Here’s what Israel wants to hide.",
-   "u": "https://religionnews.com/2026/11/02/i-was-detained-for-helping-palestinian-farmers-heres-what-israel-wants-to-hide/",
-   "z": [
-    "HOLY"
-   ]
-  },
-  {
-   "d": "2026-11-02",
-   "k": "OTHER",
-   "l": "EN",
-   "s": "The Christian Post",
-   "t": "Christian arrested after speaking against Islam being pushed in Egypt schools",
-   "u": "https://www.christianpost.com/news/christian-arrested-for-speaking-against-islam-in-egypt-schools.html",
-   "z": [
-    "EGYPT"
-   ]
-  },
-  {
-   "d": "2026-11-02",
-   "k": "OTHER",
-   "l": "EN",
-   "s": "RNS » Feed",
-   "t": "5 things to know about the Michigan Senate race set on Israel",
-   "u": "https://religionnews.com/2026/11/02/5-things-to-know-about-a-senate-race-hyper-focused-on-israel/",
-   "z": [
-    "HOLY"
-   ]
-  },
-  {
-   "d": "2026-11-02",
-   "k": "OTHER",
-   "l": "EN",
-   "s": "The Christian Post",
-   "t": "Theologian NT Wright: Belief that Israel is fulfillment of Bible prophecy is a 'totally unbiblical idea'",
-   "u": "https://www.christianpost.com/news/nt-wright-belief-israel-is-fulfilment-of-prophecy-unbiblical.html",
-   "z": [
-    "HOLY"
-   ]
-  },
-  {
-   "d": "2026-11-02",
-   "k": "OTHER",
-   "l": "EN",
-   "s": "Christian Daily International",
-   "t": "Head of global evangelical body visits Jordanian village where gunmen killed 9 at church funeral",
-   "u": "https://www.christiandaily.com/news/head-of-global-evangelical-body-visits-jordanian-village-where-gunmen-killed-9-at-church-funeral",
-   "z": [
-    "JORDAN"
    ]
   }
  ],
@@ -7377,5 +7378,5 @@
    }
   }
  ],
- "version": 72
+ "version": 74
 }
