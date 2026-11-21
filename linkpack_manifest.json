@@ -1,5 +1,5 @@
 {
- "latest": 26,
+ "latest": 27,
  "full": true,
  "releases": [
   {
@@ -282,6 +282,28 @@
   {
    "kind": "BOOK",
    "key": "BELGIC_CONF",
+   "lang": "AR",
+   "variant": "TRANSLATED",
+   "note": "",
+   "title": "The Belgic Confession",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 23:11"
+  },
+  {
+   "kind": "BOOK",
+   "key": "BELGIC_CONF",
+   "lang": "DE",
+   "variant": "TRANSLATED",
+   "note": "",
+   "title": "The Belgic Confession",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 23:11"
+  },
+  {
+   "kind": "BOOK",
+   "key": "BELGIC_CONF",
    "lang": "EN",
    "variant": "TRANSLATED",
    "note": "",
@@ -289,6 +311,17 @@
    "version": 1,
    "bytes": null,
    "made_at": null
+  },
+  {
+   "kind": "BOOK",
+   "key": "BELGIC_CONF",
+   "lang": "ES",
+   "variant": "TRANSLATED",
+   "note": "",
+   "title": "The Belgic Confession",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 23:11"
   },
   {
    "kind": "BOOK",
@@ -304,13 +337,68 @@
   {
    "kind": "BOOK",
    "key": "BELGIC_CONF",
-   "lang": "KO",
+   "lang": "FR",
    "variant": "TRANSLATED",
    "note": "",
    "title": "The Belgic Confession",
    "version": 1,
    "bytes": null,
-   "made_at": "2026-11-06 23:50"
+   "made_at": "2026-11-20 23:11"
+  },
+  {
+   "kind": "BOOK",
+   "key": "BELGIC_CONF",
+   "lang": "KO",
+   "variant": "TRANSLATED",
+   "note": "",
+   "title": "The Belgic Confession",
+   "version": 2,
+   "bytes": null,
+   "made_at": "2026-11-20 23:11"
+  },
+  {
+   "kind": "BOOK",
+   "key": "BELGIC_CONF",
+   "lang": "PT",
+   "variant": "TRANSLATED",
+   "note": "",
+   "title": "The Belgic Confession",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 23:11"
+  },
+  {
+   "kind": "BOOK",
+   "key": "BELGIC_CONF",
+   "lang": "RU",
+   "variant": "TRANSLATED",
+   "note": "",
+   "title": "The Belgic Confession",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 23:11"
+  },
+  {
+   "kind": "BOOK",
+   "key": "BELGIC_CONF",
+   "lang": "ZH",
+   "variant": "TRANSLATED",
+   "note": "",
+   "title": "The Belgic Confession",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 23:11"
+  },
+  {
+   "kind": "BOOK",
+   "key": "BELGIC_CONF",
+   "lang": "ZHT",
+   "variant": "TRANSLATED",
+   "note": "",
+   "title": "The Belgic Confession",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 23:11"
   },
   {
    "kind": "BOOK",
@@ -403,6 +491,39 @@
   {
    "kind": "BOOK",
    "key": "DIDACHE",
+   "lang": "AR",
+   "variant": "TRANSLATED",
+   "note": "",
+   "title": "디다케 (12사도 교훈)",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 23:11"
+  },
+  {
+   "kind": "BOOK",
+   "key": "DIDACHE",
+   "lang": "DE",
+   "variant": "TRANSLATED",
+   "note": "",
+   "title": "디다케 (12사도 교훈)",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 23:11"
+  },
+  {
+   "kind": "BOOK",
+   "key": "DIDACHE",
+   "lang": "EN",
+   "variant": "MODERN_EN",
+   "note": "",
+   "title": "디다케 (12사도 교훈)",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 23:11"
+  },
+  {
+   "kind": "BOOK",
+   "key": "DIDACHE",
    "lang": "EN",
    "variant": "ORIGINAL",
    "note": "",
@@ -414,13 +535,101 @@
   {
    "kind": "BOOK",
    "key": "DIDACHE",
-   "lang": "KO",
+   "lang": "ES",
    "variant": "TRANSLATED",
    "note": "",
    "title": "디다케 (12사도 교훈)",
    "version": 1,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-20 23:11"
+  },
+  {
+   "kind": "BOOK",
+   "key": "DIDACHE",
+   "lang": "FR",
+   "variant": "TRANSLATED",
+   "note": "",
+   "title": "디다케 (12사도 교훈)",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 23:11"
+  },
+  {
+   "kind": "BOOK",
+   "key": "DIDACHE",
+   "lang": "KO",
+   "variant": "TRANSLATED",
+   "note": "",
+   "title": "디다케 (12사도 교훈)",
+   "version": 2,
+   "bytes": null,
+   "made_at": "2026-11-20 23:11"
+  },
+  {
+   "kind": "BOOK",
+   "key": "DIDACHE",
+   "lang": "PT",
+   "variant": "TRANSLATED",
+   "note": "",
+   "title": "디다케 (12사도 교훈)",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 23:11"
+  },
+  {
+   "kind": "BOOK",
+   "key": "DIDACHE",
+   "lang": "RU",
+   "variant": "TRANSLATED",
+   "note": "",
+   "title": "디다케 (12사도 교훈)",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 23:11"
+  },
+  {
+   "kind": "BOOK",
+   "key": "DIDACHE",
+   "lang": "ZH",
+   "variant": "TRANSLATED",
+   "note": "",
+   "title": "디다케 (12사도 교훈)",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 23:11"
+  },
+  {
+   "kind": "BOOK",
+   "key": "DIDACHE",
+   "lang": "ZHT",
+   "variant": "TRANSLATED",
+   "note": "",
+   "title": "디다케 (12사도 교훈)",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 23:11"
+  },
+  {
+   "kind": "BOOK",
+   "key": "DIOGNETUS",
+   "lang": "AR",
+   "variant": "TRANSLATED",
+   "note": "",
+   "title": "디오그네투스 서신",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 23:11"
+  },
+  {
+   "kind": "BOOK",
+   "key": "DIOGNETUS",
+   "lang": "DE",
+   "variant": "TRANSLATED",
+   "note": "",
+   "title": "디오그네투스 서신",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 23:11"
   },
   {
    "kind": "BOOK",
@@ -447,13 +656,79 @@
   {
    "kind": "BOOK",
    "key": "DIOGNETUS",
-   "lang": "KO",
+   "lang": "ES",
    "variant": "TRANSLATED",
    "note": "",
    "title": "디오그네투스 서신",
    "version": 1,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-20 23:11"
+  },
+  {
+   "kind": "BOOK",
+   "key": "DIOGNETUS",
+   "lang": "FR",
+   "variant": "TRANSLATED",
+   "note": "",
+   "title": "디오그네투스 서신",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 23:11"
+  },
+  {
+   "kind": "BOOK",
+   "key": "DIOGNETUS",
+   "lang": "KO",
+   "variant": "TRANSLATED",
+   "note": "",
+   "title": "디오그네투스 서신",
+   "version": 2,
+   "bytes": null,
+   "made_at": "2026-11-20 23:11"
+  },
+  {
+   "kind": "BOOK",
+   "key": "DIOGNETUS",
+   "lang": "PT",
+   "variant": "TRANSLATED",
+   "note": "",
+   "title": "디오그네투스 서신",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 23:11"
+  },
+  {
+   "kind": "BOOK",
+   "key": "DIOGNETUS",
+   "lang": "RU",
+   "variant": "TRANSLATED",
+   "note": "",
+   "title": "디오그네투스 서신",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 23:11"
+  },
+  {
+   "kind": "BOOK",
+   "key": "DIOGNETUS",
+   "lang": "ZH",
+   "variant": "TRANSLATED",
+   "note": "",
+   "title": "디오그네투스 서신",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 23:11"
+  },
+  {
+   "kind": "BOOK",
+   "key": "DIOGNETUS",
+   "lang": "ZHT",
+   "variant": "TRANSLATED",
+   "note": "",
+   "title": "디오그네투스 서신",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 23:11"
   },
   {
    "kind": "BOOK",
@@ -854,6 +1129,28 @@
   {
    "kind": "BOOK",
    "key": "POLYCARP_PHIL",
+   "lang": "AR",
+   "variant": "TRANSLATED",
+   "note": "",
+   "title": "폴리캅 — 빌립보 교회 서신 + 순교록",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 23:11"
+  },
+  {
+   "kind": "BOOK",
+   "key": "POLYCARP_PHIL",
+   "lang": "DE",
+   "variant": "TRANSLATED",
+   "note": "",
+   "title": "폴리캅 — 빌립보 교회 서신 + 순교록",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 23:11"
+  },
+  {
+   "kind": "BOOK",
+   "key": "POLYCARP_PHIL",
    "lang": "EN",
    "variant": "MODERN_EN",
    "note": "",
@@ -872,6 +1169,83 @@
    "version": 1,
    "bytes": null,
    "made_at": null
+  },
+  {
+   "kind": "BOOK",
+   "key": "POLYCARP_PHIL",
+   "lang": "ES",
+   "variant": "TRANSLATED",
+   "note": "",
+   "title": "폴리캅 — 빌립보 교회 서신 + 순교록",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 23:11"
+  },
+  {
+   "kind": "BOOK",
+   "key": "POLYCARP_PHIL",
+   "lang": "FR",
+   "variant": "TRANSLATED",
+   "note": "",
+   "title": "폴리캅 — 빌립보 교회 서신 + 순교록",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 23:11"
+  },
+  {
+   "kind": "BOOK",
+   "key": "POLYCARP_PHIL",
+   "lang": "KO",
+   "variant": "TRANSLATED",
+   "note": "",
+   "title": "폴리캅 — 빌립보 교회 서신 + 순교록",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 23:11"
+  },
+  {
+   "kind": "BOOK",
+   "key": "POLYCARP_PHIL",
+   "lang": "PT",
+   "variant": "TRANSLATED",
+   "note": "",
+   "title": "폴리캅 — 빌립보 교회 서신 + 순교록",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 23:11"
+  },
+  {
+   "kind": "BOOK",
+   "key": "POLYCARP_PHIL",
+   "lang": "RU",
+   "variant": "TRANSLATED",
+   "note": "",
+   "title": "폴리캅 — 빌립보 교회 서신 + 순교록",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 23:11"
+  },
+  {
+   "kind": "BOOK",
+   "key": "POLYCARP_PHIL",
+   "lang": "ZH",
+   "variant": "TRANSLATED",
+   "note": "",
+   "title": "폴리캅 — 빌립보 교회 서신 + 순교록",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 23:11"
+  },
+  {
+   "kind": "BOOK",
+   "key": "POLYCARP_PHIL",
+   "lang": "ZHT",
+   "variant": "TRANSLATED",
+   "note": "",
+   "title": "폴리캅 — 빌립보 교회 서신 + 순교록",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 23:11"
   },
   {
    "kind": "BOOK",
@@ -1085,6 +1459,28 @@
   {
    "kind": "BOOK",
    "key": "VANDYKE_OWM",
+   "lang": "AR",
+   "variant": "TRANSLATED",
+   "note": "",
+   "title": "The Story of the Other Wise Man",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 23:11"
+  },
+  {
+   "kind": "BOOK",
+   "key": "VANDYKE_OWM",
+   "lang": "DE",
+   "variant": "TRANSLATED",
+   "note": "",
+   "title": "The Story of the Other Wise Man",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 23:11"
+  },
+  {
+   "kind": "BOOK",
+   "key": "VANDYKE_OWM",
    "lang": "EN",
    "variant": "ORIGINAL",
    "note": "",
@@ -1092,6 +1488,83 @@
    "version": 1,
    "bytes": null,
    "made_at": null
+  },
+  {
+   "kind": "BOOK",
+   "key": "VANDYKE_OWM",
+   "lang": "ES",
+   "variant": "TRANSLATED",
+   "note": "",
+   "title": "The Story of the Other Wise Man",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 23:11"
+  },
+  {
+   "kind": "BOOK",
+   "key": "VANDYKE_OWM",
+   "lang": "FR",
+   "variant": "TRANSLATED",
+   "note": "",
+   "title": "The Story of the Other Wise Man",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 23:11"
+  },
+  {
+   "kind": "BOOK",
+   "key": "VANDYKE_OWM",
+   "lang": "KO",
+   "variant": "TRANSLATED",
+   "note": "",
+   "title": "The Story of the Other Wise Man",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 23:11"
+  },
+  {
+   "kind": "BOOK",
+   "key": "VANDYKE_OWM",
+   "lang": "PT",
+   "variant": "TRANSLATED",
+   "note": "",
+   "title": "The Story of the Other Wise Man",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 23:11"
+  },
+  {
+   "kind": "BOOK",
+   "key": "VANDYKE_OWM",
+   "lang": "RU",
+   "variant": "TRANSLATED",
+   "note": "",
+   "title": "The Story of the Other Wise Man",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 23:11"
+  },
+  {
+   "kind": "BOOK",
+   "key": "VANDYKE_OWM",
+   "lang": "ZH",
+   "variant": "TRANSLATED",
+   "note": "",
+   "title": "The Story of the Other Wise Man",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 23:11"
+  },
+  {
+   "kind": "BOOK",
+   "key": "VANDYKE_OWM",
+   "lang": "ZHT",
+   "variant": "TRANSLATED",
+   "note": "",
+   "title": "The Story of the Other Wise Man",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 23:11"
   },
   {
    "kind": "BOOK",
@@ -1397,9 +1870,31 @@
    "variant": "-",
    "note": "환경설정 양식(sys_pref_preset) 코어 표 추가",
    "title": "앱 기본 자료(연결·목록·껍데기)",
-   "version": 77,
+   "version": 78,
    "bytes": 10623966,
-   "made_at": "2026-11-20 15:49"
+   "made_at": "2026-11-20 23:16"
+  },
+  {
+   "kind": "DESC",
+   "key": "GENE",
+   "lang": "AR",
+   "variant": "-",
+   "note": "",
+   "title": "일반서신·계시록 설명문 (288편)",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 23:13"
+  },
+  {
+   "kind": "DESC",
+   "key": "GENE",
+   "lang": "DE",
+   "variant": "-",
+   "note": "",
+   "title": "일반서신·계시록 설명문 (288편)",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 23:13"
   },
   {
    "kind": "DESC",
@@ -1408,9 +1903,31 @@
    "variant": "-",
    "note": "",
    "title": "일반서신·계시록 설명문 (5,695편)",
+   "version": 2,
+   "bytes": null,
+   "made_at": "2026-11-20 23:13"
+  },
+  {
+   "kind": "DESC",
+   "key": "GENE",
+   "lang": "ES",
+   "variant": "-",
+   "note": "",
+   "title": "일반서신·계시록 설명문 (288편)",
    "version": 1,
    "bytes": null,
-   "made_at": "2026-11-06 23:51"
+   "made_at": "2026-11-20 23:13"
+  },
+  {
+   "kind": "DESC",
+   "key": "GENE",
+   "lang": "FR",
+   "variant": "-",
+   "note": "",
+   "title": "일반서신·계시록 설명문 (288편)",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 23:13"
   },
   {
    "kind": "DESC",
@@ -1419,9 +1936,75 @@
    "variant": "-",
    "note": "",
    "title": "일반서신·계시록 설명문 (5,695편)",
+   "version": 2,
+   "bytes": null,
+   "made_at": "2026-11-20 23:13"
+  },
+  {
+   "kind": "DESC",
+   "key": "GENE",
+   "lang": "PT",
+   "variant": "-",
+   "note": "",
+   "title": "일반서신·계시록 설명문 (288편)",
    "version": 1,
    "bytes": null,
-   "made_at": "2026-11-06 23:51"
+   "made_at": "2026-11-20 23:13"
+  },
+  {
+   "kind": "DESC",
+   "key": "GENE",
+   "lang": "RU",
+   "variant": "-",
+   "note": "",
+   "title": "일반서신·계시록 설명문 (288편)",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 23:13"
+  },
+  {
+   "kind": "DESC",
+   "key": "GENE",
+   "lang": "ZH",
+   "variant": "-",
+   "note": "",
+   "title": "일반서신·계시록 설명문 (288편)",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 23:13"
+  },
+  {
+   "kind": "DESC",
+   "key": "GENE",
+   "lang": "ZHT",
+   "variant": "-",
+   "note": "",
+   "title": "일반서신·계시록 설명문 (288편)",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 23:13"
+  },
+  {
+   "kind": "DESC",
+   "key": "GOSP",
+   "lang": "AR",
+   "variant": "-",
+   "note": "",
+   "title": "복음서·사도행전 설명문 (414편)",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 23:13"
+  },
+  {
+   "kind": "DESC",
+   "key": "GOSP",
+   "lang": "DE",
+   "variant": "-",
+   "note": "",
+   "title": "복음서·사도행전 설명문 (414편)",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 23:13"
   },
   {
    "kind": "DESC",
@@ -1430,9 +2013,31 @@
    "variant": "-",
    "note": "",
    "title": "복음서·사도행전 설명문 (23,930편)",
+   "version": 2,
+   "bytes": null,
+   "made_at": "2026-11-20 23:13"
+  },
+  {
+   "kind": "DESC",
+   "key": "GOSP",
+   "lang": "ES",
+   "variant": "-",
+   "note": "",
+   "title": "복음서·사도행전 설명문 (414편)",
    "version": 1,
    "bytes": null,
-   "made_at": "2026-11-06 23:51"
+   "made_at": "2026-11-20 23:13"
+  },
+  {
+   "kind": "DESC",
+   "key": "GOSP",
+   "lang": "FR",
+   "variant": "-",
+   "note": "",
+   "title": "복음서·사도행전 설명문 (414편)",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 23:13"
   },
   {
    "kind": "DESC",
@@ -1441,9 +2046,53 @@
    "variant": "-",
    "note": "",
    "title": "복음서·사도행전 설명문 (23,930편)",
+   "version": 2,
+   "bytes": null,
+   "made_at": "2026-11-20 23:13"
+  },
+  {
+   "kind": "DESC",
+   "key": "GOSP",
+   "lang": "PT",
+   "variant": "-",
+   "note": "",
+   "title": "복음서·사도행전 설명문 (414편)",
    "version": 1,
    "bytes": null,
-   "made_at": "2026-11-06 23:51"
+   "made_at": "2026-11-20 23:13"
+  },
+  {
+   "kind": "DESC",
+   "key": "GOSP",
+   "lang": "RU",
+   "variant": "-",
+   "note": "",
+   "title": "복음서·사도행전 설명문 (414편)",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 23:13"
+  },
+  {
+   "kind": "DESC",
+   "key": "GOSP",
+   "lang": "ZH",
+   "variant": "-",
+   "note": "",
+   "title": "복음서·사도행전 설명문 (414편)",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 23:13"
+  },
+  {
+   "kind": "DESC",
+   "key": "GOSP",
+   "lang": "ZHT",
+   "variant": "-",
+   "note": "",
+   "title": "복음서·사도행전 설명문 (414편)",
+   "version": 1,
+   "bytes": null,
+   "made_at": "2026-11-20 23:13"
   },
   {
    "kind": "DESC",
@@ -1517,10 +2166,10 @@
    "lang": "AR",
    "variant": "-",
    "note": "",
-   "title": "오경 설명문 (318편)",
-   "version": 1,
+   "title": "오경 설명문 (414편)",
+   "version": 2,
    "bytes": null,
-   "made_at": "2026-11-20 15:48"
+   "made_at": "2026-11-20 23:13"
   },
   {
    "kind": "DESC",
@@ -1528,10 +2177,10 @@
    "lang": "DE",
    "variant": "-",
    "note": "",
-   "title": "오경 설명문 (318편)",
-   "version": 1,
+   "title": "오경 설명문 (414편)",
+   "version": 2,
    "bytes": null,
-   "made_at": "2026-11-20 15:48"
+   "made_at": "2026-11-20 23:13"
   },
   {
    "kind": "DESC",
@@ -1550,10 +2199,10 @@
    "lang": "ES",
    "variant": "-",
    "note": "",
-   "title": "오경 설명문 (318편)",
-   "version": 1,
+   "title": "오경 설명문 (414편)",
+   "version": 2,
    "bytes": null,
-   "made_at": "2026-11-20 15:48"
+   "made_at": "2026-11-20 23:13"
   },
   {
    "kind": "DESC",
@@ -1561,10 +2210,10 @@
    "lang": "FR",
    "variant": "-",
    "note": "",
-   "title": "오경 설명문 (318편)",
-   "version": 1,
+   "title": "오경 설명문 (414편)",
+   "version": 2,
    "bytes": null,
-   "made_at": "2026-11-20 15:48"
+   "made_at": "2026-11-20 23:13"
   },
   {
    "kind": "DESC",
@@ -1573,9 +2222,9 @@
    "variant": "-",
    "note": "",
    "title": "오경 설명문 (20,039편)",
-   "version": 4,
+   "version": 5,
    "bytes": null,
-   "made_at": "2026-11-20 15:48"
+   "made_at": "2026-11-20 23:13"
   },
   {
    "kind": "DESC",
@@ -1583,10 +2232,10 @@
    "lang": "PT",
    "variant": "-",
    "note": "",
-   "title": "오경 설명문 (318편)",
-   "version": 1,
+   "title": "오경 설명문 (414편)",
+   "version": 2,
    "bytes": null,
-   "made_at": "2026-11-20 15:48"
+   "made_at": "2026-11-20 23:13"
   },
   {
    "kind": "DESC",
@@ -1594,10 +2243,10 @@
    "lang": "RU",
    "variant": "-",
    "note": "",
-   "title": "오경 설명문 (318편)",
-   "version": 1,
+   "title": "오경 설명문 (414편)",
+   "version": 2,
    "bytes": null,
-   "made_at": "2026-11-20 15:48"
+   "made_at": "2026-11-20 23:13"
   },
   {
    "kind": "DESC",
@@ -1605,10 +2254,10 @@
    "lang": "ZH",
    "variant": "-",
    "note": "",
-   "title": "오경 설명문 (318편)",
-   "version": 1,
+   "title": "오경 설명문 (414편)",
+   "version": 2,
    "bytes": null,
-   "made_at": "2026-11-20 15:48"
+   "made_at": "2026-11-20 23:13"
   },
   {
    "kind": "DESC",
@@ -1616,10 +2265,10 @@
    "lang": "ZHT",
    "variant": "-",
    "note": "",
-   "title": "오경 설명문 (318편)",
-   "version": 1,
+   "title": "오경 설명문 (414편)",
+   "version": 2,
    "bytes": null,
-   "made_at": "2026-11-20 15:48"
+   "made_at": "2026-11-20 23:13"
   },
   {
    "kind": "DESC",
@@ -1858,10 +2507,10 @@
    "lang": "-",
    "variant": "-",
    "note": "",
-   "title": "시작 이미지 · 아프리카 (16장)",
-   "version": 1,
+   "title": "시작 이미지 · 아프리카 (15장)",
+   "version": 2,
    "bytes": null,
-   "made_at": "2026-11-17 16:21"
+   "made_at": "2026-11-20 23:15"
   },
   {
    "kind": "IMAGE",
@@ -1869,10 +2518,10 @@
    "lang": "-",
    "variant": "-",
    "note": "",
-   "title": "시작 이미지 · 아시아 (9장)",
-   "version": 2,
+   "title": "시작 이미지 · 아시아 (8장)",
+   "version": 3,
    "bytes": null,
-   "made_at": "2026-11-17 21:25"
+   "made_at": "2026-11-20 23:15"
   },
   {
    "kind": "IMAGE",
@@ -1880,10 +2529,10 @@
    "lang": "-",
    "variant": "-",
    "note": "",
-   "title": "시작 이미지 · 유럽 (16장)",
-   "version": 1,
+   "title": "시작 이미지 · 유럽 (14장)",
+   "version": 2,
    "bytes": null,
-   "made_at": "2026-11-17 16:21"
+   "made_at": "2026-11-20 23:15"
   },
   {
    "kind": "IMAGE",
@@ -1891,10 +2540,10 @@
    "lang": "-",
    "variant": "-",
    "note": "",
-   "title": "시작 이미지 · 중동·성지 (31장)",
-   "version": 1,
+   "title": "시작 이미지 · 중동·성지 (30장)",
+   "version": 2,
    "bytes": null,
-   "made_at": "2026-11-17 16:21"
+   "made_at": "2026-11-20 23:15"
   },
   {
    "kind": "IMAGE",
@@ -1902,10 +2551,10 @@
    "lang": "-",
    "variant": "-",
    "note": "",
-   "title": "시작 이미지 · 북아메리카 (24장)",
-   "version": 3,
+   "title": "시작 이미지 · 북아메리카 (26장)",
+   "version": 4,
    "bytes": null,
-   "made_at": "2026-11-17 21:25"
+   "made_at": "2026-11-20 23:15"
   },
   {
    "kind": "IMAGE",
@@ -1914,9 +2563,9 @@
    "variant": "-",
    "note": "",
    "title": "시작 이미지 · 오세아니아 (9장)",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": "2026-11-17 16:21"
+   "made_at": "2026-11-20 23:15"
   },
   {
    "kind": "IMAGE",
@@ -1925,9 +2574,9 @@
    "variant": "-",
    "note": "",
    "title": "시작 이미지 · 남아메리카 (9장)",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": "2026-11-17 16:21"
+   "made_at": "2026-11-20 23:15"
   },
   {
    "kind": "LEX",
@@ -1979,7 +2628,7 @@
    "lang": "-",
    "variant": "-",
    "note": "",
-   "title": "영상 연결 — 승인된 영상 주소 128,021편과 그 연결",
+   "title": "영상 연결 — 승인된 영상 주소 128,027편과 그 연결",
    "version": 1,
    "bytes": 13512056,
    "made_at": "2026-11-03 08:08"
@@ -2291,6 +2940,14 @@
    "version": 2,
    "bytes": null,
    "made_at": "2026-11-03 16:26"
+  }
+ ],
+ "core": [
+  {
+   "cycle": "BIANNUAL",
+   "file": "corepack_BIANNUAL.json.gz",
+   "release": 78,
+   "bytes": 11868886
   }
  ]
 }
