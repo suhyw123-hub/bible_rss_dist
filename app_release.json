@@ -1,25 +1,29 @@
 {
- "version": "2026.11.21.3",
- "date": "2026-11-21 15:43",
- "notes": "고쳐진 곳: 쇼핑 · 설정 · 기타 개선",
+ "version": "2026.11.21.4",
+ "date": "2026-11-21 16:21",
+ "notes": "고쳐진 곳: 쇼핑 · 유튜브 · 설정 · 기타 개선",
  "pc": {
-  "version": "2026.11.21.3",
-  "file": "app_pc_2026.11.21.3_b73a2fe8.zip",
-  "sha256": "b73a2fe81563ccc9d229371dda38c28ef131b5d98187678aa9d3db6cd6423bb2",
+  "version": "2026.11.21.4",
+  "file": "app_pc_2026.11.21.4_352038d1.zip",
+  "sha256": "352038d17482ed78c7ffd9e28427212b8a431cdf08b0460d7a583d5c33b21051",
   "size": 19082790,
   "areas": []
  },
  "android": {
-  "version": "2026.11.21.3",
-  "code": 2026112103,
-  "file": "app_android_2026.11.21.3_cf3b1ee4.apk",
-  "sha256": "cf3b1ee4169feeb6dfeeceaf417948474ca8812f775d94f896afd4f6d509ddbe",
-  "size": 34151198,
-  "url": "https://dist.asahdabar.com/app_android_2026.11.21.3_cf3b1ee4.apk",
+  "version": "2026.11.21.4",
+  "code": 2026112104,
+  "file": "app_android_2026.11.21.4_355edd3c.apk",
+  "sha256": "355edd3c484a0d5cebb9430e02bec5a38b2abfef5998781a1075b897b8c74f7c",
+  "size": 34151078,
+  "url": "https://dist.asahdabar.com/app_android_2026.11.21.4_355edd3c.apk",
   "areas": [
    [
     "M_TAB_SHOP2",
     "쇼핑"
+   ],
+   [
+    "M_TAB_WORSHIP",
+    "유튜브"
    ],
    [
     "M_SETTINGS",
@@ -31,5 +35,5 @@
    ]
   ]
  },
- "sig": "954e0d7fee9a8fe68f56bb92e56e6c49d5b44b306b1dc00f4410e43a82f8bed6f4971722558e09e6ce5d37004f81a56747d306756b33e031428e15b78e8d9003"
+ "sig": "accb0d1da222da1a88e709082141cd5cb9170fe93cc086e4abbaad74dfd0e143e738d8ce3c247da60c4aba882c93c2d907ecdc5b7719853cb85b44430c5d3f05"
 }
