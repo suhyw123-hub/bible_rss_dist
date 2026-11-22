@@ -55,9 +55,9 @@
    "variant": "-",
    "note": "",
    "title": "American Standard Version",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-21 23:52"
   },
   {
    "kind": "BIBLE",
@@ -66,9 +66,9 @@
    "variant": "-",
    "note": "",
    "title": "Berean Standard Bible",
-   "version": 1,
+   "version": 2,
    "bytes": 1351222,
-   "made_at": "2026-09-04 18:23"
+   "made_at": "2026-11-21 23:52"
   },
   {
    "kind": "BIBLE",
@@ -77,9 +77,9 @@
    "variant": "-",
    "note": "",
    "title": "Coptic Bohairic New Testament (ⲙⲉⲧⲣⲉⲙⲛⲭⲏⲙⲓ)",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-21 23:52"
   },
   {
    "kind": "BIBLE",
@@ -88,9 +88,9 @@
    "variant": "-",
    "note": "",
    "title": "Coptic New Testament",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-21 23:52"
   },
   {
    "kind": "BIBLE",
@@ -99,9 +99,9 @@
    "variant": "-",
    "note": "",
    "title": "Coptic Sahidic New Testament",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-21 23:52"
   },
   {
    "kind": "BIBLE",
@@ -110,9 +110,9 @@
    "variant": "-",
    "note": "",
    "title": "Chinese Union Version",
-   "version": 2,
+   "version": 3,
    "bytes": null,
-   "made_at": "2026-11-03 16:26"
+   "made_at": "2026-11-21 23:52"
   },
   {
    "kind": "BIBLE",
@@ -121,9 +121,9 @@
    "variant": "-",
    "note": "",
    "title": "Chinese Union Version Simplified (新标点和合本简体)",
-   "version": 2,
+   "version": 3,
    "bytes": null,
-   "made_at": "2026-11-03 16:26"
+   "made_at": "2026-11-21 23:52"
   },
   {
    "kind": "BIBLE",
@@ -132,9 +132,9 @@
    "variant": "-",
    "note": "",
    "title": "Delitzsch Hebrew New Testament (1877/1892)",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": "2026-11-06 23:49"
+   "made_at": "2026-11-21 23:52"
   },
   {
    "kind": "BIBLE",
@@ -143,9 +143,9 @@
    "variant": "-",
    "note": "",
    "title": "Version Darby (JND)",
-   "version": 2,
+   "version": 3,
    "bytes": null,
-   "made_at": "2026-11-03 16:26"
+   "made_at": "2026-11-21 23:52"
   },
   {
    "kind": "BIBLE",
@@ -154,9 +154,9 @@
    "variant": "-",
    "note": "",
    "title": "Louis Segond (1910)",
-   "version": 2,
+   "version": 3,
    "bytes": null,
-   "made_at": "2026-11-03 16:26"
+   "made_at": "2026-11-21 23:52"
   },
   {
    "kind": "BIBLE",
@@ -165,9 +165,9 @@
    "variant": "-",
    "note": "",
    "title": "Greek New Testament (Nestlé-Aland base)",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-21 23:52"
   },
   {
    "kind": "BIBLE",
@@ -176,9 +176,9 @@
    "variant": "-",
    "note": "",
    "title": "Elberfelder Bibel (1905)",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-21 23:52"
   },
   {
    "kind": "BIBLE",
@@ -198,9 +198,9 @@
    "variant": "-",
    "note": "",
    "title": "Korean Revised Version",
-   "version": 4,
+   "version": 5,
    "bytes": null,
-   "made_at": "2026-11-11 21:35"
+   "made_at": "2026-11-21 23:52"
   },
   {
    "kind": "BIBLE",
@@ -209,9 +209,9 @@
    "variant": "-",
    "note": "",
    "title": "Bíblia Livre",
-   "version": 2,
+   "version": 3,
    "bytes": null,
-   "made_at": "2026-11-03 16:26"
+   "made_at": "2026-11-21 23:52"
   },
   {
    "kind": "BIBLE",
@@ -220,9 +220,9 @@
    "variant": "-",
    "note": "",
    "title": "Синодальный перевод",
-   "version": 2,
+   "version": 3,
    "bytes": null,
-   "made_at": "2026-11-03 16:26"
+   "made_at": "2026-11-21 23:52"
   },
   {
    "kind": "BIBLE",
@@ -242,9 +242,9 @@
    "variant": "-",
    "note": "",
    "title": "Reina Valera (1909)",
-   "version": 2,
+   "version": 3,
    "bytes": null,
-   "made_at": "2026-11-03 16:26"
+   "made_at": "2026-11-21 23:52"
   },
   {
    "kind": "BIBLE",
@@ -253,9 +253,9 @@
    "variant": "-",
    "note": "",
    "title": "World English Bible",
-   "version": 2,
+   "version": 3,
    "bytes": null,
-   "made_at": "2026-11-03 16:26"
+   "made_at": "2026-11-21 23:52"
   },
   {
    "kind": "BIBLE",
@@ -264,9 +264,9 @@
    "variant": "-",
    "note": "",
    "title": "Westminster Leningrad Codex",
-   "version": 2,
+   "version": 3,
    "bytes": null,
-   "made_at": "2026-11-03 16:26"
+   "made_at": "2026-11-21 23:52"
   },
   {
    "kind": "BOOK",
@@ -1870,9 +1870,9 @@
    "variant": "-",
    "note": "환경설정 양식(sys_pref_preset) 코어 표 추가",
    "title": "앱 기본 자료(연결·목록·껍데기)",
-   "version": 80,
+   "version": 83,
    "bytes": 10623966,
-   "made_at": "2026-11-21 15:44"
+   "made_at": "2026-11-21 23:53"
   },
   {
    "kind": "DESC",
