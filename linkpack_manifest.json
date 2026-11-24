@@ -1,5 +1,5 @@
 {
- "latest": 27,
+ "latest": 28,
  "full": true,
  "releases": [
   {
@@ -1870,9 +1870,9 @@
    "variant": "-",
    "note": "환경설정 양식(sys_pref_preset) 코어 표 추가",
    "title": "앱 기본 자료(연결·목록·껍데기)",
-   "version": 83,
+   "version": 84,
    "bytes": 10623966,
-   "made_at": "2026-11-21 23:53"
+   "made_at": "2026-11-22 23:24"
   },
   {
    "kind": "DESC",
@@ -1936,9 +1936,9 @@
    "variant": "-",
    "note": "",
    "title": "일반서신·계시록 설명문 (5,695편)",
-   "version": 2,
+   "version": 3,
    "bytes": null,
-   "made_at": "2026-11-20 23:13"
+   "made_at": "2026-11-22 23:23"
   },
   {
    "kind": "DESC",
@@ -2046,9 +2046,9 @@
    "variant": "-",
    "note": "",
    "title": "복음서·사도행전 설명문 (23,930편)",
-   "version": 2,
+   "version": 3,
    "bytes": null,
-   "made_at": "2026-11-20 23:13"
+   "made_at": "2026-11-22 23:23"
   },
   {
    "kind": "DESC",
@@ -2101,9 +2101,9 @@
    "variant": "-",
    "note": "",
    "title": "역사서 설명문 (21,055편)",
-   "version": 6,
+   "version": 7,
    "bytes": null,
-   "made_at": "2026-11-18 08:53"
+   "made_at": "2026-11-22 23:23"
   },
   {
    "kind": "DESC",
@@ -2123,9 +2123,9 @@
    "variant": "-",
    "note": "",
    "title": "대선지서 설명문 (4,785편)",
-   "version": 2,
+   "version": 3,
    "bytes": null,
-   "made_at": "2026-11-18 14:02"
+   "made_at": "2026-11-22 23:23"
   },
   {
    "kind": "DESC",
@@ -2134,9 +2134,9 @@
    "variant": "-",
    "note": "",
    "title": "소선지서 설명문 (1,652편)",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": "2026-11-06 23:51"
+   "made_at": "2026-11-22 23:23"
   },
   {
    "kind": "DESC",
@@ -2156,9 +2156,9 @@
    "variant": "-",
    "note": "",
    "title": "바울서신 설명문 (10,165편)",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": "2026-11-06 23:51"
+   "made_at": "2026-11-22 23:23"
   },
   {
    "kind": "DESC",
@@ -2222,9 +2222,9 @@
    "variant": "-",
    "note": "",
    "title": "오경 설명문 (20,039편)",
-   "version": 5,
+   "version": 6,
    "bytes": null,
-   "made_at": "2026-11-20 23:13"
+   "made_at": "2026-11-22 23:23"
   },
   {
    "kind": "DESC",
@@ -2288,9 +2288,9 @@
    "variant": "-",
    "note": "",
    "title": "시가서 설명문 (14,364편)",
-   "version": 4,
+   "version": 5,
    "bytes": null,
-   "made_at": "2026-11-18 11:21"
+   "made_at": "2026-11-22 23:23"
   },
   {
    "kind": "DICT",
@@ -2507,10 +2507,10 @@
    "lang": "-",
    "variant": "-",
    "note": "",
-   "title": "시작 이미지 · 아프리카 (15장)",
-   "version": 2,
+   "title": "시작 이미지 · 아프리카 (8장)",
+   "version": 3,
    "bytes": null,
-   "made_at": "2026-11-20 23:15"
+   "made_at": "2026-11-22 23:23"
   },
   {
    "kind": "IMAGE",
@@ -2518,10 +2518,10 @@
    "lang": "-",
    "variant": "-",
    "note": "",
-   "title": "시작 이미지 · 아시아 (8장)",
-   "version": 3,
+   "title": "시작 이미지 · 아시아 (9장)",
+   "version": 4,
    "bytes": null,
-   "made_at": "2026-11-20 23:15"
+   "made_at": "2026-11-22 23:23"
   },
   {
    "kind": "IMAGE",
@@ -2529,10 +2529,10 @@
    "lang": "-",
    "variant": "-",
    "note": "",
-   "title": "시작 이미지 · 유럽 (14장)",
-   "version": 2,
+   "title": "시작 이미지 · 유럽 (5장)",
+   "version": 3,
    "bytes": null,
-   "made_at": "2026-11-20 23:15"
+   "made_at": "2026-11-22 23:23"
   },
   {
    "kind": "IMAGE",
@@ -2540,10 +2540,10 @@
    "lang": "-",
    "variant": "-",
    "note": "",
-   "title": "시작 이미지 · 중동·성지 (30장)",
-   "version": 2,
+   "title": "시작 이미지 · 중동·성지 (22장)",
+   "version": 3,
    "bytes": null,
-   "made_at": "2026-11-20 23:15"
+   "made_at": "2026-11-22 23:23"
   },
   {
    "kind": "IMAGE",
@@ -2551,10 +2551,10 @@
    "lang": "-",
    "variant": "-",
    "note": "",
-   "title": "시작 이미지 · 북아메리카 (26장)",
-   "version": 4,
+   "title": "시작 이미지 · 북아메리카 (31장)",
+   "version": 5,
    "bytes": null,
-   "made_at": "2026-11-20 23:15"
+   "made_at": "2026-11-22 23:23"
   },
   {
    "kind": "IMAGE",
@@ -2562,10 +2562,10 @@
    "lang": "-",
    "variant": "-",
    "note": "",
-   "title": "시작 이미지 · 오세아니아 (9장)",
-   "version": 2,
+   "title": "시작 이미지 · 오세아니아 (3장)",
+   "version": 3,
    "bytes": null,
-   "made_at": "2026-11-20 23:15"
+   "made_at": "2026-11-22 23:23"
   },
   {
    "kind": "IMAGE",
@@ -2573,10 +2573,10 @@
    "lang": "-",
    "variant": "-",
    "note": "",
-   "title": "시작 이미지 · 남아메리카 (9장)",
-   "version": 2,
+   "title": "시작 이미지 · 남아메리카 (3장)",
+   "version": 3,
    "bytes": null,
-   "made_at": "2026-11-20 23:15"
+   "made_at": "2026-11-22 23:23"
   },
   {
    "kind": "LEX",
