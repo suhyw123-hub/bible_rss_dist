@@ -1,12 +1,12 @@
 {
- "version": "2026.11.22.2",
- "date": "2026-11-22 23:22",
- "notes": "고쳐진 곳: 유튜브 · 기타 개선",
+ "version": "2026.11.24.1",
+ "date": "2026-11-24 13:20",
+ "notes": "고쳐진 곳: 기타 개선",
  "pc": {
-  "version": "2026.11.22.2",
-  "file": "app_pc_2026.11.22.2_05375d5b.zip",
-  "sha256": "05375d5bd8e6b7c75713d9f8f8582820df90c6c38d154366724963e8d3058322",
-  "size": 19084156,
+  "version": "2026.11.24.1",
+  "file": "app_pc_2026.11.24.1_88ba2593.zip",
+  "sha256": "88ba25939f449909d38b4d2ac33fa5835a0a6dd1b8fb5456489cbd01f8130715",
+  "size": 22442290,
   "areas": [
    [
     "UPD_A_ETC",
@@ -15,22 +15,18 @@
   ]
  },
  "android": {
-  "version": "2026.11.22.2",
-  "code": 2026112202,
-  "file": "app_android_2026.11.22.2_50ab0f70.apk",
-  "sha256": "50ab0f70b24336e8d4af4fc7ff6397c6e5500ccb1786499629b343a57dc83b96",
-  "size": 34413826,
-  "url": "https://dist.asahdabar.com/app_android_2026.11.22.2_50ab0f70.apk",
+  "version": "2026.11.24.1",
+  "code": 2026112401,
+  "file": "app_android_2026.11.24.1_fdbf06bf.apk",
+  "sha256": "fdbf06bfb18a2e15296bd6676f91d2a5d75694493a3452cc0a9bedaf06a523e5",
+  "size": 34479362,
+  "url": "https://dist.asahdabar.com/app_android_2026.11.24.1_fdbf06bf.apk",
   "areas": [
-   [
-    "M_TAB_WORSHIP",
-    "유튜브"
-   ],
    [
     "UPD_A_ETC",
     "기타 개선"
    ]
   ]
  },
- "sig": "804b0f28a2650820571209812b1846fdf3207c2dabd7d693e8ea395a32656371e87ace3630f7a10378e3ab1b45275a7adbe4f9ba0512337d7f3f4bc7acd19e01"
+ "sig": "a44b61ff2f901f7215feee4cdfa04a24df8036d2002a023996403c6ab36bf300c3d7505f31c0904bb0c3c084a6c0f790d5442178c10ea377f38637bc065be603"
 }
