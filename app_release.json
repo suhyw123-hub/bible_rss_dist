@@ -1,13 +1,17 @@
 {
- "version": "2026.11.24.2",
- "date": "2026-11-24 15:06",
- "notes": "고쳐진 곳: 성경 · 서재 · 홈 · 설정 · 기타 개선",
+ "version": "2026.11.24.3",
+ "date": "2026-11-24 23:22",
+ "notes": "고쳐진 곳: AI 대화 · 나의 시편 · 때에 맞는 말씀 · 성경 · 서재 · 최신 · 검색 · 설정 · 기타 개선 · AI 도우미",
  "pc": {
-  "version": "2026.11.24.2",
-  "file": "app_pc_2026.11.24.2_f77a9d5d.zip",
-  "sha256": "f77a9d5d21c26f39297dc195ab24013a524e6b4cc257e5d93a8bd08384de66ec",
-  "size": 22444233,
+  "version": "2026.11.24.3",
+  "file": "app_pc_2026.11.24.3_4753aec0.zip",
+  "sha256": "4753aec0d92a8b76c86070a5d05e729154106aeac678b1fa5e184d3aa944387e",
+  "size": 25107896,
   "areas": [
+   [
+    "UPD_A_AI",
+    "AI 도우미"
+   ],
    [
     "UPD_A_ETC",
     "기타 개선"
@@ -15,13 +19,25 @@
   ]
  },
  "android": {
-  "version": "2026.11.24.2",
-  "code": 2026112402,
-  "file": "app_android_2026.11.24.2_096ecbe3.apk",
-  "sha256": "096ecbe32a0f7b5f3881180115a607d7ca1a2abfab6febf5ef27faf76117603f",
-  "size": 34628932,
-  "url": "https://dist.asahdabar.com/app_android_2026.11.24.2_096ecbe3.apk",
+  "version": "2026.11.24.3",
+  "code": 2026112403,
+  "file": "app_android_2026.11.24.3_4fa3f5bb.apk",
+  "sha256": "4fa3f5bb8d8bc0f822ec5e516b6a043144a8a19c170c369d718129c8bfb2de0e",
+  "size": 34855756,
+  "url": "https://dist.asahdabar.com/app_android_2026.11.24.3_4fa3f5bb.apk",
   "areas": [
+   [
+    "M_TAB_AI",
+    "AI 대화"
+   ],
+   [
+    "UPD_A_PSALM",
+    "나의 시편"
+   ],
+   [
+    "UPD_A_TOPIC",
+    "때에 맞는 말씀"
+   ],
    [
     "M_TAB_BIBLE",
     "성경"
@@ -31,8 +47,12 @@
     "서재"
    ],
    [
-    "M_TAB_HOME",
-    "홈"
+    "M_TAB_LATEST",
+    "최신"
+   ],
+   [
+    "UPD_A_SEARCH",
+    "검색"
    ],
    [
     "M_SETTINGS",
@@ -44,5 +64,5 @@
    ]
   ]
  },
- "sig": "5520f13f7dd0d06dd6a201d6ea683b47af1847c7f744b4614b79c7edc9d4dcbb138c4ab6c160ae2e6a6b281598bc1261950b86bd8c886853213513470eef5608"
+ "sig": "907c2334d2f489539be946c6ee4afa85f0c4b50e9724d77933cc70a23fe1c18e2db6eb79e5d269a270402c187da0cebc5838a8a02b6cb2879bc7378e0b936f0f"
 }
