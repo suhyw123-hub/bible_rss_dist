@@ -1,12 +1,12 @@
 {
- "version": "2026.11.25.5",
- "date": "2026-11-25 13:34",
- "notes": "고쳐진 곳: 암송 · 설정 · 기타 개선",
+ "version": "2026.11.25.6",
+ "date": "2026-11-25 16:36",
+ "notes": "고쳐진 곳: 기도 노트 · 성경 · 서재 · 공지 · 기타 개선",
  "pc": {
-  "version": "2026.11.25.5",
-  "file": "app_pc_2026.11.25.5_2853c1ce.zip",
-  "sha256": "2853c1cec4f5a21670f758bcd0c1142e32359beabf9887243e2802ff2cc8614f",
-  "size": 26784308,
+  "version": "2026.11.25.6",
+  "file": "app_pc_2026.11.25.6_62c95672.zip",
+  "sha256": "62c956723b5b1d3967341d05f228473d061dec43d250f686c68dd30629caf984",
+  "size": 28117115,
   "areas": [
    [
     "UPD_A_ETC",
@@ -15,20 +15,28 @@
   ]
  },
  "android": {
-  "version": "2026.11.25.5",
-  "code": 2026112505,
-  "file": "app_android_2026.11.25.5_1f2f9877.apk",
-  "sha256": "1f2f9877732ba6cc09f7783aa812007b9a793ea3dce7aca7fb810a2046f9c83c",
-  "size": 35131250,
-  "url": "https://dist.asahdabar.com/app_android_2026.11.25.5_1f2f9877.apk",
+  "version": "2026.11.25.6",
+  "code": 2026112506,
+  "file": "app_android_2026.11.25.6_f5008f69.apk",
+  "sha256": "f5008f695a45c2e56acc82287dc63ee515adabdebfcea6b510efeec3afdfe778",
+  "size": 35296362,
+  "url": "https://dist.asahdabar.com/app_android_2026.11.25.6_f5008f69.apk",
   "areas": [
    [
-    "M_MEMO_TITLE",
-    "암송"
+    "M_PR_TITLE",
+    "기도 노트"
    ],
    [
-    "M_SETTINGS",
-    "설정"
+    "M_TAB_BIBLE",
+    "성경"
+   ],
+   [
+    "M_LIBRARY",
+    "서재"
+   ],
+   [
+    "M_HOME_NOTICE",
+    "공지"
    ],
    [
     "UPD_A_ETC",
@@ -36,5 +44,5 @@
    ]
   ]
  },
- "sig": "7340c20092c9062dfb8e240cb103f9d42e76e15eb2ffb8b3b6c064b8000ab1049383458da13f9cfb538b18d9b1400390c7e06c548b4ac3d8441ba91cd6afb10d"
+ "sig": "e5d0679d6d0e249e5eb3e335c7c9ac72114de4c0cfc023cffbfd2e0f7289e7522166734c6e278cb6a42f4baa632c82981a0e5504e3e9c175aeb2b506f864030c"
 }
