@@ -185,7 +185,7 @@
     "u": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.cyp.html"
    },
    "EG": {
-    "at": "2025-07-14",
+    "at": "2026-11-23",
     "lv": 2,
     "nm": "Level 2: Exercise Increased Caution",
     "u": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.egy.html"
@@ -2147,12 +2147,321 @@
   {
    "d": "2026-11-24",
    "k": "OTHER",
+   "l": "DE",
+   "s": "Israelnetz",
+   "t": "Iranischer Roboter skandiert israelfeindlichen Slogan",
+   "u": "https://www.israelnetz.com/iranischer-roboter-skandiert-israelfeindlichen-slogan/",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-24",
+   "k": "OTHER",
+   "l": "DE",
+   "s": "Israelnetz",
+   "t": "Ex-Mossad-Chef Barnea: Israel half, Anschlag auf Taylor-Swift-Konzert in Wien zu vereiteln",
+   "u": "https://www.israelnetz.com/ex-mossad-chef-barnea-israel-half-anschlag-auf-taylor-swift-konzert-in-wien-zu-vereiteln/",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-24",
+   "k": "OTHER",
+   "l": "DE",
+   "s": "Israelnetz",
+   "t": "Militärisches Sperrgebiet: Sieben israelische Teenager bei illegalem Außenposten in Samaria festgenommen",
+   "u": "https://www.israelnetz.com/militaerisches-sperrgebiet-sieben-israelische-teenager-bei-illegalem-aussenposten-in-samaria-festgenommen/",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-24",
+   "k": "OTHER",
+   "l": "DE",
+   "s": "Israelnetz",
+   "t": "Westjordanland: Zwei von Israel gesuchte Hamas-Terroristen festgenommen",
+   "u": "https://www.israelnetz.com/westjordanland-zwei-von-israel-gesuchte-hamas-terroristen-festgenommen/",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-24",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Christian Media Center (Holy Land)",
+   "t": "Laying of the foundation stone of the Argentine church of the Good Shepherd at the Shepherds' Field",
+   "u": "https://cmc-terrasanta.org/en/media/custodia/41879/laying-of-the-foundation-stone-of-the-argentine-church-of-the-good-shepherd-at-the-shepherds'-field",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-24",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Christian Media Center (Holy Land)",
+   "t": "Paraguay: XIV Congress of the Commissaries of the Holy Land «Ambassadors of peace in Latin America»",
+   "u": "https://cmc-terrasanta.org/en/media/custodia/41872/paraguay:-xiv-congress-of-the-commissaries-of-the-holy-land-«ambassadors-of-peace-in-latin-america»",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-24",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "JNS",
+   "t": "Schumer’s bargain with the antisemitic left will destroy Jewish Democrats",
+   "u": "https://www.jns.org/opinion/column/jonathan-s-tobin/schumers-bargain-with-the-antisemitic-left-will-destroy-jewish-democrats",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-24",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "JNS",
+   "t": "Israel confers official state recognition for victims of antisemitic terror in Argentina",
+   "u": "https://www.jns.org/wire/the-jewish-agency/israel-confers-official-state-recognition-for-victims-of-antisemitic-terror-in-argentina",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-24",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "JNS",
+   "t": "Preparing Israel for financial sanctions: The role of digital currencies",
+   "u": "https://www.jns.org/analysis/preparing-israel-for-financial-sanctions-the-role-of-digital-currencies",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-24",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "JNS",
+   "t": "Iron Dome comic-book superhero faces first villain, a social-media ban",
+   "u": "https://www.jns.org/news/u-s-news/iron-dome-comic-book-superhero-faces-first-villain-a-social-media-ban",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-24",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "JNS",
+   "t": "Israeli transportation minister clears flydubai’s return to Israel, subject to security approval",
+   "u": "https://www.jns.org/news/israel-news/israeli-transportation-minister-clears-flydubais-return-to-israel-subject-to-security-approval",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-24",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "JNS",
+   "t": "IDF eliminates Hamas internal security chief in Gaza",
+   "u": "https://www.jns.org/news/israel-news/idf-eliminates-hamas-internal-security-chief-in-gaza",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-24",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "JNS",
+   "t": "Amid tensions with Iran, minister says Israel has acted before against US wishes",
+   "u": "https://www.jns.org/news/israel-news/amid-tensions-with-iran-minister-says-israel-has-acted-before-against-us-wishes",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-24",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "JNS",
+   "t": "German pro-Israel activist vows to return to streets after Berlin assault",
+   "u": "https://www.jns.org/news/antisemitism/german-pro-israel-activist-vows-to-return-to-streets-after-berlin-assault",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-24",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "JNS",
+   "t": "Huckabee: End of US military aid to Israel this year 'not certain'",
+   "u": "https://www.jns.org/news/u-s-news/huckabee-end-of-us-military-aid-to-israel-this-year-not-certain",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-24",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Daily Sabah — Türkiye",
+   "t": "Istanbul authorities find no evidence of lion in Sarıyer",
+   "u": "https://www.dailysabah.com/turkiye/istanbul/istanbul-authorities-find-no-evidence-of-lion-in-sariyer",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-24",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Daily Sabah — Türkiye",
+   "t": "Turkish IHH volunteers turn aid boxes into school desks in Gaza",
+   "u": "https://www.dailysabah.com/turkiye/turkish-ihh-volunteers-turn-aid-boxes-into-school-desks-in-gaza/news",
+   "z": [
+    "HOLY",
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-24",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Daily Sabah — Türkiye",
+   "t": "Türkiye cites COP31 gains as EU dispute blocks final deal",
+   "u": "https://www.dailysabah.com/turkiye/turkiye-cites-cop31-gains-as-eu-dispute-blocks-final-deal/news",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-24",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Daily Sabah — Türkiye",
+   "t": "Türkiye marks Teachers’ Day as teacher numbers exceed 1M",
+   "u": "https://www.dailysabah.com/turkiye/education/turkiye-marks-teachers-day-as-teacher-numbers-exceed-1m",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-24",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Christianity Daily",
+   "t": "US Lawmakers Urge Egypt to Free Christian Convert Facing 25 Years in Prison or Execution",
+   "u": "https://www.christianitydaily.com/news/us-lawmakers-urge-egypt-to-free-christian-convert-facing-25-years.html",
+   "z": [
+    "EGYPT"
+   ]
+  },
+  {
+   "d": "2026-11-24",
+   "k": "ARCH",
+   "l": "EN",
+   "s": "Archaeology Magazine",
+   "t": "What Did Children in a Greek Colony Eat 2,500 Years Ago?",
+   "u": "https://archaeology.org/news/2026/11/24/what-did-children-in-a-greek-colony-eat-2500-years-ago/",
+   "z": [
+    "GREECE"
+   ]
+  },
+  {
+   "d": "2026-11-24",
+   "k": "ARCH",
+   "l": "EN",
+   "s": "Archaeology Magazine",
+   "t": "Tunnels Underneath Hagia Sophia Excavated",
+   "u": "https://archaeology.org/news/2026/11/24/tunnels-underneath-hagia-sophia-excavated/",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-24",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "RNS » Feed",
+   "t": "Israeli settlers’ move into a Palestinian neighborhood brings deadly violence to Jericho’s doorstep",
+   "u": "https://religionnews.com/2026/11/24/israeli-settlers-move-into-a-palestinian-neighborhood-brings-deadly-violence-to-jerichos-doorstep/",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-24",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Christian Today",
+   "t": "Calls for Egypt to release Christian convert facing death sentence",
+   "u": "https://www.christiantoday.com/news/calls-for-egypt-to-release-christian-convert-facing-death-sentence",
+   "z": [
+    "EGYPT"
+   ]
+  },
+  {
+   "d": "2026-11-24",
+   "k": "OTHER",
    "l": "EN",
    "s": "JNS",
    "t": "The price of genius",
    "u": "https://www.jns.org/opinion/eliezer-avraham/the-price-of-genius",
    "z": [
     "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-23",
+   "k": "OTHER",
+   "l": "KO",
+   "s": "데일리굿뉴스",
+   "t": "GOODTV, 튀르키예 '청년 비전트립' 모집…사도 바울 발자취 따라",
+   "u": "https://www.goodnews1.com/news/articleView.html?idxno=466540",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-23",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Christian Daily International",
+   "t": "Egypt prosecutors seek death penalty for Christian convert as trial raises fair hearing concerns",
+   "u": "https://www.christiandaily.com/news/egypt-prosecutors-seek-death-penalty-for-christian-convert",
+   "z": [
+    "EGYPT"
+   ]
+  },
+  {
+   "d": "2026-11-23",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Christian Today",
+   "t": "Christian prosecuted in Malta asks European Parliament to oppose bans on conversion practices",
+   "u": "https://www.christiantoday.com/news/christian-prosecuted-in-malta-asks-european-parliament-to-oppose-bans-on-conversion-practices",
+   "z": [
+    "EUROPE"
+   ]
+  },
+  {
+   "d": "2026-11-23",
+   "k": "OTHER",
+   "l": "KO",
+   "s": "기독일보 : Top News",
+   "t": "몰타 기독교인 “신앙 간증 인터뷰로 3년간 재판”… EU 전환 관행 금지 추진에 반발",
+   "u": "https://www.christiandaily.co.kr/news/167854",
+   "z": [
+    "EUROPE"
    ]
   },
   {
@@ -2925,6 +3234,17 @@
    "u": "https://www.goodnews1.com/news/articleView.html?idxno=466409",
    "z": [
     "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-18",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Christian Today",
+   "t": "3 sentenced to death for deadly church mass shooting in Jordan",
+   "u": "https://www.christiantoday.com/news/3-sentenced-to-death-for-deadly-church-mass-shooting-in-jordan",
+   "z": [
+    "JORDAN"
    ]
   },
   {
@@ -3760,17 +4080,6 @@
    "d": "2026-11-16",
    "k": "OTHER",
    "l": "EN",
-   "s": "The Christian Post",
-   "t": "3 sentenced to death for deadly church mass shooting in Jordan",
-   "u": "https://www.christianpost.com/news/3-sentenced-to-death-for-church-mass-shooting-in-jordan.html",
-   "z": [
-    "JORDAN"
-   ]
-  },
-  {
-   "d": "2026-11-16",
-   "k": "OTHER",
-   "l": "EN",
    "s": "Christian Daily International",
    "t": "In Cairo, Christian women leaders explore what it means to lead in the 'wilderness'",
    "u": "https://www.christiandaily.com/news/in-cairo-christian-women-explore-leading-in-the-wilderness",
@@ -4042,314 +4351,6 @@
    "u": "https://www.goodnews1.com/news/articleView.html?idxno=466111",
    "z": [
     "HOLY"
-   ]
-  },
-  {
-   "d": "2026-11-12",
-   "k": "OTHER",
-   "l": "KO",
-   "s": "크리스천투데이",
-   "t": "美 중간선거 이후 공화당 내부 균열… 이스라엘 지지 노선도 논쟁",
-   "u": "https://www.christiantoday.co.kr/news/378589",
-   "z": [
-    "HOLY"
-   ]
-  },
-  {
-   "d": "2026-11-12",
-   "k": "OTHER",
-   "l": "FR",
-   "s": "Info Chrétienne Flux",
-   "t": "Turquie : des fragments de bois découverts sur le site présumé de l’Arche de Noé",
-   "u": "https://www.infochretienne.com/articles/turquie-des-fragments-de-bois-decouverts-sur-le-site-presume-de-larche-de-noe/",
-   "z": [
-    "ASIA_MINOR"
-   ]
-  },
-  {
-   "d": "2026-11-12",
-   "k": "OTHER",
-   "l": "FR",
-   "s": "Info Chrétienne Flux",
-   "t": "Une chapelle incendiée en Égypte : les chrétiens de la région inquiets",
-   "u": "https://www.infochretienne.com/articles/une-chapelle-incendiee-en-egypte-les-chretiens-inquiets/",
-   "z": [
-    "EGYPT"
-   ]
-  },
-  {
-   "d": "2026-11-12",
-   "k": "OTHER",
-   "l": "EN",
-   "s": "Christian Daily International",
-   "t": "‘Part of the Egyptian fabric’: Egypt’s evangelical leader on growth, citizenship and the next generation",
-   "u": "https://www.christiandaily.com/news/part-of-the-egyptian-fabric-egypts-evangelical-leader-on-growth-citizenship-and-the-next-generation",
-   "z": [
-    "EGYPT"
-   ]
-  },
-  {
-   "d": "2026-11-12",
-   "k": "OTHER",
-   "l": "ES",
-   "s": "Coalición por el Evangelio",
-   "t": "Juan Calvino: ¿El reformador tirano de Ginebra?",
-   "u": "https://www.coalicionporelevangelio.org/articulo/juan-calvino-tirano-ginebra/",
-   "z": [
-    "EUROPE"
-   ]
-  },
-  {
-   "d": "2026-11-12",
-   "k": "OTHER",
-   "l": "EN",
-   "s": "The Christian Post",
-   "t": "Pope Leo XIV promotes 'spiritual bond' between Catholics and 'people of Israel'",
-   "u": "https://www.christianpost.com/news/pope-promotes-spiritual-bond-with-people-of-israel.html",
-   "z": [
-    "HOLY"
-   ]
-  },
-  {
-   "d": "2026-11-12",
-   "k": "OTHER",
-   "l": "EN",
-   "s": "Christian Today",
-   "t": "Egyptian Christian killed in Libya after refusing to deny Jesus",
-   "u": "https://www.christiantoday.com/news/egyptian-christian-killed-in-libya-after-refusing-to-deny-jesus",
-   "z": [
-    "EGYPT"
-   ]
-  },
-  {
-   "d": "2026-11-11",
-   "k": "OTHER",
-   "l": "EN",
-   "s": "Daily Sabah — Türkiye",
-   "t": "Türkiye deploys 58,000 personnel to secure COP31 summit in Antalya",
-   "u": "https://www.dailysabah.com/business/energy/turkiye-deploys-58000-personnel-to-secure-cop31-summit-in-antalya",
-   "z": [
-    "ASIA_MINOR"
-   ]
-  },
-  {
-   "d": "2026-11-11",
-   "k": "OTHER",
-   "l": "KO",
-   "s": "데일리굿뉴스",
-   "t": "이스라엘 26대 의회 개원…연정 협상 본격화",
-   "u": "https://www.goodnews1.com/news/articleView.html?idxno=466067",
-   "z": [
-    "HOLY"
-   ]
-  },
-  {
-   "d": "2026-11-11",
-   "k": "OTHER",
-   "l": "KO",
-   "s": "기독일보 : Top News",
-   "t": "이집트서 개종 기독교인 사형 위기… 약혼녀, 미국·네덜란드에 석방 호소",
-   "u": "https://www.christiandaily.co.kr/news/167122",
-   "z": [
-    "EGYPT"
-   ]
-  },
-  {
-   "d": "2026-11-11",
-   "k": "OTHER",
-   "l": "EN",
-   "s": "The Christian Post",
-   "t": "Pastor Gary Hamrick calls Vance election claims 'nonsense,' says US must continue Israel support",
-   "u": "https://www.christianpost.com/news/pastor-gary-hamrick-says-us-must-continue-to-support-israel.html",
-   "z": [
-    "HOLY"
-   ]
-  },
-  {
-   "d": "2026-11-11",
-   "k": "OTHER",
-   "l": "EN",
-   "s": "The Christian Post",
-   "t": "House Republicans elect Jim Jordan as minority leader for 120th Congress",
-   "u": "https://www.christianpost.com/news/house-republicans-elect-jim-jordan-as-minority-leader.html",
-   "z": [
-    "JORDAN"
-   ]
-  },
-  {
-   "d": "2026-11-11",
-   "k": "OTHER",
-   "l": "EN",
-   "s": "Christian Today",
-   "t": "After the 2026 Republican meltdown, where now for the GOP and Israel?",
-   "u": "https://www.christiantoday.com/news/after-the-2026-republican-meltdown-where-now-for-the-gop-and-israel",
-   "z": [
-    "HOLY"
-   ]
-  },
-  {
-   "d": "2026-11-10",
-   "k": "OTHER",
-   "l": "JA",
-   "s": "クリスチャントゥデイ",
-   "t": "キリストの兵士とサムライの精神 穂森幸一",
-   "u": "https://www.christiantoday.co.jp/articles/36471/20261110/homori-koichi-324.htm",
-   "z": [
-    "EUROPE"
-   ]
-  },
-  {
-   "d": "2026-11-10",
-   "k": "OTHER",
-   "l": "EN",
-   "s": "Daily Sabah — Türkiye",
-   "t": "Türkiye orders arrests of 11 over deadly Izmir steel plant blast",
-   "u": "https://www.dailysabah.com/turkiye/turkiye-orders-arrests-of-11-over-deadly-izmir-steel-plant-blast/news",
-   "z": [
-    "ASIA_MINOR"
-   ]
-  },
-  {
-   "d": "2026-11-10",
-   "k": "OTHER",
-   "l": "EN",
-   "s": "Daily Sabah — Türkiye",
-   "t": "Zero Waste Foundation plans 193-country documentary at COP31",
-   "u": "https://www.dailysabah.com/turkiye/zero-waste-foundation-plans-193-country-documentary-at-cop31/news",
-   "z": [
-    "ASIA_MINOR"
-   ]
-  },
-  {
-   "d": "2026-11-10",
-   "k": "OTHER",
-   "l": "EN",
-   "s": "Daily Sabah — Türkiye",
-   "t": "Emine Erdoğan promotes global zero-waste alliance at COP31",
-   "u": "https://www.dailysabah.com/turkiye/emine-erdogan-promotes-global-zero-waste-alliance-at-cop31/news",
-   "z": [
-    "ASIA_MINOR"
-   ]
-  },
-  {
-   "d": "2026-11-10",
-   "k": "OTHER",
-   "l": "EN",
-   "s": "Christianity Daily",
-   "t": "“I Would Never Renounce My Faith”: 20-Year-Old Egyptian Christian Killed by ISIS in Libya",
-   "u": "https://www.christianitydaily.com/news/i-would-never-renounce-my-faith-christian-killed-by-isis.html",
-   "z": [
-    "EGYPT"
-   ]
-  },
-  {
-   "d": "2026-11-10",
-   "k": "ARCH",
-   "l": "EN",
-   "s": "BiblePlaces Blog",
-   "t": "Why Another History of Israel? Oppression and Deliverance",
-   "u": "https://www.bibleplaces.com/blog/2026/11/why-another-history-of-israel-oppression-and-deliverance/",
-   "z": [
-    "HOLY"
-   ]
-  },
-  {
-   "d": "2026-11-10",
-   "k": "OTHER",
-   "l": "KO",
-   "s": "기독일보 : Top News",
-   "t": "리비아서 이집트 콥트교인 피살… 오픈도어, 개종 강요 정황 전해",
-   "u": "https://www.christiandaily.co.kr/news/167003",
-   "z": [
-    "EGYPT"
-   ]
-  },
-  {
-   "d": "2026-11-10",
-   "k": "OTHER",
-   "l": "EN",
-   "s": "RNS » Feed",
-   "t": "Israel’s president gives Eisenkot the first chance to form the next government",
-   "u": "https://religionnews.com/2026/11/10/israels-president-gives-eisenkot-the-first-chance-to-form-the-next-government/",
-   "z": [
-    "HOLY"
-   ]
-  },
-  {
-   "d": "2026-11-10",
-   "k": "OTHER",
-   "l": "EN",
-   "s": "The Christian Post",
-   "t": "Fiancée of Egyptian Christian convert facing execution urges US, Netherlands to intervene",
-   "u": "https://www.christianpost.com/news/woman-pleads-for-us-to-save-christian-convert-from-execution.html",
-   "z": [
-    "EGYPT"
-   ]
-  },
-  {
-   "d": "2026-11-10",
-   "k": "OTHER",
-   "l": "EN",
-   "s": "RNS » Feed",
-   "t": "Socialists plan to ‘break’ the US-Israel alliance after winning big in the midterms",
-   "u": "https://religionnews.com/2026/11/10/socialists-plan-to-break-the-us-israel-alliance-after-winning-big-in-the-midterms/",
-   "z": [
-    "HOLY"
-   ]
-  },
-  {
-   "d": "2026-11-09",
-   "k": "OTHER",
-   "l": "EN",
-   "s": "Daily Sabah — Türkiye",
-   "t": "16 killed, 13 injured in explosion at steel plant in Türkiye's Izmir",
-   "u": "https://www.dailysabah.com/turkiye/16-killed-13-injured-in-explosion-at-steel-plant-in-turkiyes-izmir/news",
-   "z": [
-    "ASIA_MINOR"
-   ]
-  },
-  {
-   "d": "2026-11-09",
-   "k": "OTHER",
-   "l": "EN",
-   "s": "Daily Sabah — Türkiye",
-   "t": "COP31 puts rural supply chains at center of climate resilience efforts",
-   "u": "https://www.dailysabah.com/turkiye/cop31-puts-rural-supply-chains-at-center-of-climate-resilience-efforts/news",
-   "z": [
-    "ASIA_MINOR"
-   ]
-  },
-  {
-   "d": "2026-11-09",
-   "k": "OTHER",
-   "l": "EN",
-   "s": "Daily Sabah — Türkiye",
-   "t": "COP31 opens in Türkiye with push to turn climate pledges into action",
-   "u": "https://www.dailysabah.com/turkiye/cop31-opens-in-turkiye-with-push-to-turn-climate-pledges-into-action/news",
-   "z": [
-    "ASIA_MINOR"
-   ]
-  },
-  {
-   "d": "2026-11-09",
-   "k": "OTHER",
-   "l": "EN",
-   "s": "Daily Sabah — Türkiye",
-   "t": "Türkiye deploys 28,000 personnel for COP31 traffic security",
-   "u": "https://www.dailysabah.com/turkiye/turkiye-deploys-28000-personnel-for-cop31-traffic-security/news",
-   "z": [
-    "ASIA_MINOR"
-   ]
-  },
-  {
-   "d": "2026-11-09",
-   "k": "OTHER",
-   "l": "JA",
-   "s": "クリスチャントゥデイ",
-   "t": "景教のルーツを探るトルコ・アナトリアへの旅（５）マルディンにおけるキリスト教会と小史　川口一彦",
-   "u": "https://www.christiantoday.co.jp/articles/36469/20261109/keikyo-journey-to-turkey-anatolia-5.htm",
-   "z": [
-    "ASIA_MINOR"
    ]
   }
  ],
