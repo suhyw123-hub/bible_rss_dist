@@ -1,88 +1,27 @@
 {
- "version": "2026.11.25.3",
- "date": "2026-11-25 10:44",
- "notes": "고쳐진 곳: 쇼핑 · AI 대화 · 나의 시편 · 기도 노트 · 암송 · 때에 맞는 말씀 · 성경 · 플랜 · 서재 · 둘러보기 · 공지 · 홈 · 설정 · 기타 개선 · AI 도우미",
+ "version": "2026.11.25.4",
+ "date": "2026-11-25 11:17",
+ "notes": "고쳐진 곳: 기타 개선",
  "pc": {
-  "version": "2026.11.25.3",
-  "file": "app_pc_2026.11.25.3_1d5a0b00.zip",
-  "sha256": "1d5a0b004cc8fa47dec49736f1b9bb7077667a1d41690182f6507b22664c6aaf",
+  "version": "2026.11.25.4",
+  "file": "app_pc_2026.11.25.4_480e6d3d.zip",
+  "sha256": "480e6d3dec5d67bb45fde1f5b225fbd965da34f9d4e649e7fadd3cf9b770ac4f",
   "size": 26783625,
-  "areas": [
-   [
-    "UPD_A_AI",
-    "AI 도우미"
-   ],
-   [
-    "UPD_A_ETC",
-    "기타 개선"
-   ]
-  ]
+  "areas": []
  },
  "android": {
-  "version": "2026.11.25.3",
-  "code": 2026112503,
-  "file": "app_android_2026.11.25.3_01191b0e.apk",
-  "sha256": "01191b0e304eb7a5db42e2fc277534b1dbb462c1a116f8f2f6f3474d561e6af3",
-  "size": 35000098,
-  "url": "https://dist.asahdabar.com/app_android_2026.11.25.3_01191b0e.apk",
+  "version": "2026.11.25.4",
+  "code": 2026112504,
+  "file": "app_android_2026.11.25.4_33807897.apk",
+  "sha256": "338078974511683ddf12d2ddce0d78492c3d892351726b1223e5a23f80694a69",
+  "size": 34999870,
+  "url": "https://dist.asahdabar.com/app_android_2026.11.25.4_33807897.apk",
   "areas": [
-   [
-    "M_TAB_SHOP2",
-    "쇼핑"
-   ],
-   [
-    "M_TAB_AI",
-    "AI 대화"
-   ],
-   [
-    "UPD_A_PSALM",
-    "나의 시편"
-   ],
-   [
-    "M_PR_TITLE",
-    "기도 노트"
-   ],
-   [
-    "M_MEMO_TITLE",
-    "암송"
-   ],
-   [
-    "UPD_A_TOPIC",
-    "때에 맞는 말씀"
-   ],
-   [
-    "M_TAB_BIBLE",
-    "성경"
-   ],
-   [
-    "M_TAB_PLAN",
-    "플랜"
-   ],
-   [
-    "M_LIBRARY",
-    "서재"
-   ],
-   [
-    "M_EXPLORE",
-    "둘러보기"
-   ],
-   [
-    "M_HOME_NOTICE",
-    "공지"
-   ],
-   [
-    "M_TAB_HOME",
-    "홈"
-   ],
-   [
-    "M_SETTINGS",
-    "설정"
-   ],
    [
     "UPD_A_ETC",
     "기타 개선"
    ]
   ]
  },
- "sig": "5b2cc0b20a73e4abbbf05147b5bdd86af62580a170ebd65388a2012c3b7101970595847c95147d37e8ae398c7190ab137867c18c2705ef94d9ecea7911fb4706"
+ "sig": "034317ef80ce85901ab670a3a59352e190c834d6764520a1313791c372fcd1c268b6e8a44f11e169d89a428552caeae7267c144cde813ab6d93434464f310b0f"
 }
