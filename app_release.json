@@ -1,21 +1,12 @@
 {
- "version": "2026.11.25.4",
- "date": "2026-11-25 11:17",
- "notes": "고쳐진 곳: 기타 개선",
+ "version": "2026.11.25.5",
+ "date": "2026-11-25 13:34",
+ "notes": "고쳐진 곳: 암송 · 설정 · 기타 개선",
  "pc": {
-  "version": "2026.11.25.4",
-  "file": "app_pc_2026.11.25.4_480e6d3d.zip",
-  "sha256": "480e6d3dec5d67bb45fde1f5b225fbd965da34f9d4e649e7fadd3cf9b770ac4f",
-  "size": 26783625,
-  "areas": []
- },
- "android": {
-  "version": "2026.11.25.4",
-  "code": 2026112504,
-  "file": "app_android_2026.11.25.4_33807897.apk",
-  "sha256": "338078974511683ddf12d2ddce0d78492c3d892351726b1223e5a23f80694a69",
-  "size": 34999870,
-  "url": "https://dist.asahdabar.com/app_android_2026.11.25.4_33807897.apk",
+  "version": "2026.11.25.5",
+  "file": "app_pc_2026.11.25.5_2853c1ce.zip",
+  "sha256": "2853c1cec4f5a21670f758bcd0c1142e32359beabf9887243e2802ff2cc8614f",
+  "size": 26784308,
   "areas": [
    [
     "UPD_A_ETC",
@@ -23,5 +14,27 @@
    ]
   ]
  },
- "sig": "034317ef80ce85901ab670a3a59352e190c834d6764520a1313791c372fcd1c268b6e8a44f11e169d89a428552caeae7267c144cde813ab6d93434464f310b0f"
+ "android": {
+  "version": "2026.11.25.5",
+  "code": 2026112505,
+  "file": "app_android_2026.11.25.5_1f2f9877.apk",
+  "sha256": "1f2f9877732ba6cc09f7783aa812007b9a793ea3dce7aca7fb810a2046f9c83c",
+  "size": 35131250,
+  "url": "https://dist.asahdabar.com/app_android_2026.11.25.5_1f2f9877.apk",
+  "areas": [
+   [
+    "M_MEMO_TITLE",
+    "암송"
+   ],
+   [
+    "M_SETTINGS",
+    "설정"
+   ],
+   [
+    "UPD_A_ETC",
+    "기타 개선"
+   ]
+  ]
+ },
+ "sig": "7340c20092c9062dfb8e240cb103f9d42e76e15eb2ffb8b3b6c064b8000ab1049383458da13f9cfb538b18d9b1400390c7e06c548b4ac3d8441ba91cd6afb10d"
 }
