@@ -1870,9 +1870,9 @@
    "variant": "-",
    "note": "환경설정 양식(sys_pref_preset) 코어 표 추가",
    "title": "앱 기본 자료(연결·목록·껍데기)",
-   "version": 86,
+   "version": 94,
    "bytes": 10623966,
-   "made_at": "2026-11-24 15:08"
+   "made_at": "2026-11-25 13:35"
   },
   {
    "kind": "DESC",
@@ -2706,9 +2706,9 @@
    "variant": "ORIGINAL",
    "note": "",
    "title": "Metropolitan Tabernacle Pulpit — Selected Sermons · 일반서신·계시록",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-25 00:02"
   },
   {
    "kind": "SERMON",
@@ -2728,9 +2728,9 @@
    "variant": "ORIGINAL",
    "note": "",
    "title": "Metropolitan Tabernacle Pulpit — Selected Sermons · 복음서·사도행전",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-25 00:02"
   },
   {
    "kind": "SERMON",
@@ -2750,9 +2750,9 @@
    "variant": "ORIGINAL",
    "note": "",
    "title": "Metropolitan Tabernacle Pulpit — Selected Sermons · 역사서",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-25 00:02"
   },
   {
    "kind": "SERMON",
@@ -2772,9 +2772,9 @@
    "variant": "ORIGINAL",
    "note": "",
    "title": "Metropolitan Tabernacle Pulpit — Selected Sermons · 대선지서",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-25 00:02"
   },
   {
    "kind": "SERMON",
@@ -2794,9 +2794,9 @@
    "variant": "ORIGINAL",
    "note": "",
    "title": "Metropolitan Tabernacle Pulpit — Selected Sermons · 소선지서",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-25 00:02"
   },
   {
    "kind": "SERMON",
@@ -2816,9 +2816,9 @@
    "variant": "ORIGINAL",
    "note": "",
    "title": "Metropolitan Tabernacle Pulpit — Selected Sermons · 그 밖(목회 서신·예배)",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-25 00:02"
   },
   {
    "kind": "SERMON",
@@ -2838,9 +2838,9 @@
    "variant": "ORIGINAL",
    "note": "",
    "title": "Metropolitan Tabernacle Pulpit — Selected Sermons · 바울서신",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-25 00:02"
   },
   {
    "kind": "SERMON",
@@ -2860,9 +2860,9 @@
    "variant": "ORIGINAL",
    "note": "",
    "title": "Metropolitan Tabernacle Pulpit — Selected Sermons · 오경",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-25 00:02"
   },
   {
    "kind": "SERMON",
@@ -2882,9 +2882,9 @@
    "variant": "ORIGINAL",
    "note": "",
    "title": "Metropolitan Tabernacle Pulpit — Selected Sermons · 시가서",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-25 00:02"
   },
   {
    "kind": "SERMON",
