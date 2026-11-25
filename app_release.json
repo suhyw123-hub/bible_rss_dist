@@ -1,12 +1,12 @@
 {
- "version": "2026.11.25.7",
- "date": "2026-11-25 18:57",
- "notes": "고쳐진 곳: 기도 노트 · 암송 · 성경 · 서재 · 설정 · 기타 개선",
+ "version": "2026.11.25.8",
+ "date": "2026-11-25 22:06",
+ "notes": "고쳐진 곳: 쇼핑 · AI 대화 · 나의 시편 · 기도 노트 · 말씀카드 · 때에 맞는 말씀 · 성경 · 플랜 · 서재 · 둘러보기 · 설정 · 기타 개선",
  "pc": {
-  "version": "2026.11.25.7",
-  "file": "app_pc_2026.11.25.7_aba24ffe.zip",
-  "sha256": "aba24ffe891ae096eeac3268747c14fb7090a2d38317674156d78f530250a4a0",
-  "size": 28117885,
+  "version": "2026.11.25.8",
+  "file": "app_pc_2026.11.25.8_c3250beb.zip",
+  "sha256": "c3250beb3c71ffc66c13a2a7348ac59827fced608738d033e0782280d62b9b9c",
+  "size": 28118328,
   "areas": [
    [
     "UPD_A_ETC",
@@ -15,28 +15,52 @@
   ]
  },
  "android": {
-  "version": "2026.11.25.7",
-  "code": 2026112507,
-  "file": "app_android_2026.11.25.7_b0b5bd19.apk",
-  "sha256": "b0b5bd193c4c56f536fd310abb9de49d4f0a9079d524f713f440ea04fa7d14e4",
-  "size": 35361902,
-  "url": "https://dist.asahdabar.com/app_android_2026.11.25.7_b0b5bd19.apk",
+  "version": "2026.11.25.8",
+  "code": 2026112508,
+  "file": "app_android_2026.11.25.8_1d84f465.apk",
+  "sha256": "1d84f46552614238a820f0562028436d3cdc5a55fc44f64585b8618f34d94bc5",
+  "size": 35427602,
+  "url": "https://dist.asahdabar.com/app_android_2026.11.25.8_1d84f465.apk",
   "areas": [
+   [
+    "M_TAB_SHOP2",
+    "쇼핑"
+   ],
+   [
+    "M_TAB_AI",
+    "AI 대화"
+   ],
+   [
+    "UPD_A_PSALM",
+    "나의 시편"
+   ],
    [
     "M_PR_TITLE",
     "기도 노트"
    ],
    [
-    "M_MEMO_TITLE",
-    "암송"
+    "UPD_A_CARD",
+    "말씀카드"
+   ],
+   [
+    "UPD_A_TOPIC",
+    "때에 맞는 말씀"
    ],
    [
     "M_TAB_BIBLE",
     "성경"
    ],
    [
+    "M_TAB_PLAN",
+    "플랜"
+   ],
+   [
     "M_LIBRARY",
     "서재"
+   ],
+   [
+    "M_EXPLORE",
+    "둘러보기"
    ],
    [
     "M_SETTINGS",
@@ -48,5 +72,5 @@
    ]
   ]
  },
- "sig": "047f0a702cf0901b520fa77a3890c5aab1ac9cf5c35e921f73f48a3a1aa23d40c54d60ae1e74476a09dbb2d67e53fa0ab56a1b3d79679db17ec8cfe67f60770a"
+ "sig": "d7a0e5144e67f79a412bc221099a3583a600a4e3f55464e38cf28be814291ee8ae773aeb96827d2a69cdcd3432c86c99c90adce613eac38f3e4f63f28a2b6d0c"
 }
