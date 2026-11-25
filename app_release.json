@@ -1,12 +1,12 @@
 {
- "version": "2026.11.25.9",
- "date": "2026-11-25 23:30",
- "notes": "고쳐진 곳: 성경 · 기타 개선",
+ "version": "2026.11.26.1",
+ "date": "2026-11-26 00:25",
+ "notes": "고쳐진 곳: 기타 개선",
  "pc": {
-  "version": "2026.11.25.9",
-  "file": "app_pc_2026.11.25.9_e558f6b9.zip",
-  "sha256": "e558f6b9c935a765a435ff5166553d674db013b8f35595cd43299bd4cf1c927b",
-  "size": 28118488,
+  "version": "2026.11.26.1",
+  "file": "app_pc_2026.11.26.1_12248ea9.zip",
+  "sha256": "12248ea9bb647677569bafd94a50a292d950cd1480b54ba91bb6e4638746a864",
+  "size": 28126371,
   "areas": [
    [
     "UPD_A_ETC",
@@ -15,18 +15,13 @@
   ]
  },
  "android": {
-  "version": "2026.11.25.9",
-  "code": 2026112509,
-  "file": "app_android_2026.11.25.9_15518bc2.apk",
-  "sha256": "15518bc25f71788449aa7e949b7fa6bf5a32680a5209f75caad622e2729f6a64",
-  "size": 35427602,
-  "url": "https://dist.asahdabar.com/app_android_2026.11.25.9_15518bc2.apk",
-  "areas": [
-   [
-    "M_TAB_BIBLE",
-    "성경"
-   ]
-  ]
+  "version": "2026.11.26.1",
+  "code": 2026112601,
+  "file": "app_android_2026.11.26.1_4613fc70.apk",
+  "sha256": "4613fc703e4e145bf5fe6a1bb3b0d7b39a828f243d62821667c48343d6f1cb5b",
+  "size": 35427598,
+  "url": "https://dist.asahdabar.com/app_android_2026.11.26.1_4613fc70.apk",
+  "areas": []
  },
- "sig": "0d26fb75bad3d93d23c8fd4858467fe61f5c4f4e4448fa725fa25906a8e319175bd83c3ec8375dc8da81f34f385eef3e831af36140af40e9967b6520c6dc030e"
+ "sig": "b76e49eb43938d39cd6dd001bb806c8a26e76812dcefdb6ba7f8f79ad48a97d4a2aa37fb66a28801e75ddc375b54b9617c391a1003760c9827e52b779890b409"
 }
