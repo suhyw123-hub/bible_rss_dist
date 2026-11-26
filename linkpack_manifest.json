@@ -1,5 +1,5 @@
 {
- "latest": 29,
+ "latest": 30,
  "full": true,
  "releases": [
   {
@@ -44,9 +44,9 @@
    "variant": "-",
    "note": "",
    "title": "Arabic Van Dyke Bible (الكتاب المقدس, 1865)",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:15"
   },
   {
    "kind": "BIBLE",
@@ -187,9 +187,9 @@
    "variant": "-",
    "note": "",
    "title": "King James Version (1769)",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:15"
   },
   {
    "kind": "BIBLE",
@@ -275,9 +275,9 @@
    "variant": "ORIGINAL",
    "note": "",
    "title": "Confessions",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:15"
   },
   {
    "kind": "BOOK",
@@ -308,9 +308,9 @@
    "variant": "TRANSLATED",
    "note": "",
    "title": "The Belgic Confession",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:15"
   },
   {
    "kind": "BOOK",
@@ -330,9 +330,9 @@
    "variant": "ORIGINAL",
    "note": "",
    "title": "The Belgic Confession",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:15"
   },
   {
    "kind": "BOOK",
@@ -407,9 +407,9 @@
    "variant": "MODERN_EN",
    "note": "",
    "title": "Power Through Prayer",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:15"
   },
   {
    "kind": "BOOK",
@@ -418,9 +418,9 @@
    "variant": "ORIGINAL",
    "note": "",
    "title": "Power Through Prayer",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:15"
   },
   {
    "kind": "BOOK",
@@ -429,9 +429,9 @@
    "variant": "ORIGINAL",
    "note": "",
    "title": "Grace Abounding to the Chief of Sinners",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:15"
   },
   {
    "kind": "BOOK",
@@ -440,9 +440,9 @@
    "variant": "ORIGINAL",
    "note": "",
    "title": "The Pilgrim's Progress",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:15"
   },
   {
    "kind": "BOOK",
@@ -462,9 +462,9 @@
    "variant": "MODERN_EN",
    "note": "",
    "title": "로마의 클레멘트 — 클레멘트 1서",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:15"
   },
   {
    "kind": "BOOK",
@@ -473,9 +473,9 @@
    "variant": "ORIGINAL",
    "note": "",
    "title": "로마의 클레멘트 — 클레멘트 1서",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:15"
   },
   {
    "kind": "BOOK",
@@ -484,9 +484,9 @@
    "variant": "TRANSLATED",
    "note": "",
    "title": "로마의 클레멘트 — 클레멘트 1서",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:15"
   },
   {
    "kind": "BOOK",
@@ -528,9 +528,9 @@
    "variant": "ORIGINAL",
    "note": "",
    "title": "디다케 (12사도 교훈)",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:15"
   },
   {
    "kind": "BOOK",
@@ -638,9 +638,9 @@
    "variant": "MODERN_EN",
    "note": "",
    "title": "디오그네투스 서신",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:15"
   },
   {
    "kind": "BOOK",
@@ -649,9 +649,9 @@
    "variant": "ORIGINAL",
    "note": "",
    "title": "디오그네투스 서신",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:15"
   },
   {
    "kind": "BOOK",
@@ -737,9 +737,9 @@
    "variant": "TRANSLATED",
    "note": "",
    "title": "The Canons of Dort",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:15"
   },
   {
    "kind": "BOOK",
@@ -759,9 +759,9 @@
    "variant": "ORIGINAL",
    "note": "",
    "title": "The Canons of Dort",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:15"
   },
   {
    "kind": "BOOK",
@@ -770,9 +770,9 @@
    "variant": "ORIGINAL",
    "note": "",
    "title": "Sketches of Jewish Social Life",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:15"
   },
   {
    "kind": "BOOK",
@@ -792,9 +792,9 @@
    "variant": "ORIGINAL",
    "note": "",
    "title": "The Life and Times of Jesus the Messiah",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:15"
   },
   {
    "kind": "BOOK",
@@ -803,9 +803,9 @@
    "variant": "ORIGINAL",
    "note": "",
    "title": "The Temple: Its Ministry and Services",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:15"
   },
   {
    "kind": "BOOK",
@@ -814,9 +814,9 @@
    "variant": "ORIGINAL",
    "note": "",
    "title": "Synonyms of the Old Testament",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:15"
   },
   {
    "kind": "BOOK",
@@ -825,9 +825,9 @@
    "variant": "MODERN_EN",
    "note": "",
    "title": "헤르마스의 목자",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:15"
   },
   {
    "kind": "BOOK",
@@ -836,9 +836,9 @@
    "variant": "ORIGINAL",
    "note": "",
    "title": "헤르마스의 목자",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:15"
   },
   {
    "kind": "BOOK",
@@ -847,9 +847,9 @@
    "variant": "MODERN_EN",
    "note": "",
    "title": "이그나티우스 — 7서신",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:15"
   },
   {
    "kind": "BOOK",
@@ -858,9 +858,9 @@
    "variant": "ORIGINAL",
    "note": "",
    "title": "이그나티우스 — 7서신",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:15"
   },
   {
    "kind": "BOOK",
@@ -869,9 +869,9 @@
    "variant": "MODERN_EN",
    "note": "",
    "title": "The Imitation of Christ",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:15"
   },
   {
    "kind": "BOOK",
@@ -880,9 +880,9 @@
    "variant": "ORIGINAL",
    "note": "",
    "title": "The Imitation of Christ",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:15"
   },
   {
    "kind": "BOOK",
@@ -891,9 +891,9 @@
    "variant": "TRANSLATED",
    "note": "",
    "title": "The Imitation of Christ",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:15"
   },
   {
    "kind": "BOOK",
@@ -957,9 +957,9 @@
    "variant": "TRANSLATED",
    "note": "",
    "title": "The Practice of the Presence of God",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:15"
   },
   {
    "kind": "BOOK",
@@ -968,9 +968,9 @@
    "variant": "ORIGINAL",
    "note": "",
    "title": "A Serious Call to a Devout and Holy Life",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:15"
   },
   {
    "kind": "BOOK",
@@ -979,9 +979,9 @@
    "variant": "ORIGINAL",
    "note": "",
    "title": "On the Freedom of a Christian",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:15"
   },
   {
    "kind": "BOOK",
@@ -990,9 +990,9 @@
    "variant": "ORIGINAL",
    "note": "",
    "title": "The Life of David as Reflected in His Psalms",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:15"
   },
   {
    "kind": "BOOK",
@@ -1034,9 +1034,9 @@
    "variant": "ORIGINAL",
    "note": "",
    "title": "Our Daily Homily",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:15"
   },
   {
    "kind": "BOOK",
@@ -1045,9 +1045,9 @@
    "variant": "TRANSLATED",
    "note": "",
    "title": "Our Daily Homily",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:15"
   },
   {
    "kind": "BOOK",
@@ -1056,9 +1056,9 @@
    "variant": "ORIGINAL",
    "note": "",
    "title": "Come Ye Apart",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:15"
   },
   {
    "kind": "BOOK",
@@ -1067,9 +1067,9 @@
    "variant": "ORIGINAL",
    "note": "",
    "title": "Answers to Prayer",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:15"
   },
   {
    "kind": "BOOK",
@@ -1078,9 +1078,9 @@
    "variant": "MODERN_EN",
    "note": "",
    "title": "Abide in Christ",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:15"
   },
   {
    "kind": "BOOK",
@@ -1089,9 +1089,9 @@
    "variant": "ORIGINAL",
    "note": "",
    "title": "Abide in Christ",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:15"
   },
   {
    "kind": "BOOK",
@@ -1111,9 +1111,9 @@
    "variant": "ORIGINAL",
    "note": "",
    "title": "Pensées",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:15"
   },
   {
    "kind": "BOOK",
@@ -1122,9 +1122,9 @@
    "variant": "TRANSLATED",
    "note": "",
    "title": "Pensées",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:15"
   },
   {
    "kind": "BOOK",
@@ -1155,9 +1155,9 @@
    "variant": "MODERN_EN",
    "note": "",
    "title": "폴리캅 — 빌립보 교회 서신 + 순교록",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:15"
   },
   {
    "kind": "BOOK",
@@ -1166,9 +1166,9 @@
    "variant": "ORIGINAL",
    "note": "",
    "title": "폴리캅 — 빌립보 교회 서신 + 순교록",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:15"
   },
   {
    "kind": "BOOK",
@@ -1254,9 +1254,9 @@
    "variant": "ORIGINAL",
    "note": "",
    "title": "In His Steps",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:15"
   },
   {
    "kind": "BOOK",
@@ -1265,9 +1265,9 @@
    "variant": "ORIGINAL",
    "note": "",
    "title": "The Christian's Secret of a Happy Life",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:15"
   },
   {
    "kind": "BOOK",
@@ -1287,9 +1287,9 @@
    "variant": "ORIGINAL",
    "note": "",
    "title": "All of Grace",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:15"
   },
   {
    "kind": "BOOK",
@@ -1320,9 +1320,9 @@
    "variant": "ORIGINAL",
    "note": "",
    "title": "Morning and Evening",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:15"
   },
   {
    "kind": "BOOK",
@@ -1375,9 +1375,9 @@
    "variant": "TRANSLATED",
    "note": "",
    "title": "Morning and Evening",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:15"
   },
   {
    "kind": "BOOK",
@@ -1430,9 +1430,9 @@
    "variant": "ORIGINAL",
    "note": "",
    "title": "The Soul Winner",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:15"
   },
   {
    "kind": "BOOK",
@@ -1441,9 +1441,9 @@
    "variant": "ORIGINAL",
    "note": "",
    "title": "The Treasury of David — Psalm Introductions",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:15"
   },
   {
    "kind": "BOOK",
@@ -1452,9 +1452,9 @@
    "variant": "TRANSLATED",
    "note": "",
    "title": "The Treasury of David — Psalm Introductions",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:15"
   },
   {
    "kind": "BOOK",
@@ -1485,9 +1485,9 @@
    "variant": "ORIGINAL",
    "note": "",
    "title": "The Story of the Other Wise Man",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:16"
   },
   {
    "kind": "BOOK",
@@ -1573,9 +1573,9 @@
    "variant": "ORIGINAL",
    "note": "",
    "title": "The Westminster Confession of Faith",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:16"
   },
   {
    "kind": "BOOK",
@@ -1595,9 +1595,9 @@
    "variant": "TRANSLATED",
    "note": "",
    "title": "The Westminster Confession of Faith",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:16"
   },
   {
    "kind": "COMM",
@@ -1804,9 +1804,9 @@
    "variant": "-",
    "note": "",
    "title": "The Pulpit Commentary",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:18"
   },
   {
    "kind": "COMM",
@@ -1870,9 +1870,9 @@
    "variant": "-",
    "note": "환경설정 양식(sys_pref_preset) 코어 표 추가",
    "title": "앱 기본 자료(연결·목록·껍데기)",
-   "version": 94,
+   "version": 97,
    "bytes": 10623966,
-   "made_at": "2026-11-25 13:35"
+   "made_at": "2026-11-26 12:20"
   },
   {
    "kind": "DESC",
@@ -2299,9 +2299,9 @@
    "variant": "-",
    "note": "",
    "title": "Easton's Bible Dictionary",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:19"
   },
   {
    "kind": "DICT",
@@ -2332,9 +2332,9 @@
    "variant": "-",
    "note": "",
    "title": "Luther's Small Catechism",
-   "version": 2,
+   "version": 3,
    "bytes": 8803,
-   "made_at": "2026-09-04 19:00"
+   "made_at": "2026-11-26 12:19"
   },
   {
    "kind": "DICT",
@@ -2343,9 +2343,9 @@
    "variant": "-",
    "note": "",
    "title": "Smith's Bible Dictionary",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:19"
   },
   {
    "kind": "DICT",
@@ -2387,9 +2387,9 @@
    "variant": "-",
    "note": "",
    "title": "Bible Study Notes",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:19"
   },
   {
    "kind": "DICT",
@@ -2486,9 +2486,9 @@
    "variant": "-",
    "note": "",
    "title": "What the Bible Teaches",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:19"
   },
   {
    "kind": "DICT",
@@ -2585,9 +2585,9 @@
    "variant": "-",
    "note": "",
    "title": "Abbott-Smith 헬라 사전",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:19"
   },
   {
    "kind": "LEX",
@@ -2596,9 +2596,9 @@
    "variant": "-",
    "note": "",
    "title": "BDB 히브리 사전",
-   "version": 1,
+   "version": 4,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 17:26"
   },
   {
    "kind": "LEX",
@@ -2618,9 +2618,9 @@
    "variant": "-",
    "note": "",
    "title": "Thayer 헬라 사전",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:19"
   },
   {
    "kind": "LINK",
@@ -2628,7 +2628,7 @@
    "lang": "-",
    "variant": "-",
    "note": "",
-   "title": "영상 연결 — 승인된 영상 주소 128,188편과 그 연결",
+   "title": "영상 연결 — 승인된 영상 주소 132,686편과 그 연결",
    "version": 1,
    "bytes": 13512056,
    "made_at": "2026-11-03 08:08"
@@ -2640,9 +2640,9 @@
    "variant": "ORIGINAL",
    "note": "",
    "title": "Selected Sermons of Jonathan Edwards",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:19"
   },
   {
    "kind": "SERMON",
@@ -2651,9 +2651,9 @@
    "variant": "SUMMARY",
    "note": "",
    "title": "Selected Sermons of Jonathan Edwards",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:19"
   },
   {
    "kind": "SERMON",
@@ -2662,9 +2662,9 @@
    "variant": "ORIGINAL",
    "note": "",
    "title": "Sermons on Important Subjects",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:19"
   },
   {
    "kind": "SERMON",
@@ -2673,9 +2673,9 @@
    "variant": "SUMMARY",
    "note": "",
    "title": "Sermons on Important Subjects",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:19"
   },
   {
    "kind": "SERMON",
@@ -2815,7 +2815,7 @@
    "lang": "EN",
    "variant": "ORIGINAL",
    "note": "",
-   "title": "Metropolitan Tabernacle Pulpit — Selected Sermons · 그 밖(목회 서신·예배)",
+   "title": "Metropolitan Tabernacle Pulpit — Selected Sermons · 기타(목회 서신·예배)",
    "version": 2,
    "bytes": null,
    "made_at": "2026-11-25 00:02"
@@ -2826,7 +2826,7 @@
    "lang": "EN",
    "variant": "SUMMARY",
    "note": "",
-   "title": "Metropolitan Tabernacle Pulpit — Selected Sermons · 그 밖(목회 서신·예배)",
+   "title": "Metropolitan Tabernacle Pulpit — Selected Sermons · 기타(목회 서신·예배)",
    "version": 2,
    "bytes": null,
    "made_at": "2026-11-03 16:26"
@@ -2904,9 +2904,9 @@
    "variant": "ORIGINAL",
    "note": "",
    "title": "Forty-Four Sermons (Standard Sermons)",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:20"
   },
   {
    "kind": "SERMON",
@@ -2915,9 +2915,9 @@
    "variant": "SUMMARY",
    "note": "",
    "title": "Forty-Four Sermons (Standard Sermons)",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:20"
   },
   {
    "kind": "SERMON",
@@ -2926,9 +2926,9 @@
    "variant": "ORIGINAL",
    "note": "",
    "title": "Select Sermons of George Whitefield",
-   "version": 1,
+   "version": 2,
    "bytes": null,
-   "made_at": null
+   "made_at": "2026-11-26 12:20"
   },
   {
    "kind": "SERMON",
@@ -2940,6 +2940,14 @@
    "version": 2,
    "bytes": null,
    "made_at": "2026-11-03 16:26"
+  }
+ ],
+ "core": [
+  {
+   "cycle": "BIANNUAL",
+   "file": "corepack_BIANNUAL.json.gz",
+   "release": 97,
+   "bytes": 34427106
   }
  ]
 }
