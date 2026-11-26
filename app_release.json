@@ -1,12 +1,12 @@
 {
- "version": "2026.11.26.4",
- "date": "2026-11-26 12:11",
- "notes": "고쳐진 곳: AI 대화 · 설정 · 기타 개선",
+ "version": "2026.11.26.5",
+ "date": "2026-11-26 17:32",
+ "notes": "고쳐진 곳: AI 대화 · 성경 · 서재 · 둘러보기 · 설정 · 기타 개선",
  "pc": {
-  "version": "2026.11.26.4",
-  "file": "app_pc_2026.11.26.4_3db3b1b6.zip",
-  "sha256": "3db3b1b6086d66b4de140562d3d272762a02ca5791763291a8c5f5ec5bd10efb",
-  "size": 28120783,
+  "version": "2026.11.26.5",
+  "file": "app_pc_2026.11.26.5_0a7ebafb.zip",
+  "sha256": "0a7ebafbfb87e60bfd02d47068db5fe020cd1c0503dac9b15cdebb4963d5b6b7",
+  "size": 28120871,
   "areas": [
    [
     "UPD_A_ETC",
@@ -15,16 +15,28 @@
   ]
  },
  "android": {
-  "version": "2026.11.26.4",
-  "code": 2026112604,
-  "file": "app_android_2026.11.26.4_7eb7aabb.apk",
-  "sha256": "7eb7aabb0c36711d2631525e03e94b96edc08cf3e9f9e9b8b25b2e0bbc8e970f",
-  "size": 35427518,
-  "url": "https://dist.asahdabar.com/app_android_2026.11.26.4_7eb7aabb.apk",
+  "version": "2026.11.26.5",
+  "code": 2026112605,
+  "file": "app_android_2026.11.26.5_7f259ef1.apk",
+  "sha256": "7f259ef16301ccfffaff3c6394c91f7e3eb57dc991f74f3fcbd51463ae550da9",
+  "size": 35427514,
+  "url": "https://dist.asahdabar.com/app_android_2026.11.26.5_7f259ef1.apk",
   "areas": [
    [
     "M_TAB_AI",
     "AI 대화"
+   ],
+   [
+    "M_TAB_BIBLE",
+    "성경"
+   ],
+   [
+    "M_LIBRARY",
+    "서재"
+   ],
+   [
+    "M_EXPLORE",
+    "둘러보기"
    ],
    [
     "M_SETTINGS",
@@ -36,5 +48,5 @@
    ]
   ]
  },
- "sig": "68166c5b1d7d9f02da06d6a50511e5fd0ab55564425e29a37bee35d88ef3590df21e9909e981e217760a3c4ca9da6a6e37721439adc130b303bd4436f1cc1b0c"
+ "sig": "3d553f2bee4498a50a0c5d01661c199f562117aa9394562d530d79f5d6e6a33c4f29718c1cb6aec75490f7f8f41b020c56554e946d76af37a44b63ee1d633f00"
 }
