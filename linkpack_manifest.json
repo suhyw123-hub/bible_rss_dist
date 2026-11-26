@@ -2941,13 +2941,5 @@
    "bytes": null,
    "made_at": "2026-11-03 16:26"
   }
- ],
- "core": [
-  {
-   "cycle": "BIANNUAL",
-   "file": "corepack_BIANNUAL.json.gz",
-   "release": 97,
-   "bytes": 34427106
-  }
  ]
 }
