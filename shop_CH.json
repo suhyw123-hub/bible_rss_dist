@@ -1628,6 +1628,248 @@
  "menus_of": "*",
  "pnews": [
   {
+   "d": "2026-11-26",
+   "k": "OTHER",
+   "l": "JA",
+   "s": "クリスチャントゥデイ",
+   "t": "聖書原語への招き─霊に燃え、主に仕えるために（２１）タラントのたとえによる「主からの不思議な活」 白畑司",
+   "u": "https://www.christiantoday.co.jp/articles/36525/20261126/invitation-to-bible-original-languages-21.htm",
+   "z": [
+    "GREECE"
+   ]
+  },
+  {
+   "d": "2026-11-26",
+   "k": "OTHER",
+   "l": "DE",
+   "s": "Israelnetz",
+   "t": "Gestohlene Kette online angeboten: Polizei kommt Dieb auf die Spur",
+   "u": "https://www.israelnetz.com/gestohlene-kette-online-angeboten-polizei-kommt-dieb-auf-die-spur/",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-26",
+   "k": "OTHER",
+   "l": "DE",
+   "s": "Israelnetz",
+   "t": "Nach Lkw-Brand mit vielen Toten in Ägypten: Abbas kondoliert Präsident Al-Sisi",
+   "u": "https://www.israelnetz.com/nach-lkw-brand-mit-vielen-toten-in-aegypten-abbas-kondoliert-praesident-al-sisi/",
+   "z": [
+    "EGYPT"
+   ]
+  },
+  {
+   "d": "2026-11-26",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Christian Media Center (Holy Land)",
+   "t": "Cardinal Gugerotti in the Holy Land: visits and meetings with the «living stones»",
+   "u": "https://cmc-terrasanta.org/en/media/news/41914/cardinal-gugerotti-in-the-holy-land:-visits-and-meetings-with-the-«living-stones»",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-26",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Christian Media Center (Holy Land)",
+   "t": "450 young people celebrate the feast of Christ the King",
+   "u": "https://cmc-terrasanta.org/en/media/news/41904/450-young-people-celebrate-the-feast-of-christ-the-king",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-26",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Daily Sabah — Türkiye",
+   "t": "Istanbul seeks public support to shelter people as cold sets in",
+   "u": "https://www.dailysabah.com/turkiye/istanbul-seeks-public-support-to-shelter-people-as-cold-sets-in/news",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-26",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Daily Sabah — Türkiye",
+   "t": "COP31 reveals how climate risks outpace global action",
+   "u": "https://www.dailysabah.com/turkiye/cop31-reveals-how-climate-risks-outpace-global-action/news",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-26",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "Daily Sabah — Türkiye",
+   "t": "Yeşilay challenges addiction culture with smoke-free Istanbul cafe",
+   "u": "https://www.dailysabah.com/turkiye/yesilay-challenges-addiction-culture-with-smoke-free-istanbul-cafe/news",
+   "z": [
+    "ASIA_MINOR"
+   ]
+  },
+  {
+   "d": "2026-11-26",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "JNS",
+   "t": "AJC CEO slams NBC for allowing anti-Israel ad to run during 'SNL'",
+   "u": "https://www.jns.org/news/u-s-news/ajc-ceo-slams-nbc-for-allowing-anti-israel-ad-to-run-during-snl",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-26",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "JNS",
+   "t": "Israel marks 18th anniversary of Mumbai terrorist attacks",
+   "u": "https://www.jns.org/news/world/israel-marks-18th-anniversary-of-mumbai-terrorist-attacks",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-26",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "JNS",
+   "t": "Palestinian man from Hebron to be charged with murder threats to Israeli ministers",
+   "u": "https://www.jns.org/news/israel-news/palestinian-man-from-hebron-to-be-charged-of-murder-threats-to-israeli-ministers",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-26",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "JNS",
+   "t": "Israel says it stands with India on 18th anniversary of Mumbai terror attacks",
+   "u": "https://www.jns.org/news/world/israel-says-it-stands-with-india-on-18th-anniversary-of-mumbai-terror-attacks",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-26",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "JNS",
+   "t": "Blaming the victims",
+   "u": "https://www.jns.org/opinion/column/melanie-phillips/blaming-the-victims",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-26",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "JNS",
+   "t": "Flydubai resuming flights to Israel",
+   "u": "https://www.jns.org/flydubai-resuming-flights-to-israel",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-26",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "JNS",
+   "t": "El Al to begin Israel-Argentina flights with record 16-hour journey",
+   "u": "https://www.jns.org/el-al-to-begin-israel-argentina-flights-with-record-16-hour-journey",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-26",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "JNS",
+   "t": "Israel says defense export approval times cut",
+   "u": "https://www.jns.org/news/israel-news/israel-says-defense-export-approval-times-cut",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-26",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "JNS",
+   "t": "Israeli women begin professional firearms training in Judea and Samaria",
+   "u": "https://www.jns.org/news/israel-news/israeli-women-begin-professional-firearms-training-in-judea-and-samaria",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-26",
+   "k": "OTHER",
+   "l": "EN",
+   "s": "JNS",
+   "t": "Is hatred of Netanyahu costing Israel a unity government?",
+   "u": "https://www.jns.org/jns-tv/meira-k-show/is-hatred-of-netanyahu-costing-israel-a-unity-government",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-26",
+   "k": "OTHER",
+   "l": "KO",
+   "s": "크리스천투데이",
+   "t": "갈릴리소명교회, 11월 27~28일 고영순 원장 초청 치유전도 부흥성회",
+   "u": "https://www.christiantoday.co.kr/news/378893",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-26",
+   "k": "OTHER",
+   "l": "KO",
+   "s": "기독일보 : Top News",
+   "t": "갈릴리소명교회, 고영순 원장 초청 치유전도 부흥성회 개최",
+   "u": "https://www.christiandaily.co.kr/news/168038",
+   "z": [
+    "HOLY"
+   ]
+  },
+  {
+   "d": "2026-11-26",
+   "k": "OTHER",
+   "l": "KO",
+   "s": "데일리굿뉴스",
+   "t": "이집트 카이로 순환고속도로서 유조차 충돌 화재…최소 30명 사망",
+   "u": "https://www.goodnews1.com/news/articleView.html?idxno=466663",
+   "z": [
+    "EGYPT"
+   ]
+  },
+  {
+   "d": "2026-11-26",
+   "k": "OTHER",
+   "l": "KO",
+   "s": "기독일보 : Top News",
+   "t": "UBF, 로마에서 9주간 예배 드리고 학생들 성경공부 초청",
+   "u": "https://www.christiandaily.co.kr/news/168097",
+   "z": [
+    "EUROPE"
+   ]
+  },
+  {
    "d": "2026-11-25",
    "k": "OTHER",
    "l": "DE",
@@ -3588,250 +3830,6 @@
    "u": "https://www.infochretienne.com/articles/le-pape-conclut-sa-tournee-et-rentre-a-rome-poursuivre-sa-mission/",
    "z": [
     "EUROPE"
-   ]
-  },
-  {
-   "d": "2026-11-17",
-   "k": "PILGRIM",
-   "l": "KO",
-   "s": "기독일보 : Top News",
-   "t": "이스라엘관광청 ‘2026 이스라엘 파트너 송년회’ 개최",
-   "u": "https://www.christiandaily.co.kr/news/167493",
-   "z": [
-    "HOLY"
-   ]
-  },
-  {
-   "d": "2026-11-17",
-   "k": "OTHER",
-   "l": "KO",
-   "s": "기독일보 : Top News",
-   "t": "요르단 정교회 장례식장 총격 사건… 용의자 3명 사형 선고",
-   "u": "https://www.christiandaily.co.kr/news/167479",
-   "z": [
-    "JORDAN"
-   ]
-  },
-  {
-   "d": "2026-11-17",
-   "k": "PILGRIM",
-   "l": "KO",
-   "s": "당당뉴스 - 전체기사",
-   "t": "이스라엘관광청, ‘2026 이스라엘 파트너 송년회' 개최… 2027년 한국 시장 마케팅 계획 발표",
-   "u": "https://www.dangdangnews.com/news/articleView.html?idxno=53963",
-   "z": [
-    "HOLY"
-   ]
-  },
-  {
-   "d": "2026-11-17",
-   "k": "OTHER",
-   "l": "KO",
-   "s": "기독교타임즈",
-   "t": "[카이로스] 목동으로 바로서기",
-   "u": "https://www.kmctimes.com/news/articleView.html?idxno=60749",
-   "z": [
-    "EGYPT"
-   ]
-  },
-  {
-   "d": "2026-11-17",
-   "k": "OTHER",
-   "l": "KO",
-   "s": "기독교타임즈",
-   "t": "이스라엘 두 지파의 이집트인 어머니, 아스낫",
-   "u": "https://www.kmctimes.com/news/articleView.html?idxno=60745",
-   "z": [
-    "HOLY",
-    "EGYPT"
-   ]
-  },
-  {
-   "d": "2026-11-17",
-   "k": "OTHER",
-   "l": "EN",
-   "s": "RNS » Feed",
-   "t": "Palestinian Christians press US lawmakers to address violence in the West Bank and Gaza",
-   "u": "https://religionnews.com/2026/11/17/in-dc-palestinian-christians-and-their-allies-push-lawmakers/",
-   "z": [
-    "HOLY"
-   ]
-  },
-  {
-   "d": "2026-11-17",
-   "k": "OTHER",
-   "l": "EN",
-   "s": "Christian Daily International",
-   "t": "Christianity began in the Middle East and continues unbroken in Nazareth",
-   "u": "https://www.christiandaily.com/news/christianity-in-middle-east-continues-unbroken-in-nazareth",
-   "z": [
-    "HOLY"
-   ]
-  },
-  {
-   "d": "2026-11-17",
-   "k": "OTHER",
-   "l": "EN",
-   "s": "Christian Daily International",
-   "t": "Death penalty for church attack killers in Jordan faces obstacles",
-   "u": "https://www.christiandaily.com/news/death-penalty-for-church-attack-killers-in-jordan-faces-obstacles",
-   "z": [
-    "JORDAN"
-   ]
-  },
-  {
-   "d": "2026-11-16",
-   "k": "OTHER",
-   "l": "DE",
-   "s": "Israelnetz",
-   "t": "Israelis gewinnen drei Medaillen bei Jugendspielen in Dakar",
-   "u": "https://www.israelnetz.com/israelis-gewinnen-drei-medaillen-bei-jugendspielen-in-dakar/",
-   "z": [
-    "HOLY"
-   ]
-  },
-  {
-   "d": "2026-11-16",
-   "k": "OTHER",
-   "l": "DE",
-   "s": "Israelnetz",
-   "t": "Jordanien verhaftet Israeli, der Richtung Grenze schwamm",
-   "u": "https://www.israelnetz.com/jordanien-verhaftet-israeli-der-richtung-grenze-schwamm/",
-   "z": [
-    "HOLY",
-    "JORDAN"
-   ]
-  },
-  {
-   "d": "2026-11-16",
-   "k": "OTHER",
-   "l": "DE",
-   "s": "Israelnetz",
-   "t": "Ehemalige Geisel heiratet drei Jahre nach Freilassung",
-   "u": "https://www.israelnetz.com/ehemalige-geisel-heiratet-drei-jahre-nach-freilassung/",
-   "z": [
-    "HOLY"
-   ]
-  },
-  {
-   "d": "2026-11-16",
-   "k": "OTHER",
-   "l": "DE",
-   "s": "Israelnetz",
-   "t": "Mit 102 Jahren: Fallschirmsprung für Soldaten",
-   "u": "https://www.israelnetz.com/mit-102-jahren-fallschirmsprung-fuer-soldaten/",
-   "z": [
-    "HOLY"
-   ]
-  },
-  {
-   "d": "2026-11-16",
-   "k": "OTHER",
-   "l": "DE",
-   "s": "Israelnetz",
-   "t": "Israelischer Arzt rettet Lufthansa-Flugbegleiter das Leben",
-   "u": "https://www.israelnetz.com/israelischer-arzt-rettet-lufthansa-flugbegleiter-das-leben/",
-   "z": [
-    "HOLY"
-   ]
-  },
-  {
-   "d": "2026-11-16",
-   "k": "OTHER",
-   "l": "EN",
-   "s": "Daily Sabah — Türkiye",
-   "t": "COP31 draws record crowds as summit enters final days",
-   "u": "https://www.dailysabah.com/turkiye/cop31-draws-record-crowds-as-summit-enters-final-days/news",
-   "z": [
-    "ASIA_MINOR"
-   ]
-  },
-  {
-   "d": "2026-11-16",
-   "k": "OTHER",
-   "l": "EN",
-   "s": "Daily Sabah — Türkiye",
-   "t": "Nearly 59M ID cards, licenses expire in Türkiye by 2031",
-   "u": "https://www.dailysabah.com/turkiye/nearly-59m-id-cards-licenses-expire-in-turkiye-by-2031/news",
-   "z": [
-    "ASIA_MINOR"
-   ]
-  },
-  {
-   "d": "2026-11-16",
-   "k": "OTHER",
-   "l": "EN",
-   "s": "Daily Sabah — Türkiye",
-   "t": "Turkish students turn waste into music at COP31",
-   "u": "https://www.dailysabah.com/turkiye/turkish-students-turn-waste-into-music-at-cop31/news",
-   "z": [
-    "ASIA_MINOR"
-   ]
-  },
-  {
-   "d": "2026-11-16",
-   "k": "OTHER",
-   "l": "EN",
-   "s": "Daily Sabah — Türkiye",
-   "t": "COP31’s first week ends, here is what you need to know",
-   "u": "https://www.dailysabah.com/turkiye/cop31s-first-week-ends-here-is-what-you-need-to-know/news",
-   "z": [
-    "ASIA_MINOR"
-   ]
-  },
-  {
-   "d": "2026-11-16",
-   "k": "ARCH",
-   "l": "EN",
-   "s": "Archaeology Magazine",
-   "t": "Souvenir Collection May Have Begun 500,000 Years Ago",
-   "u": "https://archaeology.org/news/2026/11/16/souvenir-collection-may-have-begun-500000-years-ago/",
-   "z": [
-    "HOLY"
-   ]
-  },
-  {
-   "d": "2026-11-16",
-   "k": "ARCH",
-   "l": "EN",
-   "s": "Archaeology Magazine",
-   "t": "Natufian Clay Figurines Dated to 15,000 Years Ago",
-   "u": "https://archaeology.org/news/2026/11/16/natufian-clay-figurines-dated-to-15000-years-ago/",
-   "z": [
-    "HOLY"
-   ]
-  },
-  {
-   "d": "2026-11-16",
-   "k": "OTHER",
-   "l": "KO",
-   "s": "크리스천투데이",
-   "t": "요르단 법원, 교회 장례식장 총격 살해 피고인 3명에 사형 선고",
-   "u": "https://www.christiantoday.co.kr/news/378651",
-   "z": [
-    "JORDAN"
-   ]
-  },
-  {
-   "d": "2026-11-16",
-   "k": "OTHER",
-   "l": "FR",
-   "s": "Info Chrétienne Flux",
-   "t": "Jordanie : trois hommes condamnés à mort pour l'attaque contre une église",
-   "u": "https://www.infochretienne.com/articles/jordanie-trois-hommes-condamnes-a-mort-pour-lattaque-contre-une-eglise/",
-   "z": [
-    "JORDAN"
-   ]
-  },
-  {
-   "d": "2026-11-16",
-   "k": "OTHER",
-   "l": "EN",
-   "s": "Christian Daily International",
-   "t": "In Cairo, Christian women leaders explore what it means to lead in the 'wilderness'",
-   "u": "https://www.christiandaily.com/news/in-cairo-christian-women-explore-leading-in-the-wilderness",
-   "z": [
-    "EGYPT"
    ]
   }
  ],
