@@ -1,13 +1,17 @@
 {
- "version": "2026.11.26.6",
- "date": "2026-11-26 22:28",
- "notes": "고쳐진 곳: 성경 · 홈 · 기타 개선",
+ "version": "2026.11.27.1",
+ "date": "2026-11-27 14:29",
+ "notes": "고쳐진 곳: 쇼핑 · AI 대화 · 기도 노트 · 암송 · 때에 맞는 말씀 · 성경 · 서재 · 최신 · 둘러보기 · 설정 · 기타 개선 · 도서·설교",
  "pc": {
-  "version": "2026.11.26.6",
-  "file": "app_pc_2026.11.26.6_43c5f782.zip",
-  "sha256": "43c5f782cae19b1f005d34a8c72977d39999da41de07063fd43ba720aa7c5a2b",
-  "size": 28731962,
+  "version": "2026.11.27.1",
+  "file": "app_pc_2026.11.27.1_014c5e3d.zip",
+  "sha256": "014c5e3d4f775ffd379babab7aee642bff0265babcb225e2cf8c75221cbadb9d",
+  "size": 28743648,
   "areas": [
+   [
+    "UPD_A_BOOK",
+    "도서·설교"
+   ],
    [
     "UPD_A_ETC",
     "기타 개선"
@@ -15,20 +19,52 @@
   ]
  },
  "android": {
-  "version": "2026.11.26.6",
-  "code": 2026112606,
-  "file": "app_android_2026.11.26.6_7359c354.apk",
-  "sha256": "7359c354dffc305c9188da924f886dee0afd88142312668e9b61e5ecf8b4feb6",
-  "size": 35507050,
-  "url": "https://dist.asahdabar.com/app_android_2026.11.26.6_7359c354.apk",
+  "version": "2026.11.27.1",
+  "code": 2026112701,
+  "file": "app_android_2026.11.27.1_f68a450a.apk",
+  "sha256": "f68a450aeb0482bec127ef99825be5c6234f9c1a697a6b8b3b1d68a03966683b",
+  "size": 35638126,
+  "url": "https://dist.asahdabar.com/app_android_2026.11.27.1_f68a450a.apk",
   "areas": [
+   [
+    "M_TAB_SHOP2",
+    "쇼핑"
+   ],
+   [
+    "M_TAB_AI",
+    "AI 대화"
+   ],
+   [
+    "M_PR_TITLE",
+    "기도 노트"
+   ],
+   [
+    "M_MEMO_TITLE",
+    "암송"
+   ],
+   [
+    "UPD_A_TOPIC",
+    "때에 맞는 말씀"
+   ],
    [
     "M_TAB_BIBLE",
     "성경"
    ],
    [
-    "M_TAB_HOME",
-    "홈"
+    "M_LIBRARY",
+    "서재"
+   ],
+   [
+    "M_TAB_LATEST",
+    "최신"
+   ],
+   [
+    "M_EXPLORE",
+    "둘러보기"
+   ],
+   [
+    "M_SETTINGS",
+    "설정"
    ],
    [
     "UPD_A_ETC",
@@ -36,5 +72,5 @@
    ]
   ]
  },
- "sig": "926669738fd6c07dd12afeffa12b33d6feae691da2628d8e218121a5bd64fcbb8cc45822ffc868bfe9237ccd5572e2f2acbb30d423906d6ab88d593264702505"
+ "sig": "9401ebbc91356ef51b9af5af6ce66bd47efbcab6ad1f2eed7ce71142ba4bebff4a02b853039b2412ce5d024e2ddad6d5b047812a365a569606bb6127528ce404"
 }
